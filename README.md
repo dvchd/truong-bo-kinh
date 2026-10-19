@@ -42,7 +42,7 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 | **30** | **Kinh Ba Mươi Hai Tướng** | *Lakkhaṇa Sutta* | ✅ **Hoàn thành** → [`30-kinh-tuong-lakkhana/`](30-kinh-tuong-lakkhana/) |
 | **31** | **Kinh Giáo Thọ Thi-la-ca** | *Siṅgāla Sutta* | ✅ **Hoàn thành** → [`31-kinh-giao-tho/`](31-kinh-giao-tho/) |
 | **32** | **Kinh A-sát-nẵng-chi** | *Āṭānāṭiya Sutta* | ✅ **Hoàn thành** → [`32-kinh-a-sat-nang/`](32-kinh-a-sat-nang/) |
-| 33 | Kinh Chúng Tập | *Saṅgīti Sutta* | ⏳ Chưa bắt đầu |
+| **33** | **Kinh Đại Chung** | *Saṅgīti Sutta* | ✅ **Hoàn thành** → [`33-kinh-dai-chung/`](33-kinh-dai-chung/) |
 | 34 | Kinh Thập Thượng | *Dasuttara Sutta* | ⏳ Chưa bắt đầu |
 
 > **Quy ước thư mục:** mỗi bài nằm trong một thư mục `NN-ten-bai`, với `NN` là số thứ tự
@@ -286,6 +286,8 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 │
 ├── 32-kinh-a-sat-nang/         ← Bài kinh số 32: Kinh A-sát-nẵng-chi  ✅
 │
+├── 33-kinh-dai-chung/          ← Bài kinh số 33: Kinh Đại Chung  ✅
+│
 ├── HUONG-DAN-CHUNG.md          ← quy chuẩn dịch chung cho cả 34 bài
 │
 ├── cong-cu/
@@ -334,6 +336,7 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 | 30 | **Kinh Ba Mươi Hai Tướng** | [`30-kinh-tuong-lakkhana/Kinh-Tuong-Lakkhana.md`](30-kinh-tuong-lakkhana/Kinh-Tuong-Lakkhana.md) | 721 đoạn · 20.696 từ |
 | 31 | **Kinh Giáo Thọ Thi-la-ca** | [`31-kinh-giao-tho/Kinh-Giao-Tho.md`](31-kinh-giao-tho/Kinh-Giao-Tho.md) | 267 đoạn · 7.062 từ |
 | 32 | **Kinh A-sát-nẵng-chi** | [`32-kinh-a-sat-nang/Kinh-A-Sat-Nang.md`](32-kinh-a-sat-nang/Kinh-A-Sat-Nang.md) | 574 đoạn · 10.829 từ |
+| 33 | **Kinh Đại Chung** | [`33-kinh-dai-chung/Kinh-Dai-Chung.md`](33-kinh-dai-chung/Kinh-Dai-Chung.md) | 1.167 đoạn · 33.439 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
 
