@@ -23,7 +23,7 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 | **11** | **Kinh Kevaddha** | *Kevaṭṭa Sutta* | ✅ **Hoàn thành** → [`11-kinh-kevaddha/`](11-kinh-kevaddha/) |
 | **12** | **Kinh Lohicca** | *Lohicca Sutta* | ✅ **Hoàn thành** → [`12-kinh-lohicca/`](12-kinh-lohicca/) |
 | **13** | **Kinh Ba Minh** | *Tevijja Sutta* | ✅ **Hoàn thành** → [`13-kinh-tam-minh/`](13-kinh-tam-minh/) |
-| 14 | Kinh Đại Bổn | *Mahāpadāna Sutta* | ⏳ Chưa bắt đầu |
+| **14** | **Kinh Đại Bổn** | *Mahāpadāna Sutta* | ✅ **Hoàn thành** → [`14-kinh-dai-bon/`](14-kinh-dai-bon/) |
 | 15 | Kinh Đại Duyên | *Mahānidāna Sutta* | ⏳ Chưa bắt đầu |
 | 16 | Kinh Đại Bát Niết-bàn | *Mahāparinibbāna Sutta* | ⏳ Chưa bắt đầu |
 | 17 | Kinh Đại Thiện Kiến | *Mahāsudassana Sutta* | ⏳ Chưa bắt đầu |
@@ -207,12 +207,18 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 │   ├── ban-dich/
 │   └── nguon/
 │
+├── 14-kinh-dai-bon/            ← Bài kinh số 14: Kinh Đại Bổn  ✅
+│   ├── Kinh-Dai-Bon.md         ← BẢN DỊCH HOÀN CHỈNH (đọc tệp này)
+│   ├── README.md · GHI-CHU-BAI.md
+│   ├── ban-dich/
+│   └── nguon/
+│
 ├── HUONG-DAN-CHUNG.md          ← quy chuẩn dịch chung cho cả 34 bài
 │
 ├── cong-cu/
 │   └── tao-bai.py              ← dựng khung một bài mới (nguồn + script + thư mục)
 │
-└── 14-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
+└── 15-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
 ```
 
 ---
@@ -236,6 +242,7 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 | 11 | **Kinh Kevaddha** | [`11-kinh-kevaddha/Kinh-Kevaddha.md`](11-kinh-kevaddha/Kinh-Kevaddha.md) | 199 đoạn · 17.513 từ |
 | 12 | **Kinh Lohicca** | [`12-kinh-lohicca/Kinh-Lohicca.md`](12-kinh-lohicca/Kinh-Lohicca.md) | 189 đoạn · 15.485 từ |
 | 13 | **Kinh Ba Minh** | [`13-kinh-tam-minh/Kinh-Tam-Minh.md`](13-kinh-tam-minh/Kinh-Tam-Minh.md) | 280 đoạn · 11.104 từ |
+| 14 | **Kinh Đại Bổn** | [`14-kinh-dai-bon/Kinh-Dai-Bon.md`](14-kinh-dai-bon/Kinh-Dai-Bon.md) | 851 đoạn · 32.186 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
 
