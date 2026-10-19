@@ -79,5 +79,7 @@ và ghi nhận rằng học giả chưa thống nhất*.
   trên bản dịch trong kho này bằng các script trong `cong-cu/`, không lấy từ nguồn thứ cấp.
 - **Kinh điển dẫn chiếu trong sổ tay**: mọi trích dẫn đều có thể tra bằng số hiệu đoạn `dnN:x.y`
   trong bản dịch.
+- **Ghi chú học giả**: các đoạn đánh dấu "Chú giải" trong [`04-cho-kho.md`](04-cho-kho.md) là bản dịch
+  tóm lược ghi chú của Bhikkhu Sujato trên SuttaCentral, tại đúng đoạn được nhắc.
 
 Nếu bạn phát hiện một chỗ sai, xin mở issue trên kho — sổ tay này là tài liệu sống.

@@ -79,7 +79,7 @@ bốn tài liệu hỗ trợ:
 | [`so-tay/01-cong-thuc-lap-lai.md`](so-tay/01-cong-thuc-lap-lai.md) | Nhận ra các đoạn lặp và hiểu vì sao chúng lặp |
 | [`so-tay/02-ban-do-lien-ket.md`](so-tay/02-ban-do-lien-ket.md) | Thấy bài nào liên quan bài nào (có số liệu đo được) |
 | [`so-tay/03-thuat-ngu.md`](so-tay/03-thuat-ngu.md) | Tra thuật ngữ, hiểu tám khái niệm khó nhất |
-| [`so-tay/04-cho-kho.md`](so-tay/04-cho-kho.md) | Bảy đoạn khó hiểu nhất, giải thích kèm số hiệu đoạn |
+| [`so-tay/04-cho-kho.md`](so-tay/04-cho-kho.md) | Mười đoạn khó hiểu nhất, giải thích kèm ghi chú học giả |
 | [`so-tay/05-mau-thuan.md`](so-tay/05-mau-thuan.md) | Năm chỗ các bài có vẻ nói khác nhau |
 | [`so-tay/07-theo-tung-bai.md`](so-tay/07-theo-tung-bai.md) | Bảng tra 34 bài: chỗ dễ vấp và cách đọc |
 

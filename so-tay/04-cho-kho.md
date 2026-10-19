@@ -164,6 +164,14 @@ mê tín nếu không đọc phần giải thích đi kèm.
 Mỗi hướng có **năm bổn phận của người dưới** và **năm bổn phận của người trên** — tức là quan hệ hai
 chiều, không phải một bên phục tùng.
 
+**Chú giải.** Vì sao cha mẹ lại ở hướng Đông? Ghi chú của SuttaCentral giải thích: Đông là nơi mặt trời
+mọc, tức nơi sự sống bắt đầu; thầy cô ở hướng Nam vì chữ *dakkhiṇā* vừa nghĩa "phía Nam" vừa nghĩa
+"lễ vật dâng cúng"; gia đình ở hướng Tây vì đó là nơi mặt trời lặn, tức thế hệ đi trước để lại; bạn bè
+ở hướng Bắc vì hướng ấy tượng trưng cho sự vững vàng.
+
+Ghi chú ấy cũng cho biết các sách Bà-la-môn thời ấy đã dạy dâng lễ theo sáu hướng như vậy. Bài kinh
+**giữ nguyên khung nghi lễ** nhưng đổi lễ vật thành nghĩa vụ — đó mới là điều bài kinh muốn nói.
+
 Đây là một **bản luận về đạo đức trong quan hệ**, được đóng gói bằng ẩn dụ của nghi lễ cúng tế. Kinh
 đổi lễ vật (tiền bạc, hương hoa) thành nghĩa vụ hai chiều.
 
@@ -184,6 +192,37 @@ thành một bài học về hành vi.
 
 ---
 
+## 9. Bài 23 — một cuộc tranh luận không chứng minh điều nó muốn chứng minh
+
+**Chỗ khó.** Hoàng tử Pāyāsi phủ nhận có đời sau, có quả báo của việc bố thí. Kassapa trả lời bằng
+một loạt ví dụ. Người đọc thường tưởng đó là một chứng minh chặt chẽ.
+
+**Cách hiểu.** Ghi chú của SuttaCentral thẳng thắn chỉ ra: các lập luận của Kassapa **không trực tiếp
+chứng minh** kết luận; chúng chủ yếu **bác lập luận của Pāyāsi**. Theo nguyên tắc Occam, nghĩa vụ
+chứng minh thuộc về người muốn khẳng định có đời sau.
+
+Vậy nên đọc bài này như **một cuộc tranh luận có phương pháp**, không phải như một bài chứng minh khoa
+học. Giá trị của nó nằm ở cách gỡ từng ngụy biện, và ở chỗ người nghe cuối cùng tự đổi ý.
+
+Với người đọc hiện đại, đây là bài dễ đọc nhất trong bộ — và cũng là bài khiến ta phải suy nghĩ nhiều
+nhất về giới hạn của lập luận.
+
+---
+
+## 10. Bài 26 — vị Phật tương lai xuất hiện đúng một lần
+
+**Chỗ khó.** Bài kinh nói về một vị Phật tương lai tên Metteyya. Người đọc quen với hình ảnh Đức Di-lặc
+trong Phật giáo sau này sẽ thấy lạ vì bài kinh chỉ nhắc tới ngài một lần, rất ngắn.
+
+**Cách hiểu.** Ghi chú của SuttaCentral xác nhận: đây là **chỗ duy nhất** trong bốn bộ kinh Pali nhắc
+tới vị Phật tương lai ấy (Metteyya, nghĩa là "người đầy lòng thương"). Về sau, ngài trở thành nhân vật
+lớn trong Phật giáo Đại thừa.
+
+Đọc bài 26, nên tách hai lớp: lớp **chu kỳ đạo đức** (tuổi thọ tăng giảm theo hành vi) là nội dung
+chính; còn Metteyya chỉ là một chi tiết ở phần cuối, chưa phải một tín điều.
+
+---
+
 ## Bảng tra nhanh
 
 | Bài | Đoạn khó | Từ khóa |
@@ -194,5 +233,7 @@ thành một bài học về hành vi.
 | 15 | chuỗi duyên khởi | nāmarūpa, paṭiccasamuppāda |
 | 16 | bữa ăn cuối | sūkaramaddava |
 | 22 | bốn niệm xứ | satipaṭṭhāna |
+| 23 | tranh luận về đời sau | Pāyāsi, Kassapa |
+| 26 | vị Phật tương lai | Metteyya |
 | 30 | ba mươi hai tướng | mahāpurisa, nhân quả của tướng |
 | 31 | sáu hướng | sigālovāda, đạo đức xã hội |

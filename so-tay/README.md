@@ -11,7 +11,7 @@ Sổ tay này viết để tránh điều đó.
 | [`01-cong-thuc-lap-lai.md`](01-cong-thuc-lap-lai.md) | Những đoạn văn lặp đi lặp lại, đếm bằng máy: công thức nào, ở bài nào, nghĩa là gì |
 | [`02-ban-do-lien-ket.md`](02-ban-do-lien-ket.md) | Bài nào liên quan bài nào, tỉ lệ trùng văn bản đo được, sáu nhóm bài |
 | [`03-thuat-ngu.md`](03-thuat-ngu.md) | Thuật ngữ giải bằng tiếng Việt thường; tám khái niệm khó nhất được giải thích dài |
-| [`04-cho-kho.md`](04-cho-kho.md) | Bảy đoạn khó hiểu nhất, giải thích kèm số hiệu đoạn để tra |
+| [`04-cho-kho.md`](04-cho-kho.md) | Mười đoạn khó hiểu nhất, giải thích kèm ghi chú của học giả đương đại để tra |
 | [`05-mau-thuan.md`](05-mau-thuan.md) | Năm chỗ các bài có vẻ nói khác nhau, và cách hiểu |
 | [`06-doc-them.md`](06-doc-them.md) | Chú giải truyền thống, bản dịch khác, sách học thuật, chỗ còn tranh luận |
 | [`07-theo-tung-bai.md`](07-theo-tung-bai.md) | Bảng tra 34 bài: mỗi bài một chỗ dễ vấp và cách đọc |
