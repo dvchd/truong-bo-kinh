@@ -14,7 +14,7 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 | **2** | **Kinh Sa-môn Quả** | *Sāmaññaphala Sutta* | ✅ **Hoàn thành** → [`02-kinh-sa-mon-qua/`](02-kinh-sa-mon-qua/) |
 | **3** | **Kinh Ambaṭṭha** | *Ambaṭṭha Sutta* | ✅ **Hoàn thành** → [`03-kinh-ambattha/`](03-kinh-ambattha/) |
 | **4** | **Kinh Soṇadaṇḍa** | *Soṇadaṇḍa Sutta* | ✅ **Hoàn thành** → [`04-kinh-sonadanda/`](04-kinh-sonadanda/) |
-| 5 | Kinh Kūṭadanta | *Kūṭadanta Sutta* | ⏳ Chưa bắt đầu |
+| **5** | **Kinh Kūṭadanta** | *Kūṭadanta Sutta* | ✅ **Hoàn thành** → [`05-kinh-kutadanta/`](05-kinh-kutadanta/) |
 | 6 | Kinh Mahāli | *Mahāli Sutta* | ⏳ Chưa bắt đầu |
 | 7 | Kinh Jāliya | *Jāliya Sutta* | ⏳ Chưa bắt đầu |
 | 8 | Kinh Đại Sư Tử Hống | *Mahāsīhanāda Sutta* | ⏳ Chưa bắt đầu |
@@ -121,7 +121,25 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 │   ├── ra-soat.py              ← rà soát toàn bộ
 │   └── tien-do.py
 │
-└── 05-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
+├── 05-kinh-kutadanta/          ← Bài kinh số 5: Kinh Kūṭadanta  ✅
+│   ├── Kinh-Kutadanta.md       ← BẢN DỊCH HOÀN CHỈNH (đọc tệp này)
+│   ├── README.md
+│   ├── HUONG-DAN-DICH.md       ← quy chuẩn riêng của bài
+│   ├── GHI-CHU-BAI.md          ← ghi chú cho người dịch
+│   ├── ban-dich/               ← bản dịch từng phần
+│   ├── nguon/                  ← Pali + Anh + chú thích, theo đoạn
+│   ├── ghep.py
+│   ├── tao-muc-luc.py
+│   ├── kiem-tra-marker.py
+│   ├── ra-soat.py
+│   └── tien-do.py
+│
+├── HUONG-DAN-CHUNG.md          ← quy chuẩn dịch chung cho cả 34 bài
+│
+├── cong-cu/
+│   └── tao-bai.py              ← dựng khung một bài mới (nguồn + script + thư mục)
+│
+└── 06-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
 ```
 
 ---
@@ -134,6 +152,9 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 |---|---|---|---|
 | 1 | **Kinh Phạm Võng** | [`01-kinh-pham-vong/Kinh-Pham-Vong.md`](01-kinh-pham-vong/Kinh-Pham-Vong.md) | 662 đoạn · 36.088 từ |
 | 2 | **Kinh Sa-môn Quả** | [`02-kinh-sa-mon-qua/Kinh-Sa-Mon-Qua.md`](02-kinh-sa-mon-qua/Kinh-Sa-Mon-Qua.md) | 650 đoạn · 24.531 từ |
+| 3 | **Kinh Ambaṭṭha** | [`03-kinh-ambattha/Kinh-Ambattha.md`](03-kinh-ambattha/Kinh-Ambattha.md) | — |
+| 4 | **Kinh Soṇadaṇḍa** | [`04-kinh-sonadanda/Kinh-Sonadanda.md`](04-kinh-sonadanda/Kinh-Sonadanda.md) | 297 đoạn · 13.751 từ |
+| 5 | **Kinh Kūṭadanta** | [`05-kinh-kutadanta/Kinh-Kutadanta.md`](05-kinh-kutadanta/Kinh-Kutadanta.md) | 374 đoạn · 17.366 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
 
