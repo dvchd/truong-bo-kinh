@@ -30,7 +30,7 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 | **18** | **Kinh Janavasabha** | *Janavasabha Sutta* | ✅ **Hoàn thành** → [`18-kinh-janavasabha/`](18-kinh-janavasabha/) |
 | **19** | **Kinh Đại Điển Tôn** | *Mahāgovinda Sutta* | ✅ **Hoàn thành** → [`19-kinh-dai-dien-ton/`](19-kinh-dai-dien-ton/) |
 | **20** | **Kinh Đại Hội** | *Mahāsamaya Sutta* | ✅ **Hoàn thành** → [`20-kinh-dai-hoi/`](20-kinh-dai-hoi/) |
-| 21 | Kinh Sakkapañha | *Sakkapañha Sutta* | ⏳ Chưa bắt đầu |
+| **21** | **Kinh Sakka hỏi** | *Sakkapañha Sutta* | ✅ **Hoàn thành** → [`21-kinh-sakkapanha/`](21-kinh-sakkapanha/) |
 | 22 | Kinh Đại Niệm Xứ | *Mahāsatipaṭṭhāna Sutta* | ⏳ Chưa bắt đầu |
 | 23 | Kinh Pāyāsi | *Pāyāsi Sutta* | ⏳ Chưa bắt đầu |
 | 24 | Kinh Pāṭika | *Pāṭika Sutta* | ⏳ Chưa bắt đầu |
@@ -249,12 +249,18 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 │   ├── ban-dich/
 │   └── nguon/
 │
+├── 21-kinh-sakkapanha/         ← Bài kinh số 21: Kinh Sakka hỏi  ✅
+│   ├── Kinh-Sakkapanha.md      ← BẢN DỊCH HOÀN CHỈNH (đọc tệp này)
+│   ├── README.md · GHI-CHU-BAI.md
+│   ├── ban-dich/
+│   └── nguon/
+│
 ├── HUONG-DAN-CHUNG.md          ← quy chuẩn dịch chung cho cả 34 bài
 │
 ├── cong-cu/
 │   └── tao-bai.py              ← dựng khung một bài mới (nguồn + script + thư mục)
 │
-└── 21-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
+└── 22-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
 ```
 
 ---
@@ -285,6 +291,7 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 | 18 | **Kinh Janavasabha** | [`18-kinh-janavasabha/Kinh-Janavasabha.md`](18-kinh-janavasabha/Kinh-Janavasabha.md) | 299 đoạn · 11.398 từ |
 | 19 | **Kinh Đại Điển Tôn** | [`19-kinh-dai-dien-ton/Kinh-Dai-Dien-Ton.md`](19-kinh-dai-dien-ton/Kinh-Dai-Dien-Ton.md) | 559 đoạn · 15.969 từ |
 | 20 | **Kinh Đại Hội** | [`20-kinh-dai-hoi/Kinh-Dai-Hoi.md`](20-kinh-dai-hoi/Kinh-Dai-Hoi.md) | 337 đoạn · 8.669 từ |
+| 21 | **Kinh Sakka hỏi** | [`21-kinh-sakkapanha/Kinh-Sakkapanha.md`](21-kinh-sakkapanha/Kinh-Sakkapanha.md) | 515 đoạn · 14.368 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
 
