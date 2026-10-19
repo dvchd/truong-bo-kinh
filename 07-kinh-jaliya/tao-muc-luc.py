@@ -4,9 +4,7 @@ import re, os
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 DOC = os.path.join(BASE, 'Kinh-Jaliya.md')
-START = "
-## Trường Bộ Kinh — bài kinh số 7: Kinh Jāliya
-"
+START = "\n## Trường Bộ Kinh — bài kinh số 7: Kinh Jāliya\n"
 
 def slug(t):
     t = t.strip().lower()

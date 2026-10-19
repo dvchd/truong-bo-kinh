@@ -177,7 +177,7 @@ def main():
                        ''.join(" %r,\n" % x for x in order) + "]", t, flags=re.S | re.M)
         if s == 'tao-muc-luc.py':
             t = re.sub(r'^START = .*$',
-                       r'START = "\n## Trường Bộ Kinh — bài kinh số %d: %s\n"'
+                       r'START = "\\n## Trường Bộ Kinh — bài kinh số %d: %s\\n"'
                        % (n, TITLES.get(n, outname)), t, flags=re.M)
             t = t.replace('Kinh Soṇadaṇḍa', TITLES.get(n, outname))
         if s == 'ra-soat.py':
