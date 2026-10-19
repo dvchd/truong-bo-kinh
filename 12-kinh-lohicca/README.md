@@ -94,6 +94,16 @@ Toàn bộ quy ước chung ở [`../HUONG-DAN-CHUNG.md`](../HUONG-DAN-CHUNG.md)
 
 ---
 
+## Liên kết với các bài khác
+
+Đo trên bản dịch, bài này trùng văn bản nhiều nhất với: **Kinh Kevaddha** (64%), **Kinh Sa-môn Quả** (52%), **Kinh Subha** (34%).
+
+Về mặt chủ đề: liên quan tới các bài 11 và 2 (khuôn tuần tự).
+
+Bản đồ đầy đủ 34 bài ở [`../so-tay/02-ban-do-lien-ket.md`](../so-tay/02-ban-do-lien-ket.md); các cặp bài trùng nhau nhiều ở [`../so-tay/08-bien-co-hai-lan.md`](../so-tay/08-bien-co-hai-lan.md).
+
+---
+
 ## Giấy phép
 
 Bản dịch tiếng Việt: **CC BY-SA 4.0**. Nguyên bản Pali: phạm vi công cộng. Bản dịch tiếng Anh

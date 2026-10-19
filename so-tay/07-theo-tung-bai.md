@@ -62,3 +62,24 @@ Bảng này cố ý ngắn. Mục đích không phải thay thế việc đọc,
 điều đó giảm rất nhiều cảm giác "sao bài này rối thế" ở lần đọc đầu.
 
 Bốn bài nên đọc trước khi vào cả bộ: **2, 16, 27, 31**. Lý do ở [`00-cach-doc.md`](00-cach-doc.md) §3.
+
+---
+
+## Mật độ chú thích: năm bài cần đọc kèm sổ tay nhất
+
+Toàn bộ 34 bài có **2.282 chú thích** của người dịch (trung bình khoảng 3,6 chú thích mỗi 1.000 từ),
+nhưng phân bố không đều. Năm bài ít chú thích nhất, tính theo số chú thích trên 1.000 từ:
+
+| Bài | Số chú thích | Từ | Chú thích / 1.000 từ |
+|---|---|---|---|
+| **10 — Subha** | 9 | 12.728 | 0,7 |
+| **34 — Thập Thượng** | 22 | 22.000 | 1,0 |
+| **12 — Lohicca** | 18 | 15.983 | 1,1 |
+| **25 — Udumbarika** | 20 | 14.072 | 1,4 |
+| **24 — Pāṭika** | 30 | 16.700 | 1,8 |
+
+Nếu bạn đọc năm bài này, nên mở kèm [`04-cho-kho.md`](04-cho-kho.md) và [`03-thuat-ngu.md`](03-thuat-ngu.md)
+— vì bản thân bài không tự giải thích nhiều.
+
+Ngược lại, ba bài được chú thích dày nhất là **16** (307 chú thích), **1** (196) và **14** (165) — đọc
+thoải mái hơn.

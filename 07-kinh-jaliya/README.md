@@ -137,6 +137,16 @@ chuẩn bị đúng chỗ mà bài 7 đóng lại.
 
 ---
 
+## Liên kết với các bài khác
+
+Đo trên bản dịch, bài này trùng văn bản nhiều nhất với: **Kinh Mahāli** (47%), **Kinh Subha** (28%), **Kinh Sa-môn Quả** (22%).
+
+Về mặt chủ đề: liên quan tới các bài 6 (một nửa nội dung chung).
+
+Bản đồ đầy đủ 34 bài ở [`../so-tay/02-ban-do-lien-ket.md`](../so-tay/02-ban-do-lien-ket.md); các cặp bài trùng nhau nhiều ở [`../so-tay/08-bien-co-hai-lan.md`](../so-tay/08-bien-co-hai-lan.md).
+
+---
+
 ## Giấy phép
 
 Bản dịch tiếng Việt: **CC BY-SA 4.0**. Nguyên bản Pali: phạm vi công cộng. Bản dịch tiếng Anh
