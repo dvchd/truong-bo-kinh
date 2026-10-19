@@ -140,3 +140,5 @@ Bản dịch này giữ một số từ Pali vì dịch ra tiếng Việt sẽ s
 
 Khi bạn đọc thấy "hành" trong kinh, cần phân biệt: **hành** trong "năm uẩn" là *saṅkhāra* (ý chí,
 tạo tác); **hành** trong "hành động" là *kamma*. Bản dịch ghi rõ trong chú thích ở từng chỗ.
+
+> Cần bảng từ Hán-Việt? Xem [`13-han-viet.md`](13-han-viet.md).

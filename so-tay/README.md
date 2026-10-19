@@ -23,6 +23,7 @@ Sổ tay này viết để tránh điều đó.
 | [`10-giai-thich-them.md`](10-giai-thich-them.md) | Một điểm đáng biết cho 21 bài còn lại |
 | [`11-ra-soat.md`](11-ra-soat.md) | Đã kiểm tra những gì trên toàn bộ 34 bài, và chỗ nào chưa |
 | [`12-tong-hop.md`](12-tong-hop.md) | **Bản giải thích tổng hợp** — đọc một tài liệu này là đủ nắm mạch |
+| [`13-han-viet.md`](13-han-viet.md) | Từ Hán-Việt: nghĩa từng chữ, nghĩa trong kinh, từ dễ hiểu sai |
 
 ---
 
