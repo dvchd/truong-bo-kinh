@@ -56,7 +56,7 @@ Rồi vào lúc rạng đông, một số đông tỳ-kheo thức dậy, cùng n
 [Chú thích: Gian nhà tròn (*maṇḍalamāḷa*) là một gian nhà mở, không có vách, dựng trong khu nhà nghỉ ấy.]
 
 <!-- seg: dn1:1.3.2 -->
-“Thật là phi thường thay, thưa các vị! Thật là kỳ diệu thay, thưa các vị! Sự đa dạng trong khuynh hướng của chúng sinh (mọi loài có sự sống) lại được Đức Thế Tôn — bậc biết rõ, bậc thấy rõ, bậc ứng cúng (arahant: người đã giác ngộ hoàn toàn, xứng đáng được cúng dường), bậc chánh đẳng giác (sammāsambuddha: người tự mình giác ngộ trọn vẹn) — thấu suốt rõ ràng đến như vậy.
+"Thật là phi thường thay, thưa các vị! Thật là kỳ diệu thay, thưa các vị! Sự đa dạng trong khuynh hướng của chúng sinh (mọi loài có sự sống) lại được Đức Thế Tôn — bậc biết rõ, bậc thấy rõ, bậc ứng cúng (arahant: người đã giác ngộ hoàn toàn, xứng đáng được cúng dường), bậc chánh đẳng giác (sammāsambuddha: người tự mình giác ngộ trọn vẹn) — thấu suốt rõ ràng đến như vậy.
 
 [Chú thích: *adhimutti* là điều mình đã quyết định, một niềm tin hay chỗ neo lòng mình vào. Còn "thưa các vị" dịch chữ *āvuso*, cách các tỳ-kheo gọi nhau thân mật, như "này bạn đồng tu".]
 
@@ -67,7 +67,7 @@ Vì chính du sĩ Suppiya này nói lời chê bai Đức Phật, chê bai giáo
 nhưng học trò của ông là thanh niên Brahmadatta lại khen ngợi Đức Phật, khen ngợi giáo pháp, khen ngợi Tăng đoàn bằng nhiều cách khác nhau.
 
 <!-- seg: dn1:1.3.5 -->
-Thế là cả thầy lẫn trò đều đi theo sau Đức Thế Tôn và Tăng đoàn tỳ-kheo, mỗi người nói một đằng, thẳng thừng chống lại nhau.”
+Thế là cả thầy lẫn trò đều đi theo sau Đức Thế Tôn và Tăng đoàn tỳ-kheo, mỗi người nói một đằng, thẳng thừng chống lại nhau."
 
 <!-- seg: dn1:1.4.1 -->
 Rồi Đức Thế Tôn biết được câu chuyện đánh giá ấy giữa các tỳ-kheo, bèn đi đến gian nhà tròn; đến nơi, Ngài ngồi xuống chỗ ngồi đã được trải sẵn. Ngồi xong, Đức Thế Tôn lên tiếng hỏi các tỳ-kheo:
@@ -75,7 +75,7 @@ Rồi Đức Thế Tôn biết được câu chuyện đánh giá ấy giữa c�
 [Chú thích: Theo quy ước, khi một vị thầy hay một người đáng kính sắp ngồi thì người ta trải sẵn một tấm đệm cho vị ấy.]
 
 <!-- seg: dn1:1.4.2 -->
-“Này các tỳ-kheo, các ông đang ngồi bàn chuyện gì vậy? Và câu chuyện nào của các ông còn đang dở dang?”
+"Này các tỳ-kheo, các ông đang ngồi bàn chuyện gì vậy? Và câu chuyện nào của các ông còn đang dở dang?"
 
 [Chú thích: Đây là những lời đầu tiên của Đức Phật trong Kinh tạng Pali: Ngài hỏi để nghe điều người khác đang nói.]
 
@@ -85,10 +85,10 @@ Nghe Ngài nói vậy, các tỳ-kheo ấy bạch với Đức Thế Tôn:
 [Chú thích: Ở đây và những chỗ tương tự, nguyên bản Pali lặp lại đầy đủ cả câu chuyện; bản dịch này cũng dịch đầy đủ, không lược bỏ.]
 
 <!-- seg: dn1:1.4.4 -->
-“Bạch Đức Thế Tôn, sáng nay, khi chúng con thức dậy lúc rạng đông, ngồi tụ lại với nhau trong gian nhà tròn, thì câu chuyện đánh giá này nổi lên:
+"Bạch Đức Thế Tôn, sáng nay, khi chúng con thức dậy lúc rạng đông, ngồi tụ lại với nhau trong gian nhà tròn, thì câu chuyện đánh giá này nổi lên:
 
 <!-- seg: dn1:1.4.5 -->
-‘Thật là phi thường thay, thưa các vị! Thật là kỳ diệu thay, thưa các vị! Sự đa dạng trong khuynh hướng của chúng sinh lại được Đức Thế Tôn — bậc biết rõ, bậc thấy rõ, bậc ứng cúng, bậc chánh đẳng giác — thấu suốt rõ ràng đến như vậy.
+'Thật là phi thường thay, thưa các vị! Thật là kỳ diệu thay, thưa các vị! Sự đa dạng trong khuynh hướng của chúng sinh lại được Đức Thế Tôn — bậc biết rõ, bậc thấy rõ, bậc ứng cúng, bậc chánh đẳng giác — thấu suốt rõ ràng đến như vậy.
 
 <!-- seg: dn1:1.4.6 -->
 Vì chính du sĩ Suppiya này nói lời chê bai Đức Phật, chê bai giáo pháp, chê bai Tăng đoàn bằng nhiều cách khác nhau,
@@ -97,13 +97,13 @@ Vì chính du sĩ Suppiya này nói lời chê bai Đức Phật, chê bai giáo
 nhưng học trò của ông là thanh niên Brahmadatta lại khen ngợi Đức Phật, khen ngợi giáo pháp, khen ngợi Tăng đoàn bằng nhiều cách khác nhau.
 
 <!-- seg: dn1:1.4.8 -->
-Thế là cả thầy lẫn trò đều đi theo sau Đức Thế Tôn và Tăng đoàn tỳ-kheo, mỗi người nói một đằng, thẳng thừng chống lại nhau.’
+Thế là cả thầy lẫn trò đều đi theo sau Đức Thế Tôn và Tăng đoàn tỳ-kheo, mỗi người nói một đằng, thẳng thừng chống lại nhau.'
 
 <!-- seg: dn1:1.4.9 -->
-Bạch Đức Thế Tôn, đó là câu chuyện còn dang dở của chúng con thì Đức Thế Tôn đến.”
+Bạch Đức Thế Tôn, đó là câu chuyện còn dang dở của chúng con thì Đức Thế Tôn đến."
 
 <!-- seg: dn1:1.5.1 -->
-“Này các tỳ-kheo, nếu người khác chê bai ta, chê bai giáo pháp, hay chê bai Tăng đoàn, thì các ông chớ để mình sinh lòng oán giận, bực bội hay bất mãn.
+"Này các tỳ-kheo, nếu người khác chê bai ta, chê bai giáo pháp, hay chê bai Tăng đoàn, thì các ông chớ để mình sinh lòng oán giận, bực bội hay bất mãn.
 
 [Chú thích: Cách nói ở đây khá đặc biệt: không phải "hãy đừng giận", mà là "đừng làm ra điều tạo nên sự cay đắng" — tức đừng tự chuốc lấy bực tức vào mình. So sánh với kinh MN 22, nơi cũng dùng những cụm từ này.]
 
@@ -113,18 +113,18 @@ Nếu người khác chê bai ta, chê bai giáo pháp, hay chê bai Tăng đoà
 [Chú thích: Phàn nàn, bực tức về người khác không làm hại họ, mà chỉ hại chính người đang bực tức.]
 
 <!-- seg: dn1:1.5.3 -->
-Nếu người khác chê bai ta, chê bai giáo pháp, hay chê bai Tăng đoàn, mà các ông lại nổi giận và bất mãn, thì các ông có nhận ra được đâu là lời họ nói hay, đâu là lời họ nói dở hay không?”
+Nếu người khác chê bai ta, chê bai giáo pháp, hay chê bai Tăng đoàn, mà các ông lại nổi giận và bất mãn, thì các ông có nhận ra được đâu là lời họ nói hay, đâu là lời họ nói dở hay không?"
 
 [Chú thích: Giữ được lòng bình thản là điều kiện trước tiên để xét đúng sự thật.]
 
 <!-- seg: dn1:1.5.4 -->
-“Bạch Đức Thế Tôn, không thể được ạ.”
+"Bạch Đức Thế Tôn, không thể được ạ."
 
 <!-- seg: dn1:1.6.1 -->
-“Này các tỳ-kheo, nếu người khác chê bai ta, chê bai giáo pháp, hay chê bai Tăng đoàn, thì các ông nên nói rõ rằng điều gì không thật thì đúng là không thật:
+"Này các tỳ-kheo, nếu người khác chê bai ta, chê bai giáo pháp, hay chê bai Tăng đoàn, thì các ông nên nói rõ rằng điều gì không thật thì đúng là không thật:
 
 <!-- seg: dn1:1.6.2 -->
-‘Điều ấy là không thật, điều ấy là sai sự thật. Những điều ấy không có nơi chúng tôi, không hề có nơi chúng tôi.’
+'Điều ấy là không thật, điều ấy là sai sự thật. Những điều ấy không có nơi chúng tôi, không hề có nơi chúng tôi.'
 
 <!-- seg: dn1:1.6.3 -->
 Nếu người khác khen ngợi ta, khen ngợi giáo pháp, hay khen ngợi Tăng đoàn, thì các ông chớ để mình vui sướng, hoan hỉ hay phấn khích.
@@ -136,4 +136,4 @@ Nếu người khác khen ngợi ta, khen ngợi giáo pháp, hay khen ngợi T�
 Nếu người khác khen ngợi ta, khen ngợi giáo pháp, hay khen ngợi Tăng đoàn, thì các ông nên nhận đúng rằng điều gì là thật thì đúng là thật:
 
 <!-- seg: dn1:1.6.6 -->
-‘Điều ấy là thật, điều ấy là đúng sự thật. Những điều ấy có nơi chúng tôi, thật có nơi chúng tôi.’”
+'Điều ấy là thật, điều ấy là đúng sự thật. Những điều ấy có nơi chúng tôi, thật có nơi chúng tôi.'"
