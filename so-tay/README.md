@@ -14,6 +14,7 @@ Sổ tay này viết để tránh điều đó.
 | [`04-cho-kho.md`](04-cho-kho.md) | Bảy đoạn khó hiểu nhất, giải thích kèm số hiệu đoạn để tra |
 | [`05-mau-thuan.md`](05-mau-thuan.md) | Năm chỗ các bài có vẻ nói khác nhau, và cách hiểu |
 | [`06-doc-them.md`](06-doc-them.md) | Chú giải truyền thống, bản dịch khác, sách học thuật, chỗ còn tranh luận |
+| [`07-theo-tung-bai.md`](07-theo-tung-bai.md) | Bảng tra 34 bài: mỗi bài một chỗ dễ vấp và cách đọc |
 
 ---
 
