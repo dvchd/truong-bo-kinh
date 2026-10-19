@@ -18,6 +18,7 @@ Sổ tay này viết để tránh điều đó.
 | [`08-bien-co-hai-lan.md`](08-bien-co-hai-lan.md) | Những biến cố được kể hai lần: cặp bài nào trùng, khác ở đâu |
 | [`09-hoi-dap.md`](09-hoi-dap.md) | Mười hai câu người đọc hay hỏi, trả lời gọn |
 | [`10-giai-thich-them.md`](10-giai-thich-them.md) | Một điểm đáng biết cho 21 bài còn lại |
+| [`11-ra-soat.md`](11-ra-soat.md) | Đã kiểm tra những gì trên toàn bộ 34 bài, và chỗ nào chưa |
 
 ---
 
