@@ -18,7 +18,7 @@ Trái lại, chính ta mới là người hơn hết ở điểm ấy, tức là
 <!-- seg: dn8:21.5 -->
 Này Kassapa, có những sa-môn và bà-la-môn dạy về khổ hạnh ép xác và sự ghê tởm tội lỗi.
 
-[Chú thích: "Khổ hạnh ép xác và sự ghê tởm tội lỗi" dịch chữ tapojigucchā; tapo là sự khổ hạnh thiêu đốt, jigucchā là sự ghê tởm, chán ghét. Cụm từ này cho thấy mức độ gay gắt mà người tu nhìn "tội lỗi" như một vết nhơ gần như hữu hình trên linh hồn, và ngọn lửa đau đớn trắng nóng cần thiết để đốt sạch những vết thương tâm linh.]
+[Chú thích: "Khổ hạnh ép xác và sự ghê tởm tội lỗi" dịch chữ tapojigucchā; tapo là sự khổ hạnh thiêu đốt, jigucchā là sự ghê tởm, chán ghét. Cụm từ này cho thấy mức độ gay gắt mà người tu nhìn "tội lỗi" như một vết nhơ gần như hữu hình trên linh hồn, và ngọn lửa đau đớn tột cùng cần thiết để đốt sạch những vết thương tâm linh.]
 
 <!-- seg: dn8:21.6 -->
 Họ ca ngợi khổ hạnh ép xác và sự ghê tởm tội lỗi theo nhiều cách.
@@ -91,13 +91,13 @@ Này Kassapa, có thể xảy ra chuyện các du sĩ ngoại đạo nói như v
 Hoặc người ta có hỏi ông ta, nhưng khi được hỏi, ông ta không trả lời câu hỏi của họ.
 
 <!-- seg: dn8:22.12 -->
-Hoặc khi được hỏi, Ngài trả lời câu hỏi của họ, nhưng câu trả lời không làm họ hài lòng.
+Hoặc khi được hỏi, ông ta trả lời câu hỏi của họ, nhưng câu trả lời không làm họ hài lòng.
 
 <!-- seg: dn8:22.13 -->
 Hoặc câu trả lời làm họ hài lòng, nhưng họ không thấy ông ta đáng nghe.
 
 <!-- seg: dn8:22.14 -->
-Hoặc họ thấy Ngài đáng nghe, nhưng sau khi nghe, họ không phát sinh niềm tin.
+Hoặc họ thấy ông ta đáng nghe, nhưng sau khi nghe, họ không phát sinh niềm tin.
 
 <!-- seg: dn8:22.15 -->
 Hoặc sau khi nghe, họ phát sinh niềm tin, nhưng họ không bày tỏ niềm tin ấy.

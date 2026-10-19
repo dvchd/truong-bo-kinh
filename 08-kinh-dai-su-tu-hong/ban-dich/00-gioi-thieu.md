@@ -64,9 +64,14 @@ giữ đủ mọi chặng và mọi câu chốt, kèm chú thích chỉ sang b�
 Đến đây Đức Thế Tôn mới nói về mình. Ngài không nói "ta giỏi hơn người". Ngài nói theo một khuôn
 khác: *"Về giới cao quý tối thượng, ta không thấy ai ngang bằng ta, huống chi là hơn ta."*
 
-Rồi lặp lại khuôn ấy cho từng phương diện: giới, khổ hạnh và sự ghê tởm tội lỗi, tuệ, giải
-thoát. Đó là **tiếng rống sư tử** — không phải lời khoe, mà là một tuyên bố có thể bị chất vấn,
-đưa ra giữa công chúng, kèm theo mười trí lực và bốn sự tự tin làm cơ sở.
+Rồi lặp lại khuôn ấy cho bốn phương diện: giới, khổ hạnh và sự ghê tởm tội lỗi, tuệ, giải thoát.
+Đó là **tiếng rống sư tử** — không phải lời khoe, mà là một tuyên bố có thể bị chất vấn, đưa ra
+giữa công chúng.
+
+Và Ngài tự đặt ra bốn lời phản bác, rồi trả lời từng lời: rằng Ngài chỉ rống trong nhà trống;
+rằng Ngài rống giữa hội chúng nhưng không tự tin; rằng người ta không hỏi Ngài; rằng nếu có hỏi
+thì Ngài không trả lời, hoặc trả lời không làm hài lòng. Mỗi lời, Ngài nói: "Không phải vậy!" Rồi
+kể ra sáu cáo buộc nữa mà Ngài sẵn sàng đối chất.
 
 ### Mục 7: bốn tháng
 
@@ -92,7 +97,7 @@ tiết hành chính nữa. Nó là cùng một bài học, lần thứ hai: **đ
 | 3 | Các lối khổ hạnh ép xác — danh sách dài | 24 |
 | 4 | Khổ hạnh ép xác là vô ích: ba lượt, mỗi lượt ba nhóm | 76 |
 | 5 | Thành tựu giới, định và tuệ — con đường thật | 32 |
-| 6 | Tiếng rống sư tử: mười trí lực, bốn sự tự tin | 36 |
+| 6 | Tiếng rống sư tử: bốn tuyên bố vượt trội và bốn lời phản bác | 36 |
 | 7 | Thời hạn thử thách cho người từng xuất gia | 19 |
 
 ## Con số

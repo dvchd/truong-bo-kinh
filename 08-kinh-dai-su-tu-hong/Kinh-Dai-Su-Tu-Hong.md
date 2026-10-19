@@ -64,9 +64,14 @@ giữ đủ mọi chặng và mọi câu chốt, kèm chú thích chỉ sang b�
 Đến đây Đức Thế Tôn mới nói về mình. Ngài không nói "ta giỏi hơn người". Ngài nói theo một khuôn
 khác: *"Về giới cao quý tối thượng, ta không thấy ai ngang bằng ta, huống chi là hơn ta."*
 
-Rồi lặp lại khuôn ấy cho từng phương diện: giới, khổ hạnh và sự ghê tởm tội lỗi, tuệ, giải
-thoát. Đó là **tiếng rống sư tử** — không phải lời khoe, mà là một tuyên bố có thể bị chất vấn,
-đưa ra giữa công chúng, kèm theo mười trí lực và bốn sự tự tin làm cơ sở.
+Rồi lặp lại khuôn ấy cho bốn phương diện: giới, khổ hạnh và sự ghê tởm tội lỗi, tuệ, giải thoát.
+Đó là **tiếng rống sư tử** — không phải lời khoe, mà là một tuyên bố có thể bị chất vấn, đưa ra
+giữa công chúng.
+
+Và Ngài tự đặt ra bốn lời phản bác, rồi trả lời từng lời: rằng Ngài chỉ rống trong nhà trống;
+rằng Ngài rống giữa hội chúng nhưng không tự tin; rằng người ta không hỏi Ngài; rằng nếu có hỏi
+thì Ngài không trả lời, hoặc trả lời không làm hài lòng. Mỗi lời, Ngài nói: "Không phải vậy!" Rồi
+kể ra sáu cáo buộc nữa mà Ngài sẵn sàng đối chất.
 
 ### Mục 7: bốn tháng
 
@@ -92,7 +97,7 @@ tiết hành chính nữa. Nó là cùng một bài học, lần thứ hai: **đ
 | 3 | Các lối khổ hạnh ép xác — danh sách dài | 24 |
 | 4 | Khổ hạnh ép xác là vô ích: ba lượt, mỗi lượt ba nhóm | 76 |
 | 5 | Thành tựu giới, định và tuệ — con đường thật | 32 |
-| 6 | Tiếng rống sư tử: mười trí lực, bốn sự tự tin | 36 |
+| 6 | Tiếng rống sư tử: bốn tuyên bố vượt trội và bốn lời phản bác | 36 |
 | 7 | Thời hạn thử thách cho người từng xuất gia | 19 |
 
 ## Con số
@@ -100,7 +105,7 @@ tiết hành chính nữa. Nó là cùng một bài học, lần thứ hai: **đ
 | | |
 |---|---|
 | Đoạn văn (segment) | **252** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **12.623** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.814** |
 | Chú thích trong thân bản dịch | **39** |
 | Liên kết mục lục | **12** |
 | Trang PTS | i.161–177 |
@@ -823,7 +828,7 @@ Trái lại, chính ta mới là người hơn hết ở điểm ấy, tức là
 <!-- seg: dn8:21.5 -->
 Này Kassapa, có những sa-môn và bà-la-môn dạy về khổ hạnh ép xác và sự ghê tởm tội lỗi.
 
-[Chú thích: "Khổ hạnh ép xác và sự ghê tởm tội lỗi" dịch chữ tapojigucchā; tapo là sự khổ hạnh thiêu đốt, jigucchā là sự ghê tởm, chán ghét. Cụm từ này cho thấy mức độ gay gắt mà người tu nhìn "tội lỗi" như một vết nhơ gần như hữu hình trên linh hồn, và ngọn lửa đau đớn trắng nóng cần thiết để đốt sạch những vết thương tâm linh.]
+[Chú thích: "Khổ hạnh ép xác và sự ghê tởm tội lỗi" dịch chữ tapojigucchā; tapo là sự khổ hạnh thiêu đốt, jigucchā là sự ghê tởm, chán ghét. Cụm từ này cho thấy mức độ gay gắt mà người tu nhìn "tội lỗi" như một vết nhơ gần như hữu hình trên linh hồn, và ngọn lửa đau đớn tột cùng cần thiết để đốt sạch những vết thương tâm linh.]
 
 <!-- seg: dn8:21.6 -->
 Họ ca ngợi khổ hạnh ép xác và sự ghê tởm tội lỗi theo nhiều cách.
@@ -890,19 +895,19 @@ Này Kassapa, điều nên nói là thế này: "Sa-môn Gotama rống tiếng r
 Này Kassapa, có thể xảy ra chuyện các du sĩ ngoại đạo nói như vầy:
 
 <!-- seg: dn8:22.10 -->
-"Sa-môn Gotama rống tiếng rống sư tử, rống giữa các hội chúng, rống một cách tự tin, nhưng người ta không hỏi Ngài câu hỏi nào.
+"Sa-môn Gotama rống tiếng rống sư tử, rống giữa các hội chúng, rống một cách tự tin, nhưng người ta không hỏi ông ta câu hỏi nào.
 
 <!-- seg: dn8:22.11 -->
-Hoặc người ta có hỏi Ngài, nhưng khi được hỏi, Ngài không trả lời câu hỏi của họ.
+Hoặc người ta có hỏi ông ta, nhưng khi được hỏi, ông ta không trả lời câu hỏi của họ.
 
 <!-- seg: dn8:22.12 -->
-Hoặc khi được hỏi, Ngài trả lời câu hỏi của họ, nhưng câu trả lời không làm họ hài lòng.
+Hoặc khi được hỏi, ông ta trả lời câu hỏi của họ, nhưng câu trả lời không làm họ hài lòng.
 
 <!-- seg: dn8:22.13 -->
-Hoặc câu trả lời làm họ hài lòng, nhưng họ không thấy Ngài đáng nghe.
+Hoặc câu trả lời làm họ hài lòng, nhưng họ không thấy ông ta đáng nghe.
 
 <!-- seg: dn8:22.14 -->
-Hoặc họ thấy Ngài đáng nghe, nhưng sau khi nghe, họ không phát sinh niềm tin.
+Hoặc họ thấy ông ta đáng nghe, nhưng sau khi nghe, họ không phát sinh niềm tin.
 
 <!-- seg: dn8:22.15 -->
 Hoặc sau khi nghe, họ phát sinh niềm tin, nhưng họ không bày tỏ niềm tin ấy.
@@ -942,7 +947,7 @@ Và khi ta trả lời xong, ông ấy hoan hỷ tột độ, như thể không 
 "Thưa Ngài, ai nghe giáo pháp của Đức Thế Tôn mà lại không hoan hỷ tột độ, như thể không còn gì hơn được nữa?
 
 <!-- seg: dn8:23.6 -->
-Tôi đây, thưa Ngài, sau khi nghe giáo pháp của Đức Thế Tôn, cũng hoan hỷ tột độ, như thể không còn gì hơn được nữa.
+Thưa Ngài, tôi cũng vậy; sau khi nghe giáo pháp của Đức Thế Tôn, tôi hoan hỷ tột độ, như thể không còn gì hơn được nữa.
 
 <!-- seg: dn8:23.7 -->
 Thật tuyệt vời, thưa Ngài, thật tuyệt vời!
@@ -975,7 +980,7 @@ Tuy vậy, ở điểm này ta đã biết rõ sự khác biệt giữa các h�
 Rồi tu sĩ lõa thể Kassapa được xuất gia, được thọ giới cụ túc trước Đức Thế Tôn.
 
 <!-- seg: dn8:24.5 -->
-Không lâu sau khi thọ giới cụ túc, Tôn giả Kassapa sống một mình, ẩn cư, không phóng dật, nhiệt tâm, quyết chí. Chẳng bao lâu, ngay trong đời này, vị ấy đã tự mình chứng ngộ bằng thắng trí và an trú vào sự hoàn tất tối thượng của đời sống phạm hạnh — mục đích mà những người con trai của những gia đình tốt đúng đắn rời bỏ đời sống tại gia để sống không nhà.
+Không lâu sau khi thọ giới cụ túc, Tôn giả Kassapa sống một mình, ẩn cư, không phóng dật, nhiệt tâm, quyết chí. Chẳng bao lâu, ngay trong đời này, vị ấy đã tự mình chứng ngộ bằng thắng trí sự hoàn tất tối thượng của đời sống phạm hạnh, rồi an trú vào đó — mục đích mà những người con trai thuộc các gia đình tốt đúng đắn rời bỏ đời sống tại gia để sống không nhà.
 
 <!-- seg: dn8:24.6 -->
 Vị ấy biết rõ: "Sinh đã tận, đời sống phạm hạnh đã được sống trọn, việc cần làm đã làm xong, không còn gì nữa cho trạng thái này."
@@ -1037,15 +1042,20 @@ trí lực.
 | āsavānaṁ khaya | **đoạn tận lậu hoặc** | |
 | mettā | **tâm từ** | |
 
-### Mười trí lực và bốn sự tự tin
+### Tiếng rống sư tử
 
 | Pali | Tiếng Việt | Ghi chú |
 |---|---|---|
-| dasabala | **mười trí lực** | |
-| catuvesārajja | **bốn sự tự tin** | |
-| `sīhanādaṁ nadati` | **rống tiếng rống sư tử** | |
-| brahmacakka | **pháp luân Phạm thiên** | |
-| sammādiṭṭhi → sammāsamādhi | chánh kiến → chánh định | tám chi phần của Bát chánh đạo |
+| `sīhanādaṁ nadati` | **rống tiếng rống sư tử** | lối nói cố định: tuyên bố dứt khoát về vị thế tối thượng |
+| adhisīla | **giới cao hơn** | phương diện thứ nhất của bốn tuyên bố |
+| tapojigucchā | **khổ hạnh ép xác và sự ghê tởm tội lỗi** | hợp từ `tapa` + `jigucchā` |
+| adhipaññā | **tuệ cao hơn** | |
+| adhivimutti | **giải thoát cao hơn** | |
+| `sammādiṭṭhi → sammāsamādhi` | chánh kiến → chánh định | tám chi phần của Bát chánh đạo |
+
+Bài này **không** nói đến mười trí lực (`dasabala`) hay bốn sự tự tin (`catuvesārajja`). Hai danh
+sách ấy thuộc bài 8 của Trung Bộ Kinh (MN 12), cũng mang tên *Mahāsīhanāda*; đừng trộn hai bài.
+
 
 ### Xưng hô
 
@@ -1095,6 +1105,9 @@ Bản dịch tiếng Anh và chú thích của Bhikkhu Sujato đã được hi�
 
 ### Bản Hán tương ứng
 
+Lưu ý phân biệt: Trung Bộ Kinh bài 12 cũng tên *Mahāsīhanāda* (Đại Sư Tử Hống) và mới là bài có
+mười trí lực, bốn sự tự tin, mười tám pháp bất cộng; **bài DN 8 ở đây không có các danh sách ấy**.
+
 Bản Hán gần nhất là **《倮形梵志經》** ("Kinh về vị phạm chí lõa thể"), *Trường A-hàm* 25
 (長阿含經, Đại chánh tạng 1, kinh số 25) — cùng nhân vật lõa thể Kassapa và cùng chủ đề khổ hạnh
 ép xác. Bản Hán ngắn hơn, và phần lớn các danh sách khổ hạnh bị rút gọn thành công thức, nên khi
@@ -1106,8 +1119,8 @@ Bản Hán gần nhất là **《倮形梵志經》** ("Kinh về vị phạm ch
   khi có khác biệt đáng kể.
 - Bài có **252 đoạn** (segment) theo cách chia của SuttaCentral, chia thành bảy mục.
 - **Các khối `…pe…` được khai triển đầy đủ**, không tóm lược: mục 3 liệt kê trọn các lối khổ
-  hạnh, mục 4 lặp lại chúng trong lập luận, mục 6 khai triển mười trí lực và bốn sự tự tin. Đây
-  là quy tắc chung của bộ sách — xem `../HUONG-DAN-CHUNG.md` §5.
+  hạnh, mục 4 lặp lại chúng trong lập luận, mục 6 khai triển bốn tuyên bố vượt trội và chuỗi
+  phản bác. Đây là quy tắc chung của bộ sách — xem `../HUONG-DAN-CHUNG.md` §5.
 - Ngoại lệ duy nhất: khối văn mô tả con đường tu tập ở mục 5 trùng nguyên văn Kinh Sa-môn Quả
   (bài 2) mục 4.3, nên được **tóm lược có kiểm soát**, giữ đủ mọi chặng và mọi câu chốt, kèm
   `[Chú thích: …]` chỉ dẫn.

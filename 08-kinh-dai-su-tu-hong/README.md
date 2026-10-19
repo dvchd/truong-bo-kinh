@@ -26,7 +26,7 @@ Không phải khổ hạnh bị chê. Khổ hạnh **mà không có giới, đ�
 | **3** | Các lối khổ hạnh ép xác — danh sách dài | 24 |
 | **4** | Khổ hạnh ép xác là vô ích — ba lượt, mỗi lượt ba nhóm | 76 |
 | **5** | Thành tựu giới, định và tuệ — con đường thật | 32 |
-| **6** | Tiếng rống sư tử — mười trí lực, bốn sự tự tin | 36 |
+| **6** | Tiếng rống sư tử — bốn tuyên bố vượt trội và bốn lời phản bác | 36 |
 | **7** | Thời hạn thử thách cho người từng xuất gia | 19 |
 
 ### Cú lật
@@ -53,9 +53,15 @@ khuôn khác:
 > "Này Kassapa, xét đến giới cao quý tối thượng, ta không thấy ai ngang bằng ta về điểm ấy,
 > huống chi là hơn ta."
 
-Rồi lặp lại khuôn ấy cho từng phương diện: giới, khổ hạnh và sự ghê tởm tội lỗi, tuệ, giải
-thoát. Đó là **tiếng rống sư tử** (`sīhanāda`) — không phải lời khoe, mà là một tuyên bố có thể
-bị chất vấn, đưa ra giữa công chúng, đặt trên nền **mười trí lực** và **bốn sự tự tin**.
+Rồi lặp lại khuôn ấy cho bốn phương diện: giới, khổ hạnh và sự ghê tởm tội lỗi, tuệ, giải thoát.
+Đó là **tiếng rống sư tử** (`sīhanāda`) — không phải lời khoe, mà là một tuyên bố có thể bị chất
+vấn, đưa ra giữa công chúng. Và Ngài tự đặt ra bốn lời phản bác rồi trả lời từng lời: rằng Ngài
+chỉ rống trong nhà trống; rằng Ngài rống giữa hội chúng nhưng không tự tin; rằng người ta không
+hỏi Ngài; rằng nếu có hỏi thì Ngài không trả lời, hoặc trả lời không làm hài lòng. Mỗi lời: "Không
+phải vậy!"
+
+Bài này **không** có mười trí lực và bốn sự tự tin — hai danh sách ấy thuộc bài 12 Trung Bộ Kinh,
+cũng mang tên *Mahāsīhanāda*. Đừng trộn hai bài.
 
 ### Bốn tháng thử thách
 

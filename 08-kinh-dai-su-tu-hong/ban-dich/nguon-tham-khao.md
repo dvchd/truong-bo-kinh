@@ -23,6 +23,9 @@ Bản dịch tiếng Anh và chú thích của Bhikkhu Sujato đã được hi�
 
 ### Bản Hán tương ứng
 
+Lưu ý phân biệt: Trung Bộ Kinh bài 12 cũng tên *Mahāsīhanāda* (Đại Sư Tử Hống) và mới là bài có
+mười trí lực, bốn sự tự tin, mười tám pháp bất cộng; **bài DN 8 ở đây không có các danh sách ấy**.
+
 Bản Hán gần nhất là **《倮形梵志經》** ("Kinh về vị phạm chí lõa thể"), *Trường A-hàm* 25
 (長阿含經, Đại chánh tạng 1, kinh số 25) — cùng nhân vật lõa thể Kassapa và cùng chủ đề khổ hạnh
 ép xác. Bản Hán ngắn hơn, và phần lớn các danh sách khổ hạnh bị rút gọn thành công thức, nên khi
@@ -34,8 +37,8 @@ Bản Hán gần nhất là **《倮形梵志經》** ("Kinh về vị phạm ch
   khi có khác biệt đáng kể.
 - Bài có **252 đoạn** (segment) theo cách chia của SuttaCentral, chia thành bảy mục.
 - **Các khối `…pe…` được khai triển đầy đủ**, không tóm lược: mục 3 liệt kê trọn các lối khổ
-  hạnh, mục 4 lặp lại chúng trong lập luận, mục 6 khai triển mười trí lực và bốn sự tự tin. Đây
-  là quy tắc chung của bộ sách — xem `../HUONG-DAN-CHUNG.md` §5.
+  hạnh, mục 4 lặp lại chúng trong lập luận, mục 6 khai triển bốn tuyên bố vượt trội và chuỗi
+  phản bác. Đây là quy tắc chung của bộ sách — xem `../HUONG-DAN-CHUNG.md` §5.
 - Ngoại lệ duy nhất: khối văn mô tả con đường tu tập ở mục 5 trùng nguyên văn Kinh Sa-môn Quả
   (bài 2) mục 4.3, nên được **tóm lược có kiểm soát**, giữ đủ mọi chặng và mọi câu chốt, kèm
   `[Chú thích: …]` chỉ dẫn.

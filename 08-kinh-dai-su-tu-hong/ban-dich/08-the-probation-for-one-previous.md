@@ -19,7 +19,7 @@ Và khi ta trả lời xong, ông ấy hoan hỷ tột độ, như thể không 
 "Thưa Ngài, ai nghe giáo pháp của Đức Thế Tôn mà lại không hoan hỷ tột độ, như thể không còn gì hơn được nữa?
 
 <!-- seg: dn8:23.6 -->
-Tôi đây, thưa Ngài, sau khi nghe giáo pháp của Đức Thế Tôn, cũng hoan hỷ tột độ, như thể không còn gì hơn được nữa.
+Thưa Ngài, tôi cũng vậy; sau khi nghe giáo pháp của Đức Thế Tôn, tôi hoan hỷ tột độ, như thể không còn gì hơn được nữa.
 
 <!-- seg: dn8:23.7 -->
 Thật tuyệt vời, thưa Ngài, thật tuyệt vời!
@@ -52,7 +52,7 @@ Tuy vậy, ở điểm này ta đã biết rõ sự khác biệt giữa các h�
 Rồi tu sĩ lõa thể Kassapa được xuất gia, được thọ giới cụ túc trước Đức Thế Tôn.
 
 <!-- seg: dn8:24.5 -->
-Không lâu sau khi thọ giới cụ túc, Tôn giả Kassapa sống một mình, ẩn cư, không phóng dật, nhiệt tâm, quyết chí. Chẳng bao lâu, ngay trong đời này, vị ấy đã tự mình chứng ngộ bằng thắng trí và an trú vào sự hoàn tất tối thượng của đời sống phạm hạnh — mục đích mà những người con trai của những gia đình tốt đúng đắn rời bỏ đời sống tại gia để sống không nhà.
+Không lâu sau khi thọ giới cụ túc, Tôn giả Kassapa sống một mình, ẩn cư, không phóng dật, nhiệt tâm, quyết chí. Chẳng bao lâu, ngay trong đời này, vị ấy đã tự mình chứng ngộ bằng thắng trí sự hoàn tất tối thượng của đời sống phạm hạnh, rồi an trú vào đó — mục đích mà những người con trai thuộc các gia đình tốt đúng đắn rời bỏ đời sống tại gia để sống không nhà.
 
 <!-- seg: dn8:24.6 -->
 Vị ấy biết rõ: "Sinh đã tận, đời sống phạm hạnh đã được sống trọn, việc cần làm đã làm xong, không còn gì nữa cho trạng thái này."

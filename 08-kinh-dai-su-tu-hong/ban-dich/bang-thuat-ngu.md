@@ -47,15 +47,20 @@ trí lực.
 | āsavānaṁ khaya | **đoạn tận lậu hoặc** | |
 | mettā | **tâm từ** | |
 
-### Mười trí lực và bốn sự tự tin
+### Tiếng rống sư tử
 
 | Pali | Tiếng Việt | Ghi chú |
 |---|---|---|
-| dasabala | **mười trí lực** | |
-| catuvesārajja | **bốn sự tự tin** | |
-| `sīhanādaṁ nadati` | **rống tiếng rống sư tử** | |
-| brahmacakka | **pháp luân Phạm thiên** | |
-| sammādiṭṭhi → sammāsamādhi | chánh kiến → chánh định | tám chi phần của Bát chánh đạo |
+| `sīhanādaṁ nadati` | **rống tiếng rống sư tử** | lối nói cố định: tuyên bố dứt khoát về vị thế tối thượng |
+| adhisīla | **giới cao hơn** | phương diện thứ nhất của bốn tuyên bố |
+| tapojigucchā | **khổ hạnh ép xác và sự ghê tởm tội lỗi** | hợp từ `tapa` + `jigucchā` |
+| adhipaññā | **tuệ cao hơn** | |
+| adhivimutti | **giải thoát cao hơn** | |
+| `sammādiṭṭhi → sammāsamādhi` | chánh kiến → chánh định | tám chi phần của Bát chánh đạo |
+
+Bài này **không** nói đến mười trí lực (`dasabala`) hay bốn sự tự tin (`catuvesārajja`). Hai danh
+sách ấy thuộc bài 8 của Trung Bộ Kinh (MN 12), cũng mang tên *Mahāsīhanāda*; đừng trộn hai bài.
+
 
 ### Xưng hô
 
