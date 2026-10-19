@@ -57,7 +57,7 @@
 Bạch Thế Tôn, đó là chủ đề mà Phạm thiên Sanaṅkumāra đã nói. Khi Phạm thiên Sanaṅkumāra đang nói về chủ đề ấy, ý nghĩ này đã khởi lên trong tâm của đại vương Vessavaṇa:
 
 <!-- seg: dn18:28.2 -->
-"Thật kỳ diệu thay, thưa ngài, thật hy hữu thay, thưa ngài! Rằng sẽ có một bậc thầy cao cả như thế, một sự thuyết giảng Pháp cao cả như thế, và những thành tựu thù thắng cao cả như thế sẽ được hiển lộ!"
+"Thật kỳ diệu thay, thưa Phạm thiên, thật hy hữu thay, thưa Phạm thiên! Rằng sẽ có một bậc thầy cao cả như thế, một sự thuyết giảng Pháp cao cả như thế, và những thành tựu thù thắng cao cả như thế sẽ được hiển lộ!"
 
 <!-- seg: dn18:28.3 -->
 Rồi bạch Thế Tôn, Phạm thiên Sanaṅkumāra, biết được ý nghĩ trong tâm của đại vương Vessavaṇa, đã nói với đại vương Vessavaṇa rằng:

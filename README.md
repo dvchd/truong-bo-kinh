@@ -28,7 +28,7 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 | **16** | **Kinh Đại Bát Niết-bàn** | *Mahāparinibbāna Sutta* | ✅ **Hoàn thành** → [`16-kinh-dai-bat-niet-ban/`](16-kinh-dai-bat-niet-ban/) |
 | **17** | **Kinh Đại Thiện Kiến Vương** | *Mahāsudassana Sutta* | ✅ **Hoàn thành** → [`17-kinh-dai-thien-kien/`](17-kinh-dai-thien-kien/) |
 | **18** | **Kinh Janavasabha** | *Janavasabha Sutta* | ✅ **Hoàn thành** → [`18-kinh-janavasabha/`](18-kinh-janavasabha/) |
-| 19 | Kinh Đại Điển Tôn | *Mahāgovinda Sutta* | ⏳ Chưa bắt đầu |
+| **19** | **Kinh Đại Điển Tôn** | *Mahāgovinda Sutta* | ✅ **Hoàn thành** → [`19-kinh-dai-dien-ton/`](19-kinh-dai-dien-ton/) |
 | 20 | Kinh Đại Hội | *Mahāsamaya Sutta* | ⏳ Chưa bắt đầu |
 | 21 | Kinh Sakkapañha | *Sakkapañha Sutta* | ⏳ Chưa bắt đầu |
 | 22 | Kinh Đại Niệm Xứ | *Mahāsatipaṭṭhāna Sutta* | ⏳ Chưa bắt đầu |
@@ -237,12 +237,18 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 │   ├── ban-dich/
 │   └── nguon/
 │
+├── 19-kinh-dai-dien-ton/       ← Bài kinh số 19: Kinh Đại Điển Tôn  ✅
+│   ├── Kinh-Dai-Dien-Ton.md    ← BẢN DỊCH HOÀN CHỈNH (đọc tệp này)
+│   ├── README.md · GHI-CHU-BAI.md
+│   ├── ban-dich/
+│   └── nguon/
+│
 ├── HUONG-DAN-CHUNG.md          ← quy chuẩn dịch chung cho cả 34 bài
 │
 ├── cong-cu/
 │   └── tao-bai.py              ← dựng khung một bài mới (nguồn + script + thư mục)
 │
-└── 19-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
+└── 20-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
 ```
 
 ---
@@ -271,6 +277,7 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 | 16 | **Kinh Đại Bát Niết-bàn** | [`16-kinh-dai-bat-niet-ban/Kinh-Dai-Bat-Niet-Ban.md`](16-kinh-dai-bat-niet-ban/Kinh-Dai-Bat-Niet-Ban.md) | 1662 đoạn · 57.959 từ |
 | 17 | **Kinh Đại Thiện Kiến Vương** | [`17-kinh-dai-thien-kien/Kinh-Dai-Thien-Kien.md`](17-kinh-dai-thien-kien/Kinh-Dai-Thien-Kien.md) | 444 đoạn · 14.350 từ |
 | 18 | **Kinh Janavasabha** | [`18-kinh-janavasabha/Kinh-Janavasabha.md`](18-kinh-janavasabha/Kinh-Janavasabha.md) | 299 đoạn · 11.398 từ |
+| 19 | **Kinh Đại Điển Tôn** | [`19-kinh-dai-dien-ton/Kinh-Dai-Dien-Ton.md`](19-kinh-dai-dien-ton/Kinh-Dai-Dien-Ton.md) | 559 đoạn · 15.969 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
 

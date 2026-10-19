@@ -34,13 +34,13 @@
 "Và bất cứ sa-môn hay bà-la-môn nào hiện nay đang thực chứng nhiều loại thần thông khác nhau, tất cả đều nhờ tu tập và làm cho sung mãn chính bốn nền tảng của thần thông này."
 
 <!-- seg: dn18:22.13 -->
-"Thưa chư thiên cõi Tam thập tam thiên, quý vị có thấy nơi ta uy lực thần thông như thế này không?"
+"Thưa chư thiên cõi Tam thập tam thiên, quý vị có thấy nơi tôi uy lực thần thông như thế này không?"
 
 <!-- seg: dn18:22.14 -->
 "Thưa vâng, Đại Phạm thiên."
 
 <!-- seg: dn18:22.15 -->
-"Thưa quý vị, ta cũng nhờ tu tập và làm cho sung mãn chính bốn nền tảng của thần thông này mà có thần lực lớn lao và uy lực lớn lao như vậy."
+"Thưa quý vị, tôi cũng nhờ tu tập và làm cho sung mãn chính bốn nền tảng của thần thông này mà có thần lực lớn lao và uy lực lớn lao như vậy."
 
 <!-- seg: dn18:23.1 -->
 Bạch Thế Tôn, đó là chủ đề mà Phạm thiên Sanaṅkumāra đã nói.
