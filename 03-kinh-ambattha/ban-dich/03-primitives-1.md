@@ -48,7 +48,7 @@ Họ là tiện dân, và vẫn cứ là tiện dân, lại không kính trọng
 [Chú thích: Ambaṭṭha khinh dòng Sakya là "tiện dân" (ibbha) vì họ không trọng văn hóa Vệ-đà. Chữ ibbha bắt nguồn từ một từ phi-A-ri-a có nghĩa là "con voi" (ibha); bản phụ chú giải thích chữ này bằng hatthigopakā, tức "những người giữ voi". Ban đầu nó chỉ những cư dân bản địa chuyên thuần dưỡng voi; xem Chāndogya Upaniṣad 1.10. Trong Kinh Snp 3.1:18.4, Đức Thế Tôn gọi dân tộc của mình là "dân bản địa" (niketino), những người gắn bó lâu đời với vùng đất.]
 
 <!-- seg: dn3:1.12.8 -->
-Thưa ngài Gotama, điều ấy thật chẳng thích đáng, thật chẳng phải lẽ: dòng Sakya là tiện dân, và vẫn cứ là tiện dân, lại không kính trọng bà-la-môn, không tôn trọng bà-la-môn, không nể vì bà-la-môn, không cung kính bà-la-môn, không thờ phụng bà-la-môn."
+Thưa ngài Gotama, điều ấy thật chẳng vừa lòng, thật chẳng phải lẽ: dòng Sakya là tiện dân, và vẫn cứ là tiện dân, lại không kính trọng bà-la-môn, không tôn trọng bà-la-môn, không nể vì bà-la-môn, không cung kính bà-la-môn, không thờ phụng bà-la-môn."
 
 <!-- seg: dn3:1.12.9 -->
 Thế là thanh niên Ambaṭṭha lần thứ nhất ném chữ "tiện dân" vào dòng Sakya.

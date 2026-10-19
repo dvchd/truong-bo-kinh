@@ -45,8 +45,8 @@ Bà-la-môn thời ấy tin rằng sinh ra trong giai cấp nào thì phẩm gi�
 | | |
 |---|---|
 | Đoạn văn (segment) | **437** — khớp 100% với nguồn SuttaCentral |
-| Từ (chính văn, không kể chú thích) | **15.106** |
-| Từ (toàn bộ, kể cả chú thích) | **21.227** |
+| Từ (chính văn, không kể chú thích) | **15.102** |
+| Từ (toàn bộ, kể cả chú thích) | **21.223** |
 | Chú thích `[Chú thích: …]` | **93** |
 | Liên kết mục lục | **18** — đã kiểm tra, không có liên kết hỏng |
 | Tệp bản dịch từng phần | 14 nội dung + lời giới thiệu + thuật ngữ + nguồn |

@@ -14,7 +14,7 @@ Tôi đi đến nhà họp chung của dòng Sakya.
 Lúc bấy giờ, khá nhiều người Sakya và các vương tử Sakya đang ngồi trên những chiếc ghế cao trong nhà họp chung, lấy ngón tay chọc nhau, cười khúc khích, đùa giỡn với nhau. Thật tình, tôi ngờ họ đang cười nhạo chính tôi, và cũng chẳng ai mời tôi ngồi vào một chỗ nào.
 
 <!-- seg: dn3:1.13.5 -->
-Thưa ngài Gotama, điều ấy thật chẳng thích đáng, thật chẳng phải lẽ: dòng Sakya là tiện dân, và vẫn cứ là tiện dân, lại không kính trọng bà-la-môn, không tôn trọng bà-la-môn, không nể vì bà-la-môn, không cung kính bà-la-môn, không thờ phụng bà-la-môn."
+Thưa ngài Gotama, điều ấy thật chẳng vừa lòng, thật chẳng phải lẽ: dòng Sakya là tiện dân, và vẫn cứ là tiện dân, lại không kính trọng bà-la-môn, không tôn trọng bà-la-môn, không nể vì bà-la-môn, không cung kính bà-la-môn, không thờ phụng bà-la-môn."
 
 <!-- seg: dn3:1.13.6 -->
 Thế là thanh niên Ambaṭṭha lần thứ hai ném chữ "tiện dân" vào dòng Sakya.
@@ -46,7 +46,7 @@ sát-đế-lợi, phệ-xá và thủ-đà-la —
 rốt cuộc chỉ trở thành những kẻ hầu hạ cho bà-la-môn.
 
 <!-- seg: dn3:1.14.8 -->
-Thưa ngài Gotama, điều ấy thật chẳng thích đáng, thật chẳng phải lẽ: dòng Sakya là tiện dân, và vẫn cứ là tiện dân, lại không kính trọng bà-la-môn, không tôn trọng bà-la-môn, không nể vì bà-la-môn, không cung kính bà-la-môn, không thờ phụng bà-la-môn."
+Thưa ngài Gotama, điều ấy thật chẳng vừa lòng, thật chẳng phải lẽ: dòng Sakya là tiện dân, và vẫn cứ là tiện dân, lại không kính trọng bà-la-môn, không tôn trọng bà-la-môn, không nể vì bà-la-môn, không cung kính bà-la-môn, không thờ phụng bà-la-môn."
 
 <!-- seg: dn3:1.14.9 -->
 Thế là thanh niên Ambaṭṭha lần thứ ba ném chữ "tiện dân" vào dòng Sakya.
