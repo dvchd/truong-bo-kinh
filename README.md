@@ -71,7 +71,7 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 ## Sổ tay người đọc
 
 Bộ kinh dày hơn 600.000 từ, nhiều đoạn lặp và nhiều thuật ngữ cổ. Thư mục [`so-tay/`](so-tay/) có
-chín tài liệu hỗ trợ (mục lục đầy đủ: [`so-tay/README.md`](so-tay/README.md)):
+mười một tài liệu hỗ trợ (mục lục đầy đủ: [`so-tay/README.md`](so-tay/README.md)):
 
 | Tệp | Dùng để |
 |---|---|
@@ -80,11 +80,12 @@ chín tài liệu hỗ trợ (mục lục đầy đủ: [`so-tay/README.md`](so-
 | [`so-tay/02-ban-do-lien-ket.md`](so-tay/02-ban-do-lien-ket.md) | Thấy bài nào liên quan bài nào (có số liệu đo được) |
 | [`so-tay/03-thuat-ngu.md`](so-tay/03-thuat-ngu.md) | Tra thuật ngữ, hiểu tám khái niệm khó nhất |
 | [`so-tay/04-cho-kho.md`](so-tay/04-cho-kho.md) | Mười ba đoạn khó hiểu nhất, giải thích kèm ghi chú học giả |
-| [`so-tay/05-mau-thuan.md`](so-tay/05-mau-thuan.md) | Sáu chỗ các bài có vẻ nói khác nhau |
+| [`so-tay/05-mau-thuan.md`](so-tay/05-mau-thuan.md) | Bảy chỗ các bài có vẻ nói khác nhau |
 | [`so-tay/06-doc-them.md`](so-tay/06-doc-them.md) | Chú giải, bản dịch khác, sách học thuật |
 | [`so-tay/07-theo-tung-bai.md`](so-tay/07-theo-tung-bai.md) | Bảng tra 34 bài: chỗ dễ vấp và cách đọc |
 | [`so-tay/08-bien-co-hai-lan.md`](so-tay/08-bien-co-hai-lan.md) | Những biến cố được kể hai lần |
 | [`so-tay/09-hoi-dap.md`](so-tay/09-hoi-dap.md) | Mười hai câu hỏi thường gặp |
+| [`so-tay/10-giai-thich-them.md`](so-tay/10-giai-thich-them.md) | Một điểm đáng biết cho 21 bài còn lại |
 
 ## Cấu trúc kho
 

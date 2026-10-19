@@ -12,11 +12,12 @@ Sổ tay này viết để tránh điều đó.
 | [`02-ban-do-lien-ket.md`](02-ban-do-lien-ket.md) | Bài nào liên quan bài nào, tỉ lệ trùng văn bản đo được, sáu nhóm bài |
 | [`03-thuat-ngu.md`](03-thuat-ngu.md) | Thuật ngữ giải bằng tiếng Việt thường; tám khái niệm khó nhất được giải thích dài |
 | [`04-cho-kho.md`](04-cho-kho.md) | Mười ba đoạn khó hiểu nhất, giải thích kèm ghi chú của học giả đương đại để tra |
-| [`05-mau-thuan.md`](05-mau-thuan.md) | Sáu chỗ các bài có vẻ nói khác nhau, và cách hiểu |
+| [`05-mau-thuan.md`](05-mau-thuan.md) | Bảy chỗ các bài có vẻ nói khác nhau, và cách hiểu |
 | [`06-doc-them.md`](06-doc-them.md) | Chú giải truyền thống, bản dịch khác, sách học thuật, chỗ còn tranh luận |
 | [`07-theo-tung-bai.md`](07-theo-tung-bai.md) | Bảng tra 34 bài: mỗi bài một chỗ dễ vấp và cách đọc |
 | [`08-bien-co-hai-lan.md`](08-bien-co-hai-lan.md) | Những biến cố được kể hai lần: cặp bài nào trùng, khác ở đâu |
 | [`09-hoi-dap.md`](09-hoi-dap.md) | Mười hai câu người đọc hay hỏi, trả lời gọn |
+| [`10-giai-thich-them.md`](10-giai-thich-them.md) | Một điểm đáng biết cho 21 bài còn lại |
 
 ---
 

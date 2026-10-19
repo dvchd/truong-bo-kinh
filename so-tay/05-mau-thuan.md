@@ -82,7 +82,8 @@ phép lạ mà kinh khuyến khích.
 ## 4. Bài 33 và bài 34: hai danh mục trùng nhau
 
 Cả hai bài đều là bảng tra giáo lý, đều đi từ một pháp đến mười pháp, và trùng nhau khoảng **6–10%**
-văn bản (xem [`02-ban-do-lien-ket.md`](02-ban-do-lien-ket.md)).
+văn bản (xem [`02-ban-do-lien-ket.md`](02-ban-do-lien-ket.md)). Con số chính xác hơn: hai bài **dùng
+chung 70 mục** — ghi chú của SuttaCentral xác nhận.
 
 Khác nhau ở **cách sắp**:
 
@@ -127,6 +128,23 @@ Chánh đẳng giác khác, mà biết chắc nhờ **hiểu pháp**, qua ví d�
 
 Đây cũng là lời nhắc: một chỗ "không tìm thấy ở đâu khác" là dữ kiện của **lịch sử văn bản**, không phải
 bằng chứng ai đó bịa.
+
+---
+
+## 7. Bài 14: Phật tính đã định từ lúc sinh, hay do công phu?
+
+**Chỗ lạ.** Trong bài 14, có đoạn ngụ ý rằng việc thành Phật đã **được định sẵn từ lúc sinh**. Nhưng
+phần lớn các bài khác kể rằng vị Bồ-tát phải **nỗ lực rất nhiều** mới chứng ngộ, thậm chí từng tu khổ
+hạnh sai đường.
+
+**Vì sao không phải lỗi.** Ghi chú của SuttaCentral nói thẳng đây là một chỗ **đối lập với phần còn lại
+của các bài kinh**, và đó là dấu hiệu của một **truyền thống đang hình thành**: hình ảnh "bậc đại nhân
+được định trước" thuộc về lớp văn học về các vị Phật quá khứ, còn hình ảnh "tu chứng khó nhọc" thuộc về
+lớp kể chuyện đời Đức Thế Tôn.
+
+**Cách đọc.** Đừng cố dung hòa hai hình ảnh thành một câu chuyện duy nhất. Hãy đọc bài 14 như một bài
+về **tính quy luật**: bảy vị Phật đều trải qua cùng một khuôn, và điều đó cho thấy giác ngộ không phải
+chuyện may rủi.
 
 ---
 
