@@ -167,7 +167,7 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 | 3 | **Kinh Ambaṭṭha** | [`03-kinh-ambattha/Kinh-Ambattha.md`](03-kinh-ambattha/Kinh-Ambattha.md) | — |
 | 4 | **Kinh Soṇadaṇḍa** | [`04-kinh-sonadanda/Kinh-Sonadanda.md`](04-kinh-sonadanda/Kinh-Sonadanda.md) | 297 đoạn · 13.751 từ |
 | 5 | **Kinh Kūṭadanta** | [`05-kinh-kutadanta/Kinh-Kutadanta.md`](05-kinh-kutadanta/Kinh-Kutadanta.md) | 374 đoạn · 17.369 từ |
-| 6 | **Kinh Mahāli** | [`06-kinh-mahali/Kinh-Mahali.md`](06-kinh-mahali/Kinh-Mahali.md) | 156 đoạn · 9.706 từ |
+| 6 | **Kinh Mahāli** | [`06-kinh-mahali/Kinh-Mahali.md`](06-kinh-mahali/Kinh-Mahali.md) | 156 đoạn · 9.753 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
 

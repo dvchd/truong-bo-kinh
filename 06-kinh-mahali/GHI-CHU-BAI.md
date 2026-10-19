@@ -99,4 +99,8 @@ nhất hoá thành một tên.
   bài 2 (Kinh Sa-môn Quả) mục 4.3. Xem `../HUONG-DAN-CHUNG.md` §5.
 - **Câu hỏi lặp phải giống hệt từng chữ**: "Khi một tỳ-kheo biết và thấy như thế, có thích hợp
   để nói về vị ấy rằng: …?" xuất hiện 4 lần (16.8, 17.4, 18.2, 19.2).
+- **Câu đáp KHÔNG giống nhau ở cả bốn lượt.** Pali: `kallaṁ` (thích hợp) ở 16.10, 17.6, 18.5 —
+  và `na kallaṁ` (không thích hợp) chỉ ở 19.4, lượt cuối cùng, sau khi vị ấy đã đoạn tận lậu
+  hoặc. Ba lượt đầu là khẳng định, lượt cuối là phủ định. Đừng làm cho chúng giống nhau: chính
+  chỗ đổi ấy mới là điểm đóng của lập luận.
 - Chú thích của Sujato ở bài này có link HTML; bỏ link, giữ nội dung.

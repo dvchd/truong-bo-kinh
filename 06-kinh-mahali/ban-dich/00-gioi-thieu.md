@@ -79,13 +79,19 @@ bình thường, ai cũng đi được.
 Tại Kosambī, trong tịnh xá của Ghosita. Hai du sĩ tên Muṇḍiya và Jāliya đến hỏi Đức Thế Tôn một
 câu mà cả Ấn Độ thời ấy đang tranh cãi: *"Thân và hồn là một thứ, hay là hai thứ khác nhau?"*
 
-Đức Thế Tôn không trả lời trực tiếp. Ngài dẫn họ đi qua từng tầng định — sơ thiền, nhị thiền, tam
-thiền, tứ thiền, rồi các tầng định vô sắc — và ở mỗi tầng, Ngài hỏi lại:
+Đức Thế Tôn không trả lời trực tiếp. Ngài dẫn họ đi qua từng tầng định, và ở mỗi tầng, Ngài hỏi
+lại:
 
 > "Khi một tỳ-kheo biết và thấy như thế, có thích hợp để nói về vị ấy rằng 'thân và hồn là một',
 > hay rằng 'thân và hồn là hai thứ khác nhau' không?"
 
-Hai du sĩ đáp: không thích hợp.
+Hai du sĩ đáp: **thích hợp** — nghĩa là, đứng ở chỗ ấy thì nói thế cũng được.
+
+Và cứ thế qua bốn tầng thiền-na, rồi qua các tầng định vô sắc, rồi qua từng thắng trí: ba lượt
+đầu họ đáp "thích hợp". Đến lượt cuối — khi vị ấy đã đoạn tận lậu hoặc, đã biết "không còn tái
+sinh nữa" — họ đáp: **không thích hợp**.
+
+Đó là chỗ cái lập luận đóng lại.
 
 Và Đức Thế Tôn nói: *"Ta biết và thấy như thế. Nhưng ta không nói: 'thân và hồn là một', cũng
 không nói: 'thân và hồn là hai thứ khác nhau'."*

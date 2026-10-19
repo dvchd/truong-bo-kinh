@@ -67,8 +67,12 @@ nhau?"*
 > "Khi một tỳ-kheo biết và thấy như thế, có thích hợp để nói về vị ấy rằng 'thân và hồn là một',
 > hay rằng 'thân và hồn là hai thứ khác nhau' không?"
 
-Hai du sĩ đáp: không thích hợp. Và Ngài nói: *"Ta biết và thấy như thế. Nhưng ta không nói
+Hai du sĩ đáp: **thích hợp**. Và Ngài nói: *"Ta biết và thấy như thế. Nhưng ta không nói
 'thân và hồn là một', cũng không nói 'thân và hồn là hai thứ khác nhau'."*
+
+Rồi Ngài đi tiếp qua bốn tầng thiền-na, rồi các tầng định vô sắc, rồi từng thắng trí. Ba lượt
+đầu hai du sĩ đáp "thích hợp". Đến lượt cuối — khi vị ấy đã đoạn tận lậu hoặc — họ đáp:
+**không thích hợp**. Đó là chỗ lập luận đóng lại.
 
 Đó là toàn bộ câu trả lời: không phải "không biết", không phải "cả hai đều đúng", mà là **cách
 hỏi ấy không còn áp dụng được cho người đã thấy**.
@@ -95,7 +99,7 @@ Và hai du sĩ kia cũng vậy: họ hỏi một câu tưởng là về thực t
 | | |
 |---|---|
 | Đoạn văn (segment) | **156** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **9.706** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **9.753** |
 | Chú thích trong thân bản dịch | **30** — của Bhikkhu Sujato, cùng vài chú thích của người dịch |
 | Liên kết mục lục | **10** |
 | Tệp bản dịch từng phần | 7 nội dung + lời giới thiệu + thuật ngữ + nguồn |

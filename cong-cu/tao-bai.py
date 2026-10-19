@@ -129,13 +129,22 @@ def main():
     if not starts or starts[0] != keys[0]:
         starts = [k for k in keys if not k.endswith('.0')][:1] + starts
     # gom lai: khoi dau bang cac khoa truoc tieu de dau tien (nhan de)
-    first_heading = next(i for i, k in enumerate(keys) if k.endswith('.0'))
+    head_idx = [i for i, k in enumerate(keys) if k.endswith('.0')]
     blocks = []
-    if first_heading:
+    if not head_idx:
+        # bai khong chia muc: nhan de la cac khoa dnN:0.x, phan con lai la mot khoi
+        ttl = [k for k in keys if k.startswith(tag + ':0.')]
+        body = [k for k in keys if k not in ttl]
+        if ttl:
+            blocks.append(('00-title', 'Nhan de', ttl[0], ttl[-1]))
+        blocks.append(('01-toan-bai', 'Toan bai', body[0], body[-1]))
+        head_idx = []
+    first_heading = head_idx[0] if head_idx else 0
+    if first_heading and not blocks:
         blocks.append(('00-title', 'Nhan de', keys[0], keys[first_heading - 1]))
     for i, k in enumerate(keys):
-        if not k.endswith('.0'):
-            continue
+        if not k.endswith('.0') or not head_idx:
+            break
         nxt = next((x for x in keys[i + 1:] if x.endswith('.0')), None)
         end = keys[keys.index(nxt) - 1] if nxt else keys[-1]
         num = k.split(':')[1][:-2]
