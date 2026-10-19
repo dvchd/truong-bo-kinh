@@ -71,7 +71,7 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 ## Sổ tay người đọc
 
 Bộ kinh dày hơn 600.000 từ, nhiều đoạn lặp và nhiều thuật ngữ cổ. Thư mục [`so-tay/`](so-tay/) có
-mười hai tài liệu hỗ trợ (mục lục đầy đủ: [`so-tay/README.md`](so-tay/README.md)):
+mười ba tài liệu hỗ trợ (mục lục đầy đủ: [`so-tay/README.md`](so-tay/README.md)):
 
 | Tệp | Dùng để |
 |---|---|
@@ -87,6 +87,7 @@ mười hai tài liệu hỗ trợ (mục lục đầy đủ: [`so-tay/README.md
 | [`so-tay/09-hoi-dap.md`](so-tay/09-hoi-dap.md) | Mười hai câu hỏi thường gặp |
 | [`so-tay/10-giai-thich-them.md`](so-tay/10-giai-thich-them.md) | Một điểm đáng biết cho 21 bài còn lại |
 | [`so-tay/11-ra-soat.md`](so-tay/11-ra-soat.md) | Đã kiểm tra những gì trên toàn bộ 34 bài |
+| [`so-tay/12-tong-hop.md`](so-tay/12-tong-hop.md) | **Bản giải thích tổng hợp** cho toàn bộ 34 bài |
 
 ## Cấu trúc kho
 
