@@ -69,6 +69,19 @@ Một câu khen ngợi có tính **cấu trúc**: nó nói giáo lý này không
 hay phần cuối vô ích — mọi phần đều có nghĩa. Người Việt quen gọi là "sơ thiện, trung thiện, hậu
 thiện".
 
+**Một chỗ chưa đồng nhất.** Đây là công thức duy nhất trong bộ mà bản dịch chưa dùng thống nhất một
+cách nói. Đo được 18 chỗ trong thân bài, chia làm năm cách diễn đạt — hai cách chính là:
+
+- "có ý nghĩa và **lời lẽ khéo léo**" — 7 chỗ (bài 2, 3, 8, 10, 11, 12, 13);
+- "có ý nghĩa và **văn cú**" — 6 chỗ (bài 3, 4, 5, 6, 12).
+
+Ba cách còn lại khác ở vế sau ("và chỉ ra", "tuyên bố", "và Ngài nêu rõ"). Nghĩa không đổi, nhưng đọc
+liền nhiều bài sẽ thấy lệch. Đây là chỗ đã ghi nhận để thống nhất về sau; chưa sửa ngay vì mỗi lần sửa
+công thức là phải tính lại toàn bộ số liệu thống kê trong sổ tay này.
+
+Chín danh hiệu của Đức Thế Tôn thì ngược lại: **23 lần, chỉ một cách viết duy nhất** — đã kiểm tra tự
+động.
+
 ### 3.3. Xuất gia (12 bài, 24 lần)
 
 > *"Vị ấy cạo bỏ râu tóc, mặc y màu vàng nghệ, rời bỏ đời sống tại gia mà xuất gia sống đời không
