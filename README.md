@@ -1,5 +1,9 @@
 # Trường Bộ Kinh — bản dịch tiếng Việt hiện đại
 
+> ## ✅ ĐÃ HOÀN THÀNH TRỌN BỘ — 34/34 bài kinh
+>
+> **610.239 từ · 16.401 đoạn văn · 34 bài kinh · khớp 100% số đoạn với nguồn SuttaCentral**
+
 Bản dịch trọn bộ **Trường Bộ Kinh** (*Dīgha Nikāya*) — tập đầu của **Kinh Tạng** trong Tam Tạng Pali của Phật giáo Nguyên thủy, gồm **34 bài kinh dài**.
 
 Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là bản dịch **đọc được bằng tiếng Việt đời thường**: người đọc phổ thông hôm nay — kể cả người chưa từng học Pali hay thuật ngữ Phật học — mở ra là hiểu được Đức Phật đang nói gì, với ai, và tại sao điều đó quan trọng.
@@ -43,7 +47,7 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 | **31** | **Kinh Giáo Thọ Thi-la-ca** | *Siṅgāla Sutta* | ✅ **Hoàn thành** → [`31-kinh-giao-tho/`](31-kinh-giao-tho/) |
 | **32** | **Kinh A-sát-nẵng-chi** | *Āṭānāṭiya Sutta* | ✅ **Hoàn thành** → [`32-kinh-a-sat-nang/`](32-kinh-a-sat-nang/) |
 | **33** | **Kinh Đại Chung** | *Saṅgīti Sutta* | ✅ **Hoàn thành** → [`33-kinh-dai-chung/`](33-kinh-dai-chung/) |
-| 34 | Kinh Thập Thượng | *Dasuttara Sutta* | ⏳ Chưa bắt đầu |
+| **34** | **Kinh Thập Thượng** | *Dasuttara Sutta* | ✅ **Hoàn thành** → [`34-kinh-thap-thuong/`](34-kinh-thap-thuong/) |
 
 > **Quy ước thư mục:** mỗi bài nằm trong một thư mục `NN-ten-bai`, với `NN` là số thứ tự
 > hai chữ số (`01`–`34`). Nhờ vậy thư mục tự sắp đúng thứ tự kinh, và kho tự hiện ra
@@ -337,6 +341,7 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 | 31 | **Kinh Giáo Thọ Thi-la-ca** | [`31-kinh-giao-tho/Kinh-Giao-Tho.md`](31-kinh-giao-tho/Kinh-Giao-Tho.md) | 267 đoạn · 7.062 từ |
 | 32 | **Kinh A-sát-nẵng-chi** | [`32-kinh-a-sat-nang/Kinh-A-Sat-Nang.md`](32-kinh-a-sat-nang/Kinh-A-Sat-Nang.md) | 574 đoạn · 10.829 từ |
 | 33 | **Kinh Đại Chung** | [`33-kinh-dai-chung/Kinh-Dai-Chung.md`](33-kinh-dai-chung/Kinh-Dai-Chung.md) | 1.167 đoạn · 33.439 từ |
+| 34 | **Kinh Thập Thượng** | [`34-kinh-thap-thuong/Kinh-Thap-Thuong.md`](34-kinh-thap-thuong/Kinh-Thap-Thuong.md) | 894 đoạn · 22.136 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
 
