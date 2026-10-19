@@ -145,7 +145,7 @@ cùng một công thức.
 |---|---|---|---|
 | `Sakya` | Sakya (Thích-ca) | Xuất hiện 4 lần trong công thức giới thiệu Đức Thế Tôn; người đọc cần biết đây là dòng họ, không phải địa danh | 2.2, 3.5 |
 | `khattiya` | Sát-đế-lỵ | Xuất hiện trong lập luận về bốn giai cấp; nếu không có trong bảng, người đọc dễ nhầm với `vaṇṇa` | 6.17, 6.25 |
-| `brahmacariya` | phạm hạnh | Là khái niệm trung tâm của đời sống xuất gia trong bài; xuất hiện ở phần mở đầu và phần kết | 2.6, 23.4, 23.13 |
+| `brahmacariya` | phạm hạnh | Là khái niệm trung tâm của đời sống xuất gia trong bài; xuất hiện ở phần mở đầu và đoạn cuối mục 6 | 2.6, 23.4, 23.13 |
 | `sugata` | Thiện thệ | Một trong chín danh hiệu trong công thức ca ngợi; nếu thiếu, công thức bị hiểu như một chuỗi tính từ rời | 2.4, 3.7, 6.22 |
 
 **Cân nhắc nhưng không thêm:** `yojana` ("do-tuần", 6.46) đã được dịch quen thuộc;

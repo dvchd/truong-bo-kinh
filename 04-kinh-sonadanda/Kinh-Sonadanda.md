@@ -1145,7 +1145,7 @@ Các thuật ngữ dưới đây được dùng thống nhất trong toàn bộ 
 trong kinh; cột "Dịch" là cách bản dịch này chọn, có thể không trùng với cách gọi quen thuộc
 trong các bản Hán-Việt.
 
-## 1. Nhân vật và địa danh
+### 1. Nhân vật và địa danh
 
 | Pali | Dịch | Ghi chú |
 |---|---|---|
@@ -1161,7 +1161,7 @@ trong các bản Hán-Việt.
 | Gaggarā | Gaggarā | Hồ sen nơi Đức Thế Tôn tạm trú ngoài thành Campā; tên gọi mô phỏng tiếng nước chảy |
 | Sakya | Sakya (Thích-ca) | Dòng họ của Đức Thế Tôn; 2.2, 3.5 |
 
-## 2. Năm yếu tố làm nên một bà-la-môn
+### 2. Năm yếu tố làm nên một bà-la-môn
 
 Đây là nhóm thuật ngữ quan trọng nhất của bài kinh — cả bài xoay quanh năm yếu tố này.
 
@@ -1175,7 +1175,7 @@ trong các bản Hán-Việt.
 | paññā | tuệ | Một trong hai yếu tố **không thể bỏ**. Trong danh sách năm yếu tố, tính từ `paññavā` được dịch là "thông minh, sáng dạ" (13.9, 14.9, 15.8, 16.7, 20.12) |
 | sīlapaññāṇa | giới và tuệ | `sīlapaññāṇaṁ … aggamakkhāyati` = "giới và tuệ được xem là điều cao quý nhất trên đời" |
 
-## 3. Bà-la-môn và học vấn
+### 3. Bà-la-môn và học vấn
 
 | Pali | Dịch | Ghi chú |
 |---|---|---|
@@ -1194,7 +1194,7 @@ trong các bản Hán-Việt.
 | rājabhogga | đất của vua | Vùng đất thuộc quyền vua; việc "ban cho" nằm ở `dinnaṁ` phía sau, không phải ở từ này |
 | brahmadeyya | ân tứ của vua ban cho bà-la-môn | `rājadāyaṁ brahmadeyyaṁ` = "vua ban cho, một ân tứ dành cho bà-la-môn" |
 
-## 4. Giáo lý và tu tập
+### 4. Giáo lý và tu tập
 
 | Pali | Dịch | Ghi chú |
 |---|---|---|
@@ -1214,7 +1214,7 @@ trong các bản Hán-Việt.
 | pañca nīvaraṇa | năm triền cái | Tham muốn, sân hận, hôn trầm thụy miên, trạo cử hối quá, hoài nghi |
 | mahāpurisalakkhaṇa | tướng của bậc đại nhân | Ba mươi hai tướng |
 
-## 5. Cách xưng hô
+### 5. Cách xưng hô
 
 | Ai nói → ai | Pali | Tiếng Việt |
 |---|---|---|
@@ -1231,7 +1231,7 @@ trong lời của cả 500 bà-la-môn và Soṇadaṇḍa, nên không xếp ri
 Trong cả bài không ai dùng đại từ thô. Đó không phải chỗ dịch non: cuộc tranh luận này căng
 thẳng đúng vì hai bên đều giữ lễ, và cái lễ ấy là một phần của vũ khí.
 
-## 6. Vài chỗ dễ dịch sai
+### 6. Vài chỗ dễ dịch sai
 
 | Chỗ | Cái dễ nhầm | Đúng ra |
 |---|---|---|
