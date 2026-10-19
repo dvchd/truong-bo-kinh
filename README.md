@@ -316,7 +316,7 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 | 22 | **Kinh Đại Niệm Xứ** | [`22-kinh-dai-niem-xu/Kinh-Dai-Niem-Xu.md`](22-kinh-dai-niem-xu/Kinh-Dai-Niem-Xu.md) | 454 đoạn · 17.657 từ |
 | 23 | **Kinh Pāyāsi** | [`23-kinh-payasi/Kinh-Payasi.md`](23-kinh-payasi/Kinh-Payasi.md) | 715 đoạn · 19.918 từ |
 | 24 | **Kinh Pāṭika** | [`24-kinh-patika/Kinh-Patika.md`](24-kinh-patika/Kinh-Patika.md) | 581 đoạn · 16.535 từ |
-| 25 | **Kinh Ưu-đàm-bà-la** | [`25-kinh-udumbarika/Kinh-Udumbarika.md`](25-kinh-udumbarika/Kinh-Udumbarika.md) | 383 đoạn · 12.351 từ |
+| 25 | **Kinh Ưu-đàm-bà-la** | [`25-kinh-udumbarika/Kinh-Udumbarika.md`](25-kinh-udumbarika/Kinh-Udumbarika.md) | 383 đoạn · 13.755 từ |
 | 26 | **Kinh Chuyển Luân Vương** | [`26-kinh-chuyen-luan-vuong/Kinh-Chuyen-Luan-Vuong.md`](26-kinh-chuyen-luan-vuong/Kinh-Chuyen-Luan-Vuong.md) | 355 đoạn · 13.504 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
