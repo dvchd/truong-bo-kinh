@@ -49,6 +49,8 @@ Và này Subha, một tỳ-kheo từ bỏ việc giết hại chúng sinh, xa l�
 <!-- seg: dn10:1.12.1 -->
 Và điều này cũng thuộc về giới hạnh của vị ấy.
 
+[Chú thích: (của người dịch) Nguồn ở đây lược một khối dài — từ đoạn "lấy của không cho" đến hết các nhóm giới trung và giới rộng lớn, gộp mười bảy đoạn thành một câu chốt. Bản đầy đủ nằm ở bài 2, các mục 4.3.1 đến 4.3.3.]
+
 <!-- seg: dn10:1.28.1 -->
 Lại có những sa-môn và bà-la-môn, sau khi đã dùng những bữa ăn do người ta cúng dường vì lòng tin, vẫn còn nuôi sống mình bằng lối mưu sinh sai trái qua những môn thuật hèn hạ như thế này.
 

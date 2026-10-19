@@ -83,6 +83,10 @@ Tám thắng trí: thân do tâm tạo → các thần thông → thiên nhĩ �
    sẽ không còn gì. Khai triển đủ mọi `…pe…`, trừ khi nguồn ghi rõ đoạn ấy đã được Sujato lược.
 3. **Đoạn `00b-mo-dau` (35 đoạn)** là phần mở đầu dài: Subha đến hỏi về ba nhóm, và các bà-la-môn
    khác phàn nàn. Không có tiêu đề mục — bắt đầu ngay bằng `<!-- seg: dn10:1.1.1 -->`.
+3b. **`sīla` vẫn là "giới"**, nhưng khi nằm trong ba tầng của con đường tu tập thì giữ lối nói của
+   bài 2: "thành tựu giới hạnh", "đầy đủ giới hạnh", "tự chế ngự trong giới hạnh", "thuộc về giới
+   hạnh của vị ấy". Lý do: người đọc sẽ đọc cả hai bài, và bài 2 đã dùng lối nói ấy xuyên suốt;
+   đổi ở đây sẽ tạo cảm giác hai bản dịch khác nhau. Tên nhóm và tiêu đề mục vẫn là "giới".
 4. **Ba nhóm phải có ba câu chốt song song**: cuối mỗi nhóm, Đức Thế Tôn kết luận "đây là phương
    diện … mà các bà-la-môn … không có". Đọc cả ba trước khi dịch để chọn một khuôn.
 5. Số đoạn trong nguồn dùng dạng `1.6.5.0`, `2.1.0` — đoạn có `.0` ở cuối là **tiêu đề mục**.
