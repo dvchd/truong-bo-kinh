@@ -9,7 +9,7 @@
 `01-campa.md`, `02-sonadanda.md`, `03-buddha.md`, `04-second-thoughts.md`,
 `05-brahmin.md`, `06-ethics-wisdom.md`, `07-conclusion.md`.
 
-**Thời điểm chốt:** 09:45, sau khi các tệp 02, 05, 06, 07 vừa được sửa lần cuối (09:37–09:42).
+**Thời điểm chốt:** 09:48, sau khi các tệp 02, 05, 07 được sửa lần cuối lúc 09:46.
 
 **Phương pháp:** đọc từng đoạn theo marker `<!-- seg: dn4:X.Y -->`; đối chiếu Pali trong
 `nguon/api_dn4.json` (297 khóa) và bản Sujato cùng API; đếm bằng script trên phần chữ của
@@ -22,20 +22,17 @@ và quy chuẩn của hai bài trước (DN 2, DN 3).
 ## Tóm tắt
 
 - **24 điểm phát hiện:** 16 lỗi thực chất và 8 điểm bổ sung/vi chỉnh.
-- **11 lỗi đã sửa trong hai tệp thuộc phạm vi:** 3 lỗi dữ kiện ở `nguon-tham-khao.md`,
-  8 lỗi/nhầm lẫn ở `bang-thuat-ngu.md` (trong đó có 1 lỗi Pali và 1 lỗi nghĩa).
-- **5 lỗi còn lại trong thân bản dịch** (không được sửa theo phân công):
-  - **nặng:** `02-sonadanda.md` 5.19–5.20 dịch `rājabhogga` thành "đất vua ban" (đúng là
-    "đất của vua") và thêm "khô" vào `satiṇakaṭṭhodaka`; câu 1.4 đã được sửa đúng nên
-    cùng một công thức mà hai chỗ nói khác nhau;
-  - **nhẹ:** `07-conclusion.md` 24.5 dùng "Xin Ngài" thay vì "thưa ngài Gotama";
-  - **nhẹ:** `05-brahmin.md` 13.7 và 20.5 dùng "có vẻ đẹp rạng rỡ tột bậc", khác với
-    "sắc vóc thanh tú tột bậc" ở 5.11/6.11 dù Pali giống hệt;
-  - **nhẹ:** `02-sonadanda.md` chú thích 5.11 viết "Phạm thiên" thường, trong khi chính văn
-    viết "Phạm Thiên".
-- **Kết luận: CẦN SỬA.** Hai tệp thuộc phạm vi đã ĐẠT sau khi sửa. Toàn bản dịch còn 1 lỗi
-  nghĩa đáng kể ở 5.19–5.20; nếu hai câu ấy được sửa theo 1.4 thì có thể chuyển sang ĐẠT
-  (ba điểm nhẹ còn lại không chặn).
+- **16 lỗi đều đã được sửa:** 11 lỗi trong hai tệp thuộc phạm vi (tôi sửa) và 5 lỗi trong
+  thân bản dịch (các rà soát viên phụ trách tệp sửa lúc 09:46, tôi kiểm tra lại và xác nhận).
+- **5 lỗi thân bản dịch đã sửa:**
+  - `02-sonadanda.md` 5.19–5.20: "đầy cỏ khô… đất vua ban" → **"đầy cỏ… đất của vua"**,
+    khớp với 1.4;
+  - `07-conclusion.md` 24.5: "Xin Ngài" → **"Thưa ngài Gotama, xin ngài…"**;
+  - `05-brahmin.md` 13.7, 20.5: "có vẻ đẹp rạng rỡ tột bậc" → **"sắc vóc thanh tú tột bậc"**,
+    khớp với 5.11/6.11;
+  - `02-sonadanda.md` chú thích 5.11: "Phạm thiên" → **"Phạm Thiên"**.
+- **Kết luận: ĐẠT.** Hai tệp thuộc phạm vi đạt sau khi sửa; thân bản dịch không còn lỗi
+  nhất quán nào tôi phát hiện được ở thời điểm chốt.
 
 ---
 
@@ -65,7 +62,7 @@ Số lần đếm trên 7 tệp văn bản kinh (01–07), không tính `00-titl
 | `gahapati` | gia chủ | 13 | 1.0, 2.1, 2.8, 3.2, 3.4, 3.9, 3.12, 6.25, 9.3, 23.4 | Đạt |
 | `ajjhāyaka` | người tụng đọc | 4 | 5.10, 13.6, 14.7, 20.6 | Đạt |
 | `suja` | muôi tế lễ | 5 | 13.9, 14.9, 15.8, 16.7, 20.12 | Đạt |
-| `rājabhogga` | đất của vua | 1 (01) + 2 (02) | 1.4; 5.19–5.20 | **Không đạt ở 02**: 5.19–5.20 còn "đất vua ban" |
+| `rājabhogga` | đất của vua | 1 (01) + 2 (02) | 1.4; 5.19–5.20 | Đạt — 01 và 02 đều dùng "đất của vua" |
 | `brahmadeyya` | ân tứ của vua ban cho bà-la-môn | 3 | 1.4, 5.19, 5.20 | Đạt |
 | `titthakara` | người sáng lập giáo phái | 1 | 6.28 | Đạt |
 | `upāsaka` | người cư sĩ | 2 | 24.0, 24.5 | Đạt |
@@ -81,23 +78,24 @@ Số lần đếm trên 7 tệp văn bản kinh (01–07), không tính `00-titl
 **Kết luận mục A:** tám cặp thuật ngữ trọng tâm đều nhất quán:
 `sīla` → "giới", `paññā` → "tuệ", `vaṇṇa` → "sắc vóc", `jāti` → "dòng dõi",
 `manta` → "thần chú", `aṅga` → "yếu tố", `khatta` → "quản gia",
-`vijjācaraṇa` → "trí tuệ và hạnh tu". Ngoại lệ duy nhất là `rājabhogga` ở 02 5.19–5.20.
+`vijjācaraṇa` → "trí tuệ và hạnh tu". Không còn ngoại lệ sau khi 02 5.19–5.20 được sửa.
 
 ---
 
-## B. Lỗi nhất quán còn lại trong thân bản dịch
+## B. Năm lỗi nhất quán trong thân bản dịch (đã sửa lúc 09:46)
 
-| # | Đoạn | Hiện tại | Vấn đề | Mức | Đề nghị |
+| # | Đoạn | Trước khi sửa | Vấn đề | Mức | Hiện tại |
 |---|---|---|---|---|---|
-| B1 | 02 5.19, 5.20 | "đầy cỏ khô, củi và nước… là đất vua ban" | `satiṇakaṭṭhodaka` = "có cỏ, củi và nước", không có "khô"; `rājabhogga` = đất thuộc quyền vua, không phải "vua ban" (việc ban nằm ở `dinnaṁ`). Câu 1.4 đã sửa thành "đầy cỏ… là đất của vua", nên 5.19–5.20 lặp lại công thức ấy với hai chữ sai | **Nặng** | Chép đúng câu 1.4 cho cả hai đoạn |
-| B2 | 02 5.19, 5.20 | "là đất vua ban, do vua… ban cho, là ân tứ của vua ban cho bà-la-môn" | Hệ quả của B1: "ban" lặp ba lần trong một câu, hai lần là do dịch sai `rājabhogga` | **Nặng** | "là đất của vua, do vua… ban cho, là ân tứ của vua ban cho bà-la-môn" |
-| B3 | 07 24.5 | "Xin Ngài nhận con làm người cư sĩ…" | Quy ước Soṇadaṇḍa → Đức Thế Tôn là "thưa ngài Gotama"; "Ngài" là đại từ thay thế, không sai hẳn, nhưng lệch quy ước ở câu quy y | Thấp | "Thưa ngài Gotama, xin ngài nhận con…" (giữ "ngài" thường) |
-| B4 | 05 13.7, 20.5 | "có ngoại hình đẹp, dễ nhìn, dễ mến, có vẻ đẹp rạng rỡ tột bậc" | Pali 5.11 = 6.11 = 13.7 = 20.5 (`abhirūpo… paramāya vaṇṇapokkharatāya samannāgato…`), nhưng 5.11/6.11 dịch "dung mạo đẹp đẽ… sắc vóc thanh tú tột bậc", còn 13.7/20.5 dịch khác; `vaṇṇa` không hiện trong cụm "vẻ đẹp rạng rỡ" | Thấp | Thống nhất theo 5.11/6.11: "sắc vóc thanh tú tột bậc" |
-| B5 | 02 chú thích 5.11 | "ánh sáng như Phạm thiên" | Cùng một chú thích dùng "Phạm thiên" thường, trong khi chính văn 5.11 và 03 6.11 viết "Phạm Thiên"; không thống nhất cách viết hoa | Thấp | "Phạm Thiên" cho thống nhất |
+| B1 | 02 5.19, 5.20 | "đầy cỏ khô, củi và nước… là đất vua ban" | `satiṇakaṭṭhodaka` = "có cỏ, củi và nước", không có "khô"; `rājabhogga` = đất thuộc quyền vua, không phải "vua ban" (việc ban nằm ở `dinnaṁ`). Câu 1.4 đã sửa thành "đầy cỏ… là đất của vua", nên 5.19–5.20 lặp lại công thức ấy với hai chữ sai | **Nặng** | **Đã sửa:** "đầy cỏ, củi và nước… là đất của vua" |
+| B2 | 02 5.19, 5.20 | "là đất vua ban, do vua… ban cho, là ân tứ của vua ban cho bà-la-môn" | Hệ quả của B1: "ban" lặp ba lần trong một câu, hai lần là do dịch sai `rājabhogga` | **Nặng** | **Đã sửa:** "là đất của vua, do vua… ban cho, là ân tứ…" |
+| B3 | 07 24.5 | "Xin Ngài nhận con làm người cư sĩ…" | Quy ước Soṇadaṇḍa → Đức Thế Tôn là "thưa ngài Gotama"; "Ngài" viết hoa lệch quy ước ở câu quy y | Thấp | **Đã sửa:** "Thưa ngài Gotama, xin ngài nhận con…" |
+| B4 | 05 13.7, 20.5 | "có ngoại hình đẹp, dễ nhìn, dễ mến, có vẻ đẹp rạng rỡ tột bậc" | Pali 5.11 = 6.11 = 13.7 = 20.5 (`abhirūpo… paramāya vaṇṇapokkharatāya samannāgato…`), nhưng 5.11/6.11 dịch "dung mạo đẹp đẽ… sắc vóc thanh tú tột bậc", còn 13.7/20.5 dịch khác | Thấp | **Đã sửa:** "có dung mạo đẹp đẽ… sắc vóc thanh tú tột bậc" |
+| B5 | 02 chú thích 5.11 | "ánh sáng như Phạm thiên" | Cùng một chú thích dùng "Phạm thiên" thường, trong khi chính văn 5.11 và 03 6.11 viết "Phạm Thiên" | Thấp | **Đã sửa:** "Phạm Thiên" |
 
-**Ghi chú:** B1 và B2 là cùng một câu ở hai đoạn, nên thực tế chỉ cần sửa hai dòng. Đây là
-lỗi đáng kể nhất còn lại vì 1.4 đã đúng, người đọc thấy ngay sự khác nhau giữa hai lần
-cùng một công thức.
+**Ghi chú:** B1 và B2 là cùng một câu ở hai đoạn, nên thực tế chỉ sửa hai dòng. Đây từng là
+lỗi đáng kể nhất vì 1.4 đã đúng, người đọc thấy ngay sự khác nhau giữa hai lần cùng một
+công thức. Cả năm lỗi đã được sửa trước khi tôi chốt báo cáo; tôi đã đọc lại từng đoạn và
+xác nhận.
 
 **Những điểm đã kiểm tra, không còn lỗi:**
 
@@ -105,7 +103,7 @@ cùng một công thức.
 - Đại từ thô: 0 lần "ngươi", "mày", "thằng".
 - Đức Thế Tôn gọi Soṇadaṇḍa: "này bà-la-môn", đại từ "ông"; 0 lần "ngài" khi Ngài nói với ông.
 - Soṇadaṇḍa gọi Đức Thế Tôn: "ngài Gotama" (24.4, 24.6), "thưa ngài Gotama" (24.10);
-  ngoại lệ duy nhất là "Xin Ngài" viết hoa ở 24.5 (B3).
+  24.5 đã sửa thành "Thưa ngài Gotama, xin ngài nhận con…".
 - 500 bà-la-môn gọi Soṇadaṇḍa: "thưa ngài Soṇadaṇḍa" (2.1, 5.1); Soṇadaṇḍa gọi họ:
   "thưa quý vị" (2.1, 20.1, 20.2).
 - 297/297 marker đoạn, khớp `keys_order` của `api_dn4.json`.
@@ -124,7 +122,8 @@ cùng một công thức.
 **Những tuyên bố đã kiểm tra và thấy đúng:**
 
 - **297 đoạn** — khớp đúng 297 khóa của `nguon/api_dn4.json` (kể cả `0.1`, `0.2`).
-- **DA 22 / T i 094a18** — đúng; bản dịch Hán bắt đầu ở 94a19, còn tham chiếu kinh là 94a18.
+- **DA 22 / T i 094a18** — đúng theo `parallels` của SuttaCentral; bản Hán thuộc phái
+  Pháp Tạng bộ, là bản đầy đủ duy nhất trong Hán tạng.
 - **SHT Sutta 56 (SHT 1251, 1352c)** — đúng theo `parallels` của SuttaCentral.
 - **SF 42 (Hartmann 1989: 57–61)** — đúng.
 - **MN 95 (Caṅkī) và MN 36** — đúng; MN 95 có công thức lập luận, MN 36 có khối mô tả
@@ -161,7 +160,7 @@ phải thiếu nghiêm trọng.
 |---|---|---|
 | "Đức Thế Tôn", không "Đức Phật" | **Đạt** | 0 lần "Đức Phật" trong 7 tệp |
 | Đức Thế Tôn → Soṇadaṇḍa: "này bà-la-môn" + "ông" | **Đạt** | 9 lần "này bà-la-môn"; không có "ngài" khi Ngài nói với ông |
-| Soṇadaṇḍa → Đức Thế Tôn: "thưa ngài Gotama" | **Đạt, 1 ngoại lệ nhẹ** | 24.4, 24.6, 24.10 dùng "ngài Gotama"; 24.5 "Xin Ngài" viết hoa (B3) |
+| Soṇadaṇḍa → Đức Thế Tôn: "thưa ngài Gotama" | **Đạt** | 24.4, 24.6, 24.10 dùng "ngài Gotama"; 24.5 đã sửa thành "Thưa ngài Gotama, xin ngài…" |
 | Không "ngươi", "mày", "thằng" | **Đạt** | 0 lần |
 | 500 bà-la-môn → Soṇadaṇḍa: `bhavaṁ soṇadaṇḍo` | **Đạt** | Bảng cũ ghi sai `bho soṇadaṇḍa`; đã sửa thành `bhavaṁ soṇadaṇḍo` |
 | Soṇadaṇḍa → 500 bà-la-môn: `bho`, `bhavanto`, `bhonto` | **Đạt** | Đã thêm `bhavanto`, `bhonto` vào bảng |
@@ -209,12 +208,11 @@ phải thiếu nghiêm trọng.
 thực tế; nguồn tham khảo không còn tuyên bố sai về PTS, về *In the Buddha's Words* hay về
 "bản Hán cổ nhất", và đã ghi đủ công lao của cả Sujato lẫn người dịch.
 
-**Toàn bản dịch: CẦN SỬA.** Lỗi nặng nhất còn lại là `02-sonadanda.md` 5.19–5.20: cùng một
-công thức địa danh với 1.4 nhưng dịch `rājabhogga` thành "đất vua ban" và thêm "khô" vào
-`satiṇakaṭṭhodaka`; câu 1.4 đã đúng nên mâu thuẫn hiện rõ. Sửa hai câu này theo 1.4 là đủ
-để hết lỗi nghĩa. Ba điểm nhẹ còn lại (07 24.5 "Xin Ngài"; 05 13.7/20.5 lệch công thức;
-02 chú thích 5.11 "Phạm thiên") không chặn việc chuyển sang ĐẠT, nhưng nên sửa để bản dịch
-nhất quán hoàn toàn.
+**Toàn bản dịch: ĐẠT.** Năm lỗi nhất quán trong thân bản dịch (02 5.19–5.20; 07 24.5;
+05 13.7/20.5; 02 chú thích 5.11) đã được sửa lúc 09:46. Tôi đã đọc lại cả năm chỗ: công thức
+địa danh ở 5.19–5.20 nay khớp 1.4; câu quy y 24.5 dùng "Thưa ngài Gotama"; công thức dung mạo
+ở 13.7/20.5 khớp 5.11/6.11; chú thích 5.11 viết "Phạm Thiên". Không còn lỗi nhất quán nào
+tôi phát hiện được ở thời điểm chốt.
 
-**Số lỗi:** 16 lỗi thực chất (11 đã sửa trong phạm vi, 5 còn lại trong thân bản dịch) và
-8 điểm bổ sung/vi chỉnh; tổng 24 điểm.
+**Số lỗi:** 16 lỗi thực chất (11 đã sửa trong phạm vi, 5 đã sửa trong thân bản dịch) và
+8 điểm bổ sung/vi chỉnh; tổng 24 điểm. **Kết luận: ĐẠT.**
