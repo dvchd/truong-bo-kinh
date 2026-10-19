@@ -1144,4 +1144,4 @@ Các vị ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: dn32:13.7 -->
 
-Kinh A-sát-nẵng-chi, bài thứ ba mươi hai, đã hoàn thành.
+Kinh Āṭānāṭiya, bài thứ ba mươi hai, đã hoàn thành.

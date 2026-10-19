@@ -33,4 +33,4 @@
 | lý do Dạ-xoa không tin | vì Ngài dạy **năm giới** — không phải vì Ngài tranh chấp |
 | cấu trúc | hai **phần tụng** (bhāṇavāra), không phải hai chương nội dung |
 | danh sách tên | giữ nguyên Pali khi không có phiên âm chuẩn, **không bỏ tên nào** |
-| colophon | **"Kinh A-sát-nẵng-chi, bài thứ ba mươi hai, đã hoàn thành."** |
+| colophon | **"Kinh Āṭānāṭiya, bài thứ ba mươi hai, đã hoàn thành."** |

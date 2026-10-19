@@ -1,4 +1,4 @@
-# Kinh Giáo Thọ Thi-la-ca — *Siṅgāla Sutta*
+# Kinh Giáo Thọ Siṅgāla — *Siṅgāla Sutta*
 
 > Bài kinh số 31 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
 
@@ -77,7 +77,7 @@ phận**. Đó là định nghĩa của **"đảnh lễ sáu hướng"** trong P
 | | |
 |---|---|
 | Đoạn văn (segment) | **267** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **7.203** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **7.082** |
 | Trang PTS | iii.180–193 |
 
 ---

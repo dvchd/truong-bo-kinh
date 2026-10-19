@@ -98,4 +98,4 @@ Rồi Đức Thế Tôn, sau khi đã rống lên tiếng rống sư tử tại 
 Còn gia chủ Sandhāna thì ngay lúc ấy trở về Rājagaha.
 
 <!-- seg: dn25:24.8 -->
-Kinh Ưu-đàm-bà-la, bài thứ hai mươi lăm, đã hoàn thành.
+Kinh Udumbarika, bài thứ hai mươi lăm, đã hoàn thành.

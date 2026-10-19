@@ -11,7 +11,7 @@
 
 ### Các bản dịch khác đã đối chiếu
 
-- **Thích Minh Châu**, *Trường Bộ Kinh* (1991) — *Kinh Ưu-đàm-bà-la Sư Tử Hống*.
+- **Thích Minh Châu**, *Trường Bộ Kinh* (1991) — *Kinh Udumbarika Sư Tử Hống*.
 - **Maurice Walshe**, *The Long Discourses of the Buddha* (1987) — *The Lion's Roar at Udumbara*.
 - **T. W. Rhys Davids**, *Dialogues of the Buddha* III (1921) — *The Udumbarika-Sīhanāda Sutta*.
 

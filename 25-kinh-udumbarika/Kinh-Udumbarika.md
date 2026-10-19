@@ -90,38 +90,16 @@ Và vì hình ảnh cái cây: người ta thường dừng lại ở **vỏ câ
 | | |
 |---|---|
 | Đoạn văn (segment) | **383** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.167** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.077** |
 | Trang PTS | iii.36–57 |
 
 ---
 
 <!-- seg: dn25:0.1 -->
-## Mục lục
-
-- [Lời giới thiệu](#lời-giới-thiệu)
-- [**Trường Bộ Kinh — bài kinh số 25: Kinh Ưu-đàm-bà-la**](#trường-bộ-kinh--bài-kinh-số-25-kinh-ưu-đàm-bà-la)
-- [**1. Chuyện du sĩ Nigrodha**](#1-chuyện-du-sĩ-nigrodha)
-- [**2. Thuyết khổ hạnh vì ghê tởm tội lỗi**](#2-thuyết-khổ-hạnh-vì-ghê-tởm-tội-lỗi)
-- [**2.1. Ô nhiễm**](#21-ô-nhiễm)
-- [**2.2. Đạt đến chồi non**](#22-đạt-đến-chồi-non)
-- [**2.3. Đạt đến vỏ cây**](#23-đạt-đến-vỏ-cây)
-- [**2.4. Đạt đến gỗ mềm**](#24-đạt-đến-gỗ-mềm)
-- [**3. Đạt đến lõi gỗ**](#3-đạt-đến-lõi-gỗ)
-- [**4. Nigrodha cảm thấy chán nản**](#4-nigrodha-cảm-thấy-chán-nản)
-- [**5. Đỉnh cao của đời sống tâm linh**](#5-đỉnh-cao-của-đời-sống-tâm-linh)
-- [**6. Các du sĩ cảm thấy chán nản**](#6-các-du-sĩ-cảm-thấy-chán-nản)
-
----
-
-- [Bảng thuật ngữ](#bảng-thuật-ngữ)
-- [Nguồn tham khảo](#nguồn-tham-khảo)
-
----
-
-## Trường Bộ Kinh — bài kinh số 25: Kinh Ưu-đàm-bà-la
+## Trường Bộ Kinh — bài kinh số 25: Kinh Udumbarika
 
 <!-- seg: dn25:0.2 -->
-*Udumbarika Sutta* — bài kinh với du sĩ ở vườn cây udumbara (sung); Hán-Việt: Ưu-đàm-bà-la
+*Udumbarika Sutta* — bài kinh với du sĩ ở vườn cây udumbara (sung). Tên quen dùng trong kinh điển Việt: Kinh Ưu-đàm-bà-la
 
 ---
 
@@ -1322,7 +1300,7 @@ Rồi Đức Thế Tôn, sau khi đã rống lên tiếng rống sư tử tại 
 Còn gia chủ Sandhāna thì ngay lúc ấy trở về Rājagaha.
 
 <!-- seg: dn25:24.8 -->
-Kinh Ưu-đàm-bà-la, bài thứ hai mươi lăm, đã hoàn thành.
+Kinh Udumbarika, bài thứ hai mươi lăm, đã hoàn thành.
 
 ---
 
@@ -1363,7 +1341,7 @@ Kinh Ưu-đàm-bà-la, bài thứ hai mươi lăm, đã hoàn thành.
 | giáo lý trọng tâm | khổ hạnh **không phải** mục đích; thiếu giới/hộ trì căn/tỉnh giác thì khổ hạnh vô ích |
 | bốn hạng người | tự hành hạ · hành hạ người · cả hai · **không cả hai** (hạng được tán thán) |
 | câu kết | **"bảy ngày"** — mức tối thiểu để chứng ngộ |
-| colophon | **"Kinh Ưu-đàm-bà-la, bài thứ hai mươi lăm, đã hoàn thành."** |
+| colophon | **"Kinh Udumbarika, bài thứ hai mươi lăm, đã hoàn thành."** |
 
 ---
 
@@ -1380,7 +1358,7 @@ Kinh Ưu-đàm-bà-la, bài thứ hai mươi lăm, đã hoàn thành.
 
 ### Các bản dịch khác đã đối chiếu
 
-- **Thích Minh Châu**, *Trường Bộ Kinh* (1991) — *Kinh Ưu-đàm-bà-la Sư Tử Hống*.
+- **Thích Minh Châu**, *Trường Bộ Kinh* (1991) — *Kinh Udumbarika Sư Tử Hống*.
 - **Maurice Walshe**, *The Long Discourses of the Buddha* (1987) — *The Lion's Roar at Udumbara*.
 - **T. W. Rhys Davids**, *Dialogues of the Buddha* III (1921) — *The Udumbarika-Sīhanāda Sutta*.
 

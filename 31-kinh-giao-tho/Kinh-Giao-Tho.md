@@ -96,41 +96,16 @@ người làm có bổn phận với chủ.
 | | |
 |---|---|
 | Đoạn văn (segment) | **267** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **7.203** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **7.082** |
 | Trang PTS | iii.180–193 |
 
 ---
 
 <!-- seg: dn31:0.1 -->
-## Mục lục
-
-- [Lời giới thiệu](#lời-giới-thiệu)
-- [**Trường Bộ Kinh — bài kinh số 31: Kinh Giáo Thọ Thi-la-ca**](#trường-bộ-kinh--bài-kinh-số-31-kinh-giáo-thọ-thi-la-ca)
-- [**1. Sáu hướng**](#1-sáu-hướng)
-- [**2. Bốn nghiệp phiền não**](#2-bốn-nghiệp-phiền-não)
-- [**3. Bốn động cơ**](#3-bốn-động-cơ)
-- [**4. Sáu cửa làm mất tài sản**](#4-sáu-cửa-làm-mất-tài-sản)
-- [**5. Sáu điều tai hại của rượu và chất say**](#5-sáu-điều-tai-hại-của-rượu-và-chất-say)
-- [**6. Sáu điều tai hại của việc đi lang thang ban đêm**](#6-sáu-điều-tai-hại-của-việc-đi-lang-thang-ban-đêm)
-- [**7. Sáu điều tai hại của việc la cà hội hè**](#7-sáu-điều-tai-hại-của-việc-la-cà-hội-hè)
-- [**8. Sáu điều tai hại của cờ bạc**](#8-sáu-điều-tai-hại-của-cờ-bạc)
-- [**9. Sáu điều tai hại của bạn xấu**](#9-sáu-điều-tai-hại-của-bạn-xấu)
-- [**10. Sáu điều tai hại của sự lười biếng**](#10-sáu-điều-tai-hại-của-sự-lười-biếng)
-- [**11. Bạn giả**](#11-bạn-giả)
-- [**12. Bạn tốt**](#12-bạn-tốt)
-- [**13. Che chở sáu hướng**](#13-che-chở-sáu-hướng)
-
----
-
-- [Bảng thuật ngữ](#bảng-thuật-ngữ)
-- [Nguồn tham khảo](#nguồn-tham-khảo)
-
----
-
-## Trường Bộ Kinh — bài kinh số 31: Kinh Giáo Thọ Thi-la-ca
+## Trường Bộ Kinh — bài kinh số 31: Kinh Giáo Thọ Siṅgāla
 
 <!-- seg: dn31:0.2 -->
-*Siṅgāla Sutta* — bài kinh giáo thọ cho thanh niên Siṅgāla; Hán-Việt: Thi-la-ca
+*Siṅgāla Sutta* — bài kinh giáo thọ cho thanh niên Siṅgāla (Thi-la-ca). Tên quen dùng trong kinh điển Việt: Kinh Giáo Thọ Thi-la-ca
 
 ---
 
@@ -1256,7 +1231,7 @@ Xin Đức Thế Tôn ghi nhận con là người cư sĩ, từ hôm nay cho đ�
 
 <!-- seg: dn31:35.6 -->
 
-Kinh Giáo Thọ Thi-la-ca, bài thứ ba mươi mốt, đã hoàn thành.
+Kinh Giáo Thọ Siṅgāla, bài thứ ba mươi mốt, đã hoàn thành.
 
 ---
 
@@ -1298,7 +1273,7 @@ Kinh Giáo Thọ Thi-la-ca, bài thứ ba mươi mốt, đã hoàn thành.
 | bổn phận | **hai chiều**, mỗi chiều **năm điều** |
 | mở đầu | Siṅgāla đảnh lễ theo **lời cha dặn**, không phải theo giáo lý nào |
 | câu chốt | **"sáu hướng được che chở, không sợ hãi"** |
-| colophon | **"Kinh Giáo Thọ Thi-la-ca, bài thứ ba mươi mốt, đã hoàn thành."** |
+| colophon | **"Kinh Giáo Thọ Siṅgāla, bài thứ ba mươi mốt, đã hoàn thành."** |
 
 ---
 
@@ -1315,7 +1290,7 @@ Kinh Giáo Thọ Thi-la-ca, bài thứ ba mươi mốt, đã hoàn thành.
 
 ### Các bản dịch khác đã đối chiếu
 
-- **Thích Minh Châu**, *Trường Bộ Kinh* (1991) — *Kinh Giáo Thọ Thi-la-ca*.
+- **Thích Minh Châu**, *Trường Bộ Kinh* (1991) — *Kinh Giáo Thọ Siṅgāla*.
 - **Maurice Walshe**, *The Long Discourses of the Buddha* (1987) — *Advice to Sigālaka*.
 - **T. W. Rhys Davids**, *Dialogues of the Buddha* III (1921) — *The Sigālovāda Sutta*.
 

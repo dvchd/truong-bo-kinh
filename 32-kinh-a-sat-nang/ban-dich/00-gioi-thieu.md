@@ -62,5 +62,5 @@ nghĩa nội dung.
 | | |
 |---|---|
 | Đoạn văn (segment) | **574** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.077** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.045** |
 | Trang PTS | iii.194–206 |

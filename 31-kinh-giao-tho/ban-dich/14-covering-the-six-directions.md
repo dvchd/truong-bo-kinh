@@ -332,4 +332,4 @@ Xin Đức Thế Tôn ghi nhận con là người cư sĩ, từ hôm nay cho đ�
 
 <!-- seg: dn31:35.6 -->
 
-Kinh Giáo Thọ Thi-la-ca, bài thứ ba mươi mốt, đã hoàn thành.
+Kinh Giáo Thọ Siṅgāla, bài thứ ba mươi mốt, đã hoàn thành.

@@ -19,7 +19,7 @@
 
 - **Bài 14 — Kinh Đại Bổn**: cùng nói về ba mươi hai tướng, nhưng ở đó là **kể chuyện** (Đức Phật
   Vipassī), còn ở đây là **giảng giải nghiệp**.
-- **Bài 31 — Kinh Giáo Thọ Thi-la-ca**: bài dành cho người tại gia, tiếp sau.
+- **Bài 31 — Kinh Giáo Thọ Siṅgāla**: bài dành cho người tại gia, tiếp sau.
 - **Bản Hán tương ứng**: 《三十二相經》 ("Kinh Ba Mươi Hai Tướng"), *Trường A-hàm* 9.
 
 ### Ghi chú dựng văn bản

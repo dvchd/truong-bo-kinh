@@ -1,4 +1,4 @@
-# Ghi chú bài 31 — Kinh Giáo Thọ Thi-la-ca (Siṅgāla)
+# Ghi chú bài 31 — Kinh Giáo Thọ Siṅgāla (Siṅgāla)
 
 *Siṅgālasutta* (also *Siṅgālovādasutta*), DN 31 · PTS iii.180–193
 

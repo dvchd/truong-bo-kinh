@@ -62,30 +62,16 @@ nghĩa nội dung.
 | | |
 |---|---|
 | Đoạn văn (segment) | **574** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.077** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.045** |
 | Trang PTS | iii.194–206 |
 
 ---
 
 <!-- seg: dn32:0.1 -->
-## Mục lục
-
-- [Lời giới thiệu](#lời-giới-thiệu)
-- [**Trường Bộ Kinh — bài kinh số 32: Kinh A-sát-nẵng-chi**](#trường-bộ-kinh--bài-kinh-số-32-kinh-a-sát-nẵng-chi)
-- [**1. Phần tụng thứ nhất**](#1-phần-tụng-thứ-nhất)
-- [**2. Phần tụng thứ hai**](#2-phần-tụng-thứ-hai)
-
----
-
-- [Bảng thuật ngữ](#bảng-thuật-ngữ)
-- [Nguồn tham khảo](#nguồn-tham-khảo)
-
----
-
-## Trường Bộ Kinh — bài kinh số 32: Kinh A-sát-nẵng-chi
+## Trường Bộ Kinh — bài kinh số 32: Kinh Āṭānāṭiya
 
 <!-- seg: dn32:0.2 -->
-*Āṭānāṭiya Sutta* — bài hộ trì A-sát-nẵng-chi
+*Āṭānāṭiya Sutta* — bài hộ trì. Tên quen dùng trong kinh điển Việt: Kinh A-sát-nẵng-chi
 
 ---
 
@@ -2463,7 +2449,7 @@ Các vị ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: dn32:13.7 -->
 
-Kinh A-sát-nẵng-chi, bài thứ ba mươi hai, đã hoàn thành.
+Kinh Āṭānāṭiya, bài thứ ba mươi hai, đã hoàn thành.
 
 ---
 
@@ -2502,7 +2488,7 @@ Kinh A-sát-nẵng-chi, bài thứ ba mươi hai, đã hoàn thành.
 | lý do Dạ-xoa không tin | vì Ngài dạy **năm giới** — không phải vì Ngài tranh chấp |
 | cấu trúc | hai **phần tụng** (bhāṇavāra), không phải hai chương nội dung |
 | danh sách tên | giữ nguyên Pali khi không có phiên âm chuẩn, **không bỏ tên nào** |
-| colophon | **"Kinh A-sát-nẵng-chi, bài thứ ba mươi hai, đã hoàn thành."** |
+| colophon | **"Kinh Āṭānāṭiya, bài thứ ba mươi hai, đã hoàn thành."** |
 
 ---
 
@@ -2519,7 +2505,7 @@ Kinh A-sát-nẵng-chi, bài thứ ba mươi hai, đã hoàn thành.
 
 ### Các bản dịch khác đã đối chiếu
 
-- **Thích Minh Châu**, *Trường Bộ Kinh* (1991) — *Kinh A-sát-nẵng-chi*.
+- **Thích Minh Châu**, *Trường Bộ Kinh* (1991) — *Kinh Āṭānāṭiya*.
 - **Maurice Walshe**, *The Long Discourses of the Buddha* (1987) — *The Āṭānāṭiya Discourse*.
 - **T. W. Rhys Davids**, *Dialogues of the Buddha* III (1921) — *The Āṭānāṭiya Sutta*.
 
@@ -2527,7 +2513,7 @@ Kinh A-sát-nẵng-chi, bài thứ ba mươi hai, đã hoàn thành.
 
 - **Bài 20 — Kinh Đại Hội**: cùng bối cảnh chư thiên tụ họp, nhưng bài ấy nói về **lòng thành tín**,
   bài này nói về **sự hộ trì**.
-- **Bài 31 — Kinh Giáo Thọ Thi-la-ca**: bài trước.
+- **Bài 31 — Kinh Giáo Thọ Siṅgāla**: bài trước.
 - **Bản Hán tương ứng**: 《阿吒曩胝經》 ("Kinh A-tra-nẵng-chi"), *Trường A-hàm* 12.
 
 ### Ghi chú dựng văn bản

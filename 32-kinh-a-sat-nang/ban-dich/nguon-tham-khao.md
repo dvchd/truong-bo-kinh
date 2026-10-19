@@ -11,7 +11,7 @@
 
 ### Các bản dịch khác đã đối chiếu
 
-- **Thích Minh Châu**, *Trường Bộ Kinh* (1991) — *Kinh A-sát-nẵng-chi*.
+- **Thích Minh Châu**, *Trường Bộ Kinh* (1991) — *Kinh Āṭānāṭiya*.
 - **Maurice Walshe**, *The Long Discourses of the Buddha* (1987) — *The Āṭānāṭiya Discourse*.
 - **T. W. Rhys Davids**, *Dialogues of the Buddha* III (1921) — *The Āṭānāṭiya Sutta*.
 
@@ -19,7 +19,7 @@
 
 - **Bài 20 — Kinh Đại Hội**: cùng bối cảnh chư thiên tụ họp, nhưng bài ấy nói về **lòng thành tín**,
   bài này nói về **sự hộ trì**.
-- **Bài 31 — Kinh Giáo Thọ Thi-la-ca**: bài trước.
+- **Bài 31 — Kinh Giáo Thọ Siṅgāla**: bài trước.
 - **Bản Hán tương ứng**: 《阿吒曩胝經》 ("Kinh A-tra-nẵng-chi"), *Trường A-hàm* 12.
 
 ### Ghi chú dựng văn bản

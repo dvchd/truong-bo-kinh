@@ -1,4 +1,4 @@
-# Ghi chú bài 32 — Kinh A-sát-nẵng-chi (Āṭānāṭiya)
+# Ghi chú bài 32 — Kinh Āṭānāṭiya (Āṭānāṭiya)
 
 *Āṭānāṭiyasutta*, DN 32 · PTS iii.194–206
 

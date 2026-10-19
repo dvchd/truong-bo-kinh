@@ -11,7 +11,7 @@
 
 ### Các bản dịch khác đã đối chiếu
 
-- **Thích Minh Châu**, *Trường Bộ Kinh* (1991) — *Kinh Giáo Thọ Thi-la-ca*.
+- **Thích Minh Châu**, *Trường Bộ Kinh* (1991) — *Kinh Giáo Thọ Siṅgāla*.
 - **Maurice Walshe**, *The Long Discourses of the Buddha* (1987) — *Advice to Sigālaka*.
 - **T. W. Rhys Davids**, *Dialogues of the Buddha* III (1921) — *The Sigālovāda Sutta*.
 

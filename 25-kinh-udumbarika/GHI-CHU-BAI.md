@@ -1,4 +1,4 @@
-# Ghi chú bài 25 — Kinh Ưu-đàm-bà-la (Udumbarika)
+# Ghi chú bài 25 — Kinh Udumbarika (Udumbarika)
 
 *Udumbarikasīhanādasutta* (also *Udumbarikasutta*), DN 25 · PTS iii.36–57
 

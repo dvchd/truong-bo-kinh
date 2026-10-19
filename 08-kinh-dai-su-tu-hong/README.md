@@ -148,7 +148,7 @@ Toàn bộ quy ước chung nằm ở [`../HUONG-DAN-CHUNG.md`](../HUONG-DAN-CHU
 ### Quan hệ với các bài khác
 
 - **Bài 2 — Kinh Sa-môn Quả**: nguồn của khối văn con đường tu tập ở mục 5.
-- **Bài 25 — Kinh Ưu-đàm-bà-la**: cũng mở đầu bằng một du sĩ lõa thể, và cũng xoay quanh chỗ
+- **Bài 25 — Kinh Udumbarika**: cũng mở đầu bằng một du sĩ lõa thể, và cũng xoay quanh chỗ
   khác nhau giữa thiên nhãn và tuệ giải thoát.
 - **Bản Hán**: 《倮形梵志經》, *Trường A-hàm* 25 — cùng nhân vật, cùng chủ đề.
 

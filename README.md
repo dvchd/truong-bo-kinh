@@ -2,7 +2,7 @@
 
 > ## ✅ ĐÃ HOÀN THÀNH TRỌN BỘ — 34/34 bài kinh
 >
-> **627.082 từ · 16.401 đoạn văn · 34 bài kinh · khớp 100% số đoạn với nguồn SuttaCentral**
+> **626.839 từ · 16.401 đoạn văn · 34 bài kinh · khớp 100% số đoạn với nguồn SuttaCentral**
 
 Bản dịch trọn bộ **Trường Bộ Kinh** (*Dīgha Nikāya*) — tập đầu của **Kinh Tạng** trong Tam Tạng Pali của Phật giáo Nguyên thủy, gồm **34 bài kinh dài**.
 
@@ -38,14 +38,14 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 | **22** | **Kinh Đại Niệm Xứ** | *Mahāsatipaṭṭhāna Sutta* | ✅ **Hoàn thành** → [`22-kinh-dai-niem-xu/`](22-kinh-dai-niem-xu/) |
 | **23** | **Kinh Pāyāsi** | *Pāyāsi Sutta* | ✅ **Hoàn thành** → [`23-kinh-payasi/`](23-kinh-payasi/) |
 | **24** | **Kinh Pāṭika** | *Pāṭika Sutta* | ✅ **Hoàn thành** → [`24-kinh-patika/`](24-kinh-patika/) |
-| **25** | **Kinh Ưu-đàm-bà-la** | *Udumbarika Sutta* | ✅ **Hoàn thành** → [`25-kinh-udumbarika/`](25-kinh-udumbarika/) |
+| **25** | **Kinh Udumbarika** | *Udumbarika Sutta* | ✅ **Hoàn thành** → [`25-kinh-udumbarika/`](25-kinh-udumbarika/) |
 | **26** | **Kinh Chuyển Luân Vương** | *Cakkavattisīhanāda Sutta* | ✅ **Hoàn thành** → [`26-kinh-chuyen-luan-vuong/`](26-kinh-chuyen-luan-vuong/) |
 | **27** | **Kinh Khởi Thế Nhân Bổn** | *Aggañña Sutta* | ✅ **Hoàn thành** → [`27-kinh-khoi-the-nhan-bon/`](27-kinh-khoi-the-nhan-bon/) |
 | **28** | **Kinh Tự Hoan Hỷ** | *Sampasādanīya Sutta* | ✅ **Hoàn thành** → [`28-kinh-tu-hoan-hy/`](28-kinh-tu-hoan-hy/) |
 | **29** | **Kinh Đại Hỷ Kiến** | *Pāsādika Sutta* | ✅ **Hoàn thành** → [`29-kinh-dai-hy-kien/`](29-kinh-dai-hy-kien/) |
 | **30** | **Kinh Ba Mươi Hai Tướng** | *Lakkhaṇa Sutta* | ✅ **Hoàn thành** → [`30-kinh-tuong-lakkhana/`](30-kinh-tuong-lakkhana/) |
-| **31** | **Kinh Giáo Thọ Thi-la-ca** | *Siṅgāla Sutta* | ✅ **Hoàn thành** → [`31-kinh-giao-tho/`](31-kinh-giao-tho/) |
-| **32** | **Kinh A-sát-nẵng-chi** | *Āṭānāṭiya Sutta* | ✅ **Hoàn thành** → [`32-kinh-a-sat-nang/`](32-kinh-a-sat-nang/) |
+| **31** | **Kinh Giáo Thọ Siṅgāla** | *Siṅgāla Sutta* | ✅ **Hoàn thành** → [`31-kinh-giao-tho/`](31-kinh-giao-tho/) |
+| **32** | **Kinh Āṭānāṭiya** | *Āṭānāṭiya Sutta* | ✅ **Hoàn thành** → [`32-kinh-a-sat-nang/`](32-kinh-a-sat-nang/) |
 | **33** | **Kinh Đại Chung** | *Saṅgīti Sutta* | ✅ **Hoàn thành** → [`33-kinh-dai-chung/`](33-kinh-dai-chung/) |
 | **34** | **Kinh Thập Thượng** | *Dasuttara Sutta* | ✅ **Hoàn thành** → [`34-kinh-thap-thuong/`](34-kinh-thap-thuong/) |
 
@@ -277,18 +277,18 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 │   ├── ban-dich/
 │   └── nguon/
 │
-├── 25-kinh-udumbarika/         ← Bài kinh số 25: Kinh Ưu-đàm-bà-la  ✅
+├── 25-kinh-udumbarika/         ← Bài kinh số 25: Kinh Udumbarika  ✅
 ├── 26-kinh-chuyen-luan-vuong/  ← Bài kinh số 26: Kinh Chuyển Luân Vương  ✅
 │
 ├── 27-kinh-khoi-the-nhan-bon/  ← Bài kinh số 27: Kinh Khởi Thế Nhân Bổn  ✅
 ├── 28-kinh-tu-hoan-hy/         ← Bài kinh số 28: Kinh Tự Hoan Hỷ  ✅
 │
 ├── 29-kinh-dai-hy-kien/        ← Bài kinh số 29: Kinh Đại Hỷ Kiến  ✅
-├── 31-kinh-giao-tho/           ← Bài kinh số 31: Kinh Giáo Thọ Thi-la-ca  ✅
+├── 31-kinh-giao-tho/           ← Bài kinh số 31: Kinh Giáo Thọ Siṅgāla  ✅
 │
 ├── 30-kinh-tuong-lakkhana/     ← Bài kinh số 30: Kinh Ba Mươi Hai Tướng  ✅
 │
-├── 32-kinh-a-sat-nang/         ← Bài kinh số 32: Kinh A-sát-nẵng-chi  ✅
+├── 32-kinh-a-sat-nang/         ← Bài kinh số 32: Kinh Āṭānāṭiya  ✅
 │
 ├── 33-kinh-dai-chung/          ← Bài kinh số 33: Kinh Đại Chung  ✅
 │
@@ -332,14 +332,14 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 | 22 | **Kinh Đại Niệm Xứ** | [`22-kinh-dai-niem-xu/Kinh-Dai-Niem-Xu.md`](22-kinh-dai-niem-xu/Kinh-Dai-Niem-Xu.md) | 454 đoạn · 18.390 từ |
 | 23 | **Kinh Pāyāsi** | [`23-kinh-payasi/Kinh-Payasi.md`](23-kinh-payasi/Kinh-Payasi.md) | 715 đoạn · 20.290 từ |
 | 24 | **Kinh Pāṭika** | [`24-kinh-patika/Kinh-Patika.md`](24-kinh-patika/Kinh-Patika.md) | 581 đoạn · 16.942 từ |
-| 25 | **Kinh Ưu-đàm-bà-la** | [`25-kinh-udumbarika/Kinh-Udumbarika.md`](25-kinh-udumbarika/Kinh-Udumbarika.md) | 383 đoạn · 14.167 từ |
+| 25 | **Kinh Udumbarika** | [`25-kinh-udumbarika/Kinh-Udumbarika.md`](25-kinh-udumbarika/Kinh-Udumbarika.md) | 383 đoạn · 14.077 từ |
 | 26 | **Kinh Chuyển Luân Vương** | [`26-kinh-chuyen-luan-vuong/Kinh-Chuyen-Luan-Vuong.md`](26-kinh-chuyen-luan-vuong/Kinh-Chuyen-Luan-Vuong.md) | 355 đoạn · 13.794 từ |
 | 27 | **Kinh Khởi Thế Nhân Bổn** | [`27-kinh-khoi-the-nhan-bon/Kinh-Khoi-The-Nhan-Bon.md`](27-kinh-khoi-the-nhan-bon/Kinh-Khoi-The-Nhan-Bon.md) | 323 đoạn · 13.570 từ |
 | 28 | **Kinh Tự Hoan Hỷ** | [`28-kinh-tu-hoan-hy/Kinh-Tu-Hoan-Hy.md`](28-kinh-tu-hoan-hy/Kinh-Tu-Hoan-Hy.md) | 250 đoạn · 10.332 từ |
 | 29 | **Kinh Đại Hỷ Kiến** | [`29-kinh-dai-hy-kien/Kinh-Dai-Hy-Kien.md`](29-kinh-dai-hy-kien/Kinh-Dai-Hy-Kien.md) | 465 đoạn · 16.830 từ |
 | 30 | **Kinh Ba Mươi Hai Tướng** | [`30-kinh-tuong-lakkhana/Kinh-Tuong-Lakkhana.md`](30-kinh-tuong-lakkhana/Kinh-Tuong-Lakkhana.md) | 721 đoạn · 21.117 từ |
-| 31 | **Kinh Giáo Thọ Thi-la-ca** | [`31-kinh-giao-tho/Kinh-Giao-Tho.md`](31-kinh-giao-tho/Kinh-Giao-Tho.md) | 267 đoạn · 7.203 từ |
-| 32 | **Kinh A-sát-nẵng-chi** | [`32-kinh-a-sat-nang/Kinh-A-Sat-Nang.md`](32-kinh-a-sat-nang/Kinh-A-Sat-Nang.md) | 574 đoạn · 11.077 từ |
+| 31 | **Kinh Giáo Thọ Siṅgāla** | [`31-kinh-giao-tho/Kinh-Giao-Tho.md`](31-kinh-giao-tho/Kinh-Giao-Tho.md) | 267 đoạn · 7.082 từ |
+| 32 | **Kinh Āṭānāṭiya** | [`32-kinh-a-sat-nang/Kinh-A-Sat-Nang.md`](32-kinh-a-sat-nang/Kinh-A-Sat-Nang.md) | 574 đoạn · 11.045 từ |
 | 33 | **Kinh Đại Chung** | [`33-kinh-dai-chung/Kinh-Dai-Chung.md`](33-kinh-dai-chung/Kinh-Dai-Chung.md) | 1.167 đoạn · 34.352 từ |
 | 34 | **Kinh Thập Thượng** | [`34-kinh-thap-thuong/Kinh-Thap-Thuong.md`](34-kinh-thap-thuong/Kinh-Thap-Thuong.md) | 894 đoạn · 22.821 từ |
 
@@ -365,7 +365,7 @@ Mỗi bài hiện **hai tên**: tiêu đề tiếng Việt, và ngay dưới là
 *Pāyāsi Sutta* — bài kinh với thủ lĩnh Pāyāsi
 ```
 
-Cách đặt tên: **dịch nghĩa** khi tên Pali là danh từ chung (Brahmajāla → Phạm Võng, Dasuttara → Thập Thượng); **giữ Pali** khi là tên người (Ambaṭṭha, Pāyāsi, Lohicca); **dùng âm Hán-Việt quen** khi truyền thống Việt Nam đã có (Udumbarika → Ưu-đàm-bà-la, Siṅgāla → Thi-la-ca). Bảng đối chiếu đủ 34 tên ở [`HUONG-DAN-CHUNG.md`](HUONG-DAN-CHUNG.md) §9.
+Cách đặt tên: **dịch nghĩa** khi tên Pali có nghĩa (Brahmajāla → Phạm Võng, Dasuttara → Thập Thượng); **giữ nguyên Pali** khi là tên riêng (Ambaṭṭha, Pāyāsi, Lohicca, Udumbarika, Siṅgāla, Āṭānāṭiya). Không dùng âm Hán-Việt làm tên chính; ba bài có tên Hán-Việt quen được ghi chú thêm một dòng "Tên quen dùng trong kinh điển Việt": **Ưu-đàm-bà-la** (25), **Giáo Thọ Thi-la-ca** (31), **A-sát-nẵng-chi** (32). Bảng đối chiếu đủ 34 tên ở [`HUONG-DAN-CHUNG.md`](HUONG-DAN-CHUNG.md) §9.
 
 ---
 

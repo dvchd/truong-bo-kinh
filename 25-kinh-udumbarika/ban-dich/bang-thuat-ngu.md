@@ -35,4 +35,4 @@
 | giáo lý trọng tâm | khổ hạnh **không phải** mục đích; thiếu giới/hộ trì căn/tỉnh giác thì khổ hạnh vô ích |
 | bốn hạng người | tự hành hạ · hành hạ người · cả hai · **không cả hai** (hạng được tán thán) |
 | câu kết | **"bảy ngày"** — mức tối thiểu để chứng ngộ |
-| colophon | **"Kinh Ưu-đàm-bà-la, bài thứ hai mươi lăm, đã hoàn thành."** |
+| colophon | **"Kinh Udumbarika, bài thứ hai mươi lăm, đã hoàn thành."** |

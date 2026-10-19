@@ -96,7 +96,7 @@ Toàn bộ quy ước chung ở [`../HUONG-DAN-CHUNG.md`](../HUONG-DAN-CHUNG.md)
 ### Quan hệ với các bài khác
 
 - **Bài 14 — Kinh Đại Bổn**: ba mươi hai tướng trong một câu chuyện.
-- **Bài 31 — Kinh Giáo Thọ Thi-la-ca**: bài cho người tại gia.
+- **Bài 31 — Kinh Giáo Thọ Siṅgāla**: bài cho người tại gia.
 - **Bản Hán**: 《三十二相經》, *Trường A-hàm* 9.
 
 ---

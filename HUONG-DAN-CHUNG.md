@@ -221,16 +221,25 @@ ngài, và nhiều trang kinh điển Việt Nam cũng dùng lối ấy. Vì v�
 
 ### 9.2. Tên bài kinh
 
-Ba cách đặt tên, chọn theo loại tên Pali:
+**Hai cách, và chỉ hai cách** — chia theo một tiêu chí duy nhất: tên Pali ấy **có nghĩa** hay **là tên
+riêng**.
 
 | Loại tên Pali | Cách xử lý | Ví dụ |
 |---|---|---|
-| **Danh từ chung, thuật ngữ** | dịch nghĩa sang tiếng Việt | Brahmajāla → **Phạm Võng** · Sāmaññaphala → **Sa-môn Quả** · Mahāparinibbāna → **Đại Bát Niết-bàn** · Saṅgīti → **Đại Chung** · Dasuttara → **Thập Thượng** |
-| **Tên người** | giữ nguyên Pali | **Ambaṭṭha** · **Soṇadaṇḍa** · **Kūṭadanta** · **Mahāli** · **Jāliya** · **Poṭṭhapāda** · **Subha** · **Kevaddha** · **Lohicca** · **Janavasabha** · **Pāyāsi** · **Pāṭika** |
-| **Tên đã có âm Hán-Việt quen** | dùng âm Hán-Việt | Udumbarika → **Ưu-đàm-bà-la** · Siṅgāla → **Thi-la-ca** · Āṭānāṭiya → **A-sát-nẵng-chi** |
+| **Có nghĩa** (danh từ chung, thuật ngữ, ẩn dụ) | **dịch nghĩa sang tiếng Việt** | Brahmajāla → **Phạm Võng** · Sāmaññaphala → **Sa-môn Quả** · Mahāparinibbāna → **Đại Bát Niết-bàn** · Cakkavattisīhanāda → **Chuyển Luân Vương** · Saṅgīti → **Đại Chung** · Dasuttara → **Thập Thượng** |
+| **Là tên riêng** (tên người, tên địa danh, tên gọi xuất phát từ tên riêng) | **giữ nguyên dạng Pali** | **Ambaṭṭha** · **Soṇadaṇḍa** · **Kūṭadanta** · **Mahāli** · **Jāliya** · **Poṭṭhapāda** · **Subha** · **Kevaddha** · **Lohicca** · **Janavasabha** · **Pāyāsi** · **Pāṭika** · **Udumbarika** · **Siṅgāla** · **Āṭānāṭiya** |
 
-Lý do: dịch tên người sẽ làm mất dấu vết tra cứu (không ai tìm được "Ambaṭṭha" nếu nó thành "Vô
-Úy"), còn giữ nguyên tên Pali cho danh từ chung thì người đọc phổ thông không hiểu gì.
+Lý do: dịch tên riêng sẽ làm mất dấu vết tra cứu (không ai tìm được "Ambaṭṭha" nếu nó thành "Vô
+Úy"); còn giữ nguyên tên Pali cho danh từ chung thì người đọc phổ thông không hiểu gì.
+
+**Không dùng âm Hán-Việt làm tên chính.** Các tên như *A-ma-trú*, *Chủng Đức*, *Cứu-la-đàn-đầu*,
+*Bố-sá-bà-lâu*, *Tệ-túc*, *Phúng Tụng* là tên trong bản dịch của Hòa thượng Thích Minh Châu — đúng với
+truyền thống kinh điển Việt Nam, nhưng chính là kiểu chữ khó đọc mà bộ dịch này muốn tránh.
+
+**Ngoại lệ có ghi chú:** khi một tên Hán-Việt đã quá quen với người Việt (nhất là các bài được tụng
+đọc), ghi thêm một dòng "Tên quen dùng trong kinh điển Việt" ngay dưới tên chính — **không** dùng nó
+làm tiêu đề. Hiện có ba trường hợp: **Kinh Ưu-đàm-bà-la** (bài 25), **Kinh Giáo Thọ Thi-la-ca** (bài
+31), **Kinh A-sát-nẵng-chi** (bài 32).
 
 ### 9.3. Quy tắc trình bày: luôn có cả hai tên
 
@@ -274,13 +283,13 @@ tiếng Anh vẫn có tên gốc để tra. **Không bao giờ để tiêu đề
 | 22 | Kinh Đại Niệm Xứ | Mahāsatipaṭṭhāna | đại niệm xứ |
 | 23 | Kinh Pāyāsi | Pāyāsi | tên thủ lĩnh |
 | 24 | Kinh Pāṭika | Pāṭika | tên du sĩ Pāṭikaputta |
-| 25 | Kinh Ưu-đàm-bà-la | Udumbarika | bài kinh với du sĩ ở vườn cây udumbara (sung) |
+| 25 | Kinh Udumbarika | Udumbarika | bài kinh với du sĩ ở vườn cây udumbara (sung); quen gọi: Kinh Ưu-đàm-bà-la |
 | 26 | Kinh Chuyển Luân Vương | Cakkavattisīhanāda | tiếng rống sư tử về vua chuyển luân |
 | 27 | Kinh Khởi Thế Nhân Bổn | Aggañña | nguồn gốc tối thượng |
 | 28 | Kinh Tự Hoan Hỷ | Sampasādanīya | đưa đến tịnh tín |
 | 29 | Kinh Đại Hỷ Kiến | Pāsādika | khả ý — đưa đến tịnh tín |
 | 30 | Kinh Ba Mươi Hai Tướng | Lakkhaṇa | tướng của bậc đại nhân |
-| 31 | Kinh Giáo Thọ Thi-la-ca | Siṅgāla | bài giáo thọ cho thanh niên Siṅgāla |
-| 32 | Kinh A-sát-nẵng-chi | Āṭānāṭiya | bài hộ trì |
+| 31 | Kinh Giáo Thọ Siṅgāla | Siṅgāla | bài giáo thọ cho thanh niên Siṅgāla; quen gọi: Kinh Giáo Thọ Thi-la-ca |
+| 32 | Kinh Āṭānāṭiya | Āṭānāṭiya | bài hộ trì; quen gọi: Kinh A-sát-nẵng-chi |
 | 33 | Kinh Đại Chung | Saṅgīti | tụng đọc chung |
 | 34 | Kinh Thập Thượng | Dasuttara | thập thượng — đi lên mười lần |
