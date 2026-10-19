@@ -3,6 +3,9 @@
 *Mỗi mục ghi rõ bài và số hiệu đoạn (dòng `<!-- seg: dnN:x.y -->` ngay trên đoạn đó) để bạn tra lại
 trong bản dịch.*
 
+*Phần đánh dấu "Chú giải:" là ghi chú của Bhikkhu Sujato trên SuttaCentral tại đúng đoạn ấy — trích lại
+để bạn biết học giả đương đại giải thích thế nào.*
+
 ---
 
 ## 1. Bài 1 — "sáu mươi hai quan điểm" được đếm thế nào
@@ -23,6 +26,17 @@ phần thường hằng, một phần không**; cho rằng thế giới **hữu 
 từ một trải nghiệm thiền định, hoặc từ suy luận. Đọc kỹ phần cơ chế sẽ thấy bài kinh thực ra là một
 **bài về nhận thức luận**, không phải một bảng kê tội.
 
+**Chú giải.** Người dịch SuttaCentral ghi ở đoạn này: điểm tinh tế của bài không nằm ở việc bác từng
+quan điểm, mà ở chỗ **Đức Thế Tôn truy tất cả về tâm lý nền tảng của chúng**. Nói cách khác, bài kinh
+không tranh luận từng ý, mà chỉ ra *vì sao người ta lại nghĩ như vậy*.
+
+Cũng theo ghi chú ấy, hai chữ *pubbanta* và *aparanta* không phải "quá khứ" và "tương lai" thường —
+chúng là "khởi điểm đầu tiên" và "kết thúc cuối cùng", tức những suy đoán về nguồn gốc tuyệt đối và
+tận cùng tuyệt đối của sự sống. Hiểu đúng hai chữ này thì 62 quan điểm mới có nghĩa.
+
+Một chỗ khác đáng nhớ: kinh khác nói rằng **thân kiến** (tin vào một cái tôi) là gốc của cả 62 quan
+điểm ấy.
+
 **Đọc tiếp.** Bài 24 dùng lại chủ đề này nhưng ở dạng đối thoại; nên đọc bài 1 trước rồi bài 24.
 
 ---
@@ -39,6 +53,14 @@ thể làm được, ở một mức độ định rất sâu.
 
 Bài 2 dùng nó như **bằng chứng nội tại**: người tu có thể tự kiểm chứng giáo lý bằng trải nghiệm, không
 phải chỉ tin. Đó mới là điểm mà bài kinh muốn nhấn.
+
+**Chú giải.** Ghi chú của SuttaCentral giải thích rất gọn: "thân do tâm tạo" là **hình ảnh nội tâm của
+thân vật lý**. Trong đời sống thường, nó là cảm giác về vị trí và tư thế của thân (bạn nhắm mắt vẫn biết
+tay mình đang ở đâu); khi định sâu, cảm giác ấy trở nên rõ và mạnh hơn nhiều. Cách hiểu này làm dịu hẳn
+cảm giác "thần bí" của đoạn văn.
+
+Cũng theo ghi chú ấy, đoạn "tri kiến" và "thân do tâm tạo" này rất hiếm: chỉ có ở đây, ở bài 10 và ở
+MN 77.
 
 ---
 
@@ -68,6 +90,11 @@ nhấn mạnh **thức và danh-sắc nương nhau**: thức không thể tồn 
 Đây là câu trả lời gián tiếp cho câu hỏi "cái gì tái sinh": không có cái gì đi từ đời này sang đời
 khác — chỉ có **điều kiện này làm điều kiện cho điều kiện kia**.
 
+**Vì sao cùng một chuỗi mà kể nhiều lần, mỗi lần một kiểu?** Đó là **cùng một nguyên lý, nhiều lối
+vào**. Ghi chú của SuttaCentral nhắc rằng ý "thức và danh-sắc nương nhau" đã có từ bài 14 và còn gặp ở
+SN 12.65 và SN 12.67 — các bài khác nhau khai thác cùng một chủ đề từ các góc khác nhau, không phải
+đưa ra các phiên bản mâu thuẫn.
+
 **Đọc tiếp.** Bài 1 dùng cùng nguyên lý để bác quan điểm thường hằng và đoạn diệt.
 
 ---
@@ -79,6 +106,11 @@ này rất hiếm gặp và có nhiều cách dịch: thịt lợn rừng, nấm
 
 **Cách hiểu.** Bộ dịch này ghi rõ trong chú thích: **nghĩa chính xác không rõ**. Đây là chỗ mà giới
 nghiên cứu còn tranh luận, và bản thân kinh không giải thích.
+
+**Chú giải.** Ghi chú của SuttaCentral cho thêm ba dữ kiện: *sūkara* là "lợn", nhưng một số bản Hán
+dịch lại hiểu là "nấm"; *maddava* trong kinh Pháp Cú 377 mang nghĩa "chín quá, mềm nhũn"; và việc để
+thịt ủ cho mềm là thói quen nấu ăn thời ấy — nếu không nấu kỹ thì dễ sinh vi khuẩn. Nếu vậy, cái chết
+có thể đến từ một bữa ăn không được nấu kỹ, chứ không phải từ một món kỳ lạ.
 
 Điều quan trọng hơn không phải món ăn là gì, mà là **cấu trúc của câu chuyện**: một bữa ăn cuối, một
 cơn bệnh, và những lời dạy cuối cùng. Các bài 28 và 29 tiếp nối sau mốc ấy.
@@ -102,6 +134,14 @@ tâm, pháp. Người đọc dễ choáng vì lặp.
 
 Bốn nhóm này **không phải bốn bài tập khác nhau**, mà là bốn **lớp** của cùng một việc: nhìn cái đang
 xảy ra ngay lúc này.
+
+**Chú giải.** Mở đầu bài, cụm *ekāyano maggo* thường được dịch là "con đường duy nhất". Ghi chú của
+SuttaCentral cho biết cụm này **không** có nghĩa "chỉ có một đường": nó là "con đường đưa đến sự tụ
+hội" — nhiều yếu tố cùng quy về một mối, và trong bối cảnh bát chánh đạo, nó là yếu tố thứ bảy dẫn tới
+định (yếu tố thứ tám). Cách dịch "duy nhất" là cách hiểu về sau, không phải nghĩa gốc.
+
+Ghi chú ấy cũng nhắc một điểm thực hành rất hay: kinh không dạy "tập trung vào hơi thở" như một vật để
+ghim tâm, mà dạy **"thở" là một hoạt động** và mình mang chánh niệm tới hoạt động ấy.
 
 ---
 
@@ -129,6 +169,21 @@ chiều, không phải một bên phục tùng.
 
 ---
 
+## 8. Bài 30 — ba mươi hai tướng không phải phát minh của đạo Phật
+
+**Chỗ khó.** Danh sách 32 tướng trên thân nghe như chuyện thần kỳ: bánh xe dưới lòng bàn chân, lưỡi
+dài, gót chân tròn đầy. Người đọc hiện đại dễ gạt đi hoặc thấy khó chịu.
+
+**Cách hiểu.** Đây là **tư tưởng chung của thời đại**, không phải giáo lý riêng. Ghi chú của
+SuttaCentral chỉ ra danh sách tướng còn xuất hiện ở bài 14 và MN 91, và những văn bản chiêm tinh về sau
+như *Bṛhatsaṁhitā* cũng bàn về các tướng tương tự — nhưng các văn bản ấy quan tâm tướng **báo trước
+vận mệnh**, còn bài kinh này quan tâm **nhân quả đạo đức của từng tướng**.
+
+Đó chính là chỗ đọc: không đọc để tin vào tướng, mà đọc để thấy cách kinh biến một niềm tin dân gian
+thành một bài học về hành vi.
+
+---
+
 ## Bảng tra nhanh
 
 | Bài | Đoạn khó | Từ khóa |
@@ -139,4 +194,5 @@ chiều, không phải một bên phục tùng.
 | 15 | chuỗi duyên khởi | nāmarūpa, paṭiccasamuppāda |
 | 16 | bữa ăn cuối | sūkaramaddava |
 | 22 | bốn niệm xứ | satipaṭṭhāna |
+| 30 | ba mươi hai tướng | mahāpurisa, nhân quả của tướng |
 | 31 | sáu hướng | sigālovāda, đạo đức xã hội |
