@@ -11,7 +11,7 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 | # | Kinh | Pali | Trạng thái |
 |---|---|---|---|
 | **1** | **Kinh Phạm Võng** | *Brahmajāla Sutta* | ✅ **Hoàn thành** → [`01-kinh-pham-vong/`](01-kinh-pham-vong/) |
-| 2 | Kinh Sa-môn Quả | *Sāmaññaphala Sutta* | ⏳ Chưa bắt đầu |
+| **2** | **Kinh Sa-môn Quả** | *Sāmaññaphala Sutta* | ✅ **Hoàn thành** → [`02-kinh-sa-mon-qua/`](02-kinh-sa-mon-qua/) |
 | 3 | Kinh Ambaṭṭha | *Ambaṭṭha Sutta* | ⏳ Chưa bắt đầu |
 | 4 | Kinh Soṇadaṇḍa | *Soṇadaṇḍa Sutta* | ⏳ Chưa bắt đầu |
 | 5 | Kinh Kūṭadanta | *Kūṭadanta Sutta* | ⏳ Chưa bắt đầu |
@@ -82,7 +82,20 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 │   ├── kiem-tra-marker.py      ← kiểm tra đủ/đúng thứ tự đoạn
 │   └── tien-do.py              ← báo cáo tiến độ dịch
 │
-└── 02-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
+├── 02-kinh-sa-mon-qua/         ← Bài kinh số 2: Kinh Sa-môn Quả  ✅
+│   ├── Kinh-Sa-Mon-Qua.md      ← BẢN DỊCH HOÀN CHỈNH (đọc tệp này)
+│   ├── README.md
+│   ├── HUONG-DAN-DICH.md       ← quy chuẩn dịch
+│   ├── ban-dich/               ← bản dịch từng phần
+│   ├── nguon/                  ← Pali + Anh + chú thích, theo đoạn
+│   ├── ra-soat/                ← báo cáo rà soát
+│   ├── ghep.py
+│   ├── tao-muc-luc.py          ← chèn mục lục với anchor kiểu GitHub
+│   ├── kiem-tra-marker.py
+│   ├── ra-soat.py              ← rà soát toàn bộ (8 bước kiểm tra)
+│   └── tien-do.py
+│
+└── 03-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
 ```
 
 ---
@@ -91,9 +104,12 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 
 Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mục lục bấm được:
 
-**[`01-kinh-pham-vong/Kinh-Pham-Vong.md`](01-kinh-pham-vong/Kinh-Pham-Vong.md)**
+| # | Kinh | Tệp | Quy mô |
+|---|---|---|---|
+| 1 | **Kinh Phạm Võng** | [`01-kinh-pham-vong/Kinh-Pham-Vong.md`](01-kinh-pham-vong/Kinh-Pham-Vong.md) | 662 đoạn · 36.088 từ |
+| 2 | **Kinh Sa-môn Quả** | [`02-kinh-sa-mon-qua/Kinh-Sa-Mon-Qua.md`](02-kinh-sa-mon-qua/Kinh-Sa-Mon-Qua.md) | 650 đoạn · 24.531 từ |
 
-Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
+Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
 
 ---
 
