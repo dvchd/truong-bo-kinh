@@ -35,6 +35,11 @@ Với riêng bài 1, có một cuốn rất hữu ích bằng tiếng Anh:
 > **Bhikkhu Bodhi**, *The Discourse on the All-embracing Net of Views: The Brahmajāla Sutta and its
 > Commentaries* (Buddhist Publication Society, 1978).
 
+Và cho bài 2:
+
+> **Bhikkhu Bodhi**, *The Fruits of Recluseship: The Sāmaññaphala Sutta and its Commentaries* (Buddhist
+> Publication Society, 1989).
+
 Cuốn này dịch cả kinh và chú giải, kèm phân tích 62 quan điểm — nếu bạn muốn đi sâu bài 1, đây là chỗ
 nên tìm.
 
@@ -51,6 +56,7 @@ Không bắt buộc. Nhưng nếu bạn muốn đọc kinh trong bối cảnh ng
 | **Steven Collins**, *Selfless Persons* (1982) | Vấn đề vô ngã và tái sinh — đúng chỗ khó nhất |
 | **Sue Hamilton**, *Identity and Experience* (1996) | Năm uẩn và nhận thức luận |
 | **Bhikkhu Anālayo**, *Satipaṭṭhāna: The Direct Path to Realization* (2003) | Bài 22, bốn niệm xứ, so sánh kinh Pali và Hán tạng |
+| **Nathan McGovern**, "On the Origins of the 32 Marks of a Great Man", *JIABS* 39 (2016), tr. 207–247 | Bài 14 và 30: nguồn gốc 32 tướng, đối chiếu với *Bṛhatsaṁhitā* |
 
 Điểm chung của các sách này: chúng **không** thay thế kinh, mà giúp đọc kinh dễ hơn.
 

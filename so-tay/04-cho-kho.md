@@ -190,6 +190,15 @@ vận mệnh**, còn bài kinh này quan tâm **nhân quả đạo đức của 
 Đó chính là chỗ đọc: không đọc để tin vào tướng, mà đọc để thấy cách kinh biến một niềm tin dân gian
 thành một bài học về hành vi.
 
+**Nghiên cứu chuyên sâu.** Bài toán này đã được khảo sát kỹ: Nathan McGovern, "On the Origins of the 32
+Marks of a Great Man", *Journal of the International Association of Buddhist Studies* 39 (2016), tr.
+207–247. Kết luận chính: 32 tướng **không có trong kinh Vệ-đà**; chúng thuộc trào lưu xem tướng thân thể
+đương thời, và các văn bản về sau như *Bṛhatsaṁhitā* mới ghi lại những tướng tương tự.
+
+Ghi chú của SuttaCentral cũng thừa nhận một chỗ không thể dung hòa: nếu đọc đúng tỉ lệ mô tả ở bài 14
+thì có tướng không thể có trên thân người bình thường (ví dụ đầu gối chạm tới mà không cần cúi). Đó là
+dấu hiệu cho thấy văn bản mô tả một **hình mẫu lý tưởng**, không phải một cơ thể thật.
+
 ---
 
 ## 9. Bài 23 — một cuộc tranh luận không chứng minh điều nó muốn chứng minh
@@ -223,17 +232,72 @@ chính; còn Metteyya chỉ là một chi tiết ở phần cuối, chưa phải
 
 ---
 
+## 11. Bài 3 — chữ "đen" là một lời miệt thị, và vì sao điều đó quan trọng
+
+**Chỗ khó.** Trong cuộc tranh luận, phía bà-la-môn gọi Ambaṭṭha là kẻ "đen", và chê dòng dõi ông ta. Đọc
+bản dịch, chi tiết này dễ trôi qua như một lời cãi vã.
+
+**Cách hiểu.** Ghi chú của SuttaCentral chỉ rõ: *kaṇha* ("đen") ở đây mang **hàm ý chủng tộc**, không
+chỉ là một tính từ chỉ màu sắc. Giới bà-la-môn là nhóm người gốc Ấn-Âu da sáng hơn tràn vào Ấn Độ từ
+phía Bắc; các văn bản Vệ-đà cho thấy đã có thành kiến về màu da từ trước.
+
+Vì thế khi Đức Thế Tôn bàn về dòng dõi trong bài này, ngài đang chạm vào một chủ đề vừa **xã hội** vừa
+**chủng tộc** — chứ không chỉ là chuyện lễ nghi.
+
+**Đọc thế nào.** Đây là bài nên đọc kèm [`03-thuat-ngu.md`](03-thuat-ngu.md) phần về giai cấp: kinh
+không phủ nhận sự khác biệt giữa người ta, mà phủ nhận chuyện dùng dòng dõi làm thước đo phẩm giá.
+
+---
+
+## 12. Bài 27 — bài kinh lật ngược thần thoại Vệ-đà
+
+**Chỗ khó.** Bài kinh kể chuyện nguồn gốc xã hội bằng ngôn ngữ huyền thoại, nhiều chi tiết lạ, khó biết
+đâu là chuyện kể và đâu là luận đề.
+
+**Cách hiểu.** Ghi chú của SuttaCentral cho biết đây là chỗ gần nhất mà kinh Pali có một **"thần thoại
+nguồn gốc"**, và nó **mượn hình ảnh từ thần thoại Vệ-đà** rồi xoay lại theo cách của mình.
+
+Chỗ xoay ấy rất cụ thể: thần thoại Vệ-đà (*Puruṣasūkta*, Rig Veda 10.90.12) kể rằng từ miệng vị thần
+nguyên thủy sinh ra bà-la-môn, từ tay sinh ra vua, từ đùi sinh ra thường dân, từ bàn chân sinh ra người
+hầu. Bài 27 kể lại chuyện ấy nhưng đảo ngược thứ bậc: **cả bốn nhóm cùng sinh ra từ một nguồn**, và sự
+khác nhau đến từ **hành vi**, không từ chỗ sinh ra.
+
+**Đọc thế nào.** Đọc bài 27 như một bài **châm biếm xã hội**: nó không kể chuyện vũ trụ cho vui, mà để
+hạ bệ một trật tự được cho là do trời định.
+
+---
+
+## 13. Bài 21 — Sakka từ thần chiến tranh thành người học trò của hòa bình
+
+**Chỗ khó.** Sakka (Đế Thích) là vị trời quen thuộc trong văn hóa Việt Nam, nhưng trong bài 21 ông đến
+hỏi Đức Thế Tôn những câu rất hiền: làm sao bớt hận thù, làm sao bớt ganh ghét.
+
+**Cách hiểu.** Ghi chú của SuttaCentral nhắc rằng Sakka trong kinh Vệ-đà là **thần chiến tranh**, cầm
+chùy, uống rượu thánh. Trong kinh Pali, ông dần trở thành **người bảo trợ hòa bình**, học hạnh nhẫn nhịn
+và bố thí.
+
+Đó là lý do bài 21 đặt vào miệng ông những câu hỏi về kiết sử và ái — không phải ngẫu nhiên, mà là
+**cả một quá trình chuyển hóa hình tượng**.
+
+**Đọc thế nào.** Đọc bài 21 như một cuộc đối thoại giữa hai thế giới: một vị trời của quá khứ Vệ-đà đến
+học cách sống khác.
+
+---
+
 ## Bảng tra nhanh
 
 | Bài | Đoạn khó | Từ khóa |
 |---|---|---|
 | 1 | các quan điểm sai lạc | 62 quan điểm, thường hằng, đoạn diệt |
 | 2 | tám thắng trí | thân do tâm tạo, thần thông |
+| 3 | tranh luận giai cấp | kaṇha, dòng dõi, chủng tộc |
 | 9 | tưởng và thức | saññā |
 | 15 | chuỗi duyên khởi | nāmarūpa, paṭiccasamuppāda |
 | 16 | bữa ăn cuối | sūkaramaddava |
 | 22 | bốn niệm xứ | satipaṭṭhāna |
+| 21 | Sakka hỏi | kiết sử, hình tượng Sakka |
 | 23 | tranh luận về đời sau | Pāyāsi, Kassapa |
 | 26 | vị Phật tương lai | Metteyya |
+| 27 | nguồn gốc xã hội | Puruṣasūkta, giai cấp |
 | 30 | ba mươi hai tướng | mahāpurisa, nhân quả của tướng |
 | 31 | sáu hướng | sigālovāda, đạo đức xã hội |

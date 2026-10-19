@@ -79,7 +79,7 @@ Bốn bài có cùng đối thủ: những du sĩ, tu sĩ khổ hạnh, triết 
 
 ### Nhóm C — "Những biến cố lớn" (14, 16, 17, 28, 29)
 
-Tiểu sử Đức Phật và giáo hội sau khi ngài nhập diệt. Bài 28 và 29 diễn ra **sau** khi Phật đã mất —
+Tiểu sử Đức Thế Tôn và giáo hội sau khi ngài nhập diệt. Bài 28 và 29 diễn ra **sau** khi Phật đã mất —
 đọc sau bài 16 sẽ rõ hơn nhiều.
 
 ### Nhóm D — "Thế giới chư thiên" (18, 19, 20, 21, 32)

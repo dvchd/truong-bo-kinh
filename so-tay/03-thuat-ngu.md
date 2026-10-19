@@ -119,7 +119,7 @@ nguyên nhân trong hành vi quá khứ. Đọc như một bài về nhân quả
 | **Sa-môn** (*samaṇa*) | Người xuất gia tu hành | Dùng chung cho mọi giáo phái |
 | **Bà-la-môn** (*brāhmaṇa*) | Tu sĩ giai cấp cao | Không đồng nghĩa "thầy tế" |
 | **A-la-hán** (*arahant*) | Bậc đã dứt sạch lậu hoặc | Quả vị cuối cùng |
-| **Bồ-tát** (*bodhisatta*) | Chúng sinh hướng đến giác ngộ | Trong bộ này: Đức Phật trước khi thành đạo |
+| **Bồ-tát** (*bodhisatta*) | Chúng sinh hướng đến giác ngộ | Trong bộ này: Đức Thế Tôn trước khi thành đạo |
 | **Chuyển luân vương** (*cakkavattī*) | Vua cai trị bằng pháp | Song song với hình ảnh Phật |
 | **Lậu hoặc** (*āsava*) | Những "rò rỉ" của tâm | Thường gồm ba: dục, hữu, vô minh |
 | **Triền cái** (*nīvaraṇa*) | Năm trở ngại khi thiền | Tham dục, sân, hôn trầm, trạo cử, hoài nghi |

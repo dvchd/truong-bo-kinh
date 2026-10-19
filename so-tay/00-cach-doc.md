@@ -29,7 +29,7 @@ ghi nhớ, không phải lời của người viết.
 | Tập | Bài | Chủ đề chung |
 |---|---|---|
 | **Tập về giới** (*Sīlakkhandha*) | 1–13 | Đạo đức, đời sống sa-môn, các học thuyết đương thời, thiền định |
-| **Tập lớn** (*Mahāvagga*) | 14–23 | Đức Phật, giáo lý nền tảng, thế giới chư thiên, niệm xứ |
+| **Tập lớn** (*Mahāvagga*) | 14–23 | Đức Thế Tôn, giáo lý nền tảng, thế giới chư thiên, niệm xứ |
 | **Tập Pāṭika** (*Pāṭikavagga*) | 24–34 | Tranh luận, xã hội, vũ trụ luận, danh mục giáo lý |
 
 Cách chia này là cách chia cổ điển của bản Pali, không phải do người dịch đặt ra.
@@ -54,7 +54,7 @@ Sau đó, tùy hứng:
 - Thích triết học → **1** (các học thuyết sai lệch), **15** (duyên khởi), **22** (niệm xứ), **9** (tư tưởng và nhận thức).
 - Thích văn học, kể chuyện → **17**, **23**, **24**, **26**.
 - Thích hệ thống, tra cứu → **33**, **34**.
-- Muốn biết Đức Phật là ai → **14** (các vị Phật quá khứ), **16**, **30** (ba mươi hai tướng).
+- Muốn biết Đức Thế Tôn là ai → **14** (các vị Phật quá khứ), **16**, **30** (ba mươi hai tướng).
 
 ---
 

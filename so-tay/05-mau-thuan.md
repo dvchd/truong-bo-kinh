@@ -94,7 +94,7 @@ Khác nhau ở **cách sắp**:
 Vì vậy hai bài không thay thế nhau. Người tra cứu nên dùng cả hai: bài 33 để tìm, bài 34 để hiểu vai
 trò của pháp ấy.
 
-## 5. Đức Phật có im lặng trước câu hỏi siêu hình không?
+## 5. Đức Thế Tôn có im lặng trước câu hỏi siêu hình không?
 
 Trường Bộ Kinh có những chỗ Đức Thế Tôn **không trả lời** một câu hỏi, hoặc gạt nó sang một bên. Có
 người đọc thấy đó là né tránh; có người thấy đó là câu trả lời khéo.
@@ -106,6 +106,27 @@ hiểu biết.
 
 Đây là chỗ có nhiều cách giải thích khác nhau trong giới nghiên cứu; người đọc nên biết là **còn
 tranh luận**, không nên coi một cách giải thích là chân lý duy nhất.
+
+---
+
+## 6. Bài 28 trích lời Đức Thế Tôn, mà không tìm thấy câu ấy ở đâu khác
+
+**Chỗ lạ.** Ở một đoạn, Sāriputta nói "Đức Thế Tôn đã dạy như vầy" và trích lại. Nhưng câu ấy **không
+có trong kinh điển Pali** hiện còn. Ghi chú của SuttaCentral nêu đúng điểm này.
+
+Hơn nữa, phần lớn bài 28 là mở rộng từ một cuộc gặp ngắn ở bài 16, và có những mục **không truy được**
+trong tạng Pali hiện nay.
+
+**Vì sao không phải lỗi.** Khi văn bản được truyền miệng qua nhiều thế kỷ, "trích lời" thường là **tóm
+lại ý** chứ không phải chép nguyên văn. Người tụng có thể đã ghi lời Sāriputta diễn giải, rồi về sau
+được ghi lại như lời trích dẫn trực tiếp.
+
+**Cách đọc.** Đừng dùng bài 28 như bảng tra "câu này có trong kinh nào". Dùng nó như một bài tổng kết
+do đệ tử lớn nhất trình bày — và đọc phần đầu để thấy Sāriputta nói rõ ông **không biết tâm** các bậc
+Chánh đẳng giác khác, mà biết chắc nhờ **hiểu pháp**, qua ví dụ thành trì chỉ có một cổng.
+
+Đây cũng là lời nhắc: một chỗ "không tìm thấy ở đâu khác" là dữ kiện của **lịch sử văn bản**, không phải
+bằng chứng ai đó bịa.
 
 ---
 

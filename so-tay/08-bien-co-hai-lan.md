@@ -45,9 +45,12 @@ Khác biệt nằm ở câu hỏi mở đầu:
   và nghe vượt giới hạn thường.
 - **Bài 7**: Jāliya hỏi **hồn và thân là một hay khác** — câu hỏi siêu hình quen thuộc thời ấy.
 
-Cách đọc: đọc bài 6 trước để quen chuỗi, rồi đọc bài 7 chỉ để xem câu trả lời cho câu hỏi siêu hình
-nằm ở đâu — nó nằm ở chỗ Đức Thế Tôn **không trả lời trực tiếp**, mà dẫn người hỏi tới chỗ thấy rằng
-câu hỏi ấy đặt sai.
+Một chi tiết về thứ tự: theo ghi chú của SuttaCentral, **bài 7 ghi lại sự việc, còn bài 6 là lời Đức
+Thế Tôn kể lại sự việc ấy** cho Mahāli nghe. Nghĩa là về mặt thời gian, chuyện xảy ra ở bài 7 trước.
+
+Cách đọc: đọc bài 6 để quen chuỗi, rồi đọc bài 7 để thấy câu trả lời cho câu hỏi siêu hình nằm ở đâu —
+nó nằm ở chỗ Đức Thế Tôn **không trả lời trực tiếp**, mà dẫn người hỏi tới chỗ thấy rằng câu hỏi ấy đặt
+sai.
 
 ## 4. Bài 11 và bài 12 — gần như một bài
 
@@ -61,6 +64,9 @@ bài, nên đọc phần mở và phần kết của từng bài — đó là ch
 
 Bài 10 được Ānanda giảng **sau khi Đức Thế Tôn đã nhập Niết-bàn**, cho Subha. Nội dung là khuôn tuần
 tự tu tập quen thuộc, nhưng người giảng không còn là Đức Thế Tôn.
+
+Ghi chú của SuttaCentral nói rõ thêm: nội dung theo sau **giống bài 2**, nhưng được sắp dưới **ba đề
+mục** thay vì theo kiểu "hạnh phúc tinh tế dần". Đó là lý do đọc hai bài thấy quen mà vẫn lạ.
 
 Điểm đặc biệt: đoạn **"tri kiến" và "thân do tâm tạo"** rất hiếm — ghi chú của SuttaCentral cho biết
 nó chỉ có ở bài 2, bài 10 và MN 77. Vì vậy nếu chỉ đọc bài 2, bạn sẽ bỏ qua một trong ba chỗ hiếm hoi
@@ -83,8 +89,10 @@ Năm bài này gắn với nhau bằng những mốc rất cụ thể:
 
 - **Bài 16**: những ngày cuối tại Kusinārā. Trong đó có cuộc gặp cuối với Sāriputta (đoạn `dn16:1.16.1`).
 - **Bài 17**: kể tiếp ngay tại Kusinārā, **trước khi** Đức Thế Tôn nhập diệt.
-- **Bài 28**: bản giảng rộng của cuộc gặp với Sāriputta ở bài 16.
-- **Bài 29**: bối cảnh sau khi giáo chủ Kỳ-na giáo qua đời, giáo đoàn ấy chia rẽ.
+- **Bài 28**: bản giảng rộng của cuộc gặp với Sāriputta ở bài 16 — ghi chú của SuttaCentral xác nhận
+  đúng như vậy ("mở rộng từ sự việc ở DN 16:1.16.1").
+- **Bài 29**: bối cảnh sau khi giáo chủ Kỳ-na giáo qua đời, giáo đoàn ấy chia rẽ. Bản tương ứng trong
+  Trung Bộ là MN 104, nhưng địa điểm khác (gần làng Sāma), và cách Đức Thế Tôn đáp lại cũng khác.
 - **Bài 33**: tiếp ngay lời dặn của bài 29 về việc tụng đọc pháp để giáo lý lâu dài.
 
 Cách đọc: đọc bài 16 trước, rồi 17, rồi 28. Bài 29 và 33 diễn ra khi Đức Thế Tôn còn tại thế, nhưng nội dung là những lời dặn về việc giáo lý được giữ lại sau này — nên đọc sau cùng.
