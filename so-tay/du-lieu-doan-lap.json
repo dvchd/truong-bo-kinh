@@ -1,0 +1,1442 @@
+[
+ {
+  "a": 11,
+  "b": 12,
+  "a_seg": "dn11:9-66.1",
+  "a_end": "dn11:9-66.1",
+  "b_seg": "dn12:20-55.1",
+  "b_end": "dn12:20-55.1",
+  "words": 2815,
+  "sample": "ở đây một tỳ-kheo từ bỏ chuyện nói nhảm, xa lìa chuyện nói nhảm."
+ },
+ {
+  "a": 11,
+  "b": 12,
+  "a_seg": "dn11:9-66.10",
+  "a_end": "dn11:9-66.10",
+  "b_seg": "dn12:63-77.4",
+  "b_end": "dn12:63-77.4",
+  "words": 542,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 11,
+  "b": 12,
+  "a_seg": "dn11:9-66.10",
+  "a_end": "dn11:9-66.11",
+  "b_seg": "dn12:63-77.4",
+  "b_end": "dn12:63-77.5",
+  "words": 519,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 11,
+  "b": 12,
+  "a_seg": "dn11:9-66.2",
+  "a_end": "dn11:9-66.2",
+  "b_seg": "dn12:20-55.2",
+  "b_end": "dn12:20-55.2",
+  "words": 397,
+  "sample": "ở đây một tỳ-kheo khi mắt thấy sắc thì không nắm lấy tướng chung,"
+ },
+ {
+  "a": 11,
+  "b": 12,
+  "a_seg": "dn11:9-66.1",
+  "a_end": "dn11:9-66.1",
+  "b_seg": "dn12:20-55.1",
+  "b_end": "dn12:20-55.1",
+  "words": 380,
+  "sample": "ở đây có một như lai xuất hiện trong đời, là bậc a-la-hán, chánh"
+ },
+ {
+  "a": 11,
+  "b": 12,
+  "a_seg": "dn11:9-66.10",
+  "a_end": "dn11:9-66.10",
+  "b_seg": "dn12:63-77.4",
+  "b_end": "dn12:63-77.4",
+  "words": 284,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 2,
+  "b": 12,
+  "a_seg": "dn2:56.1",
+  "a_end": "dn2:62.4",
+  "b_seg": "dn12:20-55.1",
+  "b_end": "dn12:20-55.1",
+  "words": 1262,
+  "sample": "lại có những sa-môn và bà-la-môn, sau khi đã dùng những bữa ăn do"
+ },
+ {
+  "a": 2,
+  "b": 12,
+  "a_seg": "dn2:46.1",
+  "a_end": "dn2:55.2",
+  "b_seg": "dn12:20-55.1",
+  "b_end": "dn12:20-55.1",
+  "words": 1251,
+  "sample": "lại có những sa-môn và bà-la-môn, sau khi đã dùng những bữa ăn do"
+ },
+ {
+  "a": 2,
+  "b": 12,
+  "a_seg": "dn2:64.2",
+  "a_end": "dn2:64.10",
+  "b_seg": "dn12:20-55.2",
+  "b_end": "dn12:20-55.2",
+  "words": 397,
+  "sample": "ở đây một tỳ-kheo khi mắt thấy sắc thì không nắm lấy tướng chung,"
+ },
+ {
+  "a": 2,
+  "b": 12,
+  "a_seg": "dn2:40.1",
+  "a_end": "dn2:42.1",
+  "b_seg": "dn12:20-55.1",
+  "b_end": "dn12:20-55.1",
+  "words": 378,
+  "sample": "ở đây có một như lai xuất hiện trong đời, là bậc a-la-hán, chánh"
+ },
+ {
+  "a": 2,
+  "b": 12,
+  "a_seg": "dn2:44.7",
+  "a_end": "dn2:45.20",
+  "b_seg": "dn12:20-55.1",
+  "b_end": "dn12:20-55.1",
+  "words": 288,
+  "sample": "ở đây một tỳ-kheo từ bỏ chuyện nói nhảm, xa lìa chuyện nói nhảm."
+ },
+ {
+  "a": 2,
+  "b": 12,
+  "a_seg": "dn2:95.1",
+  "a_end": "dn2:95.2",
+  "b_seg": "dn12:63-77.4",
+  "b_end": "dn12:63-77.4",
+  "words": 287,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 2,
+  "b": 11,
+  "a_seg": "dn2:56.1",
+  "a_end": "dn2:62.4",
+  "b_seg": "dn11:9-66.1",
+  "b_end": "dn11:9-66.1",
+  "words": 1262,
+  "sample": "lại có những sa-môn và bà-la-môn, sau khi đã dùng những bữa ăn do"
+ },
+ {
+  "a": 2,
+  "b": 11,
+  "a_seg": "dn2:46.1",
+  "a_end": "dn2:55.2",
+  "b_seg": "dn11:9-66.1",
+  "b_end": "dn11:9-66.1",
+  "words": 1251,
+  "sample": "lại có những sa-môn và bà-la-môn, sau khi đã dùng những bữa ăn do"
+ },
+ {
+  "a": 2,
+  "b": 11,
+  "a_seg": "dn2:64.2",
+  "a_end": "dn2:64.10",
+  "b_seg": "dn11:9-66.2",
+  "b_end": "dn11:9-66.2",
+  "words": 397,
+  "sample": "ở đây một tỳ-kheo khi mắt thấy sắc thì không nắm lấy tướng chung,"
+ },
+ {
+  "a": 2,
+  "b": 11,
+  "a_seg": "dn2:40.1",
+  "a_end": "dn2:42.1",
+  "b_seg": "dn11:9-66.1",
+  "b_end": "dn11:9-66.1",
+  "words": 378,
+  "sample": "ở đây có một như lai xuất hiện trong đời, là bậc a-la-hán, chánh"
+ },
+ {
+  "a": 2,
+  "b": 11,
+  "a_seg": "dn2:44.7",
+  "a_end": "dn2:45.20",
+  "b_seg": "dn11:9-66.1",
+  "b_end": "dn11:9-66.1",
+  "words": 288,
+  "sample": "ở đây một tỳ-kheo từ bỏ chuyện nói nhảm, xa lìa chuyện nói nhảm."
+ },
+ {
+  "a": 2,
+  "b": 11,
+  "a_seg": "dn2:95.1",
+  "a_end": "dn2:95.2",
+  "b_seg": "dn11:9-66.10",
+  "b_end": "dn11:9-66.10",
+  "words": 287,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 10,
+  "b": 12,
+  "a_seg": "dn10:2.2.2",
+  "a_end": "dn10:2.2.10",
+  "b_seg": "dn12:20-55.2",
+  "b_end": "dn12:20-55.2",
+  "words": 397,
+  "sample": "ở đây một tỳ-kheo khi mắt thấy sắc thì không nắm lấy tướng chung,"
+ },
+ {
+  "a": 10,
+  "b": 12,
+  "a_seg": "dn10:2.32.1",
+  "a_end": "dn10:2.32.2",
+  "b_seg": "dn12:63-77.4",
+  "b_end": "dn12:63-77.4",
+  "words": 287,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 10,
+  "b": 12,
+  "a_seg": "dn10:2.32.1",
+  "a_end": "dn10:2.32.2",
+  "b_seg": "dn12:63-77.4",
+  "b_end": "dn12:63-77.4",
+  "words": 284,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 10,
+  "b": 12,
+  "a_seg": "dn10:2.30.1",
+  "a_end": "dn10:2.30.2",
+  "b_seg": "dn12:63-77.4",
+  "b_end": "dn12:63-77.4",
+  "words": 251,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 10,
+  "b": 12,
+  "a_seg": "dn10:2.28.1",
+  "a_end": "dn10:2.28.18",
+  "b_seg": "dn12:63-77.4",
+  "b_end": "dn12:63-77.4",
+  "words": 249,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 10,
+  "b": 12,
+  "a_seg": "dn10:2.30.1",
+  "a_end": "dn10:2.30.2",
+  "b_seg": "dn12:63-77.4",
+  "b_end": "dn12:63-77.4",
+  "words": 248,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 10,
+  "b": 11,
+  "a_seg": "dn10:2.2.2",
+  "a_end": "dn10:2.2.10",
+  "b_seg": "dn11:9-66.2",
+  "b_end": "dn11:9-66.2",
+  "words": 397,
+  "sample": "ở đây một tỳ-kheo khi mắt thấy sắc thì không nắm lấy tướng chung,"
+ },
+ {
+  "a": 10,
+  "b": 11,
+  "a_seg": "dn10:2.32.1",
+  "a_end": "dn10:2.32.2",
+  "b_seg": "dn11:9-66.10",
+  "b_end": "dn11:9-66.10",
+  "words": 287,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 10,
+  "b": 11,
+  "a_seg": "dn10:2.32.1",
+  "a_end": "dn10:2.32.2",
+  "b_seg": "dn11:9-66.10",
+  "b_end": "dn11:9-66.10",
+  "words": 284,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 10,
+  "b": 11,
+  "a_seg": "dn10:2.30.1",
+  "a_end": "dn10:2.30.2",
+  "b_seg": "dn11:9-66.10",
+  "b_end": "dn11:9-66.10",
+  "words": 251,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 10,
+  "b": 11,
+  "a_seg": "dn10:2.30.1",
+  "a_end": "dn10:2.30.2",
+  "b_seg": "dn11:9-66.10",
+  "b_end": "dn11:9-66.10",
+  "words": 248,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 10,
+  "b": 11,
+  "a_seg": "dn10:2.5.1",
+  "a_end": "dn10:2.6.5",
+  "b_seg": "dn11:9-66.2",
+  "b_end": "dn11:9-66.2",
+  "words": 247,
+  "sample": "cao thượng này, thành tựu sự hộ trì các giác quan cao thượng này,"
+ },
+ {
+  "a": 6,
+  "b": 7,
+  "a_seg": "dn6:16.6",
+  "a_end": "dn6:18.1",
+  "b_seg": "dn7:2.3",
+  "b_end": "dn7:4.1",
+  "words": 467,
+  "sample": "vị ấy hộ trì các giác quan, sống với chánh niệm và tỉnh giác,"
+ },
+ {
+  "a": 6,
+  "b": 7,
+  "a_seg": "dn6:16.3",
+  "a_end": "dn6:16.4",
+  "b_seg": "dn7:1.9",
+  "b_end": "dn7:2.1",
+  "words": 215,
+  "sample": "nói như thế này: này các ông, ở đây có một như lai xuất"
+ },
+ {
+  "a": 6,
+  "b": 7,
+  "a_seg": "dn6:19.1",
+  "a_end": "dn6:19.8",
+  "b_seg": "dn7:5.1",
+  "b_end": "dn7:5.8",
+  "words": 100,
+  "sample": "còn tái sinh nữa.\" này các ông, khi một tỳ-kheo biết và thấy như"
+ },
+ {
+  "a": 6,
+  "b": 7,
+  "a_seg": "dn6:17.4",
+  "a_end": "dn6:17.10",
+  "b_seg": "dn7:4.2",
+  "b_end": "dn7:4.8",
+  "words": 91,
+  "sample": "này các ông, khi một tỳ-kheo biết và thấy như thế, có thích hợp"
+ },
+ {
+  "a": 6,
+  "b": 7,
+  "a_seg": "dn6:16.8",
+  "a_end": "dn6:16.14",
+  "b_seg": "dn7:3.4",
+  "b_end": "dn7:3.10",
+  "words": 89,
+  "sample": "này các ông, khi một tỳ-kheo biết và thấy như thế, có thích hợp"
+ },
+ {
+  "a": 6,
+  "b": 7,
+  "a_seg": "dn6:16.8",
+  "a_end": "dn6:16.14",
+  "b_seg": "dn7:4.2",
+  "b_end": "dn7:4.8",
+  "words": 89,
+  "sample": "này các ông, khi một tỳ-kheo biết và thấy như thế, có thích hợp"
+ },
+ {
+  "a": 2,
+  "b": 10,
+  "a_seg": "dn2:64.2",
+  "a_end": "dn2:64.10",
+  "b_seg": "dn10:2.2.2",
+  "b_end": "dn10:2.2.10",
+  "words": 397,
+  "sample": "ở đây một tỳ-kheo khi mắt thấy sắc thì không nắm lấy tướng chung,"
+ },
+ {
+  "a": 2,
+  "b": 10,
+  "a_seg": "dn2:95.1",
+  "a_end": "dn2:95.2",
+  "b_seg": "dn10:2.32.1",
+  "b_end": "dn10:2.32.2",
+  "words": 287,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 2,
+  "b": 10,
+  "a_seg": "dn2:96.2",
+  "a_end": "dn2:96.3",
+  "b_seg": "dn10:2.32.1",
+  "b_end": "dn10:2.32.2",
+  "words": 284,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 2,
+  "b": 10,
+  "a_seg": "dn2:93.1",
+  "a_end": "dn2:93.2",
+  "b_seg": "dn10:2.30.1",
+  "b_end": "dn10:2.30.2",
+  "words": 251,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 2,
+  "b": 10,
+  "a_seg": "dn2:91.1",
+  "a_end": "dn2:91.18",
+  "b_seg": "dn10:2.28.1",
+  "b_end": "dn10:2.28.18",
+  "words": 249,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 2,
+  "b": 10,
+  "a_seg": "dn2:94.2",
+  "a_end": "dn2:94.3",
+  "b_seg": "dn10:2.30.1",
+  "b_end": "dn10:2.30.2",
+  "words": 248,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 4,
+  "b": 5,
+  "a_seg": "dn4:2.5",
+  "a_end": "dn4:2.8",
+  "b_seg": "dn5:2.5",
+  "b_end": "dn5:2.8",
+  "words": 94,
+  "sample": "ngài đã tự mình chứng ngộ bằng trí tuệ trực tiếp thế giới này"
+ },
+ {
+  "a": 4,
+  "b": 5,
+  "a_seg": "dn4:6.27",
+  "a_end": "dn4:6.29",
+  "b_seg": "dn5:7.27",
+  "b_end": "dn5:7.29",
+  "words": 93,
+  "sample": "không thích hợp để đến thăm chúng tôi; mà chính chúng tôi mới thích"
+ },
+ {
+  "a": 4,
+  "b": 5,
+  "a_seg": "dn4:23.8",
+  "a_end": "dn4:23.9",
+  "b_seg": "dn5:27.8",
+  "b_end": "dn5:27.9",
+  "words": 82,
+  "sample": "khi tầm và tứ đã lắng xuống, vị ấy chứng và trú vào nhị"
+ },
+ {
+  "a": 4,
+  "b": 5,
+  "a_seg": "dn4:23.9",
+  "a_end": "dn4:23.10",
+  "b_seg": "dn5:27.9",
+  "b_end": "dn5:27.10",
+  "words": 65,
+  "sample": "nói đến: 'vị ấy sống với tâm xả, có chánh niệm, an trú trong"
+ },
+ {
+  "a": 4,
+  "b": 5,
+  "a_seg": "dn4:27.2",
+  "a_end": "dn4:27.2",
+  "b_seg": "dn5:30.11",
+  "b_end": "dn5:30.11",
+  "words": 59,
+  "sample": "đoạn theo cách đánh số của suttacentral, để người đọc có thể đối chiếu"
+ },
+ {
+  "a": 4,
+  "b": 5,
+  "a_seg": "dn4:24.1",
+  "a_end": "dn4:24.3",
+  "b_seg": "dn5:28.1",
+  "b_end": "dn5:28.3",
+  "words": 57,
+  "sample": "nói với đức thế tôn: \"thật tuyệt vời, thưa ngài gotama, thật tuyệt vời!"
+ },
+ {
+  "a": 7,
+  "b": 10,
+  "a_seg": "dn7:2.1",
+  "a_end": "dn7:2.1",
+  "b_seg": "dn10:1.7.1",
+  "b_end": "dn10:1.7.2",
+  "words": 60,
+  "sample": "ở đây có một như lai xuất hiện trong đời, là bậc a-la-hán, chánh"
+ },
+ {
+  "a": 7,
+  "b": 10,
+  "a_seg": "dn7:5.11",
+  "a_end": "dn7:5.11",
+  "b_seg": "dn10:2.37.11",
+  "b_end": "dn10:2.37.11",
+  "words": 56,
+  "sample": "chú thích chú thích của bhikkhu sujato (cc0), dịch lại thành bản dịch tiếng"
+ },
+ {
+  "a": 7,
+  "b": 10,
+  "a_seg": "dn7:3.2",
+  "a_end": "dn7:3.2",
+  "b_seg": "dn10:2.17.1",
+  "b_end": "dn10:2.17.1",
+  "words": 49,
+  "sample": "vị ấy chứng và trú vào tam thiền — tầng thiền thứ ba —"
+ },
+ {
+  "a": 7,
+  "b": 10,
+  "a_seg": "dn7:3.2",
+  "a_end": "dn7:3.2",
+  "b_seg": "dn10:2.17.5",
+  "b_end": "dn10:2.17.5",
+  "words": 49,
+  "sample": "vị ấy chứng và trú vào tam thiền — tầng thiền thứ ba —"
+ },
+ {
+  "a": 7,
+  "b": 10,
+  "a_seg": "dn7:4.1",
+  "a_end": "dn7:4.1",
+  "b_seg": "dn10:2.21.3",
+  "b_end": "dn10:2.21.4",
+  "words": 46,
+  "sample": "\"đây là thân của ta: có sắc, do bốn đại hợp thành, do cha"
+ },
+ {
+  "a": 7,
+  "b": 10,
+  "a_seg": "dn7:4.1",
+  "a_end": "dn7:4.1",
+  "b_seg": "dn10:2.22.5",
+  "b_end": "dn10:2.22.5",
+  "words": 46,
+  "sample": "\"đây là thân của ta: có sắc, do bốn đại hợp thành, do cha"
+ },
+ {
+  "a": 3,
+  "b": 10,
+  "a_seg": "dn3:2.2.18",
+  "a_end": "dn3:2.2.18",
+  "b_seg": "dn10:2.32.1",
+  "b_end": "dn10:2.32.2",
+  "words": 247,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía tri kiến về cái chết"
+ },
+ {
+  "a": 3,
+  "b": 10,
+  "a_seg": "dn3:2.2.18",
+  "a_end": "dn3:2.2.18",
+  "b_seg": "dn10:2.30.1",
+  "b_end": "dn10:2.30.2",
+  "words": 211,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía năng lực nhớ lại các"
+ },
+ {
+  "a": 3,
+  "b": 10,
+  "a_seg": "dn3:2.2.18",
+  "a_end": "dn3:2.2.18",
+  "b_seg": "dn10:2.31.2",
+  "b_end": "dn10:2.31.3",
+  "words": 211,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía năng lực nhớ lại các"
+ },
+ {
+  "a": 3,
+  "b": 10,
+  "a_seg": "dn3:2.2.18",
+  "a_end": "dn3:2.2.18",
+  "b_seg": "dn10:2.29.5",
+  "b_end": "dn10:2.29.6",
+  "words": 126,
+  "sample": "vị ấy hiểu tâm có tham là \"tâm có tham\", tâm không tham là"
+ },
+ {
+  "a": 3,
+  "b": 10,
+  "a_seg": "dn3:2.2.17",
+  "a_end": "dn3:2.2.17",
+  "b_seg": "dn10:2.22.1",
+  "b_end": "dn10:2.22.2",
+  "words": 102,
+  "sample": "một viên ngọc lưu ly đẹp, thượng hạng, có tám mặt, được mài giũa"
+ },
+ {
+  "a": 3,
+  "b": 10,
+  "a_seg": "dn3:2.2.10",
+  "a_end": "dn3:2.2.10",
+  "b_seg": "dn10:2.16.1",
+  "b_end": "dn10:2.16.1",
+  "words": 101,
+  "sample": "một hồ nước sâu có mạch nước phun lên từ lòng hồ. hồ ấy"
+ },
+ {
+  "a": 3,
+  "b": 12,
+  "a_seg": "dn3:2.2.18",
+  "a_end": "dn3:2.2.18",
+  "b_seg": "dn12:63-77.4",
+  "b_end": "dn12:63-77.4",
+  "words": 247,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía tri kiến về cái chết"
+ },
+ {
+  "a": 3,
+  "b": 12,
+  "a_seg": "dn3:2.2.18",
+  "a_end": "dn3:2.2.18",
+  "b_seg": "dn12:63-77.4",
+  "b_end": "dn12:63-77.4",
+  "words": 247,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía tri kiến về cái chết"
+ },
+ {
+  "a": 3,
+  "b": 12,
+  "a_seg": "dn3:2.2.18",
+  "a_end": "dn3:2.2.18",
+  "b_seg": "dn12:63-77.4",
+  "b_end": "dn12:63-77.4",
+  "words": 211,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía năng lực nhớ lại các"
+ },
+ {
+  "a": 3,
+  "b": 12,
+  "a_seg": "dn3:2.2.18",
+  "a_end": "dn3:2.2.18",
+  "b_seg": "dn12:63-77.4",
+  "b_end": "dn12:63-77.4",
+  "words": 211,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía năng lực nhớ lại các"
+ },
+ {
+  "a": 3,
+  "b": 12,
+  "a_seg": "dn3:2.2.18",
+  "a_end": "dn3:2.2.18",
+  "b_seg": "dn12:63-77.4",
+  "b_end": "dn12:63-77.4",
+  "words": 114,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía tri kiến về sự đoạn"
+ },
+ {
+  "a": 3,
+  "b": 12,
+  "a_seg": "dn3:2.2.17",
+  "a_end": "dn3:2.2.17",
+  "b_seg": "dn12:63-77.2",
+  "b_end": "dn12:63-77.2",
+  "words": 102,
+  "sample": "một viên ngọc lưu ly đẹp, thượng hạng, có tám mặt, được mài giũa"
+ },
+ {
+  "a": 3,
+  "b": 11,
+  "a_seg": "dn3:2.2.18",
+  "a_end": "dn3:2.2.18",
+  "b_seg": "dn11:9-66.10",
+  "b_end": "dn11:9-66.10",
+  "words": 247,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía tri kiến về cái chết"
+ },
+ {
+  "a": 3,
+  "b": 11,
+  "a_seg": "dn3:2.2.18",
+  "a_end": "dn3:2.2.18",
+  "b_seg": "dn11:9-66.10",
+  "b_end": "dn11:9-66.10",
+  "words": 247,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía tri kiến về cái chết"
+ },
+ {
+  "a": 3,
+  "b": 11,
+  "a_seg": "dn3:2.2.18",
+  "a_end": "dn3:2.2.18",
+  "b_seg": "dn11:9-66.10",
+  "b_end": "dn11:9-66.10",
+  "words": 211,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía năng lực nhớ lại các"
+ },
+ {
+  "a": 3,
+  "b": 11,
+  "a_seg": "dn3:2.2.18",
+  "a_end": "dn3:2.2.18",
+  "b_seg": "dn11:9-66.10",
+  "b_end": "dn11:9-66.10",
+  "words": 211,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía năng lực nhớ lại các"
+ },
+ {
+  "a": 3,
+  "b": 11,
+  "a_seg": "dn3:2.2.18",
+  "a_end": "dn3:2.2.18",
+  "b_seg": "dn11:9-66.11",
+  "b_end": "dn11:9-66.11",
+  "words": 114,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía tri kiến về sự đoạn"
+ },
+ {
+  "a": 3,
+  "b": 11,
+  "a_seg": "dn3:2.2.18",
+  "a_end": "dn3:2.2.18",
+  "b_seg": "dn11:9-66.11",
+  "b_end": "dn11:9-66.11",
+  "words": 114,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía tri kiến về sự đoạn"
+ },
+ {
+  "a": 7,
+  "b": 8,
+  "a_seg": "dn7:2.1",
+  "a_end": "dn7:2.1",
+  "b_seg": "dn8:18.3",
+  "b_end": "dn8:18.3",
+  "words": 57,
+  "sample": "một như lai xuất hiện trong đời, là bậc a-la-hán, chánh đẳng giác, đầy"
+ },
+ {
+  "a": 7,
+  "b": 8,
+  "a_seg": "dn7:5.11",
+  "a_end": "dn7:5.11",
+  "b_seg": "dn8:24.8",
+  "b_end": "dn8:24.8",
+  "words": 56,
+  "sample": "chú thích chú thích của bhikkhu sujato (cc0), dịch lại thành bản dịch tiếng"
+ },
+ {
+  "a": 7,
+  "b": 12,
+  "a_seg": "dn7:2.1",
+  "a_end": "dn7:2.1",
+  "b_seg": "dn12:20-55.1",
+  "b_end": "dn12:20-55.1",
+  "words": 60,
+  "sample": "ở đây có một như lai xuất hiện trong đời, là bậc a-la-hán, chánh"
+ },
+ {
+  "a": 7,
+  "b": 12,
+  "a_seg": "dn7:3.2",
+  "a_end": "dn7:3.2",
+  "b_seg": "dn12:56-62.2",
+  "b_end": "dn12:56-62.2",
+  "words": 49,
+  "sample": "vị ấy chứng và trú vào tam thiền — tầng thiền thứ ba —"
+ },
+ {
+  "a": 7,
+  "b": 12,
+  "a_seg": "dn7:4.1",
+  "a_end": "dn7:4.1",
+  "b_seg": "dn12:63-77.2",
+  "b_end": "dn12:63-77.2",
+  "words": 46,
+  "sample": "\"đây là thân của ta: có sắc, do bốn đại hợp thành, do cha"
+ },
+ {
+  "a": 7,
+  "b": 12,
+  "a_seg": "dn7:4.1",
+  "a_end": "dn7:4.1",
+  "b_seg": "dn12:63-77.2",
+  "b_end": "dn12:63-77.2",
+  "words": 46,
+  "sample": "\"đây là thân của ta: có sắc, do bốn đại hợp thành, do cha"
+ },
+ {
+  "a": 7,
+  "b": 11,
+  "a_seg": "dn7:2.1",
+  "a_end": "dn7:2.1",
+  "b_seg": "dn11:9-66.1",
+  "b_end": "dn11:9-66.1",
+  "words": 60,
+  "sample": "ở đây có một như lai xuất hiện trong đời, là bậc a-la-hán, chánh"
+ },
+ {
+  "a": 7,
+  "b": 11,
+  "a_seg": "dn7:3.2",
+  "a_end": "dn7:3.2",
+  "b_seg": "dn11:9-66.6",
+  "b_end": "dn11:9-66.6",
+  "words": 49,
+  "sample": "vị ấy chứng và trú vào tam thiền — tầng thiền thứ ba —"
+ },
+ {
+  "a": 7,
+  "b": 11,
+  "a_seg": "dn7:4.1",
+  "a_end": "dn7:4.1",
+  "b_seg": "dn11:9-66.9",
+  "b_end": "dn11:9-66.9",
+  "words": 46,
+  "sample": "\"đây là thân của ta: có sắc, do bốn đại hợp thành, do cha"
+ },
+ {
+  "a": 7,
+  "b": 11,
+  "a_seg": "dn7:4.1",
+  "a_end": "dn7:4.1",
+  "b_seg": "dn11:9-66.9",
+  "b_end": "dn11:9-66.9",
+  "words": 46,
+  "sample": "\"đây là thân của ta: có sắc, do bốn đại hợp thành, do cha"
+ },
+ {
+  "a": 2,
+  "b": 7,
+  "a_seg": "dn2:40.1",
+  "a_end": "dn2:40.2",
+  "b_seg": "dn7:2.1",
+  "b_end": "dn7:2.1",
+  "words": 60,
+  "sample": "ở đây có một như lai xuất hiện trong đời, là bậc a-la-hán, chánh"
+ },
+ {
+  "a": 2,
+  "b": 7,
+  "a_seg": "dn2:79.1",
+  "a_end": "dn2:79.1",
+  "b_seg": "dn7:3.2",
+  "b_end": "dn7:3.2",
+  "words": 49,
+  "sample": "vị ấy chứng và trú vào tam thiền — tầng thiền thứ ba —"
+ },
+ {
+  "a": 2,
+  "b": 7,
+  "a_seg": "dn2:102.7",
+  "a_end": "dn2:102.7",
+  "b_seg": "dn7:5.11",
+  "b_end": "dn7:5.11",
+  "words": 47,
+  "sample": "chú thích chú thích của bhikkhu sujato (cc0), dịch lại thành bản dịch tiếng"
+ },
+ {
+  "a": 2,
+  "b": 7,
+  "a_seg": "dn2:83.3",
+  "a_end": "dn2:83.4",
+  "b_seg": "dn7:4.1",
+  "b_end": "dn7:4.1",
+  "words": 46,
+  "sample": "\"đây là thân của ta: có sắc, do bốn đại hợp thành, do cha"
+ },
+ {
+  "a": 2,
+  "b": 7,
+  "a_seg": "dn2:84.8",
+  "a_end": "dn2:84.9",
+  "b_seg": "dn7:4.1",
+  "b_end": "dn7:4.1",
+  "words": 46,
+  "sample": "\"đây là thân của ta: có sắc, do bốn đại hợp thành, do cha"
+ },
+ {
+  "a": 2,
+  "b": 3,
+  "a_seg": "dn2:95.1",
+  "a_end": "dn2:95.2",
+  "b_seg": "dn3:2.2.18",
+  "b_end": "dn3:2.2.18",
+  "words": 247,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía tri kiến về cái chết"
+ },
+ {
+  "a": 2,
+  "b": 3,
+  "a_seg": "dn2:96.2",
+  "a_end": "dn2:96.3",
+  "b_seg": "dn3:2.2.18",
+  "b_end": "dn3:2.2.18",
+  "words": 247,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía tri kiến về cái chết"
+ },
+ {
+  "a": 2,
+  "b": 3,
+  "a_seg": "dn2:93.1",
+  "a_end": "dn2:93.2",
+  "b_seg": "dn3:2.2.18",
+  "b_end": "dn3:2.2.18",
+  "words": 211,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía năng lực nhớ lại các"
+ },
+ {
+  "a": 2,
+  "b": 3,
+  "a_seg": "dn2:94.2",
+  "a_end": "dn2:94.3",
+  "b_seg": "dn3:2.2.18",
+  "b_end": "dn3:2.2.18",
+  "words": 211,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía năng lực nhớ lại các"
+ },
+ {
+  "a": 2,
+  "b": 3,
+  "a_seg": "dn2:97.1",
+  "a_end": "dn2:97.3",
+  "b_seg": "dn3:2.2.18",
+  "b_end": "dn3:2.2.18",
+  "words": 114,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía tri kiến về sự đoạn"
+ },
+ {
+  "a": 2,
+  "b": 3,
+  "a_seg": "dn2:98.2",
+  "a_end": "dn2:98.4",
+  "b_seg": "dn3:2.2.18",
+  "b_end": "dn3:2.2.18",
+  "words": 114,
+  "sample": "vị ấy hướng tâm và đưa tâm về phía tri kiến về sự đoạn"
+ },
+ {
+  "a": 5,
+  "b": 7,
+  "a_seg": "dn5:30.11",
+  "a_end": "dn5:30.11",
+  "b_seg": "dn7:5.11",
+  "b_end": "dn7:5.11",
+  "words": 47,
+  "sample": "chú thích chú thích của bhikkhu sujato (cc0), dịch lại thành bản dịch tiếng"
+ },
+ {
+  "a": 5,
+  "b": 7,
+  "a_seg": "dn5:27.4",
+  "a_end": "dn5:27.4",
+  "b_seg": "dn7:2.1",
+  "b_end": "dn7:2.1",
+  "words": 43,
+  "sample": "một như lai xuất hiện trong đời, là bậc a-la-hán, chánh đẳng giác, đầy"
+ },
+ {
+  "a": 18,
+  "b": 19,
+  "a_seg": "dn18:18.1",
+  "a_end": "dn18:18.2",
+  "b_seg": "dn19:17.1",
+  "b_end": "dn19:17.2",
+  "words": 76,
+  "sample": "bạch thế tôn, cũng như một vị vua thuộc giai cấp vua chúa, đã"
+ },
+ {
+  "a": 18,
+  "b": 19,
+  "a_seg": "dn18:13.4",
+  "a_end": "dn18:13.13",
+  "b_seg": "dn19:3.7",
+  "b_end": "dn19:3.16",
+  "words": 68,
+  "sample": "đảnh lễ như lai, và sự khéo đúng pháp của pháp. và khi thấy"
+ },
+ {
+  "a": 18,
+  "b": 19,
+  "a_seg": "dn18:13.4",
+  "a_end": "dn18:13.13",
+  "b_seg": "dn19:17.6",
+  "b_end": "dn19:17.15",
+  "words": 68,
+  "sample": "đảnh lễ như lai, và sự khéo đúng pháp của pháp. và khi thấy"
+ },
+ {
+  "a": 18,
+  "b": 19,
+  "a_seg": "dn18:18.9",
+  "a_end": "dn18:18.18",
+  "b_seg": "dn19:3.7",
+  "b_end": "dn19:3.16",
+  "words": 68,
+  "sample": "đảnh lễ như lai, và sự khéo đúng pháp của pháp. và khi thấy"
+ },
+ {
+  "a": 18,
+  "b": 19,
+  "a_seg": "dn18:18.9",
+  "a_end": "dn18:18.18",
+  "b_seg": "dn19:17.6",
+  "b_end": "dn19:17.15",
+  "words": 68,
+  "sample": "đảnh lễ như lai, và sự khéo đúng pháp của pháp. và khi thấy"
+ },
+ {
+  "a": 18,
+  "b": 19,
+  "a_seg": "dn18:14.2",
+  "a_end": "dn18:15.1",
+  "b_seg": "dn19:14.6",
+  "b_end": "dn19:15.1",
+  "words": 66,
+  "sample": "sau khi được khuyên bảo, đứng tại chỗ ngồi của mình mà không rời"
+ },
+ {
+  "a": 33,
+  "b": 34,
+  "a_seg": "dn33:3.1.168",
+  "a_end": "dn33:3.1.183",
+  "b_seg": "dn34:2.1.191",
+  "b_end": "dn34:2.1.206",
+  "words": 208,
+  "sample": "tám giải thoát: có sắc, vị ấy thấy các sắc. đây là giải thoát"
+ },
+ {
+  "a": 33,
+  "b": 34,
+  "a_seg": "dn33:1.11.5",
+  "a_end": "dn33:1.11.8",
+  "b_seg": "dn34:1.5.8",
+  "b_end": "dn34:1.5.11",
+  "words": 93,
+  "sample": "này các tỳ-kheo, ở đây một tỳ-kheo sống quán niệm thân trong thân, tinh"
+ },
+ {
+  "a": 33,
+  "b": 34,
+  "a_seg": "dn33:3.1.54",
+  "a_end": "dn33:3.1.57",
+  "b_seg": "dn34:2.1.86",
+  "b_end": "dn34:2.1.89",
+  "words": 88,
+  "sample": "vị ấy nghĩ như vầy: \"ta có công việc phải làm. nhưng khi làm"
+ },
+ {
+  "a": 33,
+  "b": 34,
+  "a_seg": "dn33:3.1.11",
+  "a_end": "dn33:3.1.15",
+  "b_seg": "dn34:2.1.44",
+  "b_end": "dn34:2.1.48",
+  "words": 69,
+  "sample": "tỳ-kheo có công việc phải làm. vị ấy nghĩ như vầy: \"ta có công"
+ },
+ {
+  "a": 33,
+  "b": 34,
+  "a_seg": "dn33:3.1.16",
+  "a_end": "dn33:3.1.20",
+  "b_seg": "dn34:2.1.49",
+  "b_end": "dn34:2.1.53",
+  "words": 69,
+  "sample": "tỳ-kheo đã làm xong công việc. vị ấy nghĩ như vầy: \"ta đã làm"
+ },
+ {
+  "a": 33,
+  "b": 34,
+  "a_seg": "dn33:3.1.65",
+  "a_end": "dn33:3.1.67",
+  "b_seg": "dn34:2.1.87",
+  "b_end": "dn34:2.1.88",
+  "words": 60,
+  "sample": "không dễ gì tác ý đến lời dạy của chư phật. vậy ta hãy"
+ },
+ {
+  "a": 7,
+  "b": 13,
+  "a_seg": "dn7:2.1",
+  "a_end": "dn7:2.1",
+  "b_seg": "dn13:40-75.2",
+  "b_end": "dn13:40-75.2",
+  "words": 42,
+  "sample": "xuất gia sống đời không nhà. sau khi xuất gia, vị ấy sống tự"
+ },
+ {
+  "a": 7,
+  "b": 13,
+  "a_seg": "dn7:2.1",
+  "a_end": "dn7:2.1",
+  "b_seg": "dn13:40-75.2",
+  "b_end": "dn13:40-75.2",
+  "words": 42,
+  "sample": "bậc a-la-hán, chánh đẳng giác, đầy đủ minh và hạnh, bậc thiện thệ, bậc"
+ },
+ {
+  "a": 1,
+  "b": 12,
+  "a_seg": "dn1:1.18.1",
+  "a_end": "dn1:1.18.2",
+  "b_seg": "dn12:20-55.1",
+  "b_end": "dn12:20-55.1",
+  "words": 137,
+  "sample": "những bữa ăn do người ta cúng dường vì lòng tin, vẫn còn chuyên"
+ },
+ {
+  "a": 1,
+  "b": 12,
+  "a_seg": "dn1:1.17.1",
+  "a_end": "dn1:1.17.2",
+  "b_seg": "dn12:20-55.1",
+  "b_end": "dn12:20-55.1",
+  "words": 110,
+  "sample": "những bữa ăn do người ta cúng dường vì lòng tin, vẫn còn chuyên"
+ },
+ {
+  "a": 1,
+  "b": 12,
+  "a_seg": "dn1:1.14.1",
+  "a_end": "dn1:1.14.2",
+  "b_seg": "dn12:20-55.1",
+  "b_end": "dn12:20-55.1",
+  "words": 92,
+  "sample": "những bữa ăn do người ta cúng dường vì lòng tin, vẫn còn chuyên"
+ },
+ {
+  "a": 1,
+  "b": 12,
+  "a_seg": "dn1:1.16.1",
+  "a_end": "dn1:1.16.2",
+  "b_seg": "dn12:20-55.1",
+  "b_end": "dn12:20-55.1",
+  "words": 85,
+  "sample": "những bữa ăn do người ta cúng dường vì lòng tin, vẫn còn chuyên"
+ },
+ {
+  "a": 1,
+  "b": 12,
+  "a_seg": "dn1:1.15.1",
+  "a_end": "dn1:1.15.2",
+  "b_seg": "dn12:20-55.1",
+  "b_end": "dn12:20-55.1",
+  "words": 79,
+  "sample": "dùng những chỗ nằm ngồi cao, lớn và sang trọng. đó là ghế dài"
+ },
+ {
+  "a": 1,
+  "b": 12,
+  "a_seg": "dn1:1.13.1",
+  "a_end": "dn1:1.13.2",
+  "b_seg": "dn12:20-55.1",
+  "b_end": "dn12:20-55.1",
+  "words": 79,
+  "sample": "những bữa ăn do người ta cúng dường vì lòng tin, vẫn còn chuyên"
+ },
+ {
+  "a": 6,
+  "b": 10,
+  "a_seg": "dn6:16.4",
+  "a_end": "dn6:16.4",
+  "b_seg": "dn10:1.7.1",
+  "b_end": "dn10:1.7.2",
+  "words": 60,
+  "sample": "ở đây có một như lai xuất hiện trong đời, là bậc a-la-hán, chánh"
+ },
+ {
+  "a": 6,
+  "b": 10,
+  "a_seg": "dn6:19.11",
+  "a_end": "dn6:19.11",
+  "b_seg": "dn10:2.37.11",
+  "b_end": "dn10:2.37.11",
+  "words": 56,
+  "sample": "chú thích chú thích của bhikkhu sujato (cc0), dịch lại thành bản dịch tiếng"
+ },
+ {
+  "a": 6,
+  "b": 10,
+  "a_seg": "dn6:16.4",
+  "a_end": "dn6:16.4",
+  "b_seg": "dn10:1.10.1",
+  "b_end": "dn10:1.10.1",
+  "words": 49,
+  "sample": "ấy sống tự chế ngự theo giới bổn pātimokkha, đầy đủ oai nghi và"
+ },
+ {
+  "a": 6,
+  "b": 10,
+  "a_seg": "dn6:17.2",
+  "a_end": "dn6:17.2",
+  "b_seg": "dn10:2.17.1",
+  "b_end": "dn10:2.17.1",
+  "words": 49,
+  "sample": "vị ấy chứng và trú vào tam thiền — tầng thiền thứ ba —"
+ },
+ {
+  "a": 6,
+  "b": 10,
+  "a_seg": "dn6:17.2",
+  "a_end": "dn6:17.2",
+  "b_seg": "dn10:2.17.5",
+  "b_end": "dn10:2.17.5",
+  "words": 49,
+  "sample": "vị ấy chứng và trú vào tam thiền — tầng thiền thứ ba —"
+ },
+ {
+  "a": 6,
+  "b": 10,
+  "a_seg": "dn6:18.1",
+  "a_end": "dn6:18.1",
+  "b_seg": "dn10:2.22.8",
+  "b_end": "dn10:2.22.8",
+  "words": 46,
+  "sample": "\"đây là thân của ta: có sắc, do bốn đại hợp thành, do cha"
+ },
+ {
+  "a": 1,
+  "b": 11,
+  "a_seg": "dn1:1.18.1",
+  "a_end": "dn1:1.18.2",
+  "b_seg": "dn11:9-66.1",
+  "b_end": "dn11:9-66.1",
+  "words": 137,
+  "sample": "những bữa ăn do người ta cúng dường vì lòng tin, vẫn còn chuyên"
+ },
+ {
+  "a": 1,
+  "b": 11,
+  "a_seg": "dn1:1.17.1",
+  "a_end": "dn1:1.17.2",
+  "b_seg": "dn11:9-66.1",
+  "b_end": "dn11:9-66.1",
+  "words": 110,
+  "sample": "những bữa ăn do người ta cúng dường vì lòng tin, vẫn còn chuyên"
+ },
+ {
+  "a": 1,
+  "b": 11,
+  "a_seg": "dn1:1.14.1",
+  "a_end": "dn1:1.14.2",
+  "b_seg": "dn11:9-66.1",
+  "b_end": "dn11:9-66.1",
+  "words": 92,
+  "sample": "những bữa ăn do người ta cúng dường vì lòng tin, vẫn còn chuyên"
+ },
+ {
+  "a": 1,
+  "b": 11,
+  "a_seg": "dn1:1.16.1",
+  "a_end": "dn1:1.16.2",
+  "b_seg": "dn11:9-66.1",
+  "b_end": "dn11:9-66.1",
+  "words": 85,
+  "sample": "những bữa ăn do người ta cúng dường vì lòng tin, vẫn còn chuyên"
+ },
+ {
+  "a": 1,
+  "b": 11,
+  "a_seg": "dn1:1.15.1",
+  "a_end": "dn1:1.15.2",
+  "b_seg": "dn11:9-66.1",
+  "b_end": "dn11:9-66.1",
+  "words": 79,
+  "sample": "dùng những chỗ nằm ngồi cao, lớn và sang trọng. đó là ghế dài"
+ },
+ {
+  "a": 1,
+  "b": 11,
+  "a_seg": "dn1:1.13.1",
+  "a_end": "dn1:1.13.2",
+  "b_seg": "dn11:9-66.1",
+  "b_end": "dn11:9-66.1",
+  "words": 79,
+  "sample": "những bữa ăn do người ta cúng dường vì lòng tin, vẫn còn chuyên"
+ },
+ {
+  "a": 8,
+  "b": 10,
+  "a_seg": "dn8:18.3",
+  "a_end": "dn8:18.3",
+  "b_seg": "dn10:1.7.1",
+  "b_end": "dn10:1.7.2",
+  "words": 72,
+  "sample": "một như lai xuất hiện trong đời, là bậc a-la-hán, chánh đẳng giác, đầy"
+ },
+ {
+  "a": 8,
+  "b": 10,
+  "a_seg": "dn8:19.2",
+  "a_end": "dn8:19.3",
+  "b_seg": "dn10:1.28.2",
+  "b_end": "dn10:1.28.3",
+  "words": 70,
+  "sample": "việc cho uống thuốc gây nôn, thuốc xổ, thuốc trục đờm, thuốc tống xuống,"
+ },
+ {
+  "a": 8,
+  "b": 10,
+  "a_seg": "dn8:19.2",
+  "a_end": "dn8:19.3",
+  "b_seg": "dn10:1.28.5",
+  "b_end": "dn10:1.28.6",
+  "words": 70,
+  "sample": "việc cho uống thuốc gây nôn, thuốc xổ, thuốc trục đờm, thuốc tống xuống,"
+ },
+ {
+  "a": 8,
+  "b": 10,
+  "a_seg": "dn8:24.8",
+  "a_end": "dn8:24.8",
+  "b_seg": "dn10:2.37.11",
+  "b_end": "dn10:2.37.11",
+  "words": 56,
+  "sample": "chú thích chú thích của bhikkhu sujato (cc0), dịch lại thành bản dịch tiếng"
+ },
+ {
+  "a": 8,
+  "b": 10,
+  "a_seg": "dn8:20.1",
+  "a_end": "dn8:20.2",
+  "b_seg": "dn10:2.21.1",
+  "b_end": "dn10:2.21.1",
+  "words": 40,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 8,
+  "b": 10,
+  "a_seg": "dn8:20.1",
+  "a_end": "dn8:20.2",
+  "b_seg": "dn10:2.32.1",
+  "b_end": "dn10:2.32.1",
+  "words": 40,
+  "sample": "khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn"
+ },
+ {
+  "a": 3,
+  "b": 4,
+  "a_seg": "dn3:2.22.9",
+  "a_end": "dn3:2.22.9",
+  "b_seg": "dn4:27.2",
+  "b_end": "dn4:27.2",
+  "words": 55,
+  "sample": "đã hoàn thành. --- bảng thuật ngữ các thuật ngữ dưới đây được dùng"
+ },
+ {
+  "a": 3,
+  "b": 4,
+  "a_seg": "dn3:2.22.9",
+  "a_end": "dn3:2.22.9",
+  "b_seg": "dn4:27.2",
+  "b_end": "dn4:27.2",
+  "words": 51,
+  "sample": ". - maurice walshe , the long discourses of the buddha: a translation of"
+ },
+ {
+  "a": 3,
+  "b": 4,
+  "a_seg": "dn3:2.2.18",
+  "a_end": "dn3:2.2.18",
+  "b_seg": "dn4:23.12",
+  "b_end": "dn4:23.12",
+  "words": 45,
+  "sample": "với thiên nhãn thanh tịnh, vượt xa mắt của người thường, vị ấy thấy"
+ },
+ {
+  "a": 3,
+  "b": 4,
+  "a_seg": "dn3:2.22.9",
+  "a_end": "dn3:2.22.9",
+  "b_seg": "dn4:27.2",
+  "b_end": "dn4:27.2",
+  "words": 40,
+  "sample": "các bản dịch khác đã đối chiếu - thích minh châu , trường bộ"
+ },
+ {
+  "a": 3,
+  "b": 7,
+  "a_seg": "dn3:2.22.9",
+  "a_end": "dn3:2.22.9",
+  "b_seg": "dn7:5.11",
+  "b_end": "dn7:5.11",
+  "words": 47,
+  "sample": "chú thích chú thích của bhikkhu sujato (cc0), dịch lại thành bản dịch tiếng"
+ },
+ {
+  "a": 7,
+  "b": 9,
+  "a_seg": "dn7:5.11",
+  "a_end": "dn7:5.11",
+  "b_seg": "dn9:56.5",
+  "b_end": "dn9:56.5",
+  "words": 56,
+  "sample": "chú thích chú thích của bhikkhu sujato (cc0), dịch lại thành bản dịch tiếng"
+ },
+ {
+  "a": 6,
+  "b": 12,
+  "a_seg": "dn6:16.4",
+  "a_end": "dn6:16.4",
+  "b_seg": "dn12:20-55.1",
+  "b_end": "dn12:20-55.1",
+  "words": 60,
+  "sample": "ở đây có một như lai xuất hiện trong đời, là bậc a-la-hán, chánh"
+ },
+ {
+  "a": 6,
+  "b": 12,
+  "a_seg": "dn6:16.4",
+  "a_end": "dn6:16.4",
+  "b_seg": "dn12:20-55.1",
+  "b_end": "dn12:20-55.1",
+  "words": 49,
+  "sample": "ấy sống tự chế ngự theo giới bổn pātimokkha, đầy đủ oai nghi và"
+ },
+ {
+  "a": 6,
+  "b": 12,
+  "a_seg": "dn6:17.2",
+  "a_end": "dn6:17.2",
+  "b_seg": "dn12:56-62.2",
+  "b_end": "dn12:56-62.2",
+  "words": 49,
+  "sample": "vị ấy chứng và trú vào tam thiền — tầng thiền thứ ba —"
+ },
+ {
+  "a": 6,
+  "b": 12,
+  "a_seg": "dn6:18.1",
+  "a_end": "dn6:18.1",
+  "b_seg": "dn12:63-77.2",
+  "b_end": "dn12:63-77.2",
+  "words": 47,
+  "sample": "\"đây là thân của ta: có sắc, do bốn đại hợp thành, do cha"
+ },
+ {
+  "a": 6,
+  "b": 12,
+  "a_seg": "dn6:18.1",
+  "a_end": "dn6:18.1",
+  "b_seg": "dn12:63-77.2",
+  "b_end": "dn12:63-77.2",
+  "words": 46,
+  "sample": "\"đây là thân của ta: có sắc, do bốn đại hợp thành, do cha"
+ }
+]

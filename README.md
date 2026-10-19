@@ -68,6 +68,18 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 
 ---
 
+## Sổ tay người đọc
+
+Bộ kinh dày hơn 600.000 từ, nhiều đoạn lặp và nhiều thuật ngữ cổ. Thư mục [`so-tay/`](so-tay/) có
+bốn tài liệu hỗ trợ:
+
+| Tệp | Dùng để |
+|---|---|
+| [`so-tay/00-cach-doc.md`](so-tay/00-cach-doc.md) | Biết nên bắt đầu từ bài nào, đọc theo lộ trình nào |
+| [`so-tay/01-cong-thuc-lap-lai.md`](so-tay/01-cong-thuc-lap-lai.md) | Nhận ra các đoạn lặp và hiểu vì sao chúng lặp |
+| [`so-tay/02-ban-do-lien-ket.md`](so-tay/02-ban-do-lien-ket.md) | Thấy bài nào liên quan bài nào (có số liệu đo được) |
+| [`so-tay/03-thuat-ngu.md`](so-tay/03-thuat-ngu.md) | Tra thuật ngữ, hiểu tám khái niệm khó nhất |
+
 ## Cấu trúc kho
 
 ```
