@@ -156,7 +156,7 @@ Nhưng thưa ngài, tôi không hiểu điều ngài nói về 'mùi hôi'."
 "Những mùi hôi nào giữa loài người, thưa Phạm thiên,
 
 <!-- seg: dn19:46.12 -->
-kẻ không biết, xin ngài nói cho rõ, hỡi bậc trí;
+tôi không biết, xin ngài nói cho rõ, hỡi bậc trí;
 
 <!-- seg: dn19:46.13 -->
 bị bọc trong gì mà chúng sinh bốc mùi,

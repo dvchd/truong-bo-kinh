@@ -10,7 +10,7 @@ Một thuở nọ, Đức Thế Tôn đang trú tại Rājagaha (Vương Xá), t
 
 Rồi khi đêm đã về khuya, Pañcasikha, con trai của một Càn-thát-bà, với dung sắc rực rỡ, chiếu sáng toàn bộ núi Gijjhakūṭa, đi đến chỗ Đức Thế Tôn. Đến nơi, ông đảnh lễ Đức Thế Tôn rồi đứng sang một bên. Đứng sang một bên, Pañcasikha, con trai của một Càn-thát-bà, thưa với Đức Thế Tôn:
 
-[Chú thích: Pañcasikha đã xuất hiện trong DN 18, một bài kinh có nhiều chi tiết khác cũng giống bài này. Vì vậy có thể xem bài kinh này như một người anh em họ xa của chuỗi kinh kể về lần Niết-bàn cuối cùng của Đức Thế Tôn.]
+[Chú thích: Pañcasikha đã xuất hiện trong DN 18, một bài kinh có nhiều chi tiết khác cũng giống bài này. Vì vậy có thể xem bài kinh này như một người anh em họ xa của chuỗi kinh Mahāparinibbāna.]
 
 <!-- seg: dn19:1.4 -->
 

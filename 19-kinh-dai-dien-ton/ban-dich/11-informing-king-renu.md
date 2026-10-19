@@ -5,7 +5,7 @@
 Rồi vị bà-la-môn Đại Điển Tôn đi đến chỗ vua Reṇu và nói với vua:
 
 <!-- seg: dn19:47.2 -->
-"Thưa ngài, nay xin ngài hãy tìm một vị tế sư khác để quản lý việc nước cho ngài.
+"Thưa ngài, nay xin ngài hãy tìm một vị tế sư khác để quản lý việc nước thay ngài.
 
 <!-- seg: dn19:47.3 -->
 Thưa ngài, tôi muốn xuất gia từ nhà ra sống không nhà.
@@ -38,7 +38,7 @@ tôi sẽ bù đắp cho ngài;
 ai làm hại ngài, tôi sẽ ngăn chặn,
 
 <!-- seg: dn19:47.13 -->
-vì tôi chỉ huy quân đội của cõi đất;
+vì tôi nắm cõi đất và quân đội;
 
 <!-- seg: dn19:47.14 -->
 ngài là cha, tôi là con,

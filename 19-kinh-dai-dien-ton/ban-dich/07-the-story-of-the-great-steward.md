@@ -4,7 +4,7 @@
 
 <!-- seg: dn19:30.1 -->
 
-Rồi này các vị, vua Disampati gọi một người trong số các cận thần:
+Rồi này các vị, vua Disampati gọi một người lại:
 
 <!-- seg: dn19:30.2 -->
 
@@ -32,13 +32,13 @@ sau khi chào hỏi và nói những lời thân thiện, cậu ngồi xuống m
 
 <!-- seg: dn19:30.8 -->
 
-"Xin ngài Jotipāla quản lý công việc cho ta, xin ngài Jotipāla đừng từ chối lời mời của ta.
+"Xin ngài Jotipāla hãy đảm nhận việc quản lý cho ta, xin ngài Jotipāla đừng khước từ lời đề nghị ấy.
 
 <!-- seg: dn19:30.9 -->
 
 Ta sẽ đặt ngài vào chỗ của cha ngài, và làm lễ quán đảnh cho ngài vào chức Điển Tôn."
 
-[Chú thích: Điều này cho thấy Govinda là một chức vị chứ không phải tên riêng.]
+[Chú thích: Điều này cho thấy Điển Tôn (Govinda) là một chức vị chứ không phải tên riêng.]
 
 <!-- seg: dn19:30.10 -->
 
@@ -60,7 +60,7 @@ cậu tổ chức những công việc mà cha cậu đã tổ chức, và cả 
 
 <!-- seg: dn19:31.4 -->
 
-Thấy vậy, người ta nói:
+Rồi người ta nói về cậu như vầy:
 
 <!-- seg: dn19:31.5 -->
 

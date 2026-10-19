@@ -24,7 +24,7 @@ Ngài Đại Phạm thiên nghĩ thế nào?
 
 <!-- seg: dn19:20.3 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà đã thực hành như vậy vì lợi ích của nhiều người, vì hạnh phúc của nhiều người, vì lòng thương xót thế gian, vì lợi ích, vì sự tốt lành, vì hạnh phúc của trời và người, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà đã thực hành như vậy vì lợi ích của nhiều người, vì hạnh phúc của nhiều người, vì lòng thương xót thế gian, vì lợi ích, vì sự tốt lành, vì hạnh phúc của trời và người, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:21.1 -->
 
@@ -32,7 +32,7 @@ Hơn nữa, Pháp ấy do Đức Thế Tôn khéo thuyết giảng: thiết th�
 
 <!-- seg: dn19:21.2 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà thuyết giảng Pháp có thể đưa đến như vậy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà thuyết giảng Pháp có thể đưa đến như vậy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:22.1 -->
 
@@ -44,7 +44,7 @@ Ngài là bậc đã chỉ rõ như vậy các pháp thiện và bất thiện, 
 
 <!-- seg: dn19:22.3 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:23.1 -->
 
@@ -60,7 +60,7 @@ cũng đúng như vậy, con đường thực hành đưa đến Niết-bàn mà
 
 <!-- seg: dn19:23.4 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà chỉ rõ như vậy con đường thực hành đưa đến Niết-bàn cho các đệ tử, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà chỉ rõ như vậy con đường thực hành đưa đến Niết-bàn cho các đệ tử, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:24.1 -->
 
@@ -72,7 +72,7 @@ Hơn nữa, lợi lộc đã đến với Đức Thế Tôn, danh tiếng đã �
 
 <!-- seg: dn19:24.3 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà dùng vật thực với tâm không còn kiêu mạn như vậy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà dùng vật thực với tâm không còn kiêu mạn như vậy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:25.1 -->
 
@@ -80,7 +80,7 @@ Hơn nữa, Đức Thế Tôn đã có được những người bạn đồng h
 
 <!-- seg: dn19:25.2 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà chuyên tâm vào niềm vui nơi thanh vắng như vậy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà chuyên tâm vào niềm vui nơi thanh vắng như vậy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:26.1 -->
 
@@ -92,7 +92,7 @@ nghĩa là Ngài nói sao làm vậy, làm sao nói vậy.
 
 <!-- seg: dn19:26.3 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà thực hành đúng theo Pháp như vậy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà thực hành đúng theo Pháp như vậy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:27.1 -->
 
@@ -104,7 +104,7 @@ Hơn nữa, Đức Thế Tôn đã vượt qua hoài nghi, đã hết do dự, �
 
 <!-- seg: dn19:27.3 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:28.1 -->
 
