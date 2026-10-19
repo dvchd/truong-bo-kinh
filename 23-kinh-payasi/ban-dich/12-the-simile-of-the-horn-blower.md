@@ -102,7 +102,7 @@ Này thủ lĩnh, qua cách này cũng vậy, ông nên hiểu rằng:
 
 <!-- seg: dn23:20.1 -->
 
-"Dù Tôn giả Kassapa nói như vậy, tôi vẫn nghĩ rằng:
+"Dù Tôn giả Kumārakassapa nói như vậy, tôi vẫn nghĩ rằng:
 
 <!-- seg: dn23:20.2 -->
 
@@ -114,7 +114,7 @@ Này thủ lĩnh, qua cách này cũng vậy, ông nên hiểu rằng:
 
 <!-- seg: dn23:20.4 -->
 
-"Thưa Tôn giả Kassapa, có cách, nhờ cách ấy tôi nói rằng: 'Quả thật không có cõi khác, không có chúng sinh hóa sinh, không có quả báo của nghiệp thiện và nghiệp ác'."
+"Thưa Tôn giả Kumārakassapa, có cách, nhờ cách ấy tôi nói rằng: 'Quả thật không có cõi khác, không có chúng sinh hóa sinh, không có quả báo của nghiệp thiện và nghiệp ác'."
 
 <!-- seg: dn23:20.5 -->
 
@@ -122,7 +122,7 @@ Này thủ lĩnh, qua cách này cũng vậy, ông nên hiểu rằng:
 
 <!-- seg: dn23:20.6 -->
 
-"Thưa Tôn giả Kassapa, có những người bắt một kẻ cướp, một kẻ phạm tội, dẫn đến trước mặt tôi và nói:
+"Thưa Tôn giả Kumārakassapa, có những người bắt một kẻ cướp, một kẻ phạm tội, dẫn đến trước mặt tôi và nói:
 
 <!-- seg: dn23:20.7 -->
 
@@ -162,7 +162,7 @@ Họ rạch tủy xương của người ấy, nhưng chúng tôi không thấy 
 
 <!-- seg: dn23:20.16 -->
 
-Thưa Tôn giả Kassapa, đây cũng là cách khiến tôi cho rằng:
+Thưa Tôn giả Kumārakassapa, đây cũng là cách khiến tôi cho rằng:
 
 <!-- seg: dn23:20.17 -->
 

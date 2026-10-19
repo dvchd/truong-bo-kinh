@@ -52,7 +52,7 @@ Này thủ lĩnh, người ấy nói như vậy có đúng không?"
 
 <!-- seg: dn23:11.28 -->
 
-"Không đúng, thưa Tôn giả Kassapa.
+"Không đúng, thưa Tôn giả Kumārakassapa.
 
 <!-- seg: dn23:11.29 -->
 
@@ -80,15 +80,15 @@ Có mặt trăng và mặt trời, có người thấy được mặt trăng và
 
 <!-- seg: dn23:11.35 -->
 
-Thật vậy, thưa Tôn giả Kassapa, người ấy nói như vậy không đúng."
+Thưa Tôn giả Kumārakassapa, người ấy nói như vậy đâu có đúng."
 
 <!-- seg: dn23:11.36 -->
 
-"Này thủ lĩnh, cũng vậy, khi ông nói với tôi như thế, tôi thấy ông chẳng khác nào người mù trong ví dụ này.
+"Này thủ lĩnh, cũng vậy, khi ông nói với tôi như thế, tôi thấy ông chẳng khác nào người mù trong ví dụ này."
 
 <!-- seg: dn23:11.37 -->
 
-Nhưng thưa Tôn giả Kassapa, ai đã nói cho ngài biết:
+"Nhưng thưa Tôn giả Kumārakassapa, ai đã nói cho ngài biết:
 
 <!-- seg: dn23:11.38 -->
 
@@ -96,7 +96,7 @@ Nhưng thưa Tôn giả Kassapa, ai đã nói cho ngài biết:
 
 <!-- seg: dn23:11.39 -->
 
-Chúng tôi không tin Tôn giả Kassapa khi ngài nói:
+Chúng tôi không tin Tôn giả Kumārakassapa khi ngài nói:
 
 <!-- seg: dn23:11.40 -->
 
@@ -134,7 +134,7 @@ Này thủ lĩnh, qua cách này cũng vậy, ông nên hiểu rằng:
 
 <!-- seg: dn23:12.1 -->
 
-"Dù Tôn giả Kassapa nói như vậy, tôi vẫn nghĩ rằng:
+"Dù Tôn giả Kumārakassapa nói như vậy, tôi vẫn nghĩ rằng:
 
 <!-- seg: dn23:12.2 -->
 
@@ -146,7 +146,7 @@ Này thủ lĩnh, qua cách này cũng vậy, ông nên hiểu rằng:
 
 <!-- seg: dn23:12.4 -->
 
-"Thưa Tôn giả Kassapa, có cách, nhờ cách ấy tôi nói rằng: 'Quả thật không có cõi khác, không có chúng sinh hóa sinh, không có quả báo của nghiệp thiện và nghiệp ác'."
+"Thưa Tôn giả Kumārakassapa, có cách, nhờ cách ấy tôi nói rằng: 'Quả thật không có cõi khác, không có chúng sinh hóa sinh, không có quả báo của nghiệp thiện và nghiệp ác'."
 
 <!-- seg: dn23:12.5 -->
 
@@ -154,11 +154,11 @@ Này thủ lĩnh, qua cách này cũng vậy, ông nên hiểu rằng:
 
 <!-- seg: dn23:12.6 -->
 
-"Thưa Tôn giả Kassapa, tôi thấy có những sa-môn và bà-la-môn giữ giới, có phẩm hạnh tốt, muốn sống, không muốn chết, muốn an vui, ghê sợ khổ đau.
+"Thưa Tôn giả Kumārakassapa, tôi thấy có những sa-môn và bà-la-môn giữ giới, có phẩm hạnh tốt, muốn sống, không muốn chết, muốn an vui, ghê sợ khổ đau.
 
 <!-- seg: dn23:12.7 -->
 
-Thưa Tôn giả Kassapa, tôi nghĩ rằng:
+Thưa Tôn giả Kumārakassapa, tôi nghĩ rằng:
 
 <!-- seg: dn23:12.8 -->
 
@@ -182,7 +182,7 @@ Nhưng vì các vị ấy không biết rằng:
 
 <!-- seg: dn23:12.13 -->
 
-Thưa Tôn giả Kassapa, đây cũng là cách khiến tôi cho rằng:
+Thưa Tôn giả Kumārakassapa, đây cũng là cách khiến tôi cho rằng:
 
 <!-- seg: dn23:12.14 -->
 

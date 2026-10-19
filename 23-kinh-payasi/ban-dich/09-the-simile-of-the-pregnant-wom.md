@@ -140,7 +140,7 @@ mà chờ cho nó chín.
 
 <!-- seg: dn23:13.33 -->
 
-Này thủ lĩnh, vì mạng sống của các sa-môn và bà-la-môn giữ giới, có phẩm hạnh tốt ấy là điều có ích cho người trí.
+Này thủ lĩnh, vì đối với người trí, mạng sống của các sa-môn và bà-la-môn giữ giới, có phẩm hạnh tốt ấy là điều có ích.
 
 <!-- seg: dn23:13.34 -->
 
@@ -156,7 +156,7 @@ Này thủ lĩnh, qua cách này cũng vậy, ông nên hiểu rằng:
 
 <!-- seg: dn23:14.1 -->
 
-"Dù Tôn giả Kassapa nói như vậy, tôi vẫn nghĩ rằng:
+"Dù Tôn giả Kumārakassapa nói như vậy, tôi vẫn nghĩ rằng:
 
 <!-- seg: dn23:14.2 -->
 
@@ -168,7 +168,7 @@ Này thủ lĩnh, qua cách này cũng vậy, ông nên hiểu rằng:
 
 <!-- seg: dn23:14.4 -->
 
-"Thưa Tôn giả Kassapa, có cách, nhờ cách ấy tôi nói rằng: 'Quả thật không có cõi khác, không có chúng sinh hóa sinh, không có quả báo của nghiệp thiện và nghiệp ác'."
+"Thưa Tôn giả Kumārakassapa, có cách, nhờ cách ấy tôi nói rằng: 'Quả thật không có cõi khác, không có chúng sinh hóa sinh, không có quả báo của nghiệp thiện và nghiệp ác'."
 
 <!-- seg: dn23:14.5 -->
 
@@ -176,7 +176,7 @@ Này thủ lĩnh, qua cách này cũng vậy, ông nên hiểu rằng:
 
 <!-- seg: dn23:14.6 -->
 
-"Thưa Tôn giả Kassapa, có những người bắt một kẻ cướp, một kẻ phạm tội, dẫn đến trước mặt tôi và nói:
+"Thưa Tôn giả Kumārakassapa, có những người bắt một kẻ cướp, một kẻ phạm tội, dẫn đến trước mặt tôi và nói:
 
 <!-- seg: dn23:14.7 -->
 
@@ -216,7 +216,7 @@ Nhưng chúng tôi không thấy linh hồn nó thoát ra.
 
 <!-- seg: dn23:14.15 -->
 
-Thưa Tôn giả Kassapa, đây cũng là cách khiến tôi cho rằng:
+Thưa Tôn giả Kumārakassapa, đây cũng là cách khiến tôi cho rằng:
 
 <!-- seg: dn23:14.16 -->
 

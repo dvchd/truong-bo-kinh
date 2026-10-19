@@ -16,6 +16,6 @@ Tại đó, Tôn giả Kumārakassapa trú trong rừng cây tử đàn (siṁsa
 
 <!-- seg: dn23:1.4 -->
 
-Lúc bấy giờ, quan chức Pāyāsi đang cai quản Setavyā, một vùng đất đông đúc chúng sinh, đầy cỏ, củi, nước và lúa gạo, là thái ấp của triều đình do vua Pasenadi xứ Kosala ban cho, một món quà của vua, một bổng lộc bà-la-môn.
+Lúc bấy giờ, thủ lĩnh Pāyāsi đang cai quản Setavyā, một vùng đất đông đúc chúng sinh, đầy cỏ, củi, nước và lúa gạo, là thái ấp của triều đình do vua Pasenadi xứ Kosala ban cho, một món quà của vua, một món ban tặng cho bà-la-môn.
 
 [Chú thích: Pāyāsi là một khattiya mà lại nhận một brahmadeyya. Nghĩa của brahmadeyya là món ban tặng cho bà-la-môn được chứng thực vững chắc trong các văn khắc, nên đây có lẽ là một sai sót trong bản văn, chứ không phải bằng chứng rằng tục lệ ấy không chỉ dành riêng cho bà-la-môn.]

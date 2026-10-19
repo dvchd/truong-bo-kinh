@@ -79,7 +79,7 @@ mà vì nó **dùng được**.
 | | |
 |---|---|
 | Đoạn văn (segment) | **454** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **17.648** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **17.657** |
 | Trang PTS | ii.290–315 |
 
 ---

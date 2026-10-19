@@ -14,7 +14,7 @@ Thế nhưng tôi muốn nghe những câu trả lời khác nhau của Tôn gi�
 
 <!-- seg: dn23:30.3 -->
 
-Thật tuyệt vời, thưa Tôn giả Kumārakassapa, thật tuyệt vời, thưa Tôn giả Kumārakassapa!
+Thật tuyệt vời, thưa Tôn giả Kumārakassapa, thật tuyệt vời!
 
 <!-- seg: dn23:30.4 -->
 
@@ -22,7 +22,7 @@ Như có người dựng lại thứ bị lật ngược, mở ra thứ bị che
 
 <!-- seg: dn23:30.5 -->
 
-Bạch Tôn giả Kumārakassapa, con xin quy y Đức Thế Tôn Gotama ấy, quy y Pháp và quy y Tăng đoàn tỳ-kheo.
+Bạch Tôn giả Kumārakassapa, con xin quy y Đức Thế Tôn Gotama, quy y Pháp và quy y Tăng đoàn tỳ-kheo.
 
 <!-- seg: dn23:30.6 -->
 

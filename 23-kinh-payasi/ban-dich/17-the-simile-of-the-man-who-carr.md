@@ -4,7 +4,7 @@
 
 <!-- seg: dn23:29.1 -->
 
-"Vậy thì, này Pāyāsi, ta sẽ nói cho ông một ví dụ,
+"Vậy thì, này Pāyāsi, tôi sẽ nói cho ông một ví dụ,
 
 <!-- seg: dn23:29.2 -->
 
@@ -168,7 +168,7 @@ Còn người bạn mang gói vàng về — cha mẹ vui mừng vì anh ta, v�
 
 <!-- seg: dn23:29.41 -->
 
-Cũng vậy, này Pāyāsi, ta nghĩ ông giống như người mang gai trong ví dụ.
+Cũng vậy, này Pāyāsi, tôi nghĩ ông giống như người mang gai trong ví dụ.
 
 <!-- seg: dn23:29.42 -->
 

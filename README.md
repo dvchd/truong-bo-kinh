@@ -32,7 +32,7 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 | **20** | **Kinh Đại Hội** | *Mahāsamaya Sutta* | ✅ **Hoàn thành** → [`20-kinh-dai-hoi/`](20-kinh-dai-hoi/) |
 | **21** | **Kinh Sakka hỏi** | *Sakkapañha Sutta* | ✅ **Hoàn thành** → [`21-kinh-sakkapanha/`](21-kinh-sakkapanha/) |
 | **22** | **Kinh Đại Niệm Xứ** | *Mahāsatipaṭṭhāna Sutta* | ✅ **Hoàn thành** → [`22-kinh-dai-niem-xu/`](22-kinh-dai-niem-xu/) |
-| 23 | Kinh Pāyāsi | *Pāyāsi Sutta* | ⏳ Chưa bắt đầu |
+| **23** | **Kinh Pāyāsi** | *Pāyāsi Sutta* | ✅ **Hoàn thành** → [`23-kinh-payasi/`](23-kinh-payasi/) |
 | 24 | Kinh Pāṭika | *Pāṭika Sutta* | ⏳ Chưa bắt đầu |
 | 25 | Kinh Udumbarikā | *Udumbarikā Sutta* | ⏳ Chưa bắt đầu |
 | 26 | Kinh Chuyển Luân Vương | *Cakkavatti Sutta* | ⏳ Chưa bắt đầu |
@@ -261,12 +261,18 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 │   ├── ban-dich/
 │   └── nguon/
 │
+├── 23-kinh-payasi/             ← Bài kinh số 23: Kinh Pāyāsi  ✅
+│   ├── Kinh-Payasi.md          ← BẢN DỊCH HOÀN CHỈNH (đọc tệp này)
+│   ├── README.md · GHI-CHU-BAI.md
+│   ├── ban-dich/
+│   └── nguon/
+│
 ├── HUONG-DAN-CHUNG.md          ← quy chuẩn dịch chung cho cả 34 bài
 │
 ├── cong-cu/
 │   └── tao-bai.py              ← dựng khung một bài mới (nguồn + script + thư mục)
 │
-└── 23-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
+└── 24-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
 ```
 
 ---
@@ -298,7 +304,8 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 | 19 | **Kinh Đại Điển Tôn** | [`19-kinh-dai-dien-ton/Kinh-Dai-Dien-Ton.md`](19-kinh-dai-dien-ton/Kinh-Dai-Dien-Ton.md) | 559 đoạn · 15.969 từ |
 | 20 | **Kinh Đại Hội** | [`20-kinh-dai-hoi/Kinh-Dai-Hoi.md`](20-kinh-dai-hoi/Kinh-Dai-Hoi.md) | 337 đoạn · 8.669 từ |
 | 21 | **Kinh Sakka hỏi** | [`21-kinh-sakkapanha/Kinh-Sakkapanha.md`](21-kinh-sakkapanha/Kinh-Sakkapanha.md) | 515 đoạn · 14.368 từ |
-| 22 | **Kinh Đại Niệm Xứ** | [`22-kinh-dai-niem-xu/Kinh-Dai-Niem-Xu.md`](22-kinh-dai-niem-xu/Kinh-Dai-Niem-Xu.md) | 454 đoạn · 17.648 từ |
+| 22 | **Kinh Đại Niệm Xứ** | [`22-kinh-dai-niem-xu/Kinh-Dai-Niem-Xu.md`](22-kinh-dai-niem-xu/Kinh-Dai-Niem-Xu.md) | 454 đoạn · 17.657 từ |
+| 23 | **Kinh Pāyāsi** | [`23-kinh-payasi/Kinh-Payasi.md`](23-kinh-payasi/Kinh-Payasi.md) | 715 đoạn · 19.918 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
 

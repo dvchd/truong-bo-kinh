@@ -4,7 +4,7 @@
 
 <!-- seg: dn23:7.1 -->
 
-"Vậy thì, thưa quan chức, tôi sẽ hỏi lại quan chức về điều ấy. Quan chức cứ trả lời theo cách mình thấy thuận.
+"Vậy thì, thưa thủ lĩnh, tôi sẽ hỏi lại thủ lĩnh về điều ấy. Quan chức cứ trả lời theo cách mình thấy thuận.
 
 <!-- seg: dn23:7.2 -->
 
@@ -12,7 +12,7 @@ Quan chức nghĩ sao,
 
 <!-- seg: dn23:7.3 -->
 
-giả sử những người của quan chức bắt được một kẻ trộm, một kẻ phạm tội, rồi dẫn đến trước mặt quan chức và nói:
+giả sử những người của thủ lĩnh bắt được một kẻ trộm, một kẻ phạm tội, rồi dẫn đến trước mặt thủ lĩnh và nói:
 
 <!-- seg: dn23:7.4 -->
 
@@ -24,7 +24,7 @@ Ngài muốn xử phạt thế nào thì xử phạt kẻ này.'
 
 <!-- seg: dn23:7.6 -->
 
-Rồi quan chức sẽ bảo họ:
+Rồi thủ lĩnh sẽ bảo họ:
 
 <!-- seg: dn23:7.7 -->
 
@@ -46,7 +46,7 @@ Kẻ trộm ấy có thể xin được những người đao phủ:
 
 <!-- seg: dn23:7.11 -->
 
-"Thưa Tôn giả Kassapa, kẻ trộm ấy không thể xin được các đao phủ:
+"Thưa Tôn giả Kumārakassapa, kẻ trộm ấy không thể xin được các đao phủ:
 
 <!-- seg: dn23:7.12 -->
 
@@ -58,7 +58,7 @@ Mà các đao phủ cứ chặt đầu kẻ ấy ngay trong lúc kẻ ấy còn 
 
 <!-- seg: dn23:7.14 -->
 
-"Thưa quan chức, một kẻ trộm là người, mà đối với những đao phủ cũng là người, còn không xin được:
+"Thưa thủ lĩnh, kẻ trộm ấy là người, những đao phủ cũng là người, vậy mà kẻ ấy còn không xin được:
 
 <!-- seg: dn23:7.15 -->
 
@@ -66,11 +66,11 @@ Mà các đao phủ cứ chặt đầu kẻ ấy ngay trong lúc kẻ ấy còn 
 
 <!-- seg: dn23:7.16 -->
 
-Huống chi những người bạn, người thân, bà con của quan chức, những kẻ giết hại chúng sinh, trộm cắp, tà hạnh, nói dối, nói lời chia rẽ, nói lời thô ác, nói lời vô nghĩa, tham lam, có tâm sân hận, có tà kiến, khi thân hoại mạng chung, sau khi chết đã tái sinh vào cõi dữ, ác thú, đọa xứ, địa ngục — họ có xin được các ngục tốt:
+Huống chi những người bạn, người thân, bà con của thủ lĩnh, những kẻ giết hại chúng sinh, trộm cắp, tà hạnh, nói dối, nói lời chia rẽ, nói lời thô ác, nói lời vô nghĩa, tham lam, có tâm sân hận, có tà kiến, khi thân hoại mạng chung, sau khi chết đã tái sinh vào cõi dữ, ác thú, đọa xứ, địa ngục — họ có xin được các ngục tốt:
 
 <!-- seg: dn23:7.17 -->
 
-'mời các ngài ngục tốt chờ một lát, để chúng tôi đi báo cho quan chức Pāyāsi rằng:
+'Xin các ngài ngục tốt chờ một lát, để chúng tôi đi báo cho thủ lĩnh Pāyāsi rằng:
 
 <!-- seg: dn23:7.18 -->
 
@@ -78,7 +78,7 @@ Huống chi những người bạn, người thân, bà con của quan chức, n
 
 <!-- seg: dn23:7.19 -->
 
-Thưa quan chức, với cách này cũng vậy, phải công nhận rằng:
+Thưa thủ lĩnh, với cách này cũng vậy, phải công nhận rằng:
 
 [Chú thích: Tuy vậy, Kassapa chưa chứng minh được sự tồn tại của đời sau, ông mới chỉ bác bỏ lập luận của Pāyāsi. Theo dao cạo Occam, nghĩa vụ chứng minh thuộc về người muốn khẳng định có đời sau, chứ không thuộc về người phủ nhận. Nhưng các lập luận của ông trở nên thuyết phục hơn nếu hiểu rằng chúng dựa trên sự đồng thuận ban đầu về tính thiêng của mặt trăng và mặt trời: ông biết Pāyāsi có chấp nhận một dạng đời khác nào đó, nên vấn đề là ở chỗ phương pháp của Pāyāsi có đủ để bác bỏ đời sống khác do nghiệp dẫn dắt hay không.]
 
@@ -88,7 +88,7 @@ có đời sau, có chúng sinh hóa sinh, có quả báo của việc làm tố
 
 <!-- seg: dn23:8.1 -->
 
-"Dù Tôn giả Kassapa nói như vậy, nhưng về điều ấy tôi vẫn nghĩ thế này:
+"Dù Tôn giả Kumārakassapa nói như vậy, nhưng về điều ấy tôi vẫn nghĩ thế này:
 
 <!-- seg: dn23:8.2 -->
 
@@ -96,7 +96,7 @@ có đời sau, có chúng sinh hóa sinh, có quả báo của việc làm tố
 
 <!-- seg: dn23:8.3 -->
 
-"Vậy thưa quan chức, có cách nào khiến quan chức nghĩ như thế này không:
+"Vậy thưa thủ lĩnh, có cách nào khiến thủ lĩnh nghĩ như thế này không:
 
 <!-- seg: dn23:8.4 -->
 
@@ -104,7 +104,7 @@ có đời sau, có chúng sinh hóa sinh, có quả báo của việc làm tố
 
 <!-- seg: dn23:8.5 -->
 
-"Thưa Tôn giả Kassapa, có chứ, có cách khiến tôi nghĩ như thế này:
+"Thưa Tôn giả Kumārakassapa, có chứ, có cách khiến tôi nghĩ như thế này:
 
 <!-- seg: dn23:8.6 -->
 
@@ -112,11 +112,11 @@ có đời sau, có chúng sinh hóa sinh, có quả báo của việc làm tố
 
 <!-- seg: dn23:8.7 -->
 
-"Bằng cách nào, thưa quan chức?"
+"Bằng cách nào, thưa thủ lĩnh?"
 
 <!-- seg: dn23:8.8 -->
 
-"Thưa Tôn giả Kassapa, tôi có những người bạn, người thân, bà con, họ hàng từ bỏ giết hại chúng sinh, từ bỏ trộm cắp, từ bỏ tà hạnh, từ bỏ nói dối, từ bỏ nói lời chia rẽ, từ bỏ nói lời thô ác, từ bỏ nói lời vô nghĩa; họ không tham lam, không có tâm sân hận, có chánh kiến.
+"Thưa Tôn giả Kumārakassapa, tôi có những người bạn, người thân, bà con, họ hàng từ bỏ giết hại chúng sinh, từ bỏ trộm cắp, từ bỏ tà hạnh, từ bỏ nói dối, từ bỏ nói lời chia rẽ, từ bỏ nói lời thô ác, từ bỏ nói lời vô nghĩa; họ không tham lam, không có tâm sân hận, có chánh kiến.
 
 <!-- seg: dn23:8.9 -->
 
@@ -164,7 +164,7 @@ Họ nhận lời tôi: 'Vâng.' Nhưng họ không đến báo cho tôi, cũng 
 
 <!-- seg: dn23:8.20 -->
 
-Đó cũng là một cách, thưa Tôn giả Kassapa, khiến tôi nghĩ rằng:
+Đó cũng là một cách, thưa Tôn giả Kumārakassapa, khiến tôi nghĩ rằng:
 
 <!-- seg: dn23:8.21 -->
 

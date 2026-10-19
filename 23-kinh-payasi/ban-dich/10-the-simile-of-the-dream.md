@@ -4,7 +4,7 @@
 
 <!-- seg: dn23:15.1 -->
 
-"Vậy thì, này thủ lĩnh, tôi sẽ hỏi lại ông về điều ấy; ông thấy thế nào thì cứ trả lời như vậy.
+"Vậy thì, này thủ lĩnh, tôi sẽ hỏi lại ông về điều ấy; ông cứ trả lời theo ý mình.
 
 <!-- seg: dn23:15.2 -->
 
@@ -14,7 +14,7 @@ Này thủ lĩnh, ông có nhớ có lần nào ngủ trưa mà trong giấc mơ
 
 <!-- seg: dn23:15.3 -->
 
-"Thưa Tôn giả Kassapa, tôi có nhớ; có lần ngủ trưa, trong giấc mơ tôi thấy những khu vườn, khu rừng, khoảng đất và ao sen đẹp đẽ."
+"Thưa Tôn giả Kumārakassapa, tôi có nhớ; có lần ngủ trưa, trong giấc mơ tôi thấy những khu vườn, khu rừng, khoảng đất và ao sen đẹp đẽ."
 
 <!-- seg: dn23:15.4 -->
 
@@ -24,7 +24,7 @@ Này thủ lĩnh, ông có nhớ có lần nào ngủ trưa mà trong giấc mơ
 
 <!-- seg: dn23:15.5 -->
 
-"Đúng vậy, thưa Tôn giả Kassapa, lúc ấy có những người gù, người lùn, những cô gái đỏm dáng và các thiếu nữ đang canh chừng tôi."
+"Đúng vậy, thưa Tôn giả Kumārakassapa, lúc ấy có những người gù, người lùn, những cô gái đỏm dáng và các thiếu nữ đang canh chừng tôi."
 
 <!-- seg: dn23:15.6 -->
 
@@ -54,7 +54,7 @@ Này thủ lĩnh, qua cách này cũng vậy, ông nên hiểu rằng:
 
 <!-- seg: dn23:16.1 -->
 
-"Dù Tôn giả Kassapa nói như vậy, tôi vẫn nghĩ rằng:
+"Dù Tôn giả Kumārakassapa nói như vậy, tôi vẫn nghĩ rằng:
 
 <!-- seg: dn23:16.2 -->
 
@@ -66,7 +66,7 @@ Này thủ lĩnh, qua cách này cũng vậy, ông nên hiểu rằng:
 
 <!-- seg: dn23:16.4 -->
 
-"Thưa Tôn giả Kassapa, có cách, nhờ cách ấy tôi nói rằng: 'Quả thật không có cõi khác, không có chúng sinh hóa sinh, không có quả báo của nghiệp thiện và nghiệp ác'."
+"Thưa Tôn giả Kumārakassapa, có cách, nhờ cách ấy tôi nói rằng: 'Quả thật không có cõi khác, không có chúng sinh hóa sinh, không có quả báo của nghiệp thiện và nghiệp ác'."
 
 <!-- seg: dn23:16.5 -->
 
@@ -74,7 +74,7 @@ Này thủ lĩnh, qua cách này cũng vậy, ông nên hiểu rằng:
 
 <!-- seg: dn23:16.6 -->
 
-"Thưa Tôn giả Kassapa, có những người bắt một kẻ cướp, một kẻ phạm tội, dẫn đến trước mặt tôi và nói:
+"Thưa Tôn giả Kumārakassapa, có những người bắt một kẻ cướp, một kẻ phạm tội, dẫn đến trước mặt tôi và nói:
 
 <!-- seg: dn23:16.7 -->
 
@@ -110,7 +110,7 @@ Nhưng khi nó chết, nó nặng hơn, cứng hơn và khó uốn nắn hơn.
 
 <!-- seg: dn23:16.14 -->
 
-Thưa Tôn giả Kassapa, đây cũng là cách khiến tôi cho rằng:
+Thưa Tôn giả Kumārakassapa, đây cũng là cách khiến tôi cho rằng:
 
 <!-- seg: dn23:16.15 -->
 

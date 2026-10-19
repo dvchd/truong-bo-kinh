@@ -22,11 +22,11 @@ Sau đó, khi quả cầu ấy đã nguội và tắt, người ấy lại đem 
 
 Vậy quả cầu sắt ấy nhẹ hơn, mềm hơn và dễ uốn nắn hơn khi nào: khi nó đang cháy đỏ, bùng cháy, rực sáng, hay khi nó đã nguội và tắt?"
 
-[Chú thích: Quan niệm sai rằng sắt nhẹ đi khi nóng lên còn lặp lại ở chỗ khác, chẳng hạn SN 51.22:4.1. Thực ra, nếu không có phản ứng hóa học, nó sẽ hơi nặng hơn một chút do hiệu ứng tương đối tính, nhưng lại ít đặc hơn nên dễ nổi hơn. Tuy vậy, những thay đổi ấy quá nhỏ để phương pháp của Pāyāsi phát hiện ra.]
+[Chú thích: Quan niệm sai rằng sắt nhẹ đi khi nóng lên cũng xuất hiện ở chỗ khác, chẳng hạn SN 51.22:4.1. Thực ra, nếu không có phản ứng hóa học, nó sẽ hơi nặng hơn một chút do hiệu ứng tương đối tính, nhưng lại ít đặc hơn nên dễ nổi hơn. Tuy vậy, những thay đổi ấy quá nhỏ để phương pháp của Pāyāsi phát hiện ra.]
 
 <!-- seg: dn23:17.6 -->
 
-"Thưa Tôn giả Kassapa, khi quả cầu sắt ấy có lửa và có gió cùng đi với nó, đang cháy đỏ, bùng cháy, rực sáng, thì nó nhẹ hơn, mềm hơn và dễ uốn nắn hơn.
+"Thưa Tôn giả Kumārakassapa, khi quả cầu sắt ấy có lửa và có gió cùng đi với nó, đang cháy đỏ, bùng cháy, rực sáng, thì nó nhẹ hơn, mềm hơn và dễ uốn nắn hơn.
 
 <!-- seg: dn23:17.7 -->
 
@@ -50,7 +50,7 @@ Này thủ lĩnh, qua cách này cũng vậy, ông nên hiểu rằng:
 
 <!-- seg: dn23:18.1 -->
 
-"Dù Tôn giả Kassapa nói như vậy, tôi vẫn nghĩ rằng:
+"Dù Tôn giả Kumārakassapa nói như vậy, tôi vẫn nghĩ rằng:
 
 <!-- seg: dn23:18.2 -->
 
@@ -62,7 +62,7 @@ Này thủ lĩnh, qua cách này cũng vậy, ông nên hiểu rằng:
 
 <!-- seg: dn23:18.4 -->
 
-"Thưa Tôn giả Kassapa, có cách, nhờ cách ấy tôi nói rằng: 'Quả thật không có cõi khác, không có chúng sinh hóa sinh, không có quả báo của nghiệp thiện và nghiệp ác'."
+"Thưa Tôn giả Kumārakassapa, có cách, nhờ cách ấy tôi nói rằng: 'Quả thật không có cõi khác, không có chúng sinh hóa sinh, không có quả báo của nghiệp thiện và nghiệp ác'."
 
 <!-- seg: dn23:18.5 -->
 
@@ -70,7 +70,7 @@ Này thủ lĩnh, qua cách này cũng vậy, ông nên hiểu rằng:
 
 <!-- seg: dn23:18.6 -->
 
-"Thưa Tôn giả Kassapa, có những người bắt một kẻ cướp, một kẻ phạm tội, dẫn đến trước mặt tôi và nói:
+"Thưa Tôn giả Kumārakassapa, có những người bắt một kẻ cướp, một kẻ phạm tội, dẫn đến trước mặt tôi và nói:
 
 <!-- seg: dn23:18.7 -->
 
@@ -186,7 +186,7 @@ Thân vẫn còn đó, những xúc ấy vẫn còn đó, nhưng người ấy k
 
 <!-- seg: dn23:18.34 -->
 
-Thưa Tôn giả Kassapa, đây cũng là cách khiến tôi cho rằng:
+Thưa Tôn giả Kumārakassapa, đây cũng là cách khiến tôi cho rằng:
 
 <!-- seg: dn23:18.35 -->
 

@@ -4,7 +4,7 @@
 
 <!-- seg: dn23:5.8 -->
 
-"Vậy thì, thưa quan chức, tôi sẽ hỏi lại quan chức về điều ấy; quan chức cứ trả lời theo cách mình thấy thuận.
+"Vậy thì, thưa thủ lĩnh, tôi sẽ hỏi lại thủ lĩnh về điều ấy; thủ lĩnh cứ trả lời theo cách mình thấy thuận.
 
 <!-- seg: dn23:5.9 -->
 
@@ -16,13 +16,13 @@ mặt trăng và mặt trời này ở đời này hay ở đời khác? Chúng 
 
 <!-- seg: dn23:5.11 -->
 
-"Thưa Tôn giả Kassapa, mặt trăng và mặt trời ở đời khác, không phải đời này; chúng là chư thiên, không phải người."
+"Thưa Tôn giả Kumārakassapa, mặt trăng và mặt trời ở đời khác, không phải đời này; chúng là chư thiên, không phải người."
 
 [Chú thích: Trong khi thế giới ở dưới đây chìm trong những vấn đề bừa bộn và phù du, các thiên thể vẫn bước đi với vẻ thanh thản, rực rỡ, trang nghiêm và dửng dưng. Chúng phớt lờ trọng lực, tự chiếu sáng, dường như vĩnh cửu, và vận hành theo một bộ quy luật hoàn toàn khác, một thứ siêu hình học. Đức Thế Tôn đã làm trong tâm linh điều Newton làm trong vật lý: cho thấy rằng cõi trời, dù bề ngoài như vậy, cũng vận hành theo cùng bộ quy luật hữu vi như ở dưới đây.]
 
 <!-- seg: dn23:5.12 -->
 
-"Thưa quan chức, theo cách này cũng phải công nhận rằng:
+"Thưa thủ lĩnh, theo cách này cũng phải công nhận rằng:
 
 [Chú thích: Lập luận của Kassapa ở đây không trực tiếp chứng minh được kết luận của ông ấy. Có thể có chư thiên trên một cõi hoàn toàn riêng biệt, không liên quan gì đến nghiệp và tái sinh.]
 
@@ -32,7 +32,7 @@ có đời sau, có chúng sinh hóa sinh, có quả báo của việc làm tố
 
 <!-- seg: dn23:6.1 -->
 
-"Dù Tôn giả Kassapa nói như vậy, nhưng về điều ấy tôi vẫn nghĩ thế này:
+"Dù Tôn giả Kumārakassapa nói như vậy, nhưng về điều ấy tôi vẫn nghĩ thế này:
 
 <!-- seg: dn23:6.2 -->
 
@@ -40,7 +40,7 @@ có đời sau, có chúng sinh hóa sinh, có quả báo của việc làm tố
 
 <!-- seg: dn23:6.3 -->
 
-"Vậy thưa quan chức, có cách nào khiến quan chức nghĩ như thế này không:
+"Vậy thưa thủ lĩnh, có cách nào khiến thủ lĩnh nghĩ như thế này không:
 
 <!-- seg: dn23:6.4 -->
 
@@ -48,7 +48,7 @@ có đời sau, có chúng sinh hóa sinh, có quả báo của việc làm tố
 
 <!-- seg: dn23:6.5 -->
 
-"Thưa Tôn giả Kassapa, có chứ, có cách khiến tôi nghĩ như thế này:
+"Thưa Tôn giả Kumārakassapa, có chứ, có cách khiến tôi nghĩ như thế này:
 
 <!-- seg: dn23:6.6 -->
 
@@ -56,11 +56,11 @@ có đời sau, có chúng sinh hóa sinh, có quả báo của việc làm tố
 
 <!-- seg: dn23:6.7 -->
 
-"Bằng cách nào, thưa quan chức?"
+"Bằng cách nào, thưa thủ lĩnh?"
 
 <!-- seg: dn23:6.8 -->
 
-"Thưa Tôn giả Kassapa, tôi có những người bạn, người thân, bà con, họ hàng giết hại chúng sinh, trộm cắp, tà hạnh, nói dối, nói lời chia rẽ, nói lời thô ác, nói lời vô nghĩa; họ tham lam, có tâm sân hận, có tà kiến.
+"Thưa Tôn giả Kumārakassapa, tôi có những người bạn, người thân, bà con, họ hàng giết hại chúng sinh, trộm cắp, tà hạnh, nói dối, nói lời chia rẽ, nói lời thô ác, nói lời vô nghĩa; họ tham lam, có tâm sân hận, có tà kiến.
 
 <!-- seg: dn23:6.9 -->
 
@@ -110,7 +110,7 @@ Họ nhận lời tôi: 'Vâng.' Nhưng họ không đến báo cho tôi, cũng 
 
 <!-- seg: dn23:6.20 -->
 
-Đó cũng là một cách, thưa Tôn giả Kassapa, khiến tôi nghĩ rằng:
+Đó cũng là một cách, thưa Tôn giả Kumārakassapa, khiến tôi nghĩ rằng:
 
 <!-- seg: dn23:6.21 -->
 

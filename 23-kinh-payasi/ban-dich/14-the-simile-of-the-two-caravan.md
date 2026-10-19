@@ -4,7 +4,7 @@
 
 <!-- seg: dn23:23.1 -->
 
-"Vậy thì, này Pāyāsi, ta sẽ nói cho ông một ví dụ.
+"Vậy thì, này Pāyāsi, tôi sẽ nói cho ông một ví dụ.
 
 <!-- seg: dn23:23.2 -->
 
@@ -274,7 +274,7 @@ Rồi người dẫn đoàn ấy gọi những người đánh xe và nói:
 
 <!-- seg: dn23:23.66 -->
 
-Vậy thì, này các ông, hãy bỏ những món hàng ít giá trị trong đoàn xe của ta, và lấy những món hàng quý giá trong đoàn xe này."
+Vậy thì, này các ông, hãy bỏ những món hàng ít giá trị trong đoàn xe của chúng ta, và lấy những món hàng quý giá trong đoàn xe này."
 
 <!-- seg: dn23:23.67 -->
 

@@ -4,7 +4,7 @@
 
 <!-- seg: dn23:25.1 -->
 
-"Vậy thì, này Pāyāsi, ta sẽ nói cho ông một ví dụ.
+"Vậy thì, này Pāyāsi, tôi sẽ nói cho ông một ví dụ.
 
 <!-- seg: dn23:25.2 -->
 
@@ -56,7 +56,7 @@ Người ta thấy ông ta bèn nói:
 
 <!-- seg: dn23:25.14 -->
 
-Cũng vậy, này Pāyāsi, ta nghĩ ông giống như người mang phân trong ví dụ.
+Cũng vậy, này Pāyāsi, tôi nghĩ ông giống như người mang phân trong ví dụ.
 
 <!-- seg: dn23:25.15 -->
 

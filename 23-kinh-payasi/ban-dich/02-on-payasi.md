@@ -4,7 +4,7 @@
 
 <!-- seg: dn23:2.1 -->
 
-Lúc bấy giờ, quan chức Pāyāsi khởi lên một tà kiến tai hại như thế này:
+Lúc bấy giờ, thủ lĩnh Pāyāsi khởi lên một tà kiến tai hại như thế này:
 
 <!-- seg: dn23:2.2 -->
 
@@ -26,7 +26,7 @@ Về Tôn giả Kumārakassapa ấy, một tiếng đồn tốt đẹp như th�
 
 <!-- seg: dn23:2.6 -->
 
-'Tôn giả là bậc trí tuệ, tài giỏi, sáng dạ, nghe nhiều, khéo nói, có tài ứng đối tốt đẹp, đã trưởng thành và là bậc a-la-hán.'
+'Tôn giả là bậc trí tuệ, tài giỏi, sáng dạ, nghe nhiều, khéo nói, có tài ứng đối tốt đẹp, đã lớn tuổi và là bậc a-la-hán.'
 
 <!-- seg: dn23:2.7 -->
 
@@ -38,7 +38,7 @@ Rồi các bà-la-môn và gia chủ ở Setavyā rời khỏi Setavyā, kéo nh
 
 <!-- seg: dn23:3.1 -->
 
-Lúc bấy giờ, quan chức Pāyāsi đã lên tầng trên của tòa lầu để nghỉ trưa.
+Lúc bấy giờ, thủ lĩnh Pāyāsi đã lên tầng trên của tòa lầu để nghỉ trưa.
 
 <!-- seg: dn23:3.2 -->
 
@@ -62,7 +62,7 @@ Về Tôn giả Kumārakassapa ấy, một tiếng đồn tốt đẹp như th�
 
 <!-- seg: dn23:3.7 -->
 
-'Tôn giả là bậc trí tuệ, tài giỏi, sáng dạ, nghe nhiều, khéo nói, có tài ứng đối tốt đẹp, đã trưởng thành và là bậc a-la-hán.'
+'Tôn giả là bậc trí tuệ, tài giỏi, sáng dạ, nghe nhiều, khéo nói, có tài ứng đối tốt đẹp, đã lớn tuổi và là bậc a-la-hán.'
 
 <!-- seg: dn23:3.8 -->
 
@@ -74,11 +74,11 @@ Họ đang đến để gặp Tôn giả Kumārakassapa ấy."
 
 <!-- seg: dn23:3.10 -->
 
-'Thưa quý vị, quan chức Pāyāsi nói như thế này:
+'Thưa quý vị, thủ lĩnh Pāyāsi nói như thế này:
 
 <!-- seg: dn23:3.11 -->
 
-xin quý vị hãy chờ một lát, vì quan chức Pāyāsi cũng sẽ đến gặp sa-môn Kumārakassapa.'
+xin quý vị hãy chờ một lát, vì thủ lĩnh Pāyāsi cũng sẽ đến gặp sa-môn Kumārakassapa.'
 
 <!-- seg: dn23:3.12 -->
 
@@ -94,36 +94,36 @@ Vì này quản gia, không có đời sau, không có chúng sinh hóa sinh, kh
 
 <!-- seg: dn23:3.15 -->
 
-"Thưa vâng, thưa ngài," người quản gia đáp lại quan chức Pāyāsi, rồi đi đến chỗ các bà-la-môn và gia chủ ở Setavyā. Đến nơi, ông nói với các bà-la-môn và gia chủ ở Setavyā như thế này:
+"Thưa vâng, thưa ngài," người quản gia đáp lại thủ lĩnh Pāyāsi, rồi đi đến chỗ các bà-la-môn và gia chủ ở Setavyā. Đến nơi, ông nói với các bà-la-môn và gia chủ ở Setavyā như thế này:
 
 <!-- seg: dn23:3.16 -->
 
-"Thưa quý vị, quan chức Pāyāsi nói như thế này: xin quý vị hãy chờ một lát, vì quan chức Pāyāsi cũng sẽ đến gặp sa-môn Kumārakassapa."
+"Thưa quý vị, thủ lĩnh Pāyāsi nói như thế này: xin quý vị hãy chờ một lát, vì thủ lĩnh Pāyāsi cũng sẽ đến gặp sa-môn Kumārakassapa."
 
 <!-- seg: dn23:4.1 -->
 
-Rồi quan chức Pāyāsi, được các bà-la-môn và gia chủ ở Setavyā vây quanh, đi đến rừng cây tử đàn, đến chỗ Tôn giả Kumārakassapa. Đến nơi, ông chào hỏi Tôn giả Kumārakassapa; sau khi trao đổi những lời chào hỏi thân thiện và đáng nhớ, ông ngồi xuống một bên.
+Rồi thủ lĩnh Pāyāsi, được các bà-la-môn và gia chủ ở Setavyā vây quanh, đi đến rừng cây tử đàn, đến chỗ Tôn giả Kumārakassapa. Đến nơi, ông chào hỏi Tôn giả Kumārakassapa; sau khi trao đổi những lời chào hỏi thân thiện và đáng nhớ, ông ngồi xuống một bên.
 
 <!-- seg: dn23:4.2 -->
 
-Các bà-la-môn và gia chủ ở Setavyā: một số người đảnh lễ Tôn giả Kumārakassapa rồi ngồi xuống một bên;
+Các bà-la-môn và gia chủ ở Setavyā, một số người đảnh lễ Tôn giả Kumārakassapa rồi ngồi xuống một bên.
 
 <!-- seg: dn23:4.3 -->
 
-một số người chào hỏi thân thiện với Tôn giả Kumārakassapa;
+Một số người chào hỏi thân thiện với Tôn giả Kumārakassapa.
 
 <!-- seg: dn23:4.4 -->
 
-sau khi trao đổi những lời chào hỏi thân thiện và đáng nhớ, họ ngồi xuống một bên.
+Sau khi trao đổi những lời chào hỏi thân thiện và đáng nhớ, họ ngồi xuống một bên.
 
 <!-- seg: dn23:4.5 -->
 
-một số người chắp tay hướng về Tôn giả Kumārakassapa rồi ngồi xuống một bên;
+Một số người chắp tay hướng về Tôn giả Kumārakassapa rồi ngồi xuống một bên.
 
 <!-- seg: dn23:4.6 -->
 
-một số người xưng tên họ rồi ngồi xuống một bên;
+Một số người xưng tên họ rồi ngồi xuống một bên.
 
 <!-- seg: dn23:4.7 -->
 
-một số người im lặng ngồi xuống một bên.
+Một số người im lặng ngồi xuống một bên.
