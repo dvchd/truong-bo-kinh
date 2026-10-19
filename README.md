@@ -17,7 +17,7 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 | **5** | **Kinh Kūṭadanta** | *Kūṭadanta Sutta* | ✅ **Hoàn thành** → [`05-kinh-kutadanta/`](05-kinh-kutadanta/) |
 | **6** | **Kinh Mahāli** | *Mahāli Sutta* | ✅ **Hoàn thành** → [`06-kinh-mahali/`](06-kinh-mahali/) |
 | **7** | **Kinh Jāliya** | *Jāliya Sutta* | ✅ **Hoàn thành** → [`07-kinh-jaliya/`](07-kinh-jaliya/) |
-| 8 | Kinh Đại Sư Tử Hống | *Mahāsīhanāda Sutta* | ⏳ Chưa bắt đầu |
+| **8** | **Kinh Đại Sư Tử Hống** | *Mahāsīhanāda Sutta* | ✅ **Hoàn thành** → [`08-kinh-dai-su-tu-hong/`](08-kinh-dai-su-tu-hong/) |
 | 9 | Kinh Poṭṭhapāda | *Poṭṭhapāda Sutta* | ⏳ Chưa bắt đầu |
 | 10 | Kinh Subha | *Subha Sutta* | ⏳ Chưa bắt đầu |
 | 11 | Kinh Kevaddha | *Kevaṭṭa Sutta* | ⏳ Chưa bắt đầu |
@@ -157,12 +157,24 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 │   ├── ra-soat.py
 │   └── tien-do.py
 │
+├── 08-kinh-dai-su-tu-hong/     ← Bài kinh số 8: Kinh Đại Sư Tử Hống  ✅
+│   ├── Kinh-Dai-Su-Tu-Hong.md  ← BẢN DỊCH HOÀN CHỈNH (đọc tệp này)
+│   ├── README.md
+│   ├── GHI-CHU-BAI.md
+│   ├── ban-dich/
+│   ├── nguon/
+│   ├── ghep.py
+│   ├── tao-muc-luc.py
+│   ├── kiem-tra-marker.py
+│   ├── ra-soat.py
+│   └── tien-do.py
+│
 ├── HUONG-DAN-CHUNG.md          ← quy chuẩn dịch chung cho cả 34 bài
 │
 ├── cong-cu/
 │   └── tao-bai.py              ← dựng khung một bài mới (nguồn + script + thư mục)
 │
-└── 08-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
+└── 09-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
 ```
 
 ---
@@ -180,6 +192,7 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 | 5 | **Kinh Kūṭadanta** | [`05-kinh-kutadanta/Kinh-Kutadanta.md`](05-kinh-kutadanta/Kinh-Kutadanta.md) | 374 đoạn · 17.369 từ |
 | 6 | **Kinh Mahāli** | [`06-kinh-mahali/Kinh-Mahali.md`](06-kinh-mahali/Kinh-Mahali.md) | 156 đoạn · 9.760 từ |
 | 7 | **Kinh Jāliya** | [`07-kinh-jaliya/Kinh-Jaliya.md`](07-kinh-jaliya/Kinh-Jaliya.md) | 51 đoạn · 3.518 từ |
+| 8 | **Kinh Đại Sư Tử Hống** | [`08-kinh-dai-su-tu-hong/Kinh-Dai-Su-Tu-Hong.md`](08-kinh-dai-su-tu-hong/Kinh-Dai-Su-Tu-Hong.md) | 252 đoạn · 13.814 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
 

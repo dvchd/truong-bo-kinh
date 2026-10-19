@@ -61,11 +61,13 @@ Tôn phải dịch **cùng một khuôn**, chỉ đổi nội dung giữa câu.
 
 - Kassapa hỏi: `"Ko nu kho, bho gotama, hetu ko paccayo…"` → **"Thưa ngài Gotama, do nhân gì, do
   duyên gì…"**
-- Đức Thế Tôn mở mỗi câu đáp bằng **"Này Kassapa, ở đây…"** (`Idha, kassapa`).
+- Đức Thế Tôn mở mỗi câu đáp ở mục 1 bằng **"Này Kassapa, có thể xảy ra chuyện…"**
+  (`Ṭhānaṁ kho panetaṁ, kassapa, vijjati`). Cụm `Idha, kassapa` ("Này Kassapa, ở đây…") chỉ
+  thuộc phần giới ở mục 5, đừng bê lên mục 1.
 - Khi Đức Thế Tôn nói "Ta không nói…" / "Ta nói…" (`nāhaṁ taṁ vadāmi` / `ahaṁ taṁ vadāmi`), giữ
   nguyên cặp đối, đừng đổi thành "không phải vậy" / "đúng vậy".
 
-Ở mục 4 có khối mười câu đối nhau (`sādhū` / `na sādhū`):
+Ở mục 4 có khối **tám** câu đối nhau (`sādhū` / `na sādhū`), từ 4.3 đến 4.10:
 
 ```
 Những gì họ nói là tốt, có những điều ta cũng nói là tốt.
@@ -75,15 +77,15 @@ Những gì họ nói không tốt, có những điều ta nói là tốt.
 …
 ```
 
-Giữ đúng mười câu, đúng thứ tự, đúng cặp `họ → ta` rồi `ta → họ`.
+Giữ đúng tám câu, đúng thứ tự, đúng cặp `họ → ta` (bốn câu đầu) rồi `ta → họ` (bốn câu sau).
 
 ## 5. Chỗ dễ sai
 
 1. **`…pe…` rất nhiều trong mục 4 và 5.** Khối văn con đường tu tập trùng bài 2 §4.3, được tóm
    lược có kiểm soát kèm `[Chú thích: (của người dịch) …]` trỏ về. Nhưng mọi **câu chốt** của
    từng chặng phải giữ nguyên.
-2. **Ba mươi hai tướng và tám mươi tướng tốt** (mục 5) là danh sách dài — dịch đủ, đúng thứ tự,
-   không gộp.
+2. **Ba mươi hai tướng và tám mươi tướng tốt KHÔNG có trong bài này.** Mục 5 chỉ nói "thành tựu
+   giới, định và tuệ"; danh sách tướng tốt thuộc bài 14 và bài 30. Đừng bê sang.
 3. **`sīla` / `samādhi` / `paññā`** = **giới / định / tuệ**. Mục 5 đặt tên theo ba thứ ấy.
 4. **Tiếng rống sư tử** (mục 6) là chỗ Đức Thế Tôn tuyên bố mười trí lực và bốn sự tự tin. Dùng
    đúng các từ: **mười trí lực** (`dasabala`), **bốn sự tự tin** (`catuvesārajja`), **rống tiếng
