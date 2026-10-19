@@ -5,6 +5,9 @@ thuộc về một nền văn hóa cách đây hơn hai nghìn năm. Người m�
 
 Sổ tay này viết để tránh điều đó.
 
+> **Chỉ có thời gian đọc một tài liệu?** Đọc [`12-tong-hop.md`](12-tong-hop.md) — bản giải thích tổng
+> hợp. Còn muốn biết bắt đầu từ bài nào: [`00-cach-doc.md`](00-cach-doc.md).
+
 | Tệp | Nội dung |
 |---|---|
 | [`00-cach-doc.md`](00-cach-doc.md) | Bộ kinh là loại sách gì, bố cục ba tập, nên bắt đầu từ bài nào, bốn lộ trình đọc, năm hiểu nhầm thường gặp |
