@@ -99,7 +99,7 @@ Và vì nó là một trong những bản tóm tắt gọn nhất của toàn b�
 | | |
 |---|---|
 | Đoạn văn (segment) | **285** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **12.238** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **12.283** |
 | Trang PTS | i.204–210 |
 
 ## Cách đọc
@@ -300,7 +300,7 @@ Này Subha, ở đây một tỳ-kheo từ bỏ việc giết hại chúng sinh,
 <!-- seg: dn10:1.11.3 -->
 Và này Subha, một tỳ-kheo từ bỏ việc giết hại chúng sinh, xa lìa việc giết hại chúng sinh, buông bỏ gậy gộc và vũ khí, biết xấu hổ trước điều ác, có lòng thương, sống với tâm thương xót mọi loài có sự sống.
 
-<!-- seg: dn10:1.12.1 -->
+<!-- seg: dn10:1.12.1-1.27 -->
 Và điều này cũng thuộc về giới hạnh của vị ấy.
 
 [Chú thích: (của người dịch) Nguồn ở đây lược một khối dài — từ đoạn "lấy của không cho" đến hết các nhóm giới trung và giới rộng lớn, gộp mười bảy đoạn thành một câu chốt. Bản đầy đủ nằm ở bài 2, các mục 4.3.1 đến 4.3.3.]

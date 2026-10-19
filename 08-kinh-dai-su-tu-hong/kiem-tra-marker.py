@@ -10,7 +10,7 @@ import os
 import json
 
 BASE = os.path.dirname(os.path.abspath(__file__))
-SEG_RE = re.compile(r"<!--\s*seg:\s*(dn8:[\d.]+)\s*-->")
+SEG_RE = re.compile(r"<!--\s*seg:\s*(dn8:[\d.\-]+)\s*-->")
 
 
 def markers_in(path):
@@ -20,7 +20,7 @@ def markers_in(path):
 
 def source_markers(path):
     txt = open(path, encoding="utf-8").read()
-    return re.findall(r"^##\s+(dn8:[\d.]+)", txt, re.M)
+    return re.findall(r"^##\s+(dn8:[\d.\-]+)", txt, re.M)
 
 
 def main():

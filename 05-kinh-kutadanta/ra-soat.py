@@ -9,7 +9,7 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 BAN = os.path.join(BASE, 'ban-dich')
 NGUON = os.path.join(BASE, 'nguon', 'sections')
 
-SEG = re.compile(r'<!--\s*seg:\s*(dn5:[\d.]+)\s*-->')
+SEG = re.compile(r'<!--\s*seg:\s*(dn5:[\d.\-]+)\s*-->')
 
 # Cau/cong thuc phai xuat hien dung so lan, dung nguyen van
 PINNED = [
@@ -46,7 +46,7 @@ def main():
     # 1. marker
     src_keys = []
     for p in sorted(glob.glob(os.path.join(NGUON, '*.md'))):
-        src_keys += re.findall(r'^##\s+(dn5:[\d.]+)', read(p), re.M)
+        src_keys += re.findall(r'^##\s+(dn5:[\d.\-]+)', read(p), re.M)
     got = []
     for f in files:
         got += SEG.findall(read(os.path.join(BAN, f)))

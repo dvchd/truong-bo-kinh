@@ -17,7 +17,7 @@ Và này Kevaddha, phép giáo huấn là gì?
 
 Này Kevaddha, đây gọi là phép giáo huấn.
 
-<!-- seg: dn11:9 --><!-- seg: dn11:9-66.1 -->
+<!-- seg: dn11:9-66.1 -->
 
 Này Kevaddha, ở đây có một Như Lai xuất hiện trong đời, là bậc A-la-hán, Chánh đẳng giác, đầy đủ minh và hạnh, bậc Thiện thệ, bậc thấu hiểu thế gian, bậc tối thượng dẫn dắt những người cần được điều ngự, bậc thầy của trời và người, bậc Giác ngộ, bậc Thế Tôn. Ngài tự mình chứng ngộ bằng thắng trí rồi loan báo cho thế gian này biết — thế gian ấy có chư thiên, có Ma vương, có Phạm thiên, có cả hàng sa-môn và bà-la-môn, có chư thiên và loài người. Ngài thuyết Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có ý nghĩa và lời lẽ khéo léo; và Ngài chỉ ra đời sống phạm hạnh hoàn toàn viên mãn, hoàn toàn thanh tịnh.
 
