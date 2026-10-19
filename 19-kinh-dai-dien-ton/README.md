@@ -65,7 +65,7 @@ Và bài kinh giữ ông ở đó — như một tấm gương đặt cạnh con
 | | |
 |---|---|
 | Đoạn văn (segment) | **559** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **15.969** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **16.313** |
 | Trang PTS | ii.220–251 |
 
 ---

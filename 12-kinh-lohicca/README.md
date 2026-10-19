@@ -57,7 +57,7 @@ trong. Tiêu chí không phải "có nói hay không", mà là **đã chứng ha
 | | |
 |---|---|
 | Đoạn văn (segment) | **189** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **15.485** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **15.979** |
 | Trang PTS | i.224–234 |
 
 ---

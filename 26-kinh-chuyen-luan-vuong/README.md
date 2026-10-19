@@ -85,7 +85,7 @@ bước rất nhỏ.
 | | |
 |---|---|
 | Đoạn văn (segment) | **355** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.504** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.794** |
 | Trang PTS | iii.58–79 |
 
 ---

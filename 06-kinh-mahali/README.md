@@ -99,7 +99,7 @@ Và hai du sĩ kia cũng vậy: họ hỏi một câu tưởng là về thực t
 | | |
 |---|---|
 | Đoạn văn (segment) | **156** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **9.760** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **10.150** |
 | Chú thích trong thân bản dịch | **30** — của Bhikkhu Sujato, cùng vài chú thích của người dịch |
 | Liên kết mục lục | **10** |
 | Tệp bản dịch từng phần | 7 nội dung + lời giới thiệu + thuật ngữ + nguồn |

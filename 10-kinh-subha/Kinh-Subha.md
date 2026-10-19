@@ -99,7 +99,7 @@ Và vì nó là một trong những bản tóm tắt gọn nhất của toàn b�
 | | |
 |---|---|
 | Đoạn văn (segment) | **285** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **12.283** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **12.724** |
 | Trang PTS | i.204–210 |
 
 ## Cách đọc
@@ -131,7 +131,7 @@ nhất, với đủ bốn ví dụ, và ngắn hơn bài 2.
 ## Trường Bộ Kinh — bài kinh số 10: Kinh Subha
 
 <!-- seg: dn10:0.2 -->
-*Subha Sutta*
+*Subha Sutta* — bài kinh với thanh niên bà-la-môn Subha
 
 ---
 

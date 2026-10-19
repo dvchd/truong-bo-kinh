@@ -87,7 +87,7 @@ Bài không chia mục. Bốn mươi chín đoạn theo cách chia của SuttaCe
 | | |
 |---|---|
 | Đoạn văn (segment) | **51** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **3.518** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **3.651** |
 | Lần lặp công thức "thân và hồn là một" | **13** |
 | Lần lặp công thức "thân và hồn là hai thứ khác nhau" | **13** |
 | Trang PTS | i.159–160 |
@@ -117,7 +117,7 @@ mà mọi mô tả hết hiệu lực.
 ## Trường Bộ Kinh — bài kinh số 7: Kinh Jāliya
 
 <!-- seg: dn7:0.2 -->
-*Jāliya Sutta*
+*Jāliya Sutta* — bài kinh với du sĩ Jāliya
 
 ---
 

@@ -97,7 +97,7 @@ Nhưng **nhất định phải đọc bài kệ cuối**. Nó chỉ mất vài p
 | | |
 |---|---|
 | Đoạn văn (segment) | **894** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **22.136** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **22.821** |
 | Trang PTS | iii.272–292 |
 
 ---

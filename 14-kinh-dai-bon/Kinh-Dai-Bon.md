@@ -104,7 +104,7 @@ một chuỗi duyên khởi. Cái đặc biệt duy nhất là **sự lặp lạ
 | | |
 |---|---|
 | Đoạn văn (segment) | **851** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **31.419** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **33.121** |
 | Chú thích | 164 |
 | Trang PTS | ii.1–54 |
 
@@ -143,7 +143,7 @@ một chuỗi duyên khởi. Cái đặc biệt duy nhất là **sự lặp lạ
 ## Trường Bộ Kinh — bài kinh số 14: Kinh Đại Bổn
 
 <!-- seg: dn14:0.2 -->
-*Mahāpadāna Sutta*
+*Mahāpadāna Sutta* — đại bổn — nguồn gốc lớn
 
 ---
 

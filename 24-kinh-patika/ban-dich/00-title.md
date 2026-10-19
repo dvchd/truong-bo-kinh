@@ -2,4 +2,4 @@
 ## Trường Bộ Kinh — bài kinh số 24: Kinh Pāṭika
 
 <!-- seg: dn24:0.2 -->
-*Pāṭikasutta*
+*Pāṭika Sutta* — bài kinh với du sĩ Pāṭikaputta

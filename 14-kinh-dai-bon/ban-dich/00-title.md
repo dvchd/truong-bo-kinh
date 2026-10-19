@@ -2,4 +2,4 @@
 ## Trường Bộ Kinh — bài kinh số 14: Kinh Đại Bổn
 
 <!-- seg: dn14:0.2 -->
-*Mahāpadāna Sutta*
+*Mahāpadāna Sutta* — đại bổn — nguồn gốc lớn

@@ -86,7 +86,7 @@ Và bài kinh giữ ông ở đó — như một tấm gương đặt cạnh con
 | | |
 |---|---|
 | Đoạn văn (segment) | **559** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **15.374** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **16.313** |
 | Trang PTS | ii.220–251 |
 
 ---
@@ -121,7 +121,7 @@ Và bài kinh giữ ông ở đó — như một tấm gương đặt cạnh con
 ## Trường Bộ Kinh — bài kinh số 19: Kinh Đại Điển Tôn
 
 <!-- seg: dn19:0.2 -->
-*Mahāgovinda Sutta*
+*Mahāgovinda Sutta* — bài kinh về bà-la-môn Mahāgovinda — Đại Điển Tôn
 
 ---
 
@@ -137,7 +137,7 @@ Một thuở nọ, Đức Thế Tôn đang trú tại Rājagaha (Vương Xá), t
 
 Rồi khi đêm đã về khuya, Pañcasikha, con trai của một Càn-thát-bà, với dung sắc rực rỡ, chiếu sáng toàn bộ núi Gijjhakūṭa, đi đến chỗ Đức Thế Tôn. Đến nơi, ông đảnh lễ Đức Thế Tôn rồi đứng sang một bên. Đứng sang một bên, Pañcasikha, con trai của một Càn-thát-bà, thưa với Đức Thế Tôn:
 
-[Chú thích: Pañcasikha đã xuất hiện trong DN 18, một bài kinh có nhiều chi tiết khác cũng giống bài này. Vì vậy có thể xem bài kinh này như một người anh em họ xa của chuỗi kinh kể về lần Niết-bàn cuối cùng của Đức Thế Tôn.]
+[Chú thích: Pañcasikha đã xuất hiện trong DN 18, một bài kinh có nhiều chi tiết khác cũng giống bài này. Vì vậy có thể xem bài kinh này như một người anh em họ xa của chuỗi kinh Mahāparinibbāna.]
 
 <!-- seg: dn19:1.4 -->
 
@@ -313,7 +313,7 @@ Chư thiên Tam thập tam thiên nghĩ thế nào?
 
 <!-- seg: dn19:5.3 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà đã thực hành như vậy vì lợi ích của nhiều người, vì hạnh phúc của nhiều người, vì lòng thương xót thế gian, vì lợi ích, vì sự tốt lành, vì hạnh phúc của trời và người, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà đã thực hành như vậy vì lợi ích của nhiều người, vì hạnh phúc của nhiều người, vì lòng thương xót thế gian, vì lợi ích, vì sự tốt lành, vì hạnh phúc của trời và người, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:6.1 -->
 
@@ -321,7 +321,7 @@ Hơn nữa, Pháp ấy do Đức Thế Tôn khéo thuyết giảng: thiết th�
 
 <!-- seg: dn19:6.2 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà thuyết giảng Pháp có thể đưa đến như vậy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà thuyết giảng Pháp có thể đưa đến như vậy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:7.1 -->
 
@@ -335,7 +335,7 @@ Hơn nữa, Đức Thế Tôn đã khéo chỉ rõ: "Đây là thiện", "Đây 
 
 <!-- seg: dn19:7.3 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà chỉ rõ như vậy các pháp thiện và bất thiện, đáng chê và không đáng chê, nên thân cận và không nên thân cận, thấp kém và cao quý, có phần đen và phần trắng, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà chỉ rõ như vậy các pháp thiện và bất thiện, đáng chê và không đáng chê, nên thân cận và không nên thân cận, thấp kém và cao quý, có phần đen và phần trắng, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:8.1 -->
 
@@ -355,7 +355,7 @@ cũng đúng như vậy, con đường thực hành đưa đến Niết-bàn mà
 
 <!-- seg: dn19:8.4 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà chỉ rõ như vậy con đường thực hành đưa đến Niết-bàn cho các đệ tử, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà chỉ rõ như vậy con đường thực hành đưa đến Niết-bàn cho các đệ tử, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:9.1 -->
 
@@ -365,7 +365,7 @@ Hơn nữa, lợi lộc đã đến với Đức Thế Tôn, danh tiếng đã �
 
 <!-- seg: dn19:9.2 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà dùng vật thực với tâm không còn kiêu mạn như vậy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà dùng vật thực với tâm không còn kiêu mạn như vậy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:10.1 -->
 
@@ -381,7 +381,7 @@ Hơn nữa, Đức Thế Tôn đã có được những người bạn đồng h
 
 <!-- seg: dn19:10.3 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà chuyên tâm vào niềm vui nơi thanh vắng như vậy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà chuyên tâm vào niềm vui nơi thanh vắng như vậy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:11.1 -->
 
@@ -391,7 +391,7 @@ Hơn nữa, Đức Thế Tôn nói sao làm vậy, làm sao nói vậy; Ngài n�
 
 <!-- seg: dn19:11.2 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà thực hành đúng theo Pháp như vậy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà thực hành đúng theo Pháp như vậy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:12.1 -->
 
@@ -401,7 +401,7 @@ Hơn nữa, Đức Thế Tôn đã vượt qua hoài nghi, đã hết do dự, �
 
 <!-- seg: dn19:12.2 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà đã vượt qua hoài nghi, đã hết do dự, đã hoàn tất ý nguyện về đời sống phạm hạnh căn bản như vậy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà đã vượt qua hoài nghi, đã hết do dự, đã hoàn tất ý nguyện về đời sống phạm hạnh căn bản như vậy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:12.3 -->
 
@@ -727,7 +727,7 @@ Ngài Đại Phạm thiên nghĩ thế nào?
 
 <!-- seg: dn19:20.3 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà đã thực hành như vậy vì lợi ích của nhiều người, vì hạnh phúc của nhiều người, vì lòng thương xót thế gian, vì lợi ích, vì sự tốt lành, vì hạnh phúc của trời và người, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà đã thực hành như vậy vì lợi ích của nhiều người, vì hạnh phúc của nhiều người, vì lòng thương xót thế gian, vì lợi ích, vì sự tốt lành, vì hạnh phúc của trời và người, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:21.1 -->
 
@@ -735,7 +735,7 @@ Hơn nữa, Pháp ấy do Đức Thế Tôn khéo thuyết giảng: thiết th�
 
 <!-- seg: dn19:21.2 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà thuyết giảng Pháp có thể đưa đến như vậy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà thuyết giảng Pháp có thể đưa đến như vậy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:22.1 -->
 
@@ -747,7 +747,7 @@ Ngài là bậc đã chỉ rõ như vậy các pháp thiện và bất thiện, 
 
 <!-- seg: dn19:22.3 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:23.1 -->
 
@@ -763,7 +763,7 @@ cũng đúng như vậy, con đường thực hành đưa đến Niết-bàn mà
 
 <!-- seg: dn19:23.4 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà chỉ rõ như vậy con đường thực hành đưa đến Niết-bàn cho các đệ tử, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà chỉ rõ như vậy con đường thực hành đưa đến Niết-bàn cho các đệ tử, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:24.1 -->
 
@@ -775,7 +775,7 @@ Hơn nữa, lợi lộc đã đến với Đức Thế Tôn, danh tiếng đã �
 
 <!-- seg: dn19:24.3 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà dùng vật thực với tâm không còn kiêu mạn như vậy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà dùng vật thực với tâm không còn kiêu mạn như vậy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:25.1 -->
 
@@ -783,7 +783,7 @@ Hơn nữa, Đức Thế Tôn đã có được những người bạn đồng h
 
 <!-- seg: dn19:25.2 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà chuyên tâm vào niềm vui nơi thanh vắng như vậy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà chuyên tâm vào niềm vui nơi thanh vắng như vậy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:26.1 -->
 
@@ -795,7 +795,7 @@ nghĩa là Ngài nói sao làm vậy, làm sao nói vậy.
 
 <!-- seg: dn19:26.3 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà thực hành đúng theo Pháp như vậy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy mà thực hành đúng theo Pháp như vậy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:27.1 -->
 
@@ -807,7 +807,7 @@ Hơn nữa, Đức Thế Tôn đã vượt qua hoài nghi, đã hết do dự, �
 
 <!-- seg: dn19:27.3 -->
 
-Ta không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy, ngoài Đức Thế Tôn.
+Chúng tôi không thấy bậc Đạo sư nào, dù ở quá khứ hay hiện tại, hội đủ đức tính ấy, ngoài Đức Thế Tôn.
 
 <!-- seg: dn19:28.1 -->
 
@@ -853,7 +853,7 @@ Thuở xưa, này các vị, có một vị vua tên là Disampati.
 
 Vua Disampati có một vị bà-la-môn tế sư tên là Điển Tôn.
 
-[Chú thích: Govinda nghĩa đen là "chủ của bầy bò". Chức tế sư (purohita) là chức cha truyền con nối, một người thông thạo lễ nghi và là cố vấn gắn với một gia tộc nhất định. Ở các gia tộc vua chúa, chức này có thể bị tranh giành gay gắt; sự gần gũi của vai trò ấy thể hiện ở chỗ người ta có thể gọi một gia tộc quý tộc theo dòng dõi vị tế sư của họ.]
+[Chú thích: Điển Tôn (Govinda) nghĩa đen là "chủ của bầy bò". Chức tế sư (purohita) là chức cha truyền con nối, một người thông thạo lễ nghi và là cố vấn gắn với một gia tộc nhất định. Ở các gia tộc vua chúa, chức này có thể bị tranh giành gay gắt; sự gần gũi của vai trò ấy thể hiện ở chỗ người ta có thể gọi một gia tộc quý tộc theo dòng dõi vị tế sư của họ.]
 
 <!-- seg: dn19:29.3 -->
 
@@ -917,7 +917,7 @@ những công việc mà cha cậu ấy đã quản lý, cũng nên giao cho tha
 
 <!-- seg: dn19:30.1 -->
 
-Rồi này các vị, vua Disampati gọi một người trong số các cận thần:
+Rồi này các vị, vua Disampati gọi một người lại:
 
 <!-- seg: dn19:30.2 -->
 
@@ -945,13 +945,13 @@ sau khi chào hỏi và nói những lời thân thiện, cậu ngồi xuống m
 
 <!-- seg: dn19:30.8 -->
 
-"Xin ngài Jotipāla quản lý công việc cho ta, xin ngài Jotipāla đừng từ chối lời mời của ta.
+"Xin ngài Jotipāla hãy đảm nhận việc quản lý cho ta, xin ngài Jotipāla đừng khước từ lời đề nghị ấy.
 
 <!-- seg: dn19:30.9 -->
 
 Ta sẽ đặt ngài vào chỗ của cha ngài, và làm lễ quán đảnh cho ngài vào chức Điển Tôn."
 
-[Chú thích: Điều này cho thấy Govinda là một chức vị chứ không phải tên riêng.]
+[Chú thích: Điều này cho thấy Điển Tôn (Govinda) là một chức vị chứ không phải tên riêng.]
 
 <!-- seg: dn19:30.10 -->
 
@@ -973,7 +973,7 @@ cậu tổ chức những công việc mà cha cậu đã tổ chức, và cả 
 
 <!-- seg: dn19:31.4 -->
 
-Thấy vậy, người ta nói:
+Rồi người ta nói về cậu như vầy:
 
 <!-- seg: dn19:31.5 -->
 
@@ -1529,7 +1529,7 @@ Nhưng thưa ngài, tôi không hiểu điều ngài nói về 'mùi hôi'."
 "Những mùi hôi nào giữa loài người, thưa Phạm thiên,
 
 <!-- seg: dn19:46.12 -->
-kẻ không biết, xin ngài nói cho rõ, hỡi bậc trí;
+tôi không biết, xin ngài nói cho rõ, hỡi bậc trí;
 
 <!-- seg: dn19:46.13 -->
 bị bọc trong gì mà chúng sinh bốc mùi,
@@ -1577,7 +1577,7 @@ Thưa ngài, tôi sẽ xuất gia từ nhà ra sống không nhà."
 Rồi vị bà-la-môn Đại Điển Tôn đi đến chỗ vua Reṇu và nói với vua:
 
 <!-- seg: dn19:47.2 -->
-"Thưa ngài, nay xin ngài hãy tìm một vị tế sư khác để quản lý việc nước cho ngài.
+"Thưa ngài, nay xin ngài hãy tìm một vị tế sư khác để quản lý việc nước thay ngài.
 
 <!-- seg: dn19:47.3 -->
 Thưa ngài, tôi muốn xuất gia từ nhà ra sống không nhà.
@@ -1610,7 +1610,7 @@ tôi sẽ bù đắp cho ngài;
 ai làm hại ngài, tôi sẽ ngăn chặn,
 
 <!-- seg: dn19:47.13 -->
-vì tôi chỉ huy quân đội của cõi đất;
+vì tôi nắm cõi đất và quân đội;
 
 <!-- seg: dn19:47.14 -->
 ngài là cha, tôi là con,

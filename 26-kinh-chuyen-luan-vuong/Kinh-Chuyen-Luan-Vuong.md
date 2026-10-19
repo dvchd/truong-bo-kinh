@@ -97,7 +97,7 @@ về thiền định.
 | | |
 |---|---|
 | Đoạn văn (segment) | **355** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **12.903** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.794** |
 | Trang PTS | iii.58–79 |
 
 ---
@@ -129,7 +129,7 @@ về thiền định.
 ## Trường Bộ Kinh — bài kinh số 26: Kinh Chuyển Luân Vương
 
 <!-- seg: dn26:0.2 -->
-*Cakkavattisīhanāda Sutta*
+*Cakkavattisīhanāda Sutta* — tiếng rống sư tử về vua chuyển luân
 
 ---
 

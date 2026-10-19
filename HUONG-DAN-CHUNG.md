@@ -196,3 +196,91 @@ Một thuở nọ, ...
 2. Đếm lại: số khối `<!-- seg:` = số đoạn nguồn.
 3. Đọc lại một lượt, tìm: ngoặc kép cong, `...`, "Đức Phật", "ngươi/mày", câu cụt nghĩa.
 4. **Ghi tệp ra đĩa ngay** — không giữ trong đầu, không chờ duyệt.
+
+---
+
+## 9. Tên bộ kinh và tên bài kinh
+
+### 9.1. Tên bộ kinh
+
+Tên dùng trong kho này: **Trường Bộ Kinh** (*Dīgha Nikāya*).
+
+Không đổi thành "Kinh Trường Bộ", vì:
+
+1. **Trong kho này, "Kinh X" luôn có nghĩa là một bài kinh riêng** — "Kinh Phạm Võng", "Kinh Sa-môn
+   Quả", "Kinh Đại Bến". Viết "Kinh Trường Bộ" sẽ đọc như tên của một bài, không phải tên của cả bộ.
+2. **"Trường Bộ Kinh" là tên quen thuộc trong tiếng Việt**, song song với *Trung Bộ Kinh*, *Tương Ưng
+   Bộ Kinh*, *Tăng Chi Bộ Kinh* — cùng một khuôn đặt tên.
+
+**Biến thể cần biết:** *Kinh Trường Bộ* là tên bộ mà Hòa thượng Thích Minh Châu dùng cho bản dịch của
+ngài, và nhiều trang kinh điển Việt Nam cũng dùng lối ấy. Vì vậy:
+
+- Khi **trích dẫn bản dịch của ngài**, giữ nguyên "Kinh Trường Bộ".
+- Khi **viết trong bộ này**, dùng "Trường Bộ Kinh".
+- Khi cần câu xuôi hơn, dùng **"bộ Trường Bộ"** hoặc **"bộ kinh Trường Bộ"** — đều đúng.
+
+### 9.2. Tên bài kinh
+
+Ba cách đặt tên, chọn theo loại tên Pali:
+
+| Loại tên Pali | Cách xử lý | Ví dụ |
+|---|---|---|
+| **Danh từ chung, thuật ngữ** | dịch nghĩa sang tiếng Việt | Brahmajāla → **Phạm Võng** · Sāmaññaphala → **Sa-môn Quả** · Mahāparinibbāna → **Đại Bát Niết-bàn** · Saṅgīti → **Đại Chung** · Dasuttara → **Thập Thượng** |
+| **Tên người** | giữ nguyên Pali | **Ambaṭṭha** · **Soṇadaṇḍa** · **Kūṭadanta** · **Mahāli** · **Jāliya** · **Poṭṭhapāda** · **Subha** · **Kevaddha** · **Lohicca** · **Janavasabha** · **Pāyāsi** · **Pāṭika** |
+| **Tên đã có âm Hán-Việt quen** | dùng âm Hán-Việt | Udumbarika → **Ưu-đàm-bà-la** · Siṅgāla → **Thi-la-ca** · Āṭānāṭiya → **A-sát-nẵng-chi** |
+
+Lý do: dịch tên người sẽ làm mất dấu vết tra cứu (không ai tìm được "Ambaṭṭha" nếu nó thành "Vô
+Úy"), còn giữ nguyên tên Pali cho danh từ chung thì người đọc phổ thông không hiểu gì.
+
+### 9.3. Quy tắc trình bày: luôn có cả hai tên
+
+Mỗi bài **luôn hiện cả hai tên** ở đầu bản dịch — tiêu đề tiếng Việt, rồi ngay dưới là tên Pali kèm
+một dòng nghĩa:
+
+```
+## Trường Bộ Kinh — bài kinh số 23: Kinh Pāyāsi
+
+*Pāyāsi Sutta* — bài kinh với thủ lĩnh Pāyāsi
+```
+
+Nhờ vậy người đọc không biết Pali vẫn hiểu bài nói về ai, mà người muốn tra cứu bản Pali hay bản
+tiếng Anh vẫn có tên gốc để tra. **Không bao giờ để tiêu đề chỉ có một tên.**
+
+### 9.4. Bảng đối chiếu 34 bài
+
+| # | Tên trong bản dịch | Pali | Nghĩa |
+|---|---|---|---|
+| 1 | Kinh Phạm Võng | Brahmajāla | tấm lưới của Phạm thiên |
+| 2 | Kinh Sa-môn Quả | Sāmaññaphala | quả của đời sống sa-môn |
+| 3 | Kinh Ambaṭṭha | Ambaṭṭha | tên thanh niên bà-la-môn |
+| 4 | Kinh Soṇadaṇḍa | Soṇadaṇḍa | tên bà-la-môn ở Campā |
+| 5 | Kinh Kūṭadanta | Kūṭadanta | tên bà-la-môn, nghĩa đen "răng nhọn" |
+| 6 | Kinh Mahāli | Mahāli | tên thủ lĩnh Licchavi |
+| 7 | Kinh Jāliya | Jāliya | tên du sĩ |
+| 8 | Kinh Đại Sư Tử Hống | Mahāsīhanāda | tiếng rống sư tử lớn |
+| 9 | Kinh Poṭṭhapāda | Poṭṭhapāda | tên du sĩ |
+| 10 | Kinh Subha | Subha | tên thanh niên bà-la-môn |
+| 11 | Kinh Kevaddha | Kevaḍḍha | tên tỳ-kheo |
+| 12 | Kinh Lohicca | Lohicca | tên bà-la-môn |
+| 13 | Kinh Ba Minh | Tevijja | ba minh — ba Vệ-đà |
+| 14 | Kinh Đại Bổn | Mahāpadāna | đại bổn — nguồn gốc lớn |
+| 15 | Kinh Đại Duyên | Mahānidāna | đại duyên — nhân duyên lớn |
+| 16 | Kinh Đại Bát Niết-bàn | Mahāparinibbāna | đại bát niết-bàn |
+| 17 | Kinh Đại Thiện Kiến Vương | Mahāsudassana | bài kinh về vua Sudassana |
+| 18 | Kinh Janavasabha | Janavasabha | tên Dạ-xoa |
+| 19 | Kinh Đại Điển Tôn | Mahāgovinda | bài kinh về bà-la-môn Govinda |
+| 20 | Kinh Đại Hội | Mahāsamaya | đại hội — cuộc tụ họp lớn |
+| 21 | Kinh Sakka hỏi | Sakkapañha | câu hỏi của Sakka (Đế Thích) |
+| 22 | Kinh Đại Niệm Xứ | Mahāsatipaṭṭhāna | đại niệm xứ |
+| 23 | Kinh Pāyāsi | Pāyāsi | tên thủ lĩnh |
+| 24 | Kinh Pāṭika | Pāṭika | tên du sĩ Pāṭikaputta |
+| 25 | Kinh Ưu-đàm-bà-la | Udumbarika | bài kinh với du sĩ ở vườn cây udumbara (sung) |
+| 26 | Kinh Chuyển Luân Vương | Cakkavattisīhanāda | tiếng rống sư tử về vua chuyển luân |
+| 27 | Kinh Khởi Thế Nhân Bổn | Aggañña | nguồn gốc tối thượng |
+| 28 | Kinh Tự Hoan Hỷ | Sampasādanīya | đưa đến tịnh tín |
+| 29 | Kinh Đại Hỷ Kiến | Pāsādika | khả ý — đưa đến tịnh tín |
+| 30 | Kinh Ba Mươi Hai Tướng | Lakkhaṇa | tướng của bậc đại nhân |
+| 31 | Kinh Giáo Thọ Thi-la-ca | Siṅgāla | bài giáo thọ cho thanh niên Siṅgāla |
+| 32 | Kinh A-sát-nẵng-chi | Āṭānāṭiya | bài hộ trì |
+| 33 | Kinh Đại Chung | Saṅgīti | tụng đọc chung |
+| 34 | Kinh Thập Thượng | Dasuttara | thập thượng — đi lên mười lần |

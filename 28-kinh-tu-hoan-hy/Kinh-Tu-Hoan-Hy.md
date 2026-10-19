@@ -88,7 +88,7 @@ Nguyên thủy không phải là tin mù**, mà là tin sau khi đã **kiểm tr
 | | |
 |---|---|
 | Đoạn văn (segment) | **250** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **9.504** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **10.332** |
 | Trang PTS | iii.99–116 |
 
 ---
@@ -128,7 +128,7 @@ Nguyên thủy không phải là tin mù**, mà là tin sau khi đã **kiểm tr
 ## Trường Bộ Kinh — bài kinh số 28: Kinh Tự Hoan Hỷ
 
 <!-- seg: dn28:0.2 -->
-*Sampasādanīya Sutta*
+*Sampasādanīya Sutta* — đưa đến tịnh tín
 
 ---
 

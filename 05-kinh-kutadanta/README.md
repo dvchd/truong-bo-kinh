@@ -110,7 +110,7 @@ có bị hành hạ hay không**. Một lễ tế mà người ta bị trói, b�
 | | |
 |---|---|
 | Đoạn văn (segment) | **374** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **17.369** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **17.896** |
 | Chú thích trong thân bản dịch | **54** — của Bhikkhu Sujato, cùng vài chú thích của người dịch |
 | Liên kết mục lục | **17** |
 | Tệp bản dịch từng phần | 14 nội dung + lời giới thiệu + thuật ngữ + nguồn |

@@ -74,7 +74,7 @@ nhưng chúng **làm sống lại** một đêm ở rừng Đại Lâm.
 | | |
 |---|---|
 | Đoạn văn (segment) | **337** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **8.191** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **8.899** |
 | Trang PTS | ii.253–262 |
 
 ---
@@ -96,7 +96,7 @@ nhưng chúng **làm sống lại** một đêm ở rừng Đại Lâm.
 ## Trường Bộ Kinh — bài kinh số 20: Kinh Đại Hội
 
 <!-- seg: dn20:0.2 -->
-*Mahāsamaya Sutta*
+*Mahāsamaya Sutta* — đại hội — cuộc tụ họp lớn
 
 ---
 

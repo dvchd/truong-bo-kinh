@@ -46,8 +46,7 @@ Mục 3 là một tư liệu quý về lịch sử tư tưởng Ấn Độ: sáu
 | | |
 |---|---|
 | Đoạn văn (segment) | **650** — khớp 100% với nguồn SuttaCentral |
-| Từ (chính văn, không kể chú thích) | **24.531** |
-| Từ (toàn bộ, kể cả chú thích) | **33.017** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **35.574** |
 | Chú thích `[Chú thích: …]` | **161** |
 | Liên kết mục lục | **40** — đã kiểm tra, không có liên kết hỏng |
 | Tệp bản dịch từng phần | 33 nội dung + lời giới thiệu + thuật ngữ + nguồn |

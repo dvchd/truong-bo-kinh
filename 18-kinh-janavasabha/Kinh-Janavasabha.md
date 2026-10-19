@@ -95,7 +95,7 @@ tên có tuổi, có cả địa chỉ — làm câu chuyện trở nên khó qu
 | | |
 |---|---|
 | Đoạn văn (segment) | **299** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **10.833** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.862** |
 | Trang PTS | ii.200–215 |
 
 ---
@@ -125,7 +125,7 @@ tên có tuổi, có cả địa chỉ — làm câu chuyện trở nên khó qu
 ## Trường Bộ Kinh — bài kinh số 18: Kinh Janavasabha
 
 <!-- seg: dn18:0.2 -->
-*Janavasabha Sutta*
+*Janavasabha Sutta* — bài kinh với Dạ-xoa Janavasabha
 
 ---
 
@@ -1079,13 +1079,13 @@ Rồi bạch Thế Tôn, Phạm thiên Sanaṅkumāra thu thân về một; sau 
 "Và bất cứ sa-môn hay bà-la-môn nào hiện nay đang thực chứng nhiều loại thần thông khác nhau, tất cả đều nhờ tu tập và làm cho sung mãn chính bốn nền tảng của thần thông này."
 
 <!-- seg: dn18:22.13 -->
-"Thưa chư thiên cõi Tam thập tam thiên, quý vị có thấy nơi ta uy lực thần thông như thế này không?"
+"Thưa chư thiên cõi Tam thập tam thiên, quý vị có thấy nơi tôi uy lực thần thông như thế này không?"
 
 <!-- seg: dn18:22.14 -->
 "Thưa vâng, Đại Phạm thiên."
 
 <!-- seg: dn18:22.15 -->
-"Thưa quý vị, ta cũng nhờ tu tập và làm cho sung mãn chính bốn nền tảng của thần thông này mà có thần lực lớn lao và uy lực lớn lao như vậy."
+"Thưa quý vị, tôi cũng nhờ tu tập và làm cho sung mãn chính bốn nền tảng của thần thông này mà có thần lực lớn lao và uy lực lớn lao như vậy."
 
 <!-- seg: dn18:23.1 -->
 Bạch Thế Tôn, đó là chủ đề mà Phạm thiên Sanaṅkumāra đã nói.
@@ -1312,7 +1312,7 @@ Bạch Thế Tôn, sau khi nói về chủ đề ấy, Phạm thiên Sanaṅkum�
 Bạch Thế Tôn, đó là chủ đề mà Phạm thiên Sanaṅkumāra đã nói. Khi Phạm thiên Sanaṅkumāra đang nói về chủ đề ấy, ý nghĩ này đã khởi lên trong tâm của đại vương Vessavaṇa:
 
 <!-- seg: dn18:28.2 -->
-"Thật kỳ diệu thay, thưa ngài, thật hy hữu thay, thưa ngài! Rằng sẽ có một bậc thầy cao cả như thế, một sự thuyết giảng Pháp cao cả như thế, và những thành tựu thù thắng cao cả như thế sẽ được hiển lộ!"
+"Thật kỳ diệu thay, thưa Phạm thiên, thật hy hữu thay, thưa Phạm thiên! Rằng sẽ có một bậc thầy cao cả như thế, một sự thuyết giảng Pháp cao cả như thế, và những thành tựu thù thắng cao cả như thế sẽ được hiển lộ!"
 
 <!-- seg: dn18:28.3 -->
 Rồi bạch Thế Tôn, Phạm thiên Sanaṅkumāra, biết được ý nghĩ trong tâm của đại vương Vessavaṇa, đã nói với đại vương Vessavaṇa rằng:

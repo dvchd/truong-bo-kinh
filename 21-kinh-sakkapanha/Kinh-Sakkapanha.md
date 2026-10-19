@@ -83,7 +83,7 @@ nghe một chân lý. Mà vì **ông đã tự lần ra nó**.
 | | |
 |---|---|
 | Đoạn văn (segment) | **515** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.830** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.712** |
 | Trang PTS | ii.263–289 |
 
 ---
@@ -111,7 +111,7 @@ nghe một chân lý. Mà vì **ông đã tự lần ra nó**.
 ## Trường Bộ Kinh — bài kinh số 21: Kinh Sakka hỏi
 
 <!-- seg: dn21:0.2 -->
-*Sakkapañha Sutta*
+*Sakkapañha Sutta* — câu hỏi của Sakka — Đế Thích
 
 ---
 

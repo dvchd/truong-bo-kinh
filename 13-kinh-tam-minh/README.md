@@ -80,7 +80,7 @@ thúc **phẩm Giới uẩn** (*Sīlakkhandha*).
 | | |
 |---|---|
 | Đoạn văn (segment) | **280** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.104** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.372** |
 | Trang PTS | i.235–252 |
 
 ---

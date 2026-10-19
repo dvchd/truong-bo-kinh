@@ -95,6 +95,6 @@ Bài có 40 mục. Bốn mươi mục ấy chia làm sáu chương:
 | | |
 |---|---|
 | Đoạn văn (segment) | **1662** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **57.959** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **59.523** |
 | Chú thích | 306 |
 | Trang PTS | ii.72–168 |

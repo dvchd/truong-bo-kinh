@@ -110,5 +110,5 @@ và **không còn một viên gạch**.
 | | |
 |---|---|
 | Đoạn văn (segment) | **444** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.350** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.635** |
 | Trang PTS | ii.169–199 |

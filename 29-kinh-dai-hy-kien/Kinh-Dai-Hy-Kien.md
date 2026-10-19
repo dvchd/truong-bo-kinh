@@ -88,7 +88,7 @@ giáo pháp không phải chuyện tự nhiên có, mà là chuyện phải làm
 | | |
 |---|---|
 | Đoạn văn (segment) | **465** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **15.696** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **16.830** |
 | Trang PTS | iii.117–141 |
 
 ---
@@ -125,7 +125,7 @@ giáo pháp không phải chuyện tự nhiên có, mà là chuyện phải làm
 ## Trường Bộ Kinh — bài kinh số 29: Kinh Đại Hỷ Kiến
 
 <!-- seg: dn29:0.2 -->
-*Pāsādika Sutta*
+*Pāsādika Sutta* — khả ý — đưa đến tịnh tín
 
 ---
 

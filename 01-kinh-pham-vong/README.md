@@ -38,7 +38,7 @@ Bản dịch này chọn cách thứ hai, theo hướng của Bhikkhu Bodhi (*Th
 | | |
 |---|---|
 | Đoạn văn (segment) | **662** — khớp 100% với nguồn SuttaCentral |
-| Từ (chính văn, không kể chú thích) | **36.088** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **40.570** |
 | Ký tự toàn tệp | **194.626** |
 | Chương / mục lớn | 5 mục, 62 tiểu mục quan điểm |
 | Liên kết mục lục | 28 — đã kiểm tra, không có liên kết hỏng |

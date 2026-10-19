@@ -90,5 +90,5 @@ Và vì hình ảnh cái cây: người ta thường dừng lại ở **vỏ câ
 | | |
 |---|---|
 | Đoạn văn (segment) | **383** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.755** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.167** |
 | Trang PTS | iii.36–57 |

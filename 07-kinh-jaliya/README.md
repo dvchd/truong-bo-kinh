@@ -69,7 +69,7 @@ không còn ai để nói về.
 | | |
 |---|---|
 | Đoạn văn (segment) | **51** = 2 nhan đề + 49 nội dung — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **3.518** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **3.651** |
 | Chú thích trong thân bản dịch | **8** |
 | Lần lặp "thân và hồn là một" | **13** |
 | Lần lặp "thân và hồn là hai thứ khác nhau" | **13** |

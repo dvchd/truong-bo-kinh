@@ -84,7 +84,7 @@ vị ấy đã làm** khi còn là người.
 | | |
 |---|---|
 | Đoạn văn (segment) | **721** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **20.098** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **21.117** |
 | Trang PTS | iii.142–179 |
 
 ---
@@ -125,7 +125,7 @@ vị ấy đã làm** khi còn là người.
 ## Trường Bộ Kinh — bài kinh số 30: Kinh Ba Mươi Hai Tướng
 
 <!-- seg: dn30:0.2 -->
-*Lakkhaṇa Sutta*
+*Lakkhaṇa Sutta* — tướng của bậc đại nhân
 
 ---
 
@@ -1591,7 +1591,7 @@ giác ngộ tối thượng, trạng thái không thể suy giảm."
 ## 20. Gai vị giác nổi rõ
 
 <!-- seg: dn30:2.7.1 -->
-Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
+"Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
 
 <!-- seg: dn30:2.7.2 -->
 Khi còn làm người, vị ấy đã có bản tính không làm hại chúng sinh, không hề hại ai bằng tay, bằng đá, bằng gậy hay bằng gươm.
@@ -1623,7 +1623,7 @@ Khi là bậc Giác ngộ, Ngài được gì?
 Ngài ít bệnh, ít ốm đau, có hệ tiêu hóa cân bằng, không quá lạnh cũng không quá nóng, vừa phải và thích hợp cho sự nỗ lực tu tập.
 
 <!-- seg: dn30:2.8.7 -->
-Khi là bậc Giác ngộ, Ngài được điều đó.
+Khi là bậc Giác ngộ, Ngài được điều đó."
 
 <!-- seg: dn30:2.8.8 -->
 Đức Thế Tôn nói lên ý nghĩa này.
@@ -1673,7 +1673,7 @@ tướng ấy hiện hữu, làm sáng tỏ ý nghĩa ấy.'"
 ## 21–22. Mắt xanh đen và lông mi như lông bò
 
 <!-- seg: dn30:2.10.1 -->
-Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
+"Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
 
 <!-- seg: dn30:2.10.2 -->
 Khi còn làm người, vị ấy đã không nhìn trừng trừng, không liếc xéo, cũng không nhìn lảng đi. Vị ấy ngay thẳng, với tâm ngay thẳng hướng đến mọi người, nhìn đông đảo người bằng ánh mắt thân ái.
@@ -1708,7 +1708,7 @@ Khi là bậc Giác ngộ, Ngài được gì?
 Ngài được đông đảo người nhìn bằng ánh mắt thân ái; Ngài đáng yêu, đáng mến đối với các tỳ-kheo, các tỳ-kheo-ni, các nam cư sĩ, các nữ cư sĩ, chư thiên, loài người, các a-tu-la, các long vương và các càn-thát-bà.
 
 <!-- seg: dn30:2.11.7 -->
-Khi là bậc Giác ngộ, Ngài được điều đó.
+Khi là bậc Giác ngộ, Ngài được điều đó."
 
 <!-- seg: dn30:2.11.8 -->
 Đức Thế Tôn nói lên ý nghĩa này.
@@ -1772,7 +1772,7 @@ Ngài được nhiều người yêu mến, là bậc dập tắt sầu khổ."
 ## 23. Đầu như có khăn xếp
 
 <!-- seg: dn30:2.13.1 -->
-Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
+"Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
 
 <!-- seg: dn30:2.13.2 -->
 Khi còn làm người, vị ấy đã dẫn đầu và đi trước đông đảo người trong các thiện pháp, là người đứng đầu đông đảo người trong hạnh tốt về thân, hạnh tốt về lời, hạnh tốt về ý, trong bố thí và chia sẻ, trong thọ trì giới, trong giữ ngày trai giới, trong hiếu kính mẹ, hiếu kính cha, kính trọng sa-môn, kính trọng bà-la-môn, tôn kính bậc trưởng thượng trong gia tộc, và trong các thiện pháp khác nữa.
@@ -1807,7 +1807,7 @@ Khi là bậc Giác ngộ, Ngài được gì?
 Ngài có đông đảo người đi theo, gồm các tỳ-kheo, các tỳ-kheo-ni, các nam cư sĩ, các nữ cư sĩ, chư thiên, loài người, các a-tu-la, các long vương và các càn-thát-bà.
 
 <!-- seg: dn30:2.14.7 -->
-Khi là bậc Giác ngộ, Ngài được điều đó.
+Khi là bậc Giác ngộ, Ngài được điều đó."
 
 <!-- seg: dn30:2.14.8 -->
 Đức Thế Tôn nói lên ý nghĩa này.
@@ -1869,7 +1869,7 @@ Vui thích với các phẩm chất trong lời dạy của mình,
 ## 24–25. Mỗi lỗ chân lông một sợi lông và chùm lông trắng giữa hai mày
 
 <!-- seg: dn30:2.16.1 -->
-Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
+"Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
 
 <!-- seg: dn30:2.16.2 -->
 Khi còn làm người, vị ấy đã từ bỏ lời nói dối, tránh xa lời nói dối. Vị ấy nói thật, gắn bó với sự thật, kiên định, đáng tin cậy, không lừa dối thế gian.
@@ -1904,7 +1904,7 @@ Khi là bậc Giác ngộ, Ngài được gì?
 Ngài có đông đảo người thân cận, gồm các tỳ-kheo, các tỳ-kheo-ni, các nam cư sĩ, các nữ cư sĩ, chư thiên, loài người, các a-tu-la, các long vương và các càn-thát-bà.
 
 <!-- seg: dn30:2.17.7 -->
-Khi là bậc Giác ngộ, Ngài được điều đó.
+Khi là bậc Giác ngộ, Ngài được điều đó."
 
 <!-- seg: dn30:2.17.8 -->
 Đức Thế Tôn nói lên ý nghĩa này.
@@ -1946,7 +1946,7 @@ những người tinh thông điềm tướng đã tuyên bố:
 'Một người với chùm lông và lông mọc rõ ràng như thế,
 
 <!-- seg: dn30:2.18.13 -->
-sẽ có đông đảo người đến gần.
+sẽ được đông đảo người đến gần.
 
 <!-- seg: dn30:2.18.14 -->
 Dù còn là người tại gia, đông đảo người vẫn đi theo Ngài,
@@ -1966,7 +1966,7 @@ dù là bậc Giác ngộ, đông đảo người vẫn đi theo Ngài.'"
 ## 26–27. Bốn mươi răng và răng không thưa
 
 <!-- seg: dn30:2.19.1 -->
-Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
+"Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
 
 <!-- seg: dn30:2.19.2 -->
 Khi còn làm người, vị ấy đã từ bỏ lời nói chia rẽ, tránh xa lời nói chia rẽ. Nghe điều gì ở đây, vị ấy không đem đến nơi khác để chia rẽ những người này; nghe điều gì ở nơi khác, vị ấy không đem đến đây để chia rẽ những người kia. Như vậy, vị ấy là người hàn gắn những kẻ đã chia rẽ, là người củng cố những người đã hòa hợp, ưa thích sự hòa hợp, say mê sự hòa hợp, vui thích sự hòa hợp, và nói những lời đưa đến hòa hợp.
@@ -2001,7 +2001,7 @@ Khi là bậc Giác ngộ, Ngài được gì?
 Ngài có hội chúng không thể chia rẽ; các hội chúng của Ngài không thể chia rẽ, gồm các tỳ-kheo, các tỳ-kheo-ni, các nam cư sĩ, các nữ cư sĩ, chư thiên, loài người, các a-tu-la, các long vương và các càn-thát-bà.
 
 <!-- seg: dn30:2.20.7 -->
-Khi là bậc Giác ngộ, Ngài được điều đó.
+Khi là bậc Giác ngộ, Ngài được điều đó."
 
 <!-- seg: dn30:2.20.8 -->
 Đức Thế Tôn nói lên ý nghĩa này.
@@ -2063,7 +2063,7 @@ hội chúng của Ngài sẽ theo Ngài, không hề lay chuyển."
 ## 28–29. Lưỡi dài và giọng như Phạm Thiên
 
 <!-- seg: dn30:2.22.1 -->
-Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
+"Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
 
 <!-- seg: dn30:2.22.2 -->
 Khi còn làm người, vị ấy đã từ bỏ lời nói thô ác, tránh xa lời nói thô ác. Vị ấy nói những lời không lỗi, êm tai, đáng yêu, đi vào lòng người, lịch thiệp, được đông đảo người yêu mến, được đông đảo người vừa lòng.
@@ -2096,7 +2096,7 @@ Khi là bậc Giác ngộ, Ngài được gì?
 Ngài có lời nói được người ta đón nhận; lời của Ngài được các tỳ-kheo, các tỳ-kheo-ni, các nam cư sĩ, các nữ cư sĩ, chư thiên, loài người, các a-tu-la, các long vương và các càn-thát-bà đón nhận.
 
 <!-- seg: dn30:2.23.7 -->
-Khi là bậc Giác ngộ, Ngài được điều đó.
+Khi là bậc Giác ngộ, Ngài được điều đó."
 
 <!-- seg: dn30:2.23.8 -->
 Đức Thế Tôn nói lên ý nghĩa này.
@@ -2158,7 +2158,7 @@ vì Ngài nói nhiều lời hay cho đông đảo người."
 ## 30. Hàm như sư tử
 
 <!-- seg: dn30:2.25.1 -->
-Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
+"Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
 
 <!-- seg: dn30:2.25.2 -->
 Khi còn làm người, vị ấy đã từ bỏ lời nói vô nghĩa, tránh xa lời nói vô nghĩa. Vị ấy nói đúng lúc, nói điều thật, nói điều có ý nghĩa, nói theo Pháp, nói theo luật. Vị ấy nói những lời đáng ghi nhớ, đúng lúc, có căn cứ, có chừng mực, đem lại lợi ích.
@@ -2193,7 +2193,7 @@ Khi là bậc Giác ngộ, Ngài được gì?
 Ngài không thể bị đánh bại bởi kẻ thù hay đối thủ bên trong hay bên ngoài, bởi tham, sân hay si, bởi sa-môn hay bà-la-môn, bởi chư thiên, Ma vương hay Phạm Thiên, hay bởi bất cứ ai trên thế gian.
 
 <!-- seg: dn30:2.26.7 -->
-Khi là bậc Giác ngộ, Ngài được điều đó.
+Khi là bậc Giác ngộ, Ngài được điều đó."
 
 <!-- seg: dn30:2.26.8 -->
 Đức Thế Tôn nói lên ý nghĩa này.
@@ -2255,7 +2255,7 @@ Ngài soi sáng các phương, các phương đối lập và các phương trun
 ## 31–32. Răng đều và răng trắng
 
 <!-- seg: dn30:2.28.1 -->
-Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
+"Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
 
 <!-- seg: dn30:2.28.2 -->
 Khi còn làm người, vị ấy đã từ bỏ tà mạng, nuôi sống bằng chánh mạng. Vị ấy tránh xa việc làm sai cân, làm sai trọng lượng kim loại, làm sai đơn vị đo lường; tránh xa gian lận, lừa đảo, gạt gẫm và xảo trá; tránh xa việc chặt xẻo, giết hại, trói buộc, cướp giật, cướp phá và bạo lực.
@@ -2305,7 +2305,7 @@ Khi là bậc Giác ngộ, Ngài được gì?
 Ngài có hội chúng thanh tịnh; các hội chúng của Ngài thanh tịnh, gồm các tỳ-kheo, các tỳ-kheo-ni, các nam cư sĩ, các nữ cư sĩ, chư thiên, loài người, các a-tu-la, các long vương và các càn-thát-bà.
 
 <!-- seg: dn30:2.30.4 -->
-Khi là bậc Giác ngộ, Ngài được điều đó.
+Khi là bậc Giác ngộ, Ngài được điều đó."
 
 <!-- seg: dn30:2.30.5 -->
 Đức Thế Tôn nói lên ý nghĩa này.
@@ -2356,7 +2356,7 @@ Nhiều thầy xem tướng đã tụ họp,
 những người được xem là tinh xảo đã tuyên bố:
 
 <!-- seg: dn30:2.31.16 -->
-'Ngài sẽ có hội chúng gồm những người thanh tịnh,
+'Ngài sẽ có hội chúng gồm những người thanh tịnh.
 
 <!-- seg: dn30:2.31.17 -->
 Ngài có hàm răng đều, trắng, thanh tịnh, sáng đẹp như răng của bậc hai lần sinh.

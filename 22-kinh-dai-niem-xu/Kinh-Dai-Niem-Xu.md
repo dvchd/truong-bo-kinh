@@ -96,7 +96,7 @@ mà vì nó **dùng được**.
 | | |
 |---|---|
 | Đoạn văn (segment) | **454** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **17.648** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **18.390** |
 | Trang PTS | ii.290–315 |
 
 ---
@@ -136,7 +136,7 @@ mà vì nó **dùng được**.
 ## Trường Bộ Kinh — bài kinh số 22: Kinh Đại Niệm Xứ
 
 <!-- seg: dn22:0.2 -->
-*Mahāsatipaṭṭhāna Sutta*
+*Mahāsatipaṭṭhāna Sutta* — đại niệm xứ
 
 ---
 

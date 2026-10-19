@@ -93,7 +93,7 @@ trong.
 | | |
 |---|---|
 | Đoạn văn (segment) | **189** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.960** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **15.979** |
 | Trang PTS | i.224–234 |
 
 ---
@@ -117,7 +117,7 @@ trong.
 ## Trường Bộ Kinh — bài kinh số 12: Kinh Lohicca
 
 <!-- seg: dn12:0.2 -->
-*Lohicca Sutta*
+*Lohicca Sutta* — bài kinh với bà-la-môn Lohicca
 
 ---
 
@@ -529,7 +529,7 @@ Vị thầy ấy đáng bị khiển trách như thế này:
 Các đệ tử của ngài không muốn nghe, không chú tâm lắng nghe, không đem tâm hướng tới để hiểu, và đi ngược lại lời dạy của bậc thầy.
 
 <!-- seg: dn12:16.12 -->
-Ví như một người đàn ông tiến tới gần một người đàn bà đang lùi ra xa, hay ôm lấy bà ấy trong khi bà ấy quay mặt đi.
+Ví như một người đàn ông ngỏ lời thân mật với một người đàn bà đang lùi ra xa, hay ôm lấy bà ấy trong khi bà ấy quay mặt đi.
 
 [Chú thích: Cách dùng danh từ giống cái cho thấy rõ giới tính trong đoạn này. Làm thân với một người không muốn mình là ví dụ rõ ràng về một việc sai trái.]
 

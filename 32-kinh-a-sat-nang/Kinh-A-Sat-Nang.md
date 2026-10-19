@@ -62,7 +62,7 @@ nghĩa nội dung.
 | | |
 |---|---|
 | Đoạn văn (segment) | **574** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **10.829** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.077** |
 | Trang PTS | iii.194–206 |
 
 ---
@@ -85,7 +85,7 @@ nghĩa nội dung.
 ## Trường Bộ Kinh — bài kinh số 32: Kinh A-sát-nẵng-chi
 
 <!-- seg: dn32:0.2 -->
-*Āṭānāṭiya Sutta*
+*Āṭānāṭiya Sutta* — bài hộ trì A-sát-nẵng-chi
 
 ---
 

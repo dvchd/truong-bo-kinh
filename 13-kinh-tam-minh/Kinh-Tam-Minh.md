@@ -106,7 +106,7 @@ tâm vô lượng.
 | | |
 |---|---|
 | Đoạn văn (segment) | **280** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **10.370** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.372** |
 | Trang PTS | i.235–252 |
 
 ## Ghi chú về phần cuối
@@ -140,7 +140,7 @@ tức mười ba bài đầu của bộ kinh.
 ## Trường Bộ Kinh — bài kinh số 13: Kinh Ba Minh
 
 <!-- seg: dn13:0.2 -->
-*Tevijja Sutta*
+*Tevijja Sutta* — ba minh — ba Vệ-đà
 
 ---
 

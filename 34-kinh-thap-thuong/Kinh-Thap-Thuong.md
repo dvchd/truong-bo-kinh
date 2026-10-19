@@ -87,7 +87,7 @@ Nhưng **nhất định phải đọc bài kệ cuối**. Nó chỉ mất vài p
 | | |
 |---|---|
 | Đoạn văn (segment) | **894** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **21.585** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **22.821** |
 | Trang PTS | iii.272–292 |
 
 ---
@@ -119,7 +119,7 @@ Nhưng **nhất định phải đọc bài kệ cuối**. Nó chỉ mất vài p
 ## Trường Bộ Kinh — bài kinh số 34: Kinh Thập Thượng
 
 <!-- seg: dn34:0.2 -->
-*Dasuttara Sutta*
+*Dasuttara Sutta* — thập thượng — đi lên mười lần
 
 ---
 

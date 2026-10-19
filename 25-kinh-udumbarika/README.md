@@ -83,7 +83,7 @@ và tưởng mình đã đến đích. Bài kinh này nói: chưa. Còn phải �
 | | |
 |---|---|
 | Đoạn văn (segment) | **383** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.755** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.167** |
 | Trang PTS | iii.36–57 |
 
 ---

@@ -2,4 +2,4 @@
 ## Trường Bộ Kinh — bài kinh số 23: Kinh Pāyāsi
 
 <!-- seg: dn23:0.2 -->
-*Pāyāsi Sutta*
+*Pāyāsi Sutta* — bài kinh với thủ lĩnh Pāyāsi

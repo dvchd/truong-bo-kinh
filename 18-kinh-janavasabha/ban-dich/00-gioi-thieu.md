@@ -95,5 +95,5 @@ tên có tuổi, có cả địa chỉ — làm câu chuyện trở nên khó qu
 | | |
 |---|---|
 | Đoạn văn (segment) | **299** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.398** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.862** |
 | Trang PTS | ii.200–215 |

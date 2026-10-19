@@ -110,7 +110,7 @@ và **không còn một viên gạch**.
 | | |
 |---|---|
 | Đoạn văn (segment) | **444** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.775** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.635** |
 | Trang PTS | ii.169–199 |
 
 ---
@@ -146,7 +146,7 @@ và **không còn một viên gạch**.
 ## Trường Bộ Kinh — bài kinh số 17: Kinh Đại Thiện Kiến Vương
 
 <!-- seg: dn17:0.2 -->
-*Mahāsudassana Sutta*
+*Mahāsudassana Sutta* — bài kinh về vua Sudassana — Đại Thiện Kiến
 
 ---
 

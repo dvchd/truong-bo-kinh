@@ -2,4 +2,4 @@
 ## Trường Bộ Kinh — bài kinh số 31: Kinh Giáo Thọ Thi-la-ca
 
 <!-- seg: dn31:0.2 -->
-*Siṅgālasutta*
+*Siṅgāla Sutta* — bài kinh giáo thọ cho thanh niên Siṅgāla; Hán-Việt: Thi-la-ca

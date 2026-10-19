@@ -63,7 +63,7 @@ nhưng chúng **làm sống lại** một đêm ở rừng Đại Lâm.
 | | |
 |---|---|
 | Đoạn văn (segment) | **337** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **8.669** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **8.899** |
 | Trang PTS | ii.253–262 |
 
 ---

@@ -96,7 +96,7 @@ người làm có bổn phận với chủ.
 | | |
 |---|---|
 | Đoạn văn (segment) | **267** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **6.502** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **7.203** |
 | Trang PTS | iii.180–193 |
 
 ---
@@ -130,7 +130,7 @@ người làm có bổn phận với chủ.
 ## Trường Bộ Kinh — bài kinh số 31: Kinh Giáo Thọ Thi-la-ca
 
 <!-- seg: dn31:0.2 -->
-*Siṅgālasutta*
+*Siṅgāla Sutta* — bài kinh giáo thọ cho thanh niên Siṅgāla; Hán-Việt: Thi-la-ca
 
 ---
 

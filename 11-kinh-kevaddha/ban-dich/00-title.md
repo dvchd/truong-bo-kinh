@@ -2,4 +2,4 @@
 ## Trường Bộ Kinh — bài kinh số 11: Kinh Kevaddha
 
 <!-- seg: dn11:0.2 -->
-*Kevaḍḍha Sutta*
+*Kevaḍḍha Sutta* — bài kinh với tỳ-kheo Kevaḍḍha

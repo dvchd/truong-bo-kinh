@@ -2,4 +2,4 @@
 ## Trường Bộ Kinh — bài kinh số 32: Kinh A-sát-nẵng-chi
 
 <!-- seg: dn32:0.2 -->
-*Āṭānāṭiya Sutta*
+*Āṭānāṭiya Sutta* — bài hộ trì A-sát-nẵng-chi

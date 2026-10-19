@@ -110,5 +110,5 @@ sắc", "thức", "xúc", "thọ", "ái", "tự ngã". Và khi định nghĩa xo
 | | |
 |---|---|
 | Đoạn văn (segment) | **277** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.429** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.816** |
 | Trang PTS | ii.55–71 |

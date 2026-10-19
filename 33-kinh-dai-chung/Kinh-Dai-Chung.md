@@ -75,7 +75,7 @@ Và nó cho thấy một điều: **giáo lý Phật giáo không phải một m
 | | |
 |---|---|
 | Đoạn văn (segment) | **1.167** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **32.847** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **34.352** |
 | Trang PTS | iii.207–271 |
 
 ---
@@ -106,7 +106,7 @@ Và nó cho thấy một điều: **giáo lý Phật giáo không phải một m
 ## Trường Bộ Kinh — bài kinh số 33: Kinh Đại Chung
 
 <!-- seg: dn33:0.2 -->
-*Saṅgīti Sutta*
+*Saṅgīti Sutta* — tụng đọc chung
 
 ---
 

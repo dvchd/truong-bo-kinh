@@ -96,5 +96,5 @@ người làm có bổn phận với chủ.
 | | |
 |---|---|
 | Đoạn văn (segment) | **267** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **7.062** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **7.203** |
 | Trang PTS | iii.180–193 |

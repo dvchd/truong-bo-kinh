@@ -95,7 +95,7 @@ Bài có 40 mục. Bốn mươi mục ấy chia làm sáu chương:
 | | |
 |---|---|
 | Đoạn văn (segment) | **1662** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **57.287** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **59.523** |
 | Chú thích | 306 |
 | Trang PTS | ii.72–168 |
 
@@ -157,7 +157,7 @@ Bài có 40 mục. Bốn mươi mục ấy chia làm sáu chương:
 ## Trường Bộ Kinh — bài kinh số 16: Kinh Đại Bát Niết-bàn
 
 <!-- seg: dn16:0.2 -->
-*Mahāparinibbāna Sutta*
+*Mahāparinibbāna Sutta* — đại bát niết-bàn
 
 ---
 

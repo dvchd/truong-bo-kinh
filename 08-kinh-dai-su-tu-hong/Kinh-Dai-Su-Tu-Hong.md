@@ -105,7 +105,7 @@ tiết hành chính nữa. Nó là cùng một bài học, lần thứ hai: **đ
 | | |
 |---|---|
 | Đoạn văn (segment) | **252** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.999** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.310** |
 | Chú thích trong thân bản dịch | **39** |
 | Liên kết mục lục | **12** |
 | Trang PTS | i.161–177 |
@@ -149,7 +149,7 @@ dùng uy quyền; Ngài dùng một khuôn câu có thể kiểm chứng, và đ
 ## Trường Bộ Kinh — bài kinh số 4: Kinh Đại Sư Tử Hống
 
 <!-- seg: dn8:0.2 -->
-*Mahāsīhanāda Sutta*
+*Mahāsīhanāda Sutta* — tiếng rống sư tử lớn
 
 ---
 

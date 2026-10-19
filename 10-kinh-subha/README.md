@@ -68,7 +68,7 @@ người truyền đạt không phải là chỗ nương tựa.
 | | |
 |---|---|
 | Đoạn văn (segment) | **285** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **12.238** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **12.724** |
 | Tệp bản dịch từng phần | 5 nội dung + lời giới thiệu + thuật ngữ + nguồn |
 | Trang PTS | i.204–210 |
 

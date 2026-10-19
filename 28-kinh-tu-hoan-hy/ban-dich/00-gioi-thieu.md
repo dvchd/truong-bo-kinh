@@ -88,5 +88,5 @@ Nguyên thủy không phải là tin mù**, mà là tin sau khi đã **kiểm tr
 | | |
 |---|---|
 | Đoạn văn (segment) | **250** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **10.054** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **10.332** |
 | Trang PTS | iii.99–116 |

@@ -2,4 +2,4 @@
 ## Trường Bộ Kinh — bài kinh số 29: Kinh Đại Hỷ Kiến
 
 <!-- seg: dn29:0.2 -->
-*Pāsādika Sutta*
+*Pāsādika Sutta* — khả ý — đưa đến tịnh tín

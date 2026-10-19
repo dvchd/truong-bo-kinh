@@ -70,7 +70,7 @@ trong kinh tạng Pali. Nó không thắng bằng uy quyền. Nó thắng bằng
 | | |
 |---|---|
 | Đoạn văn (segment) | **715** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **19.918** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **20.290** |
 | Trang PTS | ii.316–358 |
 
 ---

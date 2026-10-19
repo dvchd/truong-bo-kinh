@@ -118,7 +118,7 @@ Cùng một từ "tưởng", hai cách xử lý. Đó là chỗ đáng chú ý n
 | | |
 |---|---|
 | Đoạn văn (segment) | **474** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **16.678** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **17.049** |
 | Liên kết mục lục | **12** |
 | Trang PTS | i.178–203 |
 
@@ -158,7 +158,7 @@ theo hai cách khác nhau — phá bằng kinh nghiệm, và phá bằng lập l
 ## Trường Bộ Kinh — bài kinh số 9: Kinh Poṭṭhapāda
 
 <!-- seg: dn9:0.2 -->
-*Poṭṭhapāda Sutta*
+*Poṭṭhapāda Sutta* — bài kinh với du sĩ Poṭṭhapāda
 
 ---
 

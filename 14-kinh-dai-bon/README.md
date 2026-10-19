@@ -70,7 +70,7 @@ và nó nằm trong miệng một vị Phật của chín mươi mốt kiếp tr
 | | |
 |---|---|
 | Đoạn văn (segment) | **851** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **32.186** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **33.121** |
 | Chú thích | 164 |
 | Trang PTS | ii.1–54 |
 

@@ -90,7 +90,7 @@ Và vì hình ảnh cái cây: người ta thường dừng lại ở **vỏ câ
 | | |
 |---|---|
 | Đoạn văn (segment) | **383** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.145** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.167** |
 | Trang PTS | iii.36–57 |
 
 ---
@@ -121,7 +121,7 @@ Và vì hình ảnh cái cây: người ta thường dừng lại ở **vỏ câ
 ## Trường Bộ Kinh — bài kinh số 25: Kinh Ưu-đàm-bà-la
 
 <!-- seg: dn25:0.2 -->
-*Udumbarika Sutta*
+*Udumbarika Sutta* — bài kinh với du sĩ ở vườn cây udumbara (sung); Hán-Việt: Ưu-đàm-bà-la
 
 ---
 

@@ -72,7 +72,7 @@ Và vì nó chứa **câu chuyện nguồn gốc gần nhất với một huyề
 | | |
 |---|---|
 | Đoạn văn (segment) | **323** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.321** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.570** |
 | Trang PTS | iii.80–97 |
 
 ---

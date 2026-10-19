@@ -115,5 +115,5 @@ Câu trả lời cuối cùng không phải một nơi chốn, mà là một ch�
 | | |
 |---|---|
 | Đoạn văn (segment) | **199** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **17.513** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **18.080** |
 | Trang PTS | i.211–223 |

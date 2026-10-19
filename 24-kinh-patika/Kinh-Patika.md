@@ -90,7 +90,7 @@ cách dè dặt** — và nói rõ tại sao Ngài không dùng nó để chứn
 | | |
 |---|---|
 | Đoạn văn (segment) | **581** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **16.539** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **16.942** |
 | Trang PTS | iii.1–35 |
 
 ---
@@ -117,7 +117,7 @@ cách dè dặt** — và nói rõ tại sao Ngài không dùng nó để chứn
 ## Trường Bộ Kinh — bài kinh số 24: Kinh Pāṭika
 
 <!-- seg: dn24:0.2 -->
-*Pāṭikasutta*
+*Pāṭika Sutta* — bài kinh với du sĩ Pāṭikaputta
 
 ---
 

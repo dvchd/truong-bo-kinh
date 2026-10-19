@@ -169,7 +169,7 @@ câu hỏi chỉ được hỏi sau khi mọi thứ đã yên.
 ## Trường Bộ Kinh — bài kinh số 6: Kinh Mahāli
 
 <!-- seg: dn6:0.2 -->
-*Mahāli Sutta*
+*Mahāli Sutta* — bài kinh với thủ lĩnh Licchavi Mahāli
 
 ---
 

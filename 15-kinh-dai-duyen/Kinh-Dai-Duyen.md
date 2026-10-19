@@ -110,7 +110,7 @@ sắc", "thức", "xúc", "thọ", "ái", "tự ngã". Và khi định nghĩa xo
 | | |
 |---|---|
 | Đoạn văn (segment) | **277** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **12.760** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.816** |
 | Trang PTS | ii.55–71 |
 
 ---
@@ -137,7 +137,7 @@ sắc", "thức", "xúc", "thọ", "ái", "tự ngã". Và khi định nghĩa xo
 ## Trường Bộ Kinh — bài kinh số 15: Kinh Đại Duyên
 
 <!-- seg: dn15:0.2 -->
-*Mahānidāna Sutta*
+*Mahānidāna Sutta* — đại duyên — nhân duyên lớn
 
 ---
 
@@ -938,383 +938,489 @@ xúc ở mắt, xúc ở tai, xúc ở mũi, xúc ở lưỡi, xúc ở thân, x
 ---
 
 <!-- seg: dn15:27.0 -->
+
 ## 4. Về tự ngã
 
 <!-- seg: dn15:27.1 -->
-Này Ānanda, người quán sát tự ngã quán sát tự ngã như thế nào?
+
+"Này Ānanda, người quán sát tự ngã quán sát tự ngã như thế nào?"
 
 [Chú thích: Sau khi khẳng định có một "tự ngã" siêu hình, những nhà lý thuyết tiếp tục đưa ra những nhận xét và cách giải thích về nó.]
 
 <!-- seg: dn15:27.2 -->
-Này Ānanda, người quán sát tự ngã quán sát thọ là tự ngã:
+
+"Này Ānanda, người quán sát tự ngã quán sát thọ là tự ngã:
+
+<!-- seg: dn15:27.3 -->
+
+'Thọ là tự ngã của tôi.'"
+
+[Chú thích: Chẳng hạn, đồng nhất tự ngã với niềm an lạc vĩnh cửu mà người đời cho là có ở cõi trời. Cũng như khi mô tả tự ngã bằng các thuật ngữ vật chất, nhà lý thuyết đi từ một khẳng định đồng nhất đơn giản đến những giả thuyết phức tạp hơn.]
 
 [Chú thích: Đức Thế Tôn chuyển từ các lý thuyết cho rằng tự ngã là sắc sang thọ, uẩn thứ hai trong năm uẩn.]
 
-<!-- seg: dn15:27.3 -->
-"Thọ là tự ngã của tôi."
-
-[Chú thích: Chẳng hạn, đồng nhất tự ngã với niềm an lạc vĩnh cửu mà người ta cho là có ở cõi trời. Cũng như khi mô tả tự ngã bằng các thuật ngữ vật chất, nhà lý thuyết đi từ một khẳng định đồng nhất đơn giản đến những giả thuyết phức tạp hơn.]
-
 <!-- seg: dn15:27.4 -->
-Hoặc này Ānanda, người quán sát tự ngã quán sát như thế này: "Thọ hẳn không phải là tự ngã của tôi, mà tự ngã của tôi là cái không cảm thọ".
 
-[Chú thích: Đây là điều ngược lại với ý vừa nêu. Tự ngã vẫn được định nghĩa trong tương quan với thọ, nhưng là một tương quan phủ định. Những lý thuyết như vậy thường gặp trong Upaniṣad, nơi người ta lần lượt loại bỏ mọi thứ không phải là tự ngã trước khi đi đến cái chính là tự ngã.]
+"Hoặc này Ānanda, người quán sát tự ngã quán sát như thế này: 'Thọ hẳn không phải là tự ngã của tôi, mà tự ngã của tôi là cái không cảm thọ.'"
+
+[Chú thích: Đây là điều ngược lại với ý vừa nêu. Tự ngã vẫn được định nghĩa trong tương quan với thọ, nhưng là một tương quan phủ định. Những lý thuyết như vậy thường gặp trong Upaniṣad, nơi người tu tập lần lượt loại bỏ mọi thứ không phải là tự ngã trước khi đi đến cái chính là tự ngã.]
 
 <!-- seg: dn15:27.5 -->
-Hoặc này Ānanda, người quán sát tự ngã quán sát như thế này: "Thọ hẳn không phải là tự ngã của tôi, và tự ngã của tôi cũng không phải là cái không cảm thọ; chính tự ngã của tôi cảm thọ, vì tự ngã của tôi có bản chất là thọ".
+
+"Hoặc này Ānanda, người quán sát tự ngã quán sát như thế này: 'Thọ hẳn không phải là tự ngã của tôi, và tự ngã của tôi cũng không phải là cái không cảm thọ; chính tự ngã của tôi cảm thọ, vì tự ngã của tôi có bản chất là thọ.'"
 
 [Chú thích: Ở đây, nhà lý thuyết mô tả thọ như một chức năng của tự ngã: thọ không phải là bản chất của tự ngã, mà là hoạt động của tự ngã. Trong MN 38, Sāti mô tả tự ngã chính là thức, "kẻ nói và kẻ cảm thọ, kẻ trải nghiệm quả của việc làm tốt và xấu trong các cõi khác nhau".]
 
 <!-- seg: dn15:28.1 -->
-Này Ānanda, đối với người nói như thế này:
+
+"Này Ānanda, đối với người nói như thế này:
+
+<!-- seg: dn15:28.2 -->
+
+'Thọ là tự ngã của tôi',
+
+<!-- seg: dn15:28.3 -->
+
+thì nên nói với người ấy như thế này:"
 
 [Chú thích: Tiếp theo, Đức Thế Tôn lần lượt đưa ra những lập luận riêng để đối đáp từng lập trường.]
 
-<!-- seg: dn15:28.2 -->
-"Thọ là tự ngã của tôi"
-
-<!-- seg: dn15:28.3 -->
-thì nên nói với người ấy như thế này:
-
 <!-- seg: dn15:28.4 -->
+
 "Này hiền giả, có ba loại thọ:
 
 <!-- seg: dn15:28.5 -->
-lạc thọ, khổ thọ, và thọ không khổ không lạc.
+
+lạc thọ, khổ thọ, và thọ không khổ không lạc."
 
 [Chú thích: Đức Thế Tôn nêu ra kinh nghiệm phổ quát về thọ, nhờ đó đặt lập luận của mình trên nền tảng chung. Lập luận này cũng có trong MN 74.]
 
 <!-- seg: dn15:28.6 -->
-Trong ba loại thọ này, ông quán sát loại nào là tự ngã?"
+
+"Trong ba loại thọ này, ông quán sát loại nào là tự ngã?"
 
 <!-- seg: dn15:28.7 -->
-Này Ānanda, khi người ấy cảm nhận lạc thọ, thì lúc ấy người ấy không cảm nhận khổ thọ, cũng không cảm nhận thọ không khổ không lạc;
+
+"Này Ānanda, khi người ấy cảm nhận lạc thọ, thì lúc ấy người ấy không cảm nhận khổ thọ, cũng không cảm nhận thọ không khổ không lạc;
+
+<!-- seg: dn15:28.8 -->
+
+lúc ấy người ấy chỉ cảm nhận lạc thọ."
 
 [Chú thích: Ý niệm rằng mỗi lúc chỉ có thể trải nghiệm một loại thọ đã thành một câu nói quen thuộc của tâm lý học Phật giáo, nhưng điều ấy không hiển nhiên. Ở đây và trong MN 74, nó được xem là niềm tin chung với các nhà tư tưởng ngoài Phật giáo.]
 
-<!-- seg: dn15:28.8 -->
-lúc ấy người ấy chỉ cảm nhận lạc thọ.
-
 <!-- seg: dn15:28.9 -->
-Này Ānanda, khi người ấy cảm nhận khổ thọ, thì lúc ấy người ấy không cảm nhận lạc thọ, cũng không cảm nhận thọ không khổ không lạc;
+
+"Này Ānanda, khi người ấy cảm nhận khổ thọ, thì lúc ấy người ấy không cảm nhận lạc thọ, cũng không cảm nhận thọ không khổ không lạc;
 
 <!-- seg: dn15:28.10 -->
-lúc ấy người ấy chỉ cảm nhận khổ thọ.
+
+lúc ấy người ấy chỉ cảm nhận khổ thọ."
 
 <!-- seg: dn15:28.11 -->
-Này Ānanda, khi người ấy cảm nhận thọ không khổ không lạc, thì lúc ấy người ấy không cảm nhận lạc thọ, cũng không cảm nhận khổ thọ;
+
+"Này Ānanda, khi người ấy cảm nhận thọ không khổ không lạc, thì lúc ấy người ấy không cảm nhận lạc thọ, cũng không cảm nhận khổ thọ;
 
 <!-- seg: dn15:28.12 -->
-lúc ấy người ấy chỉ cảm nhận thọ không khổ không lạc.
+
+lúc ấy người ấy chỉ cảm nhận thọ không khổ không lạc."
 
 <!-- seg: dn15:29.1 -->
-Này Ānanda, lạc thọ cũng vô thường, hữu vi, do duyên sinh khởi, có bản chất là hao mòn, tan biến, phai nhạt và chấm dứt.
+
+"Này Ānanda, lạc thọ cũng vô thường, hữu vi, do duyên sinh khởi, có bản chất là hao mòn, tan biến, phai nhạt và chấm dứt."
 
 <!-- seg: dn15:29.2 -->
-Này Ānanda, khổ thọ cũng vô thường, hữu vi, do duyên sinh khởi, có bản chất là hao mòn, tan biến, phai nhạt và chấm dứt.
+
+"Này Ānanda, khổ thọ cũng vô thường, hữu vi, do duyên sinh khởi, có bản chất là hao mòn, tan biến, phai nhạt và chấm dứt."
 
 <!-- seg: dn15:29.3 -->
-Này Ānanda, thọ không khổ không lạc cũng vô thường, hữu vi, do duyên sinh khởi, có bản chất là hao mòn, tan biến, phai nhạt và chấm dứt.
+
+"Này Ānanda, thọ không khổ không lạc cũng vô thường, hữu vi, do duyên sinh khởi, có bản chất là hao mòn, tan biến, phai nhạt và chấm dứt."
 
 <!-- seg: dn15:29.4 -->
-Khi người ấy cảm nhận lạc thọ, nơi người ấy khởi lên ý nghĩ: "Đây là tự ngã của tôi".
+
+"Khi người ấy cảm nhận lạc thọ, nơi người ấy khởi lên ý nghĩ: 'Đây là tự ngã của tôi.'"
 
 <!-- seg: dn15:29.5 -->
-Khi chính lạc thọ ấy chấm dứt, nơi người ấy khởi lên ý nghĩ: "Tự ngã của tôi đã biến mất rồi".
+
+"Khi chính lạc thọ ấy chấm dứt, nơi người ấy khởi lên ý nghĩ: 'Tự ngã của tôi đã biến mất rồi.'"
 
 <!-- seg: dn15:29.6 -->
-Khi người ấy cảm nhận khổ thọ, nơi người ấy khởi lên ý nghĩ: "Đây là tự ngã của tôi".
+
+"Khi người ấy cảm nhận khổ thọ, nơi người ấy khởi lên ý nghĩ: 'Đây là tự ngã của tôi.'"
 
 <!-- seg: dn15:29.7 -->
-Khi chính khổ thọ ấy chấm dứt, nơi người ấy khởi lên ý nghĩ: "Tự ngã của tôi đã biến mất rồi".
+
+"Khi chính khổ thọ ấy chấm dứt, nơi người ấy khởi lên ý nghĩ: 'Tự ngã của tôi đã biến mất rồi.'"
 
 <!-- seg: dn15:29.8 -->
-Khi người ấy cảm nhận thọ không khổ không lạc, nơi người ấy khởi lên ý nghĩ: "Đây là tự ngã của tôi".
+
+"Khi người ấy cảm nhận thọ không khổ không lạc, nơi người ấy khởi lên ý nghĩ: 'Đây là tự ngã của tôi.'"
 
 <!-- seg: dn15:29.9 -->
-Khi chính thọ không khổ không lạc ấy chấm dứt, nơi người ấy khởi lên ý nghĩ: "Tự ngã của tôi đã biến mất rồi".
+
+"Khi chính thọ không khổ không lạc ấy chấm dứt, nơi người ấy khởi lên ý nghĩ: 'Tự ngã của tôi đã biến mất rồi.'"
 
 <!-- seg: dn15:29.10 -->
-Như vậy, ngay trong đời này, người nói "thọ là tự ngã của tôi" quán sát tự ngã là thứ vô thường, pha trộn lạc và khổ, có bản chất sinh khởi và hoại diệt.
+
+"Như vậy, ngay trong đời này, người nói 'thọ là tự ngã của tôi' quán sát tự ngã là thứ vô thường, pha trộn lạc và khổ, có bản chất sinh khởi và hoại diệt."
 
 <!-- seg: dn15:29.11 -->
-Vì thế, này Ānanda, không thể chấp nhận việc quán sát: "thọ là tự ngã của tôi".
+
+"Vì thế, này Ānanda, không thể chấp nhận việc quán sát: 'thọ là tự ngã của tôi'."
 
 <!-- seg: dn15:30.1 -->
-Này Ānanda, đối với người nói như thế này:
+
+"Này Ānanda, đối với người nói như thế này:
 
 <!-- seg: dn15:30.2 -->
-"Thọ hẳn không phải là tự ngã của tôi, mà tự ngã của tôi là cái không cảm thọ", thì nên nói với người ấy như thế này:
+
+'Thọ hẳn không phải là tự ngã của tôi, mà tự ngã của tôi là cái không cảm thọ', thì nên nói với người ấy như thế này:"
 
 <!-- seg: dn15:30.3 -->
+
 "Này hiền giả, ở đâu hoàn toàn không có gì được cảm thọ, thì ở đó có thể khởi lên ý nghĩ 'tôi là cái này' chăng?"
 
-[Chú thích: Thọ là một phần trong cấu trúc nền tảng của thức. Lập luận này rõ hơn trong tiếng Pali, vì từ chỉ "thọ" (vedanā) có gốc gần với nghĩa "biết, trải nghiệm", nên câu hỏi là: nếu không có tâm thì có thể có ý nghĩ "tôi là" chăng? Bản chú giải giải thích câu này chỉ cõi sắc thuần túy, không có thức, và có vẻ ủng hộ cách đọc ahamasmi; điều này hợp với mạch văn, vì "tôi là" là lời khẳng định tự ngã đầu tiên và nguyên thủy nhất, còn "tôi là cái này" là sự đồng nhất tự ngã với các uẩn một cách tinh vi hơn.]
+[Chú thích: Thọ là một phần trong cấu trúc nền tảng của thức. Lập luận này rõ hơn trong tiếng Pali, vì từ chỉ "thọ" (vedanā) có gốc gần với nghĩa "biết, trải nghiệm", nên câu hỏi là: nếu không có tâm thì có thể có ý nghĩ "tôi là" chăng? Bản chú giải cho rằng câu này chỉ cõi sắc thuần túy, không có thức, và có vẻ ủng hộ cách đọc ahamasmi; điều này hợp với mạch văn, vì "tôi là" là lời khẳng định tự ngã đầu tiên và nguyên thủy nhất, còn "tôi là cái này" là sự đồng nhất tự ngã với các uẩn một cách tinh vi hơn.]
 
 <!-- seg: dn15:30.4 -->
+
 "Thưa không, bạch Thế Tôn."
 
 <!-- seg: dn15:30.5 -->
-Vì thế, này Ānanda, không thể chấp nhận việc quán sát: "thọ hẳn không phải là tự ngã của tôi, mà tự ngã của tôi là cái không cảm thọ".
+
+"Vì thế, này Ānanda, không thể chấp nhận việc quán sát: 'thọ hẳn không phải là tự ngã của tôi, mà tự ngã của tôi là cái không cảm thọ'."
 
 <!-- seg: dn15:31.1 -->
-Này Ānanda, đối với người nói như thế này:
+
+"Này Ānanda, đối với người nói như thế này:
 
 <!-- seg: dn15:31.2 -->
-"Thọ hẳn không phải là tự ngã của tôi, tự ngã của tôi cũng không phải là cái không cảm thọ; chính tự ngã của tôi cảm thọ, vì tự ngã của tôi có bản chất là thọ",
+
+'Thọ hẳn không phải là tự ngã của tôi, tự ngã của tôi cũng không phải là cái không cảm thọ; chính tự ngã của tôi cảm thọ, vì tự ngã của tôi có bản chất là thọ',
 
 <!-- seg: dn15:31.3 -->
-thì nên nói với người ấy như thế này:
+
+thì nên nói với người ấy như thế này:"
 
 <!-- seg: dn15:31.4 -->
+
 "Này hiền giả, giả sử mọi thọ đều chấm dứt hoàn toàn, trọn vẹn, không còn sót lại chút nào.
 
 <!-- seg: dn15:31.5 -->
+
 Khi hoàn toàn không có thọ, do thọ chấm dứt, thì ở đó có thể khởi lên ý nghĩ 'tôi là cái này' chăng?"
 
 [Chú thích: Nhà lý thuyết tránh đồng nhất thọ với tự ngã, nhưng họ buộc phải đồng nhất một cái gì đó làm tự ngã, chẳng hạn Sāti cho rằng tự ngã là thức. Tuy vậy, thọ gắn sâu vào cấu trúc của thức, nên nếu thọ hoàn toàn vắng mặt thì không một hiện tượng tâm nào khác có thể tiếp diễn, và do đó không thể hình thành một lý thuyết về tự ngã.]
 
 <!-- seg: dn15:31.6 -->
+
 "Thưa không, bạch Thế Tôn."
 
 <!-- seg: dn15:31.7 -->
-Vì thế, này Ānanda, không thể chấp nhận việc quán sát: "thọ hẳn không phải là tự ngã của tôi, tự ngã của tôi cũng không phải là cái không cảm thọ; chính tự ngã của tôi cảm thọ, vì tự ngã của tôi có bản chất là thọ".
+
+"Vì thế, này Ānanda, không thể chấp nhận việc quán sát: 'thọ hẳn không phải là tự ngã của tôi, tự ngã của tôi cũng không phải là cái không cảm thọ; chính tự ngã của tôi cảm thọ, vì tự ngã của tôi có bản chất là thọ'."
 
 <!-- seg: dn15:32.1 -->
-Này Ānanda, khi một tỳ-kheo không quán sát thọ là tự ngã, không quán sát tự ngã là cái không cảm thọ, và không quán sát như thế này: "chính tự ngã của tôi cảm thọ, vì tự ngã của tôi có bản chất là thọ".
+
+"Này Ānanda, khi một tỳ-kheo không quán sát thọ là tự ngã, không quán sát tự ngã là cái không cảm thọ, và không quán sát như thế này: 'chính tự ngã của tôi cảm thọ, vì tự ngã của tôi có bản chất là thọ'."
 
 <!-- seg: dn15:32.2 -->
-Không quán sát như vậy, vị ấy không nắm giữ bất cứ thứ gì ở đời,
+
+"Không quán sát như vậy, vị ấy không nắm giữ bất cứ thứ gì ở đời,
 
 <!-- seg: dn15:32.3 -->
+
 không nắm giữ nên không bấn loạn, không bấn loạn nên tự mình chứng đạt Niết-bàn,
+
+<!-- seg: dn15:32.4 -->
+
+'Tái sinh đã chấm dứt, đời sống phạm hạnh đã được sống trọn vẹn, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa', vị ấy biết rõ như vậy."
 
 [Chú thích: Buông bỏ không chỉ là chuyện khái niệm, nó có hệ quả cảm xúc tức thời. Paritassati mang cả hai nghĩa tham muốn và bấn loạn, nên "lo âu" có lẽ là cách dịch sát nhất.]
 
-<!-- seg: dn15:32.4 -->
-"Tái sinh đã chấm dứt, đời sống phạm hạnh đã được sống trọn vẹn, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa", vị ấy biết rõ như vậy.
-
 <!-- seg: dn15:32.5 -->
-Này Ānanda, về một tỳ-kheo có tâm giải thoát như vậy, nếu ai nói rằng:
+
+"Này Ānanda, về một tỳ-kheo có tâm giải thoát như vậy, nếu ai nói rằng:
 
 <!-- seg: dn15:32.6 -->
-"Như Lai còn tồn tại sau khi chết" — đó là quan điểm của vị ấy; điều ấy không thích hợp.
+
+'Như Lai còn tồn tại sau khi chết' — đó là quan điểm của vị ấy; điều ấy không thích hợp;
 
 <!-- seg: dn15:32.7 -->
-"Như Lai không còn tồn tại sau khi chết" — đó là quan điểm của vị ấy; điều ấy không thích hợp.
+
+'Như Lai không còn tồn tại sau khi chết' — đó là quan điểm của vị ấy; điều ấy không thích hợp;
 
 <!-- seg: dn15:32.8 -->
-"Như Lai vừa còn tồn tại vừa không còn tồn tại sau khi chết" — đó là quan điểm của vị ấy; điều ấy không thích hợp.
+
+'Như Lai vừa còn tồn tại vừa không còn tồn tại sau khi chết' — đó là quan điểm của vị ấy; điều ấy không thích hợp;
 
 <!-- seg: dn15:32.9 -->
-"Như Lai không còn tồn tại mà cũng không phải là không còn tồn tại sau khi chết" — đó là quan điểm của vị ấy; điều ấy không thích hợp.
+
+'Như Lai không còn tồn tại mà cũng không phải là không còn tồn tại sau khi chết' — đó là quan điểm của vị ấy; điều ấy không thích hợp."
 
 <!-- seg: dn15:32.10 -->
-Vì sao vậy?
+
+"Vì sao vậy?"
 
 <!-- seg: dn15:32.11 -->
-Này Ānanda, định danh và phạm vi định danh đi đến đâu, định nghĩa và phạm vi định nghĩa đi đến đâu, quy ước và phạm vi quy ước đi đến đâu, tuệ và phạm vi tuệ đi đến đâu, vòng luân hồi và sự tiếp diễn của vòng ấy đi đến đâu — một tỳ-kheo được giải thoát nhờ thắng tri điều ấy. Không thể nói về một tỳ-kheo được giải thoát nhờ thắng tri điều ấy rằng: "vị ấy không biết, không thấy" — đó là quan điểm của vị ấy; điều ấy không thích hợp.
+
+"Này Ānanda, định danh và phạm vi định danh đi đến đâu, định nghĩa và phạm vi định nghĩa đi đến đâu, quy ước và phạm vi quy ước đi đến đâu, tuệ và phạm vi tuệ đi đến đâu, vòng luân hồi và sự tiếp diễn của vòng ấy đi đến đâu — một tỳ-kheo được giải thoát nhờ thắng tri điều ấy. Không thể nói về một tỳ-kheo được giải thoát nhờ thắng tri điều ấy rằng: 'vị ấy không biết, không thấy' — đó là quan điểm của vị ấy; điều ấy không thích hợp."
 
 [Chú thích: Câu này nhắc lại một câu tương tự ở DN 15:22.6, nhưng ở đó nói về danh và sắc với thức, còn ở đây mô tả một vị a-la-hán đã thực chứng điều ấy. Khác với những nhà lý thuyết có quan điểm không đứng vững trước sự kiểm nghiệm, giải thoát của vị a-la-hán dựa trên sự hiểu biết trực tiếp thực tại. Nirutti nghĩa là cách diễn đạt rõ ràng hay định nghĩa của một từ; trong văn liệu trước thời kỳ Phật giáo, cái "không được định nghĩa" là chân lý huyền bí phải lẩm nhẩm trong hơi thở, còn cái "được định nghĩa" được diễn đạt rõ ràng bằng ngôn ngữ, và bảng liệt kê những định nghĩa ấy gọi là nirukti, tức bảng chú giải hay từ điển.]
 
 ---
 
 <!-- seg: dn15:33.0 -->
+
 ## 5. Các cõi của thức
 
 <!-- seg: dn15:33.1 -->
-Này Ānanda, có bảy cõi của thức và hai xứ.
+
+"Này Ānanda, có bảy cõi của thức và hai xứ."
 
 [Chú thích: Đức Thế Tôn trở lại vấn đề tái sinh, mô tả các trạng thái tái sinh khác nhau qua thức. Bảy cõi này cũng được nhắc đến trong DN 33, DN 34 và AN 7.44.]
 
 <!-- seg: dn15:33.2 -->
-Bảy cõi ấy là gì?
+
+"Bảy cõi ấy là gì?"
 
 <!-- seg: dn15:33.3 -->
-Này Ānanda, có những chúng sinh có thân sai khác và tưởng sai khác, như loài người, một số chư thiên và một số chúng sinh bị đọa lạc.
+
+"Này Ānanda, có những chúng sinh có thân sai khác và tưởng sai khác, như loài người, một số chư thiên và một số chúng sinh bị đọa lạc."
 
 <!-- seg: dn15:33.4 -->
-Đây là cõi của thức thứ nhất.
+
+"Đây là cõi của thức thứ nhất."
 
 [Chú thích: Viññāṇaṭṭhiti cũng có thể được dịch là "chỗ an trú của thức".]
 
 <!-- seg: dn15:33.5 -->
-Này Ānanda, có những chúng sinh có thân sai khác và tưởng đồng nhất, như chư thiên cõi Phạm chúng (brahmakāyikā), những vị được sinh vào đó đầu tiên.
+
+"Này Ānanda, có những chúng sinh có thân sai khác và tưởng đồng nhất, như chư thiên cõi Phạm chúng (brahmakāyikā), những vị được sinh vào đó đầu tiên."
 
 <!-- seg: dn15:33.6 -->
-Đây là cõi của thức thứ hai.
+
+"Đây là cõi của thức thứ hai."
 
 <!-- seg: dn15:33.7 -->
-Này Ānanda, có những chúng sinh có thân đồng nhất và tưởng sai khác, như chư thiên cõi Quang Âm (ābhassarā).
+
+"Này Ānanda, có những chúng sinh có thân đồng nhất và tưởng sai khác, như chư thiên cõi Quang Âm (ābhassarā)."
 
 <!-- seg: dn15:33.8 -->
-Đây là cõi của thức thứ ba.
+
+"Đây là cõi của thức thứ ba."
 
 <!-- seg: dn15:33.9 -->
-Này Ānanda, có những chúng sinh có thân đồng nhất và tưởng đồng nhất, như chư thiên cõi Biến Tịnh (subhakiṇhā).
+
+"Này Ānanda, có những chúng sinh có thân đồng nhất và tưởng đồng nhất, như chư thiên cõi Biến Tịnh (subhakiṇhā)."
 
 <!-- seg: dn15:33.10 -->
-Đây là cõi của thức thứ tư.
+
+"Đây là cõi của thức thứ tư."
 
 <!-- seg: dn15:33.11 -->
-Này Ānanda, có những chúng sinh vượt qua hoàn toàn các tưởng về sắc, các tưởng về sự va chạm đã biến mất, không tác ý đến các tưởng về nhiều loại, biết rằng "không gian là vô biên", được sinh vào cõi Không vô biên xứ.
+
+"Này Ānanda, có những chúng sinh vượt qua hoàn toàn các tưởng về sắc, các tưởng về sự va chạm đã biến mất, không tác ý đến các tưởng về nhiều loại, biết rằng 'không gian là vô biên', được sinh vào cõi Không vô biên xứ."
 
 <!-- seg: dn15:33.12 -->
-Đây là cõi của thức thứ năm.
+
+"Đây là cõi của thức thứ năm."
 
 <!-- seg: dn15:33.13 -->
-Này Ānanda, có những chúng sinh vượt qua hoàn toàn cõi Không vô biên xứ, biết rằng "thức là vô biên", được sinh vào cõi Thức vô biên xứ.
+
+"Này Ānanda, có những chúng sinh vượt qua hoàn toàn cõi Không vô biên xứ, biết rằng 'thức là vô biên', được sinh vào cõi Thức vô biên xứ."
 
 <!-- seg: dn15:33.14 -->
-Đây là cõi của thức thứ sáu.
+
+"Đây là cõi của thức thứ sáu."
 
 <!-- seg: dn15:33.15 -->
-Này Ānanda, có những chúng sinh vượt qua hoàn toàn cõi Thức vô biên xứ, biết rằng "không có gì cả", được sinh vào cõi Vô sở hữu xứ.
+
+"Này Ānanda, có những chúng sinh vượt qua hoàn toàn cõi Thức vô biên xứ, biết rằng 'không có gì cả', được sinh vào cõi Vô sở hữu xứ."
 
 <!-- seg: dn15:33.16 -->
-Đây là cõi của thức thứ bảy.
+
+"Đây là cõi của thức thứ bảy."
 
 <!-- seg: dn15:33.17 -->
-Còn có xứ của chúng sinh vô tưởng, và xứ Phi tưởng phi phi tưởng là xứ thứ hai.
+
+"Còn có xứ của chúng sinh vô tưởng, và xứ Phi tưởng phi phi tưởng là xứ thứ hai."
 
 [Chú thích: Trong xứ thứ nhất không có thức nào cả, còn trong xứ thứ hai không có thức theo nghĩa thông thường, vì vậy chúng không thể được gọi là "cõi của thức".]
 
 <!-- seg: dn15:34.1 -->
-Này Ānanda, cõi của thức thứ nhất này là cõi có thân sai khác và tưởng sai khác, như loài người, một số chư thiên và một số chúng sinh bị đọa lạc.
+
+"Này Ānanda, cõi của thức thứ nhất này là cõi có thân sai khác và tưởng sai khác, như loài người, một số chư thiên và một số chúng sinh bị đọa lạc."
 
 <!-- seg: dn15:34.2 -->
-Này Ānanda, người nào biết rõ cõi ấy, biết rõ sự sinh khởi của cõi ấy, biết rõ sự chấm dứt của cõi ấy, biết rõ vị ngọt của cõi ấy, biết rõ sự nguy hại của cõi ấy, biết rõ lối thoát khỏi cõi ấy, thì người ấy có thích đáng để vui thích cõi ấy chăng?
+
+"Này Ānanda, người nào biết rõ cõi ấy, biết rõ sự sinh khởi của cõi ấy, biết rõ sự chấm dứt của cõi ấy, biết rõ vị ngọt của cõi ấy, biết rõ sự nguy hại của cõi ấy, biết rõ lối thoát khỏi cõi ấy, thì người ấy có thích đáng để vui thích cõi ấy chăng?"
 
 [Chú thích: Abhinandituṁ, tức "vui thích", "ưa thích" hay "ham thích", xuất hiện trong công thức chuẩn về đế thứ hai, nơi tham ái "vui thích ở chỗ này chỗ kia".]
 
 <!-- seg: dn15:34.3 -->
-"Thưa không, bạch Thế Tôn." Này Ānanda, cõi của thức thứ hai là cõi có thân sai khác và tưởng đồng nhất, như chư thiên cõi Phạm chúng, những vị được sinh vào đó đầu tiên. Người nào biết rõ cõi ấy, biết rõ sự sinh khởi của cõi ấy, biết rõ sự chấm dứt của cõi ấy, biết rõ vị ngọt của cõi ấy, biết rõ sự nguy hại của cõi ấy, biết rõ lối thoát khỏi cõi ấy, thì người ấy có thích đáng để vui thích cõi ấy chăng? "Thưa không, bạch Thế Tôn."
 
-Này Ānanda, cõi của thức thứ ba là cõi có thân đồng nhất và tưởng sai khác, như chư thiên cõi Quang Âm. Người nào biết rõ cõi ấy, biết rõ sự sinh khởi của cõi ấy, biết rõ sự chấm dứt của cõi ấy, biết rõ vị ngọt của cõi ấy, biết rõ sự nguy hại của cõi ấy, biết rõ lối thoát khỏi cõi ấy, thì người ấy có thích đáng để vui thích cõi ấy chăng? "Thưa không, bạch Thế Tôn."
+"Thưa không, bạch Thế Tôn." "Này Ānanda, cõi của thức thứ hai là cõi có thân sai khác và tưởng đồng nhất, như chư thiên cõi Phạm chúng, những vị được sinh vào đó đầu tiên. Người nào biết rõ cõi ấy, biết rõ sự sinh khởi của cõi ấy, biết rõ sự chấm dứt của cõi ấy, biết rõ vị ngọt của cõi ấy, biết rõ sự nguy hại của cõi ấy, biết rõ lối thoát khỏi cõi ấy, thì người ấy có thích đáng để vui thích cõi ấy chăng?" "Thưa không, bạch Thế Tôn."
 
-Này Ānanda, cõi của thức thứ tư là cõi có thân đồng nhất và tưởng đồng nhất, như chư thiên cõi Biến Tịnh. Người nào biết rõ cõi ấy, biết rõ sự sinh khởi của cõi ấy, biết rõ sự chấm dứt của cõi ấy, biết rõ vị ngọt của cõi ấy, biết rõ sự nguy hại của cõi ấy, biết rõ lối thoát khỏi cõi ấy, thì người ấy có thích đáng để vui thích cõi ấy chăng? "Thưa không, bạch Thế Tôn."
+"Này Ānanda, cõi của thức thứ ba là cõi có thân đồng nhất và tưởng sai khác, như chư thiên cõi Quang Âm. Người nào biết rõ cõi ấy, biết rõ sự sinh khởi của cõi ấy, biết rõ sự chấm dứt của cõi ấy, biết rõ vị ngọt của cõi ấy, biết rõ sự nguy hại của cõi ấy, biết rõ lối thoát khỏi cõi ấy, thì người ấy có thích đáng để vui thích cõi ấy chăng?" "Thưa không, bạch Thế Tôn."
 
-Này Ānanda, cõi của thức thứ năm là cõi của những chúng sinh đã vượt qua hoàn toàn các tưởng về sắc, đã chấm dứt các tưởng về sự va chạm, không tác ý đến các tưởng về nhiều loại, biết rằng "không gian là vô biên", được sinh vào cõi Không vô biên xứ. Người nào biết rõ cõi ấy, biết rõ sự sinh khởi của cõi ấy, biết rõ sự chấm dứt của cõi ấy, biết rõ vị ngọt của cõi ấy, biết rõ sự nguy hại của cõi ấy, biết rõ lối thoát khỏi cõi ấy, thì người ấy có thích đáng để vui thích cõi ấy chăng? "Thưa không, bạch Thế Tôn."
+"Này Ānanda, cõi của thức thứ tư là cõi có thân đồng nhất và tưởng đồng nhất, như chư thiên cõi Biến Tịnh. Người nào biết rõ cõi ấy, biết rõ sự sinh khởi của cõi ấy, biết rõ sự chấm dứt của cõi ấy, biết rõ vị ngọt của cõi ấy, biết rõ sự nguy hại của cõi ấy, biết rõ lối thoát khỏi cõi ấy, thì người ấy có thích đáng để vui thích cõi ấy chăng?" "Thưa không, bạch Thế Tôn."
 
-Này Ānanda, cõi của thức thứ sáu là cõi của những chúng sinh đã vượt qua hoàn toàn cõi Không vô biên xứ, biết rằng "thức là vô biên", được sinh vào cõi Thức vô biên xứ. Người nào biết rõ cõi ấy, biết rõ sự sinh khởi của cõi ấy, biết rõ sự chấm dứt của cõi ấy, biết rõ vị ngọt của cõi ấy, biết rõ sự nguy hại của cõi ấy, biết rõ lối thoát khỏi cõi ấy, thì người ấy có thích đáng để vui thích cõi ấy chăng? "Thưa không, bạch Thế Tôn."
+"Này Ānanda, cõi của thức thứ năm là cõi của những chúng sinh đã vượt qua hoàn toàn các tưởng về sắc, đã chấm dứt các tưởng về sự va chạm, không tác ý đến các tưởng về nhiều loại, biết rằng 'không gian là vô biên', được sinh vào cõi Không vô biên xứ. Người nào biết rõ cõi ấy, biết rõ sự sinh khởi của cõi ấy, biết rõ sự chấm dứt của cõi ấy, biết rõ vị ngọt của cõi ấy, biết rõ sự nguy hại của cõi ấy, biết rõ lối thoát khỏi cõi ấy, thì người ấy có thích đáng để vui thích cõi ấy chăng?" "Thưa không, bạch Thế Tôn."
 
-Này Ānanda, cõi của thức thứ bảy là cõi của những chúng sinh đã vượt qua hoàn toàn cõi Thức vô biên xứ, biết rằng "không có gì cả", được sinh vào cõi Vô sở hữu xứ. Người nào biết rõ cõi ấy, biết rõ sự sinh khởi của cõi ấy, biết rõ sự chấm dứt của cõi ấy, biết rõ vị ngọt của cõi ấy, biết rõ sự nguy hại của cõi ấy, biết rõ lối thoát khỏi cõi ấy, thì người ấy có thích đáng để vui thích cõi ấy chăng? "Thưa không, bạch Thế Tôn."
+"Này Ānanda, cõi của thức thứ sáu là cõi của những chúng sinh đã vượt qua hoàn toàn cõi Không vô biên xứ, biết rằng 'thức là vô biên', được sinh vào cõi Thức vô biên xứ. Người nào biết rõ cõi ấy, biết rõ sự sinh khởi của cõi ấy, biết rõ sự chấm dứt của cõi ấy, biết rõ vị ngọt của cõi ấy, biết rõ sự nguy hại của cõi ấy, biết rõ lối thoát khỏi cõi ấy, thì người ấy có thích đáng để vui thích cõi ấy chăng?" "Thưa không, bạch Thế Tôn."
+
+"Này Ānanda, cõi của thức thứ bảy là cõi của những chúng sinh đã vượt qua hoàn toàn cõi Thức vô biên xứ, biết rằng 'không có gì cả', được sinh vào cõi Vô sở hữu xứ. Người nào biết rõ cõi ấy, biết rõ sự sinh khởi của cõi ấy, biết rõ sự chấm dứt của cõi ấy, biết rõ vị ngọt của cõi ấy, biết rõ sự nguy hại của cõi ấy, biết rõ lối thoát khỏi cõi ấy, thì người ấy có thích đáng để vui thích cõi ấy chăng?" "Thưa không, bạch Thế Tôn."
 
 <!-- seg: dn15:34.4 -->
-Này Ānanda, còn có xứ của chúng sinh vô tưởng này:
+
+"Này Ānanda, còn có xứ của chúng sinh vô tưởng này:"
 
 <!-- seg: dn15:34.5 -->
-Này Ānanda, người nào biết rõ xứ ấy, biết rõ sự sinh khởi của xứ ấy, biết rõ sự chấm dứt của xứ ấy, biết rõ vị ngọt của xứ ấy, biết rõ sự nguy hại của xứ ấy, biết rõ lối thoát khỏi xứ ấy, thì người ấy có thích đáng để vui thích xứ ấy chăng?
+
+"Này Ānanda, người nào biết rõ xứ ấy, biết rõ sự sinh khởi của xứ ấy, biết rõ sự chấm dứt của xứ ấy, biết rõ vị ngọt của xứ ấy, biết rõ sự nguy hại của xứ ấy, biết rõ lối thoát khỏi xứ ấy, thì người ấy có thích đáng để vui thích xứ ấy chăng?"
 
 <!-- seg: dn15:34.6 -->
+
 "Thưa không, bạch Thế Tôn."
 
 <!-- seg: dn15:34.7 -->
-Này Ānanda, còn có xứ Phi tưởng phi phi tưởng này:
+
+"Này Ānanda, còn có xứ Phi tưởng phi phi tưởng này:"
 
 <!-- seg: dn15:34.8 -->
-Này Ānanda, người nào biết rõ xứ ấy, biết rõ sự sinh khởi của xứ ấy, biết rõ sự chấm dứt của xứ ấy, biết rõ vị ngọt của xứ ấy, biết rõ sự nguy hại của xứ ấy, biết rõ lối thoát khỏi xứ ấy, thì người ấy có thích đáng để vui thích xứ ấy chăng?
+
+"Này Ānanda, người nào biết rõ xứ ấy, biết rõ sự sinh khởi của xứ ấy, biết rõ sự chấm dứt của xứ ấy, biết rõ vị ngọt của xứ ấy, biết rõ sự nguy hại của xứ ấy, biết rõ lối thoát khỏi xứ ấy, thì người ấy có thích đáng để vui thích xứ ấy chăng?"
 
 <!-- seg: dn15:34.9 -->
+
 "Thưa không, bạch Thế Tôn."
 
 <!-- seg: dn15:34.10 -->
-Này Ānanda, khi một tỳ-kheo đã biết rõ như thật sự sinh khởi, sự chấm dứt, vị ngọt, sự nguy hại và lối thoát khỏi bảy cõi của thức này và hai xứ này, rồi được giải thoát nhờ không nắm giữ, thì này Ānanda, vị ấy được gọi là tỳ-kheo tuệ giải thoát.
+
+"Này Ānanda, khi một tỳ-kheo đã biết rõ như thật sự sinh khởi, sự chấm dứt, vị ngọt, sự nguy hại và lối thoát khỏi bảy cõi của thức này và hai xứ này, rồi được giải thoát nhờ không nắm giữ, thì này Ānanda, vị ấy được gọi là tỳ-kheo tuệ giải thoát."
 
 [Chú thích: Vị tuệ giải thoát có tuệ là căn tính nổi trội.]
 
 ---
 
 <!-- seg: dn15:35.0 -->
+
 ## 6. Tám giải thoát
 
 <!-- seg: dn15:35.1 -->
-Này Ānanda, có tám giải thoát này.
+
+"Này Ānanda, có tám giải thoát này."
 
 [Chú thích: Tám giải thoát (vimokkhā) là một cách khác để mô tả các trải nghiệm thiền định của thiền-na. Chúng cũng được liệt kê trong DN 16, DN 33, DN 34, AN 8.66 và MN 77, và được nhắc đến trong AN 4.189 và Thag 20.1. Ở AN 8.120 và MN 137, chúng có mặt trong danh sách nhưng không được gọi là tám giải thoát.]
 
 <!-- seg: dn15:35.2 -->
-Tám giải thoát ấy là gì?
+
+"Tám giải thoát ấy là gì?"
 
 <!-- seg: dn15:35.3 -->
-Có sắc, vị ấy thấy các sắc.
+
+"Có sắc, vị ấy thấy các sắc."
 
 [Chú thích: Người ấy thấy một hình ảnh thiền định dựa trên tưởng về thân mình, chẳng hạn qua niệm hơi thở hoặc các phần của thân. Ba giải thoát đầu đều bao gồm bốn tầng thiền-na.]
 
 <!-- seg: dn15:35.4 -->
-Đây là giải thoát thứ nhất.
+
+"Đây là giải thoát thứ nhất."
 
 <!-- seg: dn15:35.5 -->
-Không tưởng sắc ở bên trong, vị ấy thấy các sắc ở bên ngoài.
+
+"Không tưởng sắc ở bên trong, vị ấy thấy các sắc ở bên ngoài."
 
 [Chú thích: Người hành thiền đặt nền tảng thực hành trên một đối tượng bên ngoài, chẳng hạn một ánh sáng, hình ảnh một xác chết, hay một nguyên tố bên ngoài như đất.]
 
 <!-- seg: dn15:35.6 -->
-Đây là giải thoát thứ hai.
+
+"Đây là giải thoát thứ hai."
 
 <!-- seg: dn15:35.7 -->
-Vị ấy chỉ hướng tâm đến cái đẹp.
+
+"Vị ấy chỉ hướng tâm đến cái đẹp."
 
 [Chú thích: Đây là cách thực hành dựa trên một sự thiền định hoàn toàn trong sạch và cao thượng, chẳng hạn thiền về tình thương, hoặc nhìn một màu sắc trong sáng tinh khiết như bầu trời.]
 
 <!-- seg: dn15:35.8 -->
-Đây là giải thoát thứ ba.
+
+"Đây là giải thoát thứ ba."
 
 <!-- seg: dn15:35.9 -->
-Vị ấy vượt qua hoàn toàn các tưởng về sắc, các tưởng về sự va chạm đã biến mất, không tác ý đến các tưởng về nhiều loại, biết rằng "không gian là vô biên", chứng và trú vào Không vô biên xứ.
+
+"Vị ấy vượt qua hoàn toàn các tưởng về sắc, các tưởng về sự va chạm đã biến mất, không tác ý đến các tưởng về nhiều loại, biết rằng 'không gian là vô biên', chứng và trú vào Không vô biên xứ."
 
 <!-- seg: dn15:35.10 -->
-Đây là giải thoát thứ tư.
+
+"Đây là giải thoát thứ tư."
 
 <!-- seg: dn15:35.11 -->
-Vị ấy vượt qua hoàn toàn Không vô biên xứ, biết rằng "thức là vô biên", chứng và trú vào Thức vô biên xứ.
+
+"Vị ấy vượt qua hoàn toàn Không vô biên xứ, biết rằng 'thức là vô biên', chứng và trú vào Thức vô biên xứ."
 
 <!-- seg: dn15:35.12 -->
-Đây là giải thoát thứ năm.
+
+"Đây là giải thoát thứ năm."
 
 <!-- seg: dn15:35.13 -->
-Vị ấy vượt qua hoàn toàn Thức vô biên xứ, biết rằng "không có gì cả", chứng và trú vào Vô sở hữu xứ.
+
+"Vị ấy vượt qua hoàn toàn Thức vô biên xứ, biết rằng 'không có gì cả', chứng và trú vào Vô sở hữu xứ."
 
 <!-- seg: dn15:35.14 -->
-Đây là giải thoát thứ sáu.
+
+"Đây là giải thoát thứ sáu."
 
 <!-- seg: dn15:35.15 -->
-Vị ấy vượt qua hoàn toàn Vô sở hữu xứ, chứng và trú vào Phi tưởng phi phi tưởng xứ.
+
+"Vị ấy vượt qua hoàn toàn Vô sở hữu xứ, chứng và trú vào Phi tưởng phi phi tưởng xứ."
 
 <!-- seg: dn15:35.16 -->
-Đây là giải thoát thứ bảy.
+
+"Đây là giải thoát thứ bảy."
 
 <!-- seg: dn15:35.17 -->
-Vị ấy vượt qua hoàn toàn Phi tưởng phi phi tưởng xứ, chứng và trú vào sự chấm dứt tưởng và thọ.
+
+"Vị ấy vượt qua hoàn toàn Phi tưởng phi phi tưởng xứ, chứng và trú vào sự chấm dứt tưởng và thọ."
 
 [Chú thích: Sự chấm dứt tưởng và thọ (saññāvedayitanirodha) là trạng thái thiền định tột cùng, cực kỳ vi tế, thường dẫn thẳng đến giác ngộ. Bản thân trạng thái này, như mọi trạng thái thiền định, là tạm thời, nhưng sau đó các lậu hoặc có thể bị đoạn trừ vĩnh viễn. Tuệ giải thoát ấy là kết quả của sự phát triển quân bình cả tám chi phần của con đường.]
 
 <!-- seg: dn15:35.18 -->
-Đây là giải thoát thứ tám.
+
+"Đây là giải thoát thứ tám."
 
 <!-- seg: dn15:35.19 -->
-Này Ānanda, đó là tám giải thoát.
+
+"Này Ānanda, đó là tám giải thoát."
 
 <!-- seg: dn15:36.1 -->
-Này Ānanda, khi một tỳ-kheo nhập vào và xuất khỏi tám giải thoát này theo chiều thuận, theo chiều nghịch, và cả thuận lẫn nghịch, nhập vào và xuất khỏi tùy theo chỗ vị ấy muốn, lúc vị ấy muốn và bao lâu vị ấy muốn;
 
-[Chú thích: Đoạn này nhấn mạnh rằng vị ấy đã hoàn toàn thuần thục và làm chủ mọi trạng thái thiền định. Đức Thế Tôn tự nhận có sự thuần thục ấy, và vẫn giữ được khả năng đó ngay cả trên giường bệnh.]
+"Này Ānanda, khi một tỳ-kheo nhập vào và xuất khỏi tám giải thoát này theo chiều thuận, theo chiều nghịch, và cả thuận lẫn nghịch, nhập vào và xuất khỏi tùy theo chỗ vị ấy muốn, lúc vị ấy muốn và bao lâu vị ấy muốn;
 
 <!-- seg: dn15:36.2 -->
-và do sự chấm dứt các lậu hoặc, vị ấy tự mình thắng tri và chứng đạt, ngay trong đời này, tâm giải thoát và tuệ giải thoát không còn lậu hoặc, và an trú trong đó; này Ānanda, vị ấy được gọi là tỳ-kheo giải thoát cả hai phần.
+
+và do sự chấm dứt các lậu hoặc, vị ấy tự mình thắng tri và chứng đạt, ngay trong đời này, tâm giải thoát và tuệ giải thoát không còn lậu hoặc, và an trú trong đó; này Ānanda, vị ấy được gọi là tỳ-kheo giải thoát cả hai phần."
+
+[Chú thích: Đoạn này nhấn mạnh rằng vị ấy đã hoàn toàn thuần thục và làm chủ mọi trạng thái thiền định. Đức Thế Tôn tự nhận có sự thuần thục ấy, và vẫn giữ được khả năng đó ngay cả trên giường bệnh.]
 
 [Chú thích: Ở đây, từ "giải thoát" được dùng theo hai cách. Mọi a-la-hán đều có tâm giải thoát (nhờ định) và tuệ giải thoát (nhờ chứng ngộ Pháp); đồng thời, vị chú trọng định được nói là có tâm giải thoát, còn vị chú trọng tuệ thì có tuệ giải thoát. Vị thành tựu cả định lẫn tuệ được gọi là giải thoát cả hai phần.]
 
 <!-- seg: dn15:36.3 -->
-Này Ānanda, không có sự giải thoát cả hai phần nào khác cao hơn hay tinh tế hơn sự giải thoát cả hai phần này.
+
+"Này Ānanda, không có sự giải thoát cả hai phần nào khác cao hơn hay tinh tế hơn sự giải thoát cả hai phần này."
 
 <!-- seg: dn15:36.4 -->
+
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: dn15:36.5 -->
+
 Tôn giả Ānanda hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: dn15:36.6 -->
+
 Kinh Đại Duyên, bài thứ hai, đã hoàn thành.
 
 ---
