@@ -17,7 +17,7 @@ Vậy thì, này Đại vương, hãy lắng nghe và chú tâm cho kỹ, ta s�
 Đức Thế Tôn nói như thế này:
 
 <!-- seg: dn2:40.1 -->
-Này Đại vương, ở đây có một Như Lai xuất hiện trong đời, là bậc A-la-hán, bậc Chánh Đẳng Giác, đầy đủ trí tuệ và hạnh kiểm, bậc đã đi đến nơi tốt đẹp, bậc hiểu rõ thế gian, bậc tối thượng dẫn dắt những người cần được giáo hóa, bậc thầy của chư thiên và loài người, bậc Giác Ngộ, bậc Thế Tôn.
+Này Đại vương, ở đây có một Như Lai xuất hiện trong đời, là bậc A-la-hán, Chánh đẳng giác, đầy đủ minh và hạnh, bậc Thiện thệ, bậc thấu hiểu thế gian, bậc tối thượng dẫn dắt những người cần được điều ngự, bậc thầy của trời và người, bậc Giác ngộ, bậc Thế Tôn.
 
 [Chú thích: Đây là mười danh hiệu của bậc Giác Ngộ, thường được đọc liền thành một câu. Câu này cũng là câu mở đầu quen thuộc của bài giảng về con đường tu tập tuần tự — giới hạnh, rồi thiền định, rồi tuệ giác. *Sugato* (quen dịch là Thiện Thệ) nghĩa là bậc đã đi đến nơi tốt đẹp; *lokavidū* là bậc hiểu rõ thế gian; *purisadammasārathi* là bậc dẫn dắt những người cần được điều phục.]
 

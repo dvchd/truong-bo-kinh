@@ -117,6 +117,18 @@ phần con đường tu tập thì có thể dùng "giới hạnh", và phải g
 
 ---
 
+### Danh hiệu đầy đủ của Đức Thế Tôn
+
+Chuỗi danh hiệu chín phần (`arahaṁ sammāsambuddho … satthā devamanussānaṁ buddho bhagavā`) phải
+dùng **đúng một dạng** trong toàn bộ 34 bài:
+
+> bậc A-la-hán, Chánh đẳng giác, đầy đủ minh và hạnh, bậc Thiện thệ, bậc thấu hiểu thế gian, bậc
+> tối thượng dẫn dắt những người cần được điều ngự, bậc thầy của trời và người, bậc Giác ngộ, bậc
+> Thế Tôn
+
+Đừng dùng "bậc Chánh Đẳng Giác, đầy đủ trí tuệ và hạnh kiểm, bậc đã đi đến nơi tốt đẹp" hay bất kỳ
+biến thể nào khác — dù nghĩa tương đương, người đọc sẽ thấy đó là hai bản dịch khác nhau.
+
 ## 5. Peyyāla `…pe…`
 
 `…pe…` (peyyāla) là lối **lược đoạn** của Pali: nó đứng thay cho một khối văn vừa viết đủ

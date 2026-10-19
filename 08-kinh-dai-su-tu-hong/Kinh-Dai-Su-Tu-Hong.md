@@ -105,7 +105,7 @@ tiết hành chính nữa. Nó là cùng một bài học, lần thứ hai: **đ
 | | |
 |---|---|
 | Đoạn văn (segment) | **252** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.814** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.999** |
 | Chú thích trong thân bản dịch | **39** |
 | Liên kết mục lục | **12** |
 | Trang PTS | i.161–177 |
@@ -708,7 +708,7 @@ Khi Đức Thế Tôn nói như vậy, tu sĩ lõa thể Kassapa thưa với Ng�
 [Chú thích: (của người dịch) Pali ở đây dùng cittasampadā, nghĩa đen là "thành tựu tâm"; trong ngữ cảnh thiền định, tâm (citta) đồng nghĩa với định (samādhi), nên tiêu đề mục dùng chữ "định". Xem thêm chú thích ở mục 4 về điểm này.]
 
 <!-- seg: dn8:18.3 -->
-Này Kassapa, ở đây một Như Lai xuất hiện trong đời, là bậc A-la-hán, bậc Chánh Đẳng Giác, đầy đủ minh và hạnh, bậc đã đi đến nơi tốt đẹp, bậc hiểu rõ thế gian, bậc tối thượng dẫn dắt những người cần được giáo hóa, bậc thầy của chư thiên và loài người, bậc Giác Ngộ, bậc Thế Tôn. Ngài tự mình chứng ngộ bằng thắng trí rồi loan báo cho thế gian này biết — thế gian ấy có chư thiên, có Ma vương, có Phạm Thiên, có hàng sa-môn và bà-la-môn, có chư thiên và loài người. Ngài thuyết Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có ý nghĩa và lời lẽ khéo léo; Ngài chỉ ra đời sống phạm hạnh hoàn toàn viên mãn, hoàn toàn thanh tịnh. Rồi một gia chủ, con trai của một gia chủ, hay một người sinh ra trong một gia đình nào đó nghe Pháp ấy; nghe xong, người ấy có lòng tin nơi Như Lai. Với lòng tin ấy, người ấy suy xét rằng đời sống tại gia thì chật chội, bụi bặm, còn đời sống xuất gia thì rộng mở, thoáng đãng; rồi bỏ lại tài sản và thân quyến lớn hay nhỏ, cạo bỏ râu tóc, mặc y màu vàng nghệ, xuất gia sống đời không nhà. Sau khi xuất gia, vị ấy sống tự chế ngự theo giới bổn Pātimokkha, đầy đủ oai nghi và chỗ đi lại thích hợp.
+Này Kassapa, ở đây một Như Lai xuất hiện trong đời, là bậc A-la-hán, Chánh đẳng giác, đầy đủ minh và hạnh, bậc Thiện thệ, bậc thấu hiểu thế gian, bậc tối thượng dẫn dắt những người cần được điều ngự, bậc thầy của trời và người, bậc Giác ngộ, bậc Thế Tôn. Ngài tự mình chứng ngộ bằng thắng trí rồi loan báo cho thế gian này biết — thế gian ấy có chư thiên, có Ma vương, có Phạm Thiên, có hàng sa-môn và bà-la-môn, có chư thiên và loài người. Ngài thuyết Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có ý nghĩa và lời lẽ khéo léo; Ngài chỉ ra đời sống phạm hạnh hoàn toàn viên mãn, hoàn toàn thanh tịnh. Rồi một gia chủ, con trai của một gia chủ, hay một người sinh ra trong một gia đình nào đó nghe Pháp ấy; nghe xong, người ấy có lòng tin nơi Như Lai. Với lòng tin ấy, người ấy suy xét rằng đời sống tại gia thì chật chội, bụi bặm, còn đời sống xuất gia thì rộng mở, thoáng đãng; rồi bỏ lại tài sản và thân quyến lớn hay nhỏ, cạo bỏ râu tóc, mặc y màu vàng nghệ, xuất gia sống đời không nhà. Sau khi xuất gia, vị ấy sống tự chế ngự theo giới bổn Pātimokkha, đầy đủ oai nghi và chỗ đi lại thích hợp.
 
 [Chú thích: (của người dịch) Chỗ này Pali viết tắt bằng peyyāla, thay cho một khối văn dài: các danh hiệu của Như Lai, việc Ngài chứng ngộ và thuyết Pháp, rồi một người nghe Pháp xuất gia và sống theo giới bổn. Bản dịch giữ đủ các chặng ấy; bản đầy đủ ở Kinh Sa-môn Quả (bài 2), mục 4.3.]
 

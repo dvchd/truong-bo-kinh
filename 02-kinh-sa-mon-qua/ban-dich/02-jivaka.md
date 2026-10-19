@@ -21,7 +21,7 @@ Rồi vua Ajātasattu xứ Magadha, con của bà Videhā, nói với Jīvaka Ko
 "Về Đức Thế Tôn ấy, tiếng tốt lành này đã được truyền tụng khắp nơi:"
 
 <!-- seg: dn2:8.6 -->
-"Ngài đúng là bậc A-la-hán, bậc Chánh đẳng giác, thành tựu trí tuệ và hạnh kiểm, bậc Thiện thệ, bậc hiểu biết thế gian, bậc dẫn đường tối thượng cho những ai cần được điều phục, thầy dạy của cả trời và người, bậc Giác ngộ, bậc Thế Tôn."
+"Ngài đúng là bậc A-la-hán, Chánh đẳng giác, đầy đủ minh và hạnh, bậc Thiện thệ, bậc thấu hiểu thế gian, bậc tối thượng dẫn dắt những người cần được điều ngự, bậc thầy của trời và người, bậc Giác ngộ, bậc Thế Tôn."
 
 [Chú thích: Đây là lần đầu xuất hiện công thức *iti pi so* nổi tiếng. Công thức này vẫn còn được tụng để ca ngợi Đức Phật trong các cộng đồng Phật giáo Nguyên thủy.]
 

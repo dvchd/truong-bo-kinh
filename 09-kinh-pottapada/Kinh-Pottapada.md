@@ -118,7 +118,7 @@ Cùng một từ "tưởng", hai cách xử lý. Đó là chỗ đáng chú ý n
 | | |
 |---|---|
 | Đoạn văn (segment) | **474** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **15.654** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **16.678** |
 | Liên kết mục lục | **12** |
 | Trang PTS | i.178–203 |
 
