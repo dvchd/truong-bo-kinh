@@ -13,7 +13,7 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 | **1** | **Kinh Phạm Võng** | *Brahmajāla Sutta* | ✅ **Hoàn thành** → [`01-kinh-pham-vong/`](01-kinh-pham-vong/) |
 | **2** | **Kinh Sa-môn Quả** | *Sāmaññaphala Sutta* | ✅ **Hoàn thành** → [`02-kinh-sa-mon-qua/`](02-kinh-sa-mon-qua/) |
 | **3** | **Kinh Ambaṭṭha** | *Ambaṭṭha Sutta* | ✅ **Hoàn thành** → [`03-kinh-ambattha/`](03-kinh-ambattha/) |
-| 4 | Kinh Soṇadaṇḍa | *Soṇadaṇḍa Sutta* | ⏳ Chưa bắt đầu |
+| **4** | **Kinh Soṇadaṇḍa** | *Soṇadaṇḍa Sutta* | ✅ **Hoàn thành** → [`04-kinh-sonadanda/`](04-kinh-sonadanda/) |
 | 5 | Kinh Kūṭadanta | *Kūṭadanta Sutta* | ⏳ Chưa bắt đầu |
 | 6 | Kinh Mahāli | *Mahāli Sutta* | ⏳ Chưa bắt đầu |
 | 7 | Kinh Jāliya | *Jāliya Sutta* | ⏳ Chưa bắt đầu |
@@ -108,7 +108,20 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 │   ├── ra-soat.py              ← rà soát toàn bộ
 │   └── tien-do.py
 │
-└── 04-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
+├── 04-kinh-sonadanda/          ← Bài kinh số 4: Kinh Soṇadaṇḍa  ✅
+│   ├── Kinh-Sonadanda.md       ← BẢN DỊCH HOÀN CHỈNH (đọc tệp này)
+│   ├── README.md
+│   ├── HUONG-DAN-DICH.md       ← quy chuẩn dịch
+│   ├── ban-dich/               ← bản dịch từng phần
+│   ├── nguon/                  ← Pali + Anh + chú thích, theo đoạn
+│   ├── ra-soat/                ← báo cáo rà soát
+│   ├── ghep.py
+│   ├── tao-muc-luc.py          ← chèn mục lục với anchor kiểu GitHub
+│   ├── kiem-tra-marker.py
+│   ├── ra-soat.py              ← rà soát toàn bộ
+│   └── tien-do.py
+│
+└── 05-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
 ```
 
 ---
