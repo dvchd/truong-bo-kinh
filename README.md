@@ -19,7 +19,7 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 | **7** | **Kinh Jāliya** | *Jāliya Sutta* | ✅ **Hoàn thành** → [`07-kinh-jaliya/`](07-kinh-jaliya/) |
 | **8** | **Kinh Đại Sư Tử Hống** | *Mahāsīhanāda Sutta* | ✅ **Hoàn thành** → [`08-kinh-dai-su-tu-hong/`](08-kinh-dai-su-tu-hong/) |
 | **9** | **Kinh Poṭṭhapāda** | *Poṭṭhapāda Sutta* | ✅ **Hoàn thành** → [`09-kinh-pottapada/`](09-kinh-pottapada/) |
-| 10 | Kinh Subha | *Subha Sutta* | ⏳ Chưa bắt đầu |
+| **10** | **Kinh Subha** | *Subha Sutta* | ✅ **Hoàn thành** → [`10-kinh-subha/`](10-kinh-subha/) |
 | 11 | Kinh Kevaddha | *Kevaṭṭa Sutta* | ⏳ Chưa bắt đầu |
 | 12 | Kinh Lohicca | *Lohicca Sutta* | ⏳ Chưa bắt đầu |
 | 13 | Kinh Tam Minh | *Tevijja Sutta* | ⏳ Chưa bắt đầu |
@@ -181,12 +181,19 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 │   ├── ra-soat.py
 │   └── tien-do.py
 │
+├── 10-kinh-subha/              ← Bài kinh số 10: Kinh Subha  ✅
+│   ├── Kinh-Subha.md           ← BẢN DỊCH HOÀN CHỈNH (đọc tệp này)
+│   ├── README.md
+│   ├── GHI-CHU-BAI.md
+│   ├── ban-dich/
+│   └── nguon/
+│
 ├── HUONG-DAN-CHUNG.md          ← quy chuẩn dịch chung cho cả 34 bài
 │
 ├── cong-cu/
 │   └── tao-bai.py              ← dựng khung một bài mới (nguồn + script + thư mục)
 │
-└── 10-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
+└── 11-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
 ```
 
 ---
@@ -206,6 +213,7 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 | 7 | **Kinh Jāliya** | [`07-kinh-jaliya/Kinh-Jaliya.md`](07-kinh-jaliya/Kinh-Jaliya.md) | 51 đoạn · 3.518 từ |
 | 8 | **Kinh Đại Sư Tử Hống** | [`08-kinh-dai-su-tu-hong/Kinh-Dai-Su-Tu-Hong.md`](08-kinh-dai-su-tu-hong/Kinh-Dai-Su-Tu-Hong.md) | 252 đoạn · 13.999 từ |
 | 9 | **Kinh Poṭṭhapāda** | [`09-kinh-pottapada/Kinh-Pottapada.md`](09-kinh-pottapada/Kinh-Pottapada.md) | 474 đoạn · 16.678 từ |
+| 10 | **Kinh Subha** | [`10-kinh-subha/Kinh-Subha.md`](10-kinh-subha/Kinh-Subha.md) | 285 đoạn · 12.238 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
 

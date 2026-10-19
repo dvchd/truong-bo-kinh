@@ -1,3 +1,117 @@
+## Lời giới thiệu
+
+Bài này là bài duy nhất trong mười bài đầu có **Đức Thế Tôn không xuất hiện**. Người nói là **Tôn
+giả Ānanda**, và bài kinh mở đầu bằng đúng một dòng: *"Tôi nghe như vầy. Một thuở nọ, khi Đức Thế
+Tôn vừa nhập Niết-bàn chưa bao lâu."*
+
+Đó là bối cảnh toàn bộ bài. Không có Đức Thế Tôn để hỏi nữa. Người ta phải hỏi người đã ở bên
+Ngài lâu nhất.
+
+### Câu hỏi của Subha
+
+Thanh niên Bà-la-môn Subha Todeyyaputta cho người đến mời Ānanda về nhà. Ānanda từ chối lần đầu
+— hôm ấy ngài đã uống thuốc. Hôm sau ngài đến, mang theo một tỳ-kheo làm bạn đồng hành.
+
+Rồi Subha hỏi câu mà cả bài xoay quanh:
+
+> **"Thưa ngài Ānanda, ngài Gotama đã ca ngợi những pháp nào, và Ngài đã khuyến khích, an lập và
+> đặt vững dân chúng này vào đâu?"**
+
+Ānanda đáp: **ba phương diện** — giới cao thượng, định cao thượng, tuệ cao thượng.
+
+Và rồi, trong 280 đoạn còn lại, ông giải thích ba phương diện ấy là gì.
+
+### Vì sao câu trả lời ấy đáng chú ý
+
+Vì nó **rất khiêm tốn về hình thức và rất tham vọng về nội dung**.
+
+Hình thức: Ānanda không nói "giáo pháp của Đức Thế Tôn". Ông nói "Đức Thế Tôn đã ca ngợi ba phương
+diện, và chính nơi ấy Ngài đã khuyến khích, an lập và đặt vững dân chúng này". Một câu, lặp lại
+gần như nguyên văn ba lần trong đoạn mở.
+
+Nội dung: ba phương diện ấy **chính là toàn bộ con đường**, xếp lại theo một trục mới.
+
+### Trục mới
+
+Kinh Sa-môn Quả (bài 2) kể con đường như một chuỗi những **niềm vui ngày càng vi tế**: thấy
+mình có giới, thì vui; vui thì hoan hỷ; hoan hỷ thì thân an tịnh; an tịnh thì lạc; lạc thì định.
+
+Bài này kể cùng con đường ấy, nhưng xếp theo **ba nhóm đồ vật**: cái gì thuộc **giới**, cái gì
+thuộc **định**, cái gì thuộc **tuệ**. Mỗi nhóm có một câu chốt riêng, và ba câu chốt phải song
+song nhau.
+
+Đó là lý do bài này tồn tại. Nó không thêm giáo lý mới. Nó là **bản đồ lại** của bài 2, để người
+học chia việc ra làm ba tầng: sửa hạnh kiểm, sửa tâm, rồi mới sửa hiểu biết.
+
+### Ba phương diện, ba câu chốt
+
+**Giới** — từ "Như Lai xuất hiện ở đời" cho đến hết các nhóm giới ngắn, trung, dài; rồi mưu sinh
+sai trái, thuật hèn hạ, hộ trì giác quan, chánh niệm tỉnh giác, biết đủ, chỗ vắng.
+
+**Định** — năm triền cái được bỏ, bốn tầng thiền-na được chứng. Ở đây các tầng thiền-na được mô
+tả **đầy đủ**, với đủ bốn ví dụ: người tắm trong chậu, hồ nước mát, sen trong bùn, tấm vải trắng.
+
+Mỗi tầng kết bằng một câu rất ngắn: *"Điều này cũng thuộc về định của vị ấy."*
+
+**Tuệ** — tám thắng trí: thân do tâm tạo, các thần thông, thiên nhĩ, biết tâm người khác, nhớ đời
+trước, thiên nhãn, đoạn tận lậu hoặc. Mỗi thắng trí kết bằng: *"Điều này cũng thuộc về tuệ của vị
+ấy."*
+
+### Chỗ lạ nhất
+
+Câu chốt của cả bài là một câu rất ngắn, nói hai lần: *"Nhưng ở đây không còn việc gì phải làm thêm
+nữa."*
+
+Đó là câu nói về người đã chứng quả A-la-hán: không còn gì để tu thêm. Ānanda nói nó ngay sau khi
+mô tả thắng trí cuối cùng.
+
+Và Subha đáp bằng một tràng tán thán: *"Thật kỳ diệu thay… phương diện tuệ cao thượng này thật trọn
+vẹn, không thiếu khuyết… tôi không thấy một phương diện tuệ cao thượng trọn vẹn như vậy ở các
+sa-môn và bà-la-môn khác bên ngoài."*
+
+Rồi ông quy y — nhưng quy y **nơi Đức Thế Tôn**, người đã nhập Niết-bàn, chứ không quy y nơi
+Ānanda. Một chi tiết nhỏ, và nó nói đúng điều bài kinh muốn nói: người truyền đạt không phải là
+chỗ nương tựa.
+
+### Vì sao đáng đọc
+
+Vì nó cho thấy điều gì xảy ra với giáo pháp khi người thầy không còn. Không có chuyện "ai hiểu
+hơn ai": Ānanda nói đúng những gì Đức Thế Tôn đã nói, xếp lại theo cách khác, không thêm một
+nghĩa nào. Cả bài kinh là một minh chứng cho cách truyền thừa bằng **ghi nhớ và sắp xếp lại**,
+chứ không bằng sáng tạo.
+
+Và vì nó là một trong những bản tóm tắt gọn nhất của toàn bộ con đường: đọc riêng bài này cũng
+đủ hiểu cái mà Trường Bộ Kinh gọi là "tu hành" — sửa hạnh kiểm, sửa tâm, sửa hiểu biết.
+
+---
+
+## Cấu trúc
+
+| Mục | Nội dung | Đoạn |
+|---|---|---|
+| (mở đầu) | Ānanda, Subha, và ba phương diện | 35 |
+| **1** | Toàn bộ các phương diện của giới | 38 |
+| **2** | Các phương diện của định | 103 |
+| **3** | Các phương diện của tuệ | 107 |
+
+## Con số
+
+| | |
+|---|---|
+| Đoạn văn (segment) | **285** — khớp 100% với nguồn SuttaCentral |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.306** |
+| Trang PTS | i.204–210 |
+
+## Cách đọc
+
+**Nếu chỉ có thời gian đọc một phần**: đọc 35 đoạn mở đầu rồi nhảy sang câu chốt cuối mục 2 và
+mục 3. Phần còn lại là con đường đã được kể đầy đủ trong bài 2.
+
+**Nếu muốn hiểu thiền-na**: đọc mục 2. Đây là một trong những bản mô tả bốn tầng thiền-na đầy đủ
+nhất, với đủ bốn ví dụ, và ngắn hơn bài 2.
+
+---
+
 <!-- seg: dn10:0.1 -->
 ## Mục lục
 
@@ -145,7 +259,7 @@ Này Subha, Đức Thế Tôn đã ca ngợi ba phương diện ấy, và chính
 "Nhưng thưa ngài Ānanda, phương diện giới cao thượng ấy là gì, mà ngài Gotama đã ca ngợi và đã khuyến khích, an lập, đặt vững dân chúng này vào đó?"
 
 <!-- seg: dn10:1.7.1 -->
-"Này Subha, ở đây có một Như Lai xuất hiện trong đời, là bậc A-la-hán, Chánh đẳng giác, đầy đủ minh và hạnh, bậc Thiện thệ, bậc thấu hiểu thế gian, bậc tối thượng dẫn dắt những người cần được điều ngự, bậc thầy của trời và người, bậc Giác ngộ, bậc Thế Tôn.
+Này Subha, ở đây có một Như Lai xuất hiện trong đời, là bậc A-la-hán, Chánh đẳng giác, đầy đủ minh và hạnh, bậc Thiện thệ, bậc thấu hiểu thế gian, bậc tối thượng dẫn dắt những người cần được điều ngự, bậc thầy của trời và người, bậc Giác ngộ, bậc Thế Tôn.
 
 <!-- seg: dn10:1.7.2 -->
 Ngài tự mình chứng ngộ bằng thắng trí rồi loan báo cho thế gian này biết — thế gian ấy có chư thiên, có Ma vương, có Phạm thiên, có cả hàng sa-môn và bà-la-môn, có chư thiên và loài người.
@@ -229,7 +343,7 @@ Này Subha, một tỳ-kheo thành tựu giới hạnh là như vậy.
 Này Subha, đây chính là phương diện giới cao thượng mà Đức Thế Tôn đã ca ngợi, và là chỗ Ngài đã khuyến khích, an lập và đặt vững dân chúng này vào.
 
 <!-- seg: dn10:1.30.2 -->
-Nhưng ở đây vẫn còn việc phải làm thêm nữa."
+Nhưng ở đây vẫn còn việc phải làm thêm nữa.
 
 <!-- seg: dn10:1.30.3 -->
 "Thật kỳ diệu thay, thưa ngài Ānanda, thật hy hữu thay, thưa ngài Ānanda!
@@ -996,3 +1110,111 @@ Nhưng ở đây không còn việc gì phải làm thêm nữa.
 <!-- seg: dn10:2.37.11 -->
 
 Kinh Subha, bài thứ mười, đã hoàn thành.
+
+---
+
+## Bảng thuật ngữ
+
+Bài này là bản tóm lược con đường theo ba nhóm, nên bảng thuật ngữ ngắn hơn các bài trước.
+
+### Ba phương diện
+
+| Pali | Tiếng Việt | Ghi chú |
+|---|---|---|
+| khandha | **phương diện** | trong bài này không phải "uẩn" |
+| sīlakkhandha | **phương diện giới** | |
+| samādhikkhandha | **phương diện định** | |
+| paññākkhandha | **phương diện tuệ** | |
+| adhisīla / adhisamādhi / adhipaññā | **giới cao thượng / định cao thượng / tuệ cao thượng** | |
+
+### Con đường
+
+| Pali | Tiếng Việt | Ghi chú |
+|---|---|---|
+| sīla | **giới** | |
+| indriyasaṁvara | **hộ trì các giác quan** | |
+| satisampajañña | **chánh niệm và tỉnh giác** | |
+| santuṭṭhi | **biết đủ** | |
+| nīvaraṇa | **năm triền cái** | |
+| jhāna | **thiền-na** | "sơ thiền — tầng thiền thứ nhất", "nhị thiền — tầng thiền thứ hai", "tam thiền — tầng thiền thứ ba", "tứ thiền — tầng thiền thứ tư" |
+| abhiññā | **thắng trí** | |
+| āsavānaṁ khaya | **đoạn tận lậu hoặc** | |
+| `nāparaṁ itthattāyā` | **không còn gì nữa cho trạng thái này** | |
+
+### Nhân vật và xưng hô
+
+| Ai → ai | Tiếng Việt |
+|---|---|
+| Subha → Ānanda | "thưa ngài Ānanda" |
+| Ānanda → Subha | "này Subha" |
+| Subha nói về Đức Thế Tôn | "ngài Gotama" (trung tính) hoặc "Đức Thế Tôn" |
+| người kể → Ānanda | "Tôn giả Ānanda" |
+| người kể → Đức Thế Tôn | "Đức Thế Tôn", đại từ **"Ngài"** |
+
+### Chỗ dễ dịch sai
+
+| Chỗ | Dịch đúng | Dịch sai thường gặp |
+|---|---|---|
+| `khandha` | **phương diện** | "uẩn" — sai nghĩa trong ngữ cảnh này |
+| `evaṁ samāhite citte` | "Khi tâm đã định tĩnh như thế — trong sạch, sáng tỏ, không còn tì vết, đã sạch hết những ô nhiễm, trở nên mềm mại, dễ uốn nắn, vững vàng và không còn lay chuyển" | cắt ngắn thành "khi tâm đã định" |
+| `Idampissa hoti samādhismiṁ` | "Điều này cũng thuộc về định của vị ấy." | "đây là định của vị ấy" — mất ý "cũng thuộc về" |
+| `sādhukam` trong lời khen | "thật trọn vẹn, không thiếu khuyết" | "tốt lắm" |
+| `bhavaṁ gotamo` (trong lời Subha ở 2.20.1) | "ngài Gotama" | "Đức Thế Tôn" — Subha chưa quy y ở chỗ ấy |
+
+---
+
+## Nguồn tham khảo
+
+### Nguyên bản
+
+| | |
+|---|---|
+| Văn bản Pali | Dīgha Nikāya, sutta 10 — *Subhasutta*, PTS i.204–210 |
+| Ấn bản dùng để dịch | Bản Pali trên SuttaCentral: <https://suttacentral.net/dn10/pli/ms> |
+| Bản dịch Anh tham chiếu | Bhikkhu Sujato, *With Subha*: <https://suttacentral.net/dn10/en/sujato> |
+| Chú thích | Chú thích của Bhikkhu Sujato (CC0), dịch lại thành `[Chú thích: …]` |
+
+Bản dịch tiếng Anh và chú thích của Bhikkhu Sujato đã được hiến tặng vào phạm vi công cộng
+(CC0). Xem <https://suttacentral.net/licensing>.
+
+### Các bản dịch khác đã đối chiếu
+
+- **Thích Minh Châu**, *Trường Bộ Kinh*, bản dịch Việt ngữ (1991). Bài này trong bản ấy mang tên
+  *Kinh Tu-bà*.
+- **Maurice Walshe**, *The Long Discourses of the Buddha* (Wisdom, 1987; tái bản 1995) — bản ấy
+  đặt tên bài là *With Subha*.
+- **T. W. Rhys Davids**, *Dialogues of the Buddha*, tập 1 (Pali Text Society, 1899) — bản ấy đặt
+  tên bài là *Subha Sutta*.
+
+### Quan hệ với Kinh Sa-môn Quả (bài 2)
+
+Bài này là **bản tóm lược** của Kinh Sa-môn Quả, xếp lại theo ba nhóm giới / định / tuệ thay vì
+theo chuỗi "niềm vui ngày càng vi tế". Vì vậy gần như mọi đoạn của bài này đã có bản dịch trong
+bài 2, và bản dịch ở đây **dùng lại đúng câu chữ của bài 2** (chỉ đổi cách gọi người nghe: "Đại
+vương" → "Subha").
+
+Ngoại lệ: phần mở đầu (Ānanda, Subha, ba phương diện) và các câu chốt của ba nhóm là riêng của
+bài này. Ngoài ra, khối văn ở bài 2 dùng "toàn bộ giới hạnh cao thượng" còn ở đây đổi thành
+"phương diện giới cao thượng", theo đúng nghĩa `khandha` trong ngữ cảnh này.
+
+Bài 2 hiện giữ một vài câu chữ cũ (ví dụ câu tuyên bố A-la-hán dạng "Ta đã diệt tận sinh…"); bài
+10 dùng dạng đã thống nhất về sau ("Sinh đã tận… không còn gì nữa cho trạng thái này"). Khi đối
+chiếu hai bài, xin lưu ý chỗ khác nhau ấy là do lịch sử hiệu đính, không phải do sai nghĩa.
+
+### Bản Hán tương ứng
+
+Bản Hán gần nhất là **《須婆經》** ("Kinh Tu-bà"), *Trường A-hàm* 27 (長阿含經, Đại chánh tạng 1,
+kinh số 27). Bản Hán giữ cùng khung ba nhóm, nhưng phần mở đầu rút gọn hơn nhiều.
+
+Khi đối chiếu, lưu ý: **bản Pali là bản đầy đủ để dịch**.
+
+### Ghi chú dựng văn bản
+
+- Bản dịch theo bản Miến Điện (BJT) trên SuttaCentral; các dị bản PTS được ghi trong chú thích
+  khi có khác biệt đáng kể.
+- Bài có **285 đoạn** (segment), chia thành phần mở đầu và ba mục.
+- Số đoạn trong nguồn dùng dạng bốn cấp (`1.6.5.0`, `2.1.0`); đoạn có `.0` ở cuối là **tiêu đề
+  mục**, và marker giữ nguyên dạng ấy.
+- **Các khối `…pe…` được khai triển đầy đủ**, không tóm lược: các danh sách giới, các tầng
+  thiền-na, tám thắng trí đều dịch trọn.
+- Chú thích Sujato có kèm liên kết HTML; khi đưa vào bản dịch đã bỏ liên kết, chỉ giữ nội dung.

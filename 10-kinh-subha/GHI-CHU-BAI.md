@@ -9,15 +9,19 @@ dung trùng nguyên văn với Kinh Sa-môn Quả (bài 2), nên nguyên tắc s
 
 ## 1. Nhân danh
 
-Bối cảnh: tịnh xá của Anāthapiṇḍika, vườn Kỳ-đà, Sāvatthī.
+Bối cảnh: tịnh xá của Anāthapiṇḍika, vườn Kỳ-đà, Sāvatthī — **sau khi Đức Thế Tôn đã nhập
+Niết-bàn**. Người thuyết giảng là **Tôn giả Ānanda**, không phải Đức Thế Tôn.
 
 | Pali | Người | Cách gọi |
 |---|---|---|
-| subho māṇavo todeyyaputto | thanh niên Bà-la-môn Subha Todeyyaputta | "bạch Thế Tôn" / "thưa Ngài"; Ngài gọi "này Subha" |
+| āyasmā ānanda | Tôn giả Ānanda | người thuyết giảng; Subha gọi "thưa ngài Ānanda"; Ānanda gọi "này Subha" |
+| subho māṇavo todeyyaputto | thanh niên Bà-la-môn Subha Todeyyaputta | xưng "con"/"tôi" với Ānanda |
 | các bà-la-môn khác | | "các vị bà-la-môn" |
 
 - `māṇava` = **thanh niên** (học trò bà-la-môn, chưa xuất gia).
-- Subha xưng "con" hoặc "tôi"; gọi Đức Thế Tôn là **"bạch Thế Tôn"**.
+- Subha xưng "con" hoặc "tôi"; gọi Ānanda là **"thưa ngài Ānanda"**. Khi nói về Đức Thế Tôn:
+  "ngài Gotama" (cách gọi trung tính) hoặc "Đức Thế Tôn".
+- Người kể gọi Ānanda là **"Tôn giả Ānanda"**; Ānanda tự xưng "tôi".
 
 ## 2. Tiêu đề mục (dùng y nguyên)
 
