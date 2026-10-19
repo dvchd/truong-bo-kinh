@@ -10,7 +10,7 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 
 | # | Kinh | Pali | Trạng thái |
 |---|---|---|---|
-| **1** | **Kinh Phạm Võng** | *Brahmajāla Sutta* | ✅ **Hoàn thành** → [`kinh-pham-vong/`](kinh-pham-vong/) |
+| **1** | **Kinh Phạm Võng** | *Brahmajāla Sutta* | ✅ **Hoàn thành** → [`01-kinh-pham-vong/`](01-kinh-pham-vong/) |
 | 2 | Kinh Sa-môn Quả | *Sāmaññaphala Sutta* | ⏳ Chưa bắt đầu |
 | 3 | Kinh Ambaṭṭha | *Ambaṭṭha Sutta* | ⏳ Chưa bắt đầu |
 | 4 | Kinh Soṇadaṇḍa | *Soṇadaṇḍa Sutta* | ⏳ Chưa bắt đầu |
@@ -45,6 +45,10 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 | 33 | Kinh Chúng Tập | *Saṅgīti Sutta* | ⏳ Chưa bắt đầu |
 | 34 | Kinh Thập Thượng | *Dasuttara Sutta* | ⏳ Chưa bắt đầu |
 
+> **Quy ước thư mục:** mỗi bài nằm trong một thư mục `NN-ten-bai`, với `NN` là số thứ tự
+> hai chữ số (`01`–`34`). Nhờ vậy thư mục tự sắp đúng thứ tự kinh, và kho tự hiện ra
+> bài nào còn trống mà không cần mở tệp nào.
+
 ---
 
 ## Vì sao có kho tài nguyên đi kèm?
@@ -66,16 +70,19 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 .
 ├── README.md
 ├── LICENSE
-└── kinh-pham-vong/          ← Bài kinh số 1: Kinh Phạm Võng
-    ├── Kinh-Pham-Vong.md    ← BẢN DỊCH HOÀN CHỈNH (đọc file này)
-    ├── README.md
-    ├── HUONG-DAN-DICH.md    ← quy chuẩn dịch
-    ├── ban-dich/            ← bản dịch từng phần
-    ├── nguon/               ← Pali + Anh + chú thích, theo đoạn
-    ├── ra-soat/             ← báo cáo rà soát độc lập
-    ├── ghep.py              ← ghép các phần thành bản hoàn chỉnh
-    ├── kiem-tra-marker.py   ← kiểm tra đủ/đúng thứ tự đoạn
-    └── tien-do.py           ← báo cáo tiến độ dịch
+│
+├── 01-kinh-pham-vong/          ← Bài kinh số 1: Kinh Phạm Võng  ✅
+│   ├── Kinh-Pham-Vong.md       ← BẢN DỊCH HOÀN CHỈNH (đọc tệp này)
+│   ├── README.md
+│   ├── HUONG-DAN-DICH.md       ← quy chuẩn dịch
+│   ├── ban-dich/               ← bản dịch từng phần
+│   ├── nguon/                  ← Pali + Anh + chú thích, theo đoạn
+│   ├── ra-soat/                ← báo cáo rà soát độc lập
+│   ├── ghep.py                 ← ghép các phần thành bản hoàn chỉnh
+│   ├── kiem-tra-marker.py      ← kiểm tra đủ/đúng thứ tự đoạn
+│   └── tien-do.py              ← báo cáo tiến độ dịch
+│
+└── 02-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
 ```
 
 ---
@@ -84,7 +91,7 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 
 Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mục lục bấm được:
 
-**[`kinh-pham-vong/Kinh-Pham-Vong.md`](kinh-pham-vong/Kinh-Pham-Vong.md)**
+**[`01-kinh-pham-vong/Kinh-Pham-Vong.md`](01-kinh-pham-vong/Kinh-Pham-Vong.md)**
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
 

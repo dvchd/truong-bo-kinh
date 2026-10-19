@@ -49,7 +49,7 @@ Bản dịch này chọn cách thứ hai, theo hướng của Bhikkhu Bodhi (*Th
 ## Cấu trúc thư mục
 
 ```
-kinh-pham-vong/
+01-kinh-pham-vong/
 ├── Kinh-Pham-Vong.md      ← BẢN DỊCH HOÀN CHỈNH — đọc tệp này
 ├── README.md              ← tệp này
 ├── HUONG-DAN-DICH.md      ← quy chuẩn dịch (bắt buộc đọc nếu muốn dịch tiếp)
@@ -106,7 +106,7 @@ Bản dịch trong `ban-dich/` mang đúng các mã ấy dưới dạng `<!-- se
 ## Làm lại bản hoàn chỉnh
 
 ```bash
-cd kinh-pham-vong
+cd 01-kinh-pham-vong
 
 # 1. Kiểm tra một tệp có đủ đoạn không
 python3 kiem-tra-marker.py ban-dich/08-eternalism.md
