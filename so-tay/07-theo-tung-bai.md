@@ -73,10 +73,10 @@ nhưng phân bố không đều. Năm bài ít chú thích nhất, tính theo s�
 | Bài | Số chú thích | Từ | Chú thích / 1.000 từ |
 |---|---|---|---|
 | **10 — Subha** | 9 | 12.728 | 0,7 |
-| **34 — Thập Thượng** | 22 | 22.000 | 1,0 |
+| **34 — Thập Thượng** | 22 | 22.821 | 1,0 |
 | **12 — Lohicca** | 18 | 15.983 | 1,1 |
 | **25 — Udumbarika** | 20 | 14.072 | 1,4 |
-| **24 — Pāṭika** | 30 | 16.700 | 1,8 |
+| **24 — Pāṭika** | 30 | 16.946 | 1,8 |
 
 Nếu bạn đọc năm bài này, nên mở kèm [`04-cho-kho.md`](04-cho-kho.md) và [`03-thuat-ngu.md`](03-thuat-ngu.md)
 — vì bản thân bài không tự giải thích nhiều.
