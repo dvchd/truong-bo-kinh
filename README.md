@@ -15,7 +15,7 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 | **3** | **Kinh Ambaṭṭha** | *Ambaṭṭha Sutta* | ✅ **Hoàn thành** → [`03-kinh-ambattha/`](03-kinh-ambattha/) |
 | **4** | **Kinh Soṇadaṇḍa** | *Soṇadaṇḍa Sutta* | ✅ **Hoàn thành** → [`04-kinh-sonadanda/`](04-kinh-sonadanda/) |
 | **5** | **Kinh Kūṭadanta** | *Kūṭadanta Sutta* | ✅ **Hoàn thành** → [`05-kinh-kutadanta/`](05-kinh-kutadanta/) |
-| 6 | Kinh Mahāli | *Mahāli Sutta* | ⏳ Chưa bắt đầu |
+| **6** | **Kinh Mahāli** | *Mahāli Sutta* | ✅ **Hoàn thành** → [`06-kinh-mahali/`](06-kinh-mahali/) |
 | 7 | Kinh Jāliya | *Jāliya Sutta* | ⏳ Chưa bắt đầu |
 | 8 | Kinh Đại Sư Tử Hống | *Mahāsīhanāda Sutta* | ⏳ Chưa bắt đầu |
 | 9 | Kinh Poṭṭhapāda | *Poṭṭhapāda Sutta* | ⏳ Chưa bắt đầu |
@@ -134,12 +134,24 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 │   ├── ra-soat.py
 │   └── tien-do.py
 │
+├── 06-kinh-mahali/             ← Bài kinh số 6: Kinh Mahāli  ✅
+│   ├── Kinh-Mahali.md          ← BẢN DỊCH HOÀN CHỈNH (đọc tệp này)
+│   ├── README.md
+│   ├── GHI-CHU-BAI.md
+│   ├── ban-dich/
+│   ├── nguon/
+│   ├── ghep.py
+│   ├── tao-muc-luc.py
+│   ├── kiem-tra-marker.py
+│   ├── ra-soat.py
+│   └── tien-do.py
+│
 ├── HUONG-DAN-CHUNG.md          ← quy chuẩn dịch chung cho cả 34 bài
 │
 ├── cong-cu/
 │   └── tao-bai.py              ← dựng khung một bài mới (nguồn + script + thư mục)
 │
-└── 06-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
+└── 07-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
 ```
 
 ---
@@ -155,6 +167,7 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 | 3 | **Kinh Ambaṭṭha** | [`03-kinh-ambattha/Kinh-Ambattha.md`](03-kinh-ambattha/Kinh-Ambattha.md) | — |
 | 4 | **Kinh Soṇadaṇḍa** | [`04-kinh-sonadanda/Kinh-Sonadanda.md`](04-kinh-sonadanda/Kinh-Sonadanda.md) | 297 đoạn · 13.751 từ |
 | 5 | **Kinh Kūṭadanta** | [`05-kinh-kutadanta/Kinh-Kutadanta.md`](05-kinh-kutadanta/Kinh-Kutadanta.md) | 374 đoạn · 17.369 từ |
+| 6 | **Kinh Mahāli** | [`06-kinh-mahali/Kinh-Mahali.md`](06-kinh-mahali/Kinh-Mahali.md) | 156 đoạn · 9.706 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
 

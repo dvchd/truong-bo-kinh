@@ -61,7 +61,7 @@ nhất hoá thành một tên.
 |---|---|
 | sứ giả bà-la-môn → Nāgita | "thưa ngài Nāgita" |
 | Oṭṭhaddha → Nāgita | "thưa ngài Nāgita" |
-| sứ giả / Oṭṭhaddha → Đức Thế Tôn | "thưa Ngài" |
+| sứ giả / Oṭṭhaddha → Đức Thế Tôn | "bạch Thế Tôn" |
 | Đức Thế Tôn → Oṭṭhaddha | "này Mahāli"; đại từ **"ông"** |
 | Sīha → Nāgita | "thưa ngài" |
 | Sīha → Đức Thế Tôn | "bạch Thế Tôn" |

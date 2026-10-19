@@ -83,7 +83,7 @@
 | sứ giả bà-la-môn, Oṭṭhaddha → Nāgita | "thưa ngài Nāgita" |
 | Sīha → Nāgita | "thưa ngài" |
 | Sīha → Đức Thế Tôn | "bạch Thế Tôn" |
-| Oṭṭhaddha → Đức Thế Tôn | "thưa Ngài" |
+| Oṭṭhaddha → Đức Thế Tôn | "bạch Thế Tôn" |
 | Đức Thế Tôn → Oṭṭhaddha | "này Mahāli"; đại từ **"ông"** |
 | Muṇḍiya, Jāliya → Đức Thế Tôn | "thưa ngài Gotama"; tự gọi "chúng tôi" |
 | Đức Thế Tôn → Muṇḍiya, Jāliya | "này các ông"; đại từ **"các ông"** |
