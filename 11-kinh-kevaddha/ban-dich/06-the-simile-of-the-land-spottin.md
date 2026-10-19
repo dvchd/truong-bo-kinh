@@ -5,10 +5,10 @@
 Khi vị ấy nói như vậy, này Kevaddha, ta nói với vị tỳ-kheo ấy:
 
 <!-- seg: dn11:85.2 -->
-Thuở xưa, này tỳ-kheo, có những thương nhân đi biển đem theo một con chim dò đất, rồi cho thuyền ra khơi.
+Thuở xưa, này tỳ-kheo, có những thương nhân đi biển đem theo một con chim dò bờ, rồi cho thuyền ra khơi.
 
 <!-- seg: dn11:85.3 -->
-Khi con thuyền đã ra xa đến mức không còn thấy bờ, họ thả con chim dò đất ra.
+Khi con thuyền đã ra xa đến mức không còn thấy bờ, họ thả con chim dò bờ ra.
 
 <!-- seg: dn11:85.4 -->
 Nó bay về phía đông, phía nam, phía tây, phía bắc, phía trên, và các hướng xen giữa.
