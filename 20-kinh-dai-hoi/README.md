@@ -4,6 +4,8 @@
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Dai-Hoi.md`](Kinh-Dai-Hoi.md)**
 
+> **Đọc kèm:** [sổ tay người đọc](../so-tay/README.md) — bối cảnh, chỗ dễ vấp, thuật ngữ.
+
 ---
 
 ## Về bài kinh

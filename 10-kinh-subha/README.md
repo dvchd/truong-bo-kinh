@@ -4,6 +4,8 @@
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Subha.md`](Kinh-Subha.md)**
 
+> **Đọc kèm:** [sổ tay người đọc](../so-tay/README.md) — bối cảnh, chỗ dễ vấp, thuật ngữ.
+
 ---
 
 ## Về bài kinh
