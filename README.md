@@ -33,7 +33,7 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 | **21** | **Kinh Sakka hỏi** | *Sakkapañha Sutta* | ✅ **Hoàn thành** → [`21-kinh-sakkapanha/`](21-kinh-sakkapanha/) |
 | **22** | **Kinh Đại Niệm Xứ** | *Mahāsatipaṭṭhāna Sutta* | ✅ **Hoàn thành** → [`22-kinh-dai-niem-xu/`](22-kinh-dai-niem-xu/) |
 | **23** | **Kinh Pāyāsi** | *Pāyāsi Sutta* | ✅ **Hoàn thành** → [`23-kinh-payasi/`](23-kinh-payasi/) |
-| 24 | Kinh Pāṭika | *Pāṭika Sutta* | ⏳ Chưa bắt đầu |
+| **24** | **Kinh Pāṭika** | *Pāṭika Sutta* | ✅ **Hoàn thành** → [`24-kinh-patika/`](24-kinh-patika/) |
 | 25 | Kinh Udumbarikā | *Udumbarikā Sutta* | ⏳ Chưa bắt đầu |
 | 26 | Kinh Chuyển Luân Vương | *Cakkavatti Sutta* | ⏳ Chưa bắt đầu |
 | 27 | Kinh Khởi Thế Nhân Bổn | *Aggañña Sutta* | ⏳ Chưa bắt đầu |
@@ -267,12 +267,18 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 │   ├── ban-dich/
 │   └── nguon/
 │
+├── 24-kinh-patika/             ← Bài kinh số 24: Kinh Pāṭika  ✅
+│   ├── Kinh-Patika.md          ← BẢN DỊCH HOÀN CHỈNH (đọc tệp này)
+│   ├── README.md · GHI-CHU-BAI.md
+│   ├── ban-dich/
+│   └── nguon/
+│
 ├── HUONG-DAN-CHUNG.md          ← quy chuẩn dịch chung cho cả 34 bài
 │
 ├── cong-cu/
 │   └── tao-bai.py              ← dựng khung một bài mới (nguồn + script + thư mục)
 │
-└── 24-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
+└── 25-…34-…/                   ← các bài tiếp theo, cùng cấu trúc
 ```
 
 ---
@@ -306,6 +312,7 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 | 21 | **Kinh Sakka hỏi** | [`21-kinh-sakkapanha/Kinh-Sakkapanha.md`](21-kinh-sakkapanha/Kinh-Sakkapanha.md) | 515 đoạn · 14.368 từ |
 | 22 | **Kinh Đại Niệm Xứ** | [`22-kinh-dai-niem-xu/Kinh-Dai-Niem-Xu.md`](22-kinh-dai-niem-xu/Kinh-Dai-Niem-Xu.md) | 454 đoạn · 17.657 từ |
 | 23 | **Kinh Pāyāsi** | [`23-kinh-payasi/Kinh-Payasi.md`](23-kinh-payasi/Kinh-Payasi.md) | 715 đoạn · 19.918 từ |
+| 24 | **Kinh Pāṭika** | [`24-kinh-patika/Kinh-Patika.md`](24-kinh-patika/Kinh-Patika.md) | 581 đoạn · 16.535 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
 
