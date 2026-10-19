@@ -4,7 +4,7 @@
 
 <!-- seg: dn22:16.1 -->
 
-Hơn nữa, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi bảy giác chi.
+Lại nữa, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi bảy giác chi.
 
 [Chú thích: Bảy giác chi này (bojjhaṅgā, SN 46.5) thường được trình bày đối lập với năm triền cái (chẳng hạn SN 46.2, SN 46.23, SN 46.55).]
 
@@ -58,8 +58,8 @@ Hoặc niệm được an lập nơi vị ấy rằng: "Có các pháp", chỉ v
 
 <!-- seg: dn22:16.13 -->
 
-Đó là cách, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi bảy giác chi.
+Này các tỳ-kheo, vị tỳ-kheo cũng như vậy sống quán pháp trên pháp nơi bảy giác chi.
 
 <!-- seg: dn22:16.14 -->
 
-Phần các giác chi kết thúc.
+Phần các giác chi đã xong.

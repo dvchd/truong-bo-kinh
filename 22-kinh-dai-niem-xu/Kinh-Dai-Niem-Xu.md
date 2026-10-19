@@ -81,6 +81,7 @@ mà vì nó **dùng được**.
 | **1** | Quán thân (1.1 hơi thở · 1.2 tư thế · 1.3 tỉnh giác · 1.4 bất tịnh · 1.5 tứ đại · 1.6 nghĩa địa) | 61 |
 | **2** | Quán thọ | 16 |
 | **3** | Quán tâm | 38 |
+| **4.1** | Các triền cái | 6 |
 | **4.2** | Các uẩn | 14 |
 | **4.3** | Các xứ | 14 |
 | **4.4** | Các giác chi | 15 |
@@ -95,7 +96,7 @@ mà vì nó **dùng được**.
 | | |
 |---|---|
 | Đoạn văn (segment) | **454** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **16.987** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **17.648** |
 | Trang PTS | ii.290–315 |
 
 ---
@@ -737,11 +738,11 @@ Hoặc niệm được an lập nơi vị ấy rằng: "Có tâm", chỉ vừa �
 
 <!-- seg: dn22:12.21 -->
 
-Đó là cách, này các tỳ-kheo, vị tỳ-kheo sống quán tâm trên tâm.
+Này các tỳ-kheo, vị tỳ-kheo cũng như vậy sống quán tâm trên tâm.
 
 <!-- seg: dn22:12.22 -->
 
-Phần quán tâm kết thúc.
+Phần quán tâm đã xong.
 
 <!-- seg: dn22:13.0.1 -->
 
@@ -803,11 +804,11 @@ Hoặc niệm được an lập nơi vị ấy rằng: "Có các pháp", chỉ v
 
 <!-- seg: dn22:13.12 -->
 
-Đó là cách, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi năm triền cái.
+Này các tỳ-kheo, vị tỳ-kheo cũng như vậy sống quán pháp trên pháp nơi năm triền cái.
 
 <!-- seg: dn22:13.13 -->
 
-Phần các triền cái kết thúc.
+Phần các triền cái đã xong.
 
 ---
 
@@ -817,7 +818,7 @@ Phần các triền cái kết thúc.
 
 <!-- seg: dn22:14.1 -->
 
-Hơn nữa, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi năm thủ uẩn.
+Lại nữa, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi năm thủ uẩn.
 
 <!-- seg: dn22:14.2 -->
 
@@ -867,11 +868,11 @@ Hoặc niệm được an lập nơi vị ấy rằng: "Có các pháp", chỉ v
 
 <!-- seg: dn22:14.12 -->
 
-Đó là cách, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi năm thủ uẩn.
+Này các tỳ-kheo, vị tỳ-kheo cũng như vậy sống quán pháp trên pháp nơi năm thủ uẩn.
 
 <!-- seg: dn22:14.13 -->
 
-Phần các uẩn kết thúc.
+Phần các uẩn đã xong.
 
 ---
 
@@ -881,7 +882,7 @@ Phần các uẩn kết thúc.
 
 <!-- seg: dn22:15.1 -->
 
-Hơn nữa, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi sáu xứ bên trong và bên ngoài.
+Lại nữa, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi sáu xứ bên trong và bên ngoài.
 
 <!-- seg: dn22:15.2 -->
 
@@ -927,11 +928,11 @@ Hoặc niệm được an lập nơi vị ấy rằng: "Có các pháp", chỉ v
 
 <!-- seg: dn22:15.12 -->
 
-Đó là cách, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi sáu xứ bên trong và bên ngoài.
+Này các tỳ-kheo, vị tỳ-kheo cũng như vậy sống quán pháp trên pháp nơi sáu xứ bên trong và bên ngoài.
 
 <!-- seg: dn22:15.13 -->
 
-Phần các xứ kết thúc.
+Phần các xứ đã xong.
 
 ---
 
@@ -941,7 +942,7 @@ Phần các xứ kết thúc.
 
 <!-- seg: dn22:16.1 -->
 
-Hơn nữa, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi bảy giác chi.
+Lại nữa, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi bảy giác chi.
 
 [Chú thích: Bảy giác chi này (bojjhaṅgā, SN 46.5) thường được trình bày đối lập với năm triền cái (chẳng hạn SN 46.2, SN 46.23, SN 46.55).]
 
@@ -995,11 +996,11 @@ Hoặc niệm được an lập nơi vị ấy rằng: "Có các pháp", chỉ v
 
 <!-- seg: dn22:16.13 -->
 
-Đó là cách, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi bảy giác chi.
+Này các tỳ-kheo, vị tỳ-kheo cũng như vậy sống quán pháp trên pháp nơi bảy giác chi.
 
 <!-- seg: dn22:16.14 -->
 
-Phần các giác chi kết thúc.
+Phần các giác chi đã xong.
 
 ---
 

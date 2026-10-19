@@ -4,7 +4,7 @@
 
 <!-- seg: dn22:14.1 -->
 
-Hơn nữa, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi năm thủ uẩn.
+Lại nữa, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi năm thủ uẩn.
 
 <!-- seg: dn22:14.2 -->
 
@@ -54,8 +54,8 @@ Hoặc niệm được an lập nơi vị ấy rằng: "Có các pháp", chỉ v
 
 <!-- seg: dn22:14.12 -->
 
-Đó là cách, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi năm thủ uẩn.
+Này các tỳ-kheo, vị tỳ-kheo cũng như vậy sống quán pháp trên pháp nơi năm thủ uẩn.
 
 <!-- seg: dn22:14.13 -->
 
-Phần các uẩn kết thúc.
+Phần các uẩn đã xong.

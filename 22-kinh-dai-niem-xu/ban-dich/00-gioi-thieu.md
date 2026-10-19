@@ -81,6 +81,7 @@ mà vì nó **dùng được**.
 | **1** | Quán thân (1.1 hơi thở · 1.2 tư thế · 1.3 tỉnh giác · 1.4 bất tịnh · 1.5 tứ đại · 1.6 nghĩa địa) | 61 |
 | **2** | Quán thọ | 16 |
 | **3** | Quán tâm | 38 |
+| **4.1** | Các triền cái | 6 |
 | **4.2** | Các uẩn | 14 |
 | **4.3** | Các xứ | 14 |
 | **4.4** | Các giác chi | 15 |
@@ -95,5 +96,5 @@ mà vì nó **dùng được**.
 | | |
 |---|---|
 | Đoạn văn (segment) | **454** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **17.648** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **17.657** |
 | Trang PTS | ii.290–315 |

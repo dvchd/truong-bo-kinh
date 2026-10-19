@@ -4,7 +4,7 @@
 
 <!-- seg: dn22:15.1 -->
 
-Hơn nữa, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi sáu xứ bên trong và bên ngoài.
+Lại nữa, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi sáu xứ bên trong và bên ngoài.
 
 <!-- seg: dn22:15.2 -->
 
@@ -50,8 +50,8 @@ Hoặc niệm được an lập nơi vị ấy rằng: "Có các pháp", chỉ v
 
 <!-- seg: dn22:15.12 -->
 
-Đó là cách, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi sáu xứ bên trong và bên ngoài.
+Này các tỳ-kheo, vị tỳ-kheo cũng như vậy sống quán pháp trên pháp nơi sáu xứ bên trong và bên ngoài.
 
 <!-- seg: dn22:15.13 -->
 
-Phần các xứ kết thúc.
+Phần các xứ đã xong.

@@ -90,11 +90,11 @@ Hoặc niệm được an lập nơi vị ấy rằng: "Có tâm", chỉ vừa �
 
 <!-- seg: dn22:12.21 -->
 
-Đó là cách, này các tỳ-kheo, vị tỳ-kheo sống quán tâm trên tâm.
+Này các tỳ-kheo, vị tỳ-kheo cũng như vậy sống quán tâm trên tâm.
 
 <!-- seg: dn22:12.22 -->
 
-Phần quán tâm kết thúc.
+Phần quán tâm đã xong.
 
 <!-- seg: dn22:13.0.1 -->
 
@@ -156,8 +156,8 @@ Hoặc niệm được an lập nơi vị ấy rằng: "Có các pháp", chỉ v
 
 <!-- seg: dn22:13.12 -->
 
-Đó là cách, này các tỳ-kheo, vị tỳ-kheo sống quán pháp trên pháp nơi năm triền cái.
+Này các tỳ-kheo, vị tỳ-kheo cũng như vậy sống quán pháp trên pháp nơi năm triền cái.
 
 <!-- seg: dn22:13.13 -->
 
-Phần các triền cái kết thúc.
+Phần các triền cái đã xong.
