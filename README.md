@@ -333,7 +333,7 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 | 29 | **Kinh Đại Hỷ Kiến** | [`29-kinh-dai-hy-kien/Kinh-Dai-Hy-Kien.md`](29-kinh-dai-hy-kien/Kinh-Dai-Hy-Kien.md) | 465 đoạn · 16.255 từ |
 | 30 | **Kinh Ba Mươi Hai Tướng** | [`30-kinh-tuong-lakkhana/Kinh-Tuong-Lakkhana.md`](30-kinh-tuong-lakkhana/Kinh-Tuong-Lakkhana.md) | 721 đoạn · 20.696 từ |
 | 31 | **Kinh Giáo Thọ Thi-la-ca** | [`31-kinh-giao-tho/Kinh-Giao-Tho.md`](31-kinh-giao-tho/Kinh-Giao-Tho.md) | 267 đoạn · 7.062 từ |
-| 32 | **Kinh A-sát-nẵng-chi** | [`32-kinh-a-sat-nang/Kinh-A-Sat-Nang.md`](32-kinh-a-sat-nang/Kinh-A-Sat-Nang.md) | 574 đoạn · 11.409 từ |
+| 32 | **Kinh A-sát-nẵng-chi** | [`32-kinh-a-sat-nang/Kinh-A-Sat-Nang.md`](32-kinh-a-sat-nang/Kinh-A-Sat-Nang.md) | 574 đoạn · 10.829 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
 
