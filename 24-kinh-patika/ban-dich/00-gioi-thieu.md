@@ -90,5 +90,5 @@ cách dè dặt** — và nói rõ tại sao Ngài không dùng nó để chứn
 | | |
 |---|---|
 | Đoạn văn (segment) | **581** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **16.942** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **16.946** |
 | Trang PTS | iii.1–35 |

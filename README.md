@@ -2,7 +2,7 @@
 
 > ## ✅ ĐÃ HOÀN THÀNH TRỌN BỘ — 34/34 bài kinh
 >
-> **626.839 từ · 16.401 đoạn văn · 34 bài kinh · khớp 100% số đoạn với nguồn SuttaCentral**
+> **626.908 từ · 16.401 đoạn văn · 34 bài kinh · khớp 100% số đoạn với nguồn SuttaCentral**
 
 Bản dịch trọn bộ **Trường Bộ Kinh** (*Dīgha Nikāya*) — tập đầu của **Kinh Tạng** trong Tam Tạng Pali của Phật giáo Nguyên thủy, gồm **34 bài kinh dài**.
 
@@ -16,37 +16,37 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 |---|---|---|---|
 | **1** | **Kinh Phạm Võng** | *Brahmajāla Sutta* | ✅ **Hoàn thành** → [`01-kinh-pham-vong/`](01-kinh-pham-vong/) |
 | **2** | **Kinh Sa-môn Quả** | *Sāmaññaphala Sutta* | ✅ **Hoàn thành** → [`02-kinh-sa-mon-qua/`](02-kinh-sa-mon-qua/) |
-| **3** | **Kinh Ambaṭṭha** | *Ambaṭṭha Sutta* | ✅ **Hoàn thành** → [`03-kinh-ambattha/`](03-kinh-ambattha/) |
-| **4** | **Kinh Soṇadaṇḍa** | *Soṇadaṇḍa Sutta* | ✅ **Hoàn thành** → [`04-kinh-sonadanda/`](04-kinh-sonadanda/) |
-| **5** | **Kinh Kūṭadanta** | *Kūṭadanta Sutta* | ✅ **Hoàn thành** → [`05-kinh-kutadanta/`](05-kinh-kutadanta/) |
+| **3** | **Kinh Ambaṭṭha** (thường gọi: A-ma-trú) | *Ambaṭṭha Sutta* | ✅ **Hoàn thành** → [`03-kinh-ambattha/`](03-kinh-ambattha/) |
+| **4** | **Kinh Soṇadaṇḍa** (thường gọi: Chủng Đức) | *Soṇadaṇḍa Sutta* | ✅ **Hoàn thành** → [`04-kinh-sonadanda/`](04-kinh-sonadanda/) |
+| **5** | **Kinh Kūṭadanta** (thường gọi: Cứu-la-đàn-đầu) | *Kūṭadanta Sutta* | ✅ **Hoàn thành** → [`05-kinh-kutadanta/`](05-kinh-kutadanta/) |
 | **6** | **Kinh Mahāli** | *Mahāli Sutta* | ✅ **Hoàn thành** → [`06-kinh-mahali/`](06-kinh-mahali/) |
 | **7** | **Kinh Jāliya** | *Jāliya Sutta* | ✅ **Hoàn thành** → [`07-kinh-jaliya/`](07-kinh-jaliya/) |
-| **8** | **Kinh Đại Sư Tử Hống** | *Mahāsīhanāda Sutta* | ✅ **Hoàn thành** → [`08-kinh-dai-su-tu-hong/`](08-kinh-dai-su-tu-hong/) |
-| **9** | **Kinh Poṭṭhapāda** | *Poṭṭhapāda Sutta* | ✅ **Hoàn thành** → [`09-kinh-pottapada/`](09-kinh-pottapada/) |
-| **10** | **Kinh Subha** | *Subha Sutta* | ✅ **Hoàn thành** → [`10-kinh-subha/`](10-kinh-subha/) |
-| **11** | **Kinh Kevaddha** | *Kevaṭṭa Sutta* | ✅ **Hoàn thành** → [`11-kinh-kevaddha/`](11-kinh-kevaddha/) |
-| **12** | **Kinh Lohicca** | *Lohicca Sutta* | ✅ **Hoàn thành** → [`12-kinh-lohicca/`](12-kinh-lohicca/) |
-| **13** | **Kinh Ba Minh** | *Tevijja Sutta* | ✅ **Hoàn thành** → [`13-kinh-tam-minh/`](13-kinh-tam-minh/) |
+| **8** | **Kinh Đại Sư Tử Hống** (thường gọi: Ca-diếp Sư Tử Hống) | *Mahāsīhanāda Sutta* | ✅ **Hoàn thành** → [`08-kinh-dai-su-tu-hong/`](08-kinh-dai-su-tu-hong/) |
+| **9** | **Kinh Poṭṭhapāda** (thường gọi: Bố-sá-bà-lâu) | *Poṭṭhapāda Sutta* | ✅ **Hoàn thành** → [`09-kinh-pottapada/`](09-kinh-pottapada/) |
+| **10** | **Kinh Subha** (thường gọi: Tu-bà) | *Subha Sutta* | ✅ **Hoàn thành** → [`10-kinh-subha/`](10-kinh-subha/) |
+| **11** | **Kinh Kevaddha** (thường gọi: Kiên Cố) | *Kevaṭṭa Sutta* | ✅ **Hoàn thành** → [`11-kinh-kevaddha/`](11-kinh-kevaddha/) |
+| **12** | **Kinh Lohicca** (thường gọi: Lô-hi-gia) | *Lohicca Sutta* | ✅ **Hoàn thành** → [`12-kinh-lohicca/`](12-kinh-lohicca/) |
+| **13** | **Kinh Ba Minh** (thường gọi: Tam Minh) | *Tevijja Sutta* | ✅ **Hoàn thành** → [`13-kinh-tam-minh/`](13-kinh-tam-minh/) |
 | **14** | **Kinh Đại Bổn** | *Mahāpadāna Sutta* | ✅ **Hoàn thành** → [`14-kinh-dai-bon/`](14-kinh-dai-bon/) |
 | **15** | **Kinh Đại Duyên** | *Mahānidāna Sutta* | ✅ **Hoàn thành** → [`15-kinh-dai-duyen/`](15-kinh-dai-duyen/) |
 | **16** | **Kinh Đại Bát Niết-bàn** | *Mahāparinibbāna Sutta* | ✅ **Hoàn thành** → [`16-kinh-dai-bat-niet-ban/`](16-kinh-dai-bat-niet-ban/) |
 | **17** | **Kinh Đại Thiện Kiến Vương** | *Mahāsudassana Sutta* | ✅ **Hoàn thành** → [`17-kinh-dai-thien-kien/`](17-kinh-dai-thien-kien/) |
-| **18** | **Kinh Janavasabha** | *Janavasabha Sutta* | ✅ **Hoàn thành** → [`18-kinh-janavasabha/`](18-kinh-janavasabha/) |
+| **18** | **Kinh Janavasabha** (thường gọi: Xa-ni-sa) | *Janavasabha Sutta* | ✅ **Hoàn thành** → [`18-kinh-janavasabha/`](18-kinh-janavasabha/) |
 | **19** | **Kinh Đại Điển Tôn** | *Mahāgovinda Sutta* | ✅ **Hoàn thành** → [`19-kinh-dai-dien-ton/`](19-kinh-dai-dien-ton/) |
 | **20** | **Kinh Đại Hội** | *Mahāsamaya Sutta* | ✅ **Hoàn thành** → [`20-kinh-dai-hoi/`](20-kinh-dai-hoi/) |
-| **21** | **Kinh Sakka hỏi** | *Sakkapañha Sutta* | ✅ **Hoàn thành** → [`21-kinh-sakkapanha/`](21-kinh-sakkapanha/) |
+| **21** | **Kinh Sakka hỏi** (thường gọi: Đế-thích Sở Vấn) | *Sakkapañha Sutta* | ✅ **Hoàn thành** → [`21-kinh-sakkapanha/`](21-kinh-sakkapanha/) |
 | **22** | **Kinh Đại Niệm Xứ** | *Mahāsatipaṭṭhāna Sutta* | ✅ **Hoàn thành** → [`22-kinh-dai-niem-xu/`](22-kinh-dai-niem-xu/) |
-| **23** | **Kinh Pāyāsi** | *Pāyāsi Sutta* | ✅ **Hoàn thành** → [`23-kinh-payasi/`](23-kinh-payasi/) |
-| **24** | **Kinh Pāṭika** | *Pāṭika Sutta* | ✅ **Hoàn thành** → [`24-kinh-patika/`](24-kinh-patika/) |
-| **25** | **Kinh Udumbarika** | *Udumbarika Sutta* | ✅ **Hoàn thành** → [`25-kinh-udumbarika/`](25-kinh-udumbarika/) |
-| **26** | **Kinh Chuyển Luân Vương** | *Cakkavattisīhanāda Sutta* | ✅ **Hoàn thành** → [`26-kinh-chuyen-luan-vuong/`](26-kinh-chuyen-luan-vuong/) |
+| **23** | **Kinh Pāyāsi** (thường gọi: Tệ-túc) | *Pāyāsi Sutta* | ✅ **Hoàn thành** → [`23-kinh-payasi/`](23-kinh-payasi/) |
+| **24** | **Kinh Pāṭika** (thường gọi: Ba-lê) | *Pāṭika Sutta* | ✅ **Hoàn thành** → [`24-kinh-patika/`](24-kinh-patika/) |
+| **25** | **Kinh Udumbarika** (thường gọi: Ưu-đàm-bà-la) | *Udumbarika Sutta* | ✅ **Hoàn thành** → [`25-kinh-udumbarika/`](25-kinh-udumbarika/) |
+| **26** | **Kinh Chuyển Luân Vương** (thường gọi: Chuyển luân Thánh vương Sư tử hống) | *Cakkavattisīhanāda Sutta* | ✅ **Hoàn thành** → [`26-kinh-chuyen-luan-vuong/`](26-kinh-chuyen-luan-vuong/) |
 | **27** | **Kinh Khởi Thế Nhân Bổn** | *Aggañña Sutta* | ✅ **Hoàn thành** → [`27-kinh-khoi-the-nhan-bon/`](27-kinh-khoi-the-nhan-bon/) |
 | **28** | **Kinh Tự Hoan Hỷ** | *Sampasādanīya Sutta* | ✅ **Hoàn thành** → [`28-kinh-tu-hoan-hy/`](28-kinh-tu-hoan-hy/) |
-| **29** | **Kinh Đại Hỷ Kiến** | *Pāsādika Sutta* | ✅ **Hoàn thành** → [`29-kinh-dai-hy-kien/`](29-kinh-dai-hy-kien/) |
-| **30** | **Kinh Ba Mươi Hai Tướng** | *Lakkhaṇa Sutta* | ✅ **Hoàn thành** → [`30-kinh-tuong-lakkhana/`](30-kinh-tuong-lakkhana/) |
-| **31** | **Kinh Giáo Thọ Siṅgāla** | *Siṅgāla Sutta* | ✅ **Hoàn thành** → [`31-kinh-giao-tho/`](31-kinh-giao-tho/) |
-| **32** | **Kinh Āṭānāṭiya** | *Āṭānāṭiya Sutta* | ✅ **Hoàn thành** → [`32-kinh-a-sat-nang/`](32-kinh-a-sat-nang/) |
-| **33** | **Kinh Đại Chung** | *Saṅgīti Sutta* | ✅ **Hoàn thành** → [`33-kinh-dai-chung/`](33-kinh-dai-chung/) |
+| **29** | **Kinh Đại Hỷ Kiến** (thường gọi: Thanh Tịnh) | *Pāsādika Sutta* | ✅ **Hoàn thành** → [`29-kinh-dai-hy-kien/`](29-kinh-dai-hy-kien/) |
+| **30** | **Kinh Ba Mươi Hai Tướng** (thường gọi: Tướng) | *Lakkhaṇa Sutta* | ✅ **Hoàn thành** → [`30-kinh-tuong-lakkhana/`](30-kinh-tuong-lakkhana/) |
+| **31** | **Kinh Giáo Thọ Siṅgāla** (thường gọi: Giáo Thọ Thi-ca-la-việt) | *Siṅgāla Sutta* | ✅ **Hoàn thành** → [`31-kinh-giao-tho/`](31-kinh-giao-tho/) |
+| **32** | **Kinh Āṭānāṭiya** (thường gọi: A-sá-nang-chi) | *Āṭānāṭiya Sutta* | ✅ **Hoàn thành** → [`32-kinh-a-sat-nang/`](32-kinh-a-sat-nang/) |
+| **33** | **Kinh Đại Chung** (thường gọi: Phúng Tụng) | *Saṅgīti Sutta* | ✅ **Hoàn thành** → [`33-kinh-dai-chung/`](33-kinh-dai-chung/) |
 | **34** | **Kinh Thập Thượng** | *Dasuttara Sutta* | ✅ **Hoàn thành** → [`34-kinh-thap-thuong/`](34-kinh-thap-thuong/) |
 
 > **Quy ước thư mục:** mỗi bài nằm trong một thư mục `NN-ten-bai`, với `NN` là số thứ tự
@@ -310,37 +310,37 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 |---|---|---|---|
 | 1 | **Kinh Phạm Võng** | [`01-kinh-pham-vong/Kinh-Pham-Vong.md`](01-kinh-pham-vong/Kinh-Pham-Vong.md) | 662 đoạn · 40.570 từ |
 | 2 | **Kinh Sa-môn Quả** | [`02-kinh-sa-mon-qua/Kinh-Sa-Mon-Qua.md`](02-kinh-sa-mon-qua/Kinh-Sa-Mon-Qua.md) | 650 đoạn · 35.574 từ |
-| 3 | **Kinh Ambaṭṭha** | [`03-kinh-ambattha/Kinh-Ambattha.md`](03-kinh-ambattha/Kinh-Ambattha.md) | 437 đoạn · 21.748 từ |
-| 4 | **Kinh Soṇadaṇḍa** | [`04-kinh-sonadanda/Kinh-Sonadanda.md`](04-kinh-sonadanda/Kinh-Sonadanda.md) | 297 đoạn · 14.213 từ |
-| 5 | **Kinh Kūṭadanta** | [`05-kinh-kutadanta/Kinh-Kutadanta.md`](05-kinh-kutadanta/Kinh-Kutadanta.md) | 374 đoạn · 17.896 từ |
+| 3 | **Kinh Ambaṭṭha** (thường gọi: A-ma-trú) | [`03-kinh-ambattha/Kinh-Ambattha.md`](03-kinh-ambattha/Kinh-Ambattha.md) | 437 đoạn · 21.752 từ |
+| 4 | **Kinh Soṇadaṇḍa** (thường gọi: Chủng Đức) | [`04-kinh-sonadanda/Kinh-Sonadanda.md`](04-kinh-sonadanda/Kinh-Sonadanda.md) | 297 đoạn · 14.218 từ |
+| 5 | **Kinh Kūṭadanta** (thường gọi: Cứu-la-đàn-đầu) | [`05-kinh-kutadanta/Kinh-Kutadanta.md`](05-kinh-kutadanta/Kinh-Kutadanta.md) | 374 đoạn · 17.900 từ |
 | 6 | **Kinh Mahāli** | [`06-kinh-mahali/Kinh-Mahali.md`](06-kinh-mahali/Kinh-Mahali.md) | 156 đoạn · 10.150 từ |
 | 7 | **Kinh Jāliya** | [`07-kinh-jaliya/Kinh-Jaliya.md`](07-kinh-jaliya/Kinh-Jaliya.md) | 51 đoạn · 3.651 từ |
-| 8 | **Kinh Đại Sư Tử Hống** | [`08-kinh-dai-su-tu-hong/Kinh-Dai-Su-Tu-Hong.md`](08-kinh-dai-su-tu-hong/Kinh-Dai-Su-Tu-Hong.md) | 252 đoạn · 14.310 từ |
-| 9 | **Kinh Poṭṭhapāda** | [`09-kinh-pottapada/Kinh-Pottapada.md`](09-kinh-pottapada/Kinh-Pottapada.md) | 474 đoạn · 17.049 từ |
-| 10 | **Kinh Subha** | [`10-kinh-subha/Kinh-Subha.md`](10-kinh-subha/Kinh-Subha.md) | 285 đoạn · 12.724 từ |
-| 11 | **Kinh Kevaddha** | [`11-kinh-kevaddha/Kinh-Kevaddha.md`](11-kinh-kevaddha/Kinh-Kevaddha.md) | 199 đoạn · 18.080 từ |
-| 12 | **Kinh Lohicca** | [`12-kinh-lohicca/Kinh-Lohicca.md`](12-kinh-lohicca/Kinh-Lohicca.md) | 189 đoạn · 15.979 từ |
-| 13 | **Kinh Ba Minh** | [`13-kinh-tam-minh/Kinh-Tam-Minh.md`](13-kinh-tam-minh/Kinh-Tam-Minh.md) | 280 đoạn · 11.372 từ |
+| 8 | **Kinh Đại Sư Tử Hống** (thường gọi: Ca-diếp Sư Tử Hống) | [`08-kinh-dai-su-tu-hong/Kinh-Dai-Su-Tu-Hong.md`](08-kinh-dai-su-tu-hong/Kinh-Dai-Su-Tu-Hong.md) | 252 đoạn · 14.317 từ |
+| 9 | **Kinh Poṭṭhapāda** (thường gọi: Bố-sá-bà-lâu) | [`09-kinh-pottapada/Kinh-Pottapada.md`](09-kinh-pottapada/Kinh-Pottapada.md) | 474 đoạn · 17.053 từ |
+| 10 | **Kinh Subha** (thường gọi: Tu-bà) | [`10-kinh-subha/Kinh-Subha.md`](10-kinh-subha/Kinh-Subha.md) | 285 đoạn · 12.728 từ |
+| 11 | **Kinh Kevaddha** (thường gọi: Kiên Cố) | [`11-kinh-kevaddha/Kinh-Kevaddha.md`](11-kinh-kevaddha/Kinh-Kevaddha.md) | 199 đoạn · 18.085 từ |
+| 12 | **Kinh Lohicca** (thường gọi: Lô-hi-gia) | [`12-kinh-lohicca/Kinh-Lohicca.md`](12-kinh-lohicca/Kinh-Lohicca.md) | 189 đoạn · 15.983 từ |
+| 13 | **Kinh Ba Minh** (thường gọi: Tam Minh) | [`13-kinh-tam-minh/Kinh-Tam-Minh.md`](13-kinh-tam-minh/Kinh-Tam-Minh.md) | 280 đoạn · 11.377 từ |
 | 14 | **Kinh Đại Bổn** | [`14-kinh-dai-bon/Kinh-Dai-Bon.md`](14-kinh-dai-bon/Kinh-Dai-Bon.md) | 851 đoạn · 33.121 từ |
 | 15 | **Kinh Đại Duyên** | [`15-kinh-dai-duyen/Kinh-Dai-Duyen.md`](15-kinh-dai-duyen/Kinh-Dai-Duyen.md) | 277 đoạn · 13.816 từ |
 | 16 | **Kinh Đại Bát Niết-bàn** | [`16-kinh-dai-bat-niet-ban/Kinh-Dai-Bat-Niet-Ban.md`](16-kinh-dai-bat-niet-ban/Kinh-Dai-Bat-Niet-Ban.md) | 1.664 đoạn · 59.523 từ |
 | 17 | **Kinh Đại Thiện Kiến Vương** | [`17-kinh-dai-thien-kien/Kinh-Dai-Thien-Kien.md`](17-kinh-dai-thien-kien/Kinh-Dai-Thien-Kien.md) | 444 đoạn · 14.635 từ |
-| 18 | **Kinh Janavasabha** | [`18-kinh-janavasabha/Kinh-Janavasabha.md`](18-kinh-janavasabha/Kinh-Janavasabha.md) | 299 đoạn · 11.862 từ |
+| 18 | **Kinh Janavasabha** (thường gọi: Xa-ni-sa) | [`18-kinh-janavasabha/Kinh-Janavasabha.md`](18-kinh-janavasabha/Kinh-Janavasabha.md) | 299 đoạn · 11.866 từ |
 | 19 | **Kinh Đại Điển Tôn** | [`19-kinh-dai-dien-ton/Kinh-Dai-Dien-Ton.md`](19-kinh-dai-dien-ton/Kinh-Dai-Dien-Ton.md) | 559 đoạn · 16.313 từ |
 | 20 | **Kinh Đại Hội** | [`20-kinh-dai-hoi/Kinh-Dai-Hoi.md`](20-kinh-dai-hoi/Kinh-Dai-Hoi.md) | 337 đoạn · 8.899 từ |
-| 21 | **Kinh Sakka hỏi** | [`21-kinh-sakkapanha/Kinh-Sakkapanha.md`](21-kinh-sakkapanha/Kinh-Sakkapanha.md) | 515 đoạn · 14.712 từ |
+| 21 | **Kinh Sakka hỏi** (thường gọi: Đế-thích Sở Vấn) | [`21-kinh-sakkapanha/Kinh-Sakkapanha.md`](21-kinh-sakkapanha/Kinh-Sakkapanha.md) | 515 đoạn · 14.718 từ |
 | 22 | **Kinh Đại Niệm Xứ** | [`22-kinh-dai-niem-xu/Kinh-Dai-Niem-Xu.md`](22-kinh-dai-niem-xu/Kinh-Dai-Niem-Xu.md) | 454 đoạn · 18.390 từ |
-| 23 | **Kinh Pāyāsi** | [`23-kinh-payasi/Kinh-Payasi.md`](23-kinh-payasi/Kinh-Payasi.md) | 715 đoạn · 20.290 từ |
-| 24 | **Kinh Pāṭika** | [`24-kinh-patika/Kinh-Patika.md`](24-kinh-patika/Kinh-Patika.md) | 581 đoạn · 16.942 từ |
-| 25 | **Kinh Udumbarika** | [`25-kinh-udumbarika/Kinh-Udumbarika.md`](25-kinh-udumbarika/Kinh-Udumbarika.md) | 383 đoạn · 14.077 từ |
-| 26 | **Kinh Chuyển Luân Vương** | [`26-kinh-chuyen-luan-vuong/Kinh-Chuyen-Luan-Vuong.md`](26-kinh-chuyen-luan-vuong/Kinh-Chuyen-Luan-Vuong.md) | 355 đoạn · 13.794 từ |
+| 23 | **Kinh Pāyāsi** (thường gọi: Tệ-túc) | [`23-kinh-payasi/Kinh-Payasi.md`](23-kinh-payasi/Kinh-Payasi.md) | 715 đoạn · 20.294 từ |
+| 24 | **Kinh Pāṭika** (thường gọi: Ba-lê) | [`24-kinh-patika/Kinh-Patika.md`](24-kinh-patika/Kinh-Patika.md) | 581 đoạn · 16.946 từ |
+| 25 | **Kinh Udumbarika** (thường gọi: Ưu-đàm-bà-la) | [`25-kinh-udumbarika/Kinh-Udumbarika.md`](25-kinh-udumbarika/Kinh-Udumbarika.md) | 383 đoạn · 14.072 từ |
+| 26 | **Kinh Chuyển Luân Vương** (thường gọi: Chuyển luân Thánh vương Sư tử hống) | [`26-kinh-chuyen-luan-vuong/Kinh-Chuyen-Luan-Vuong.md`](26-kinh-chuyen-luan-vuong/Kinh-Chuyen-Luan-Vuong.md) | 355 đoạn · 13.804 từ |
 | 27 | **Kinh Khởi Thế Nhân Bổn** | [`27-kinh-khoi-the-nhan-bon/Kinh-Khoi-The-Nhan-Bon.md`](27-kinh-khoi-the-nhan-bon/Kinh-Khoi-The-Nhan-Bon.md) | 323 đoạn · 13.570 từ |
 | 28 | **Kinh Tự Hoan Hỷ** | [`28-kinh-tu-hoan-hy/Kinh-Tu-Hoan-Hy.md`](28-kinh-tu-hoan-hy/Kinh-Tu-Hoan-Hy.md) | 250 đoạn · 10.332 từ |
-| 29 | **Kinh Đại Hỷ Kiến** | [`29-kinh-dai-hy-kien/Kinh-Dai-Hy-Kien.md`](29-kinh-dai-hy-kien/Kinh-Dai-Hy-Kien.md) | 465 đoạn · 16.830 từ |
-| 30 | **Kinh Ba Mươi Hai Tướng** | [`30-kinh-tuong-lakkhana/Kinh-Tuong-Lakkhana.md`](30-kinh-tuong-lakkhana/Kinh-Tuong-Lakkhana.md) | 721 đoạn · 21.117 từ |
-| 31 | **Kinh Giáo Thọ Siṅgāla** | [`31-kinh-giao-tho/Kinh-Giao-Tho.md`](31-kinh-giao-tho/Kinh-Giao-Tho.md) | 267 đoạn · 7.082 từ |
-| 32 | **Kinh Āṭānāṭiya** | [`32-kinh-a-sat-nang/Kinh-A-Sat-Nang.md`](32-kinh-a-sat-nang/Kinh-A-Sat-Nang.md) | 574 đoạn · 11.045 từ |
-| 33 | **Kinh Đại Chung** | [`33-kinh-dai-chung/Kinh-Dai-Chung.md`](33-kinh-dai-chung/Kinh-Dai-Chung.md) | 1.167 đoạn · 34.352 từ |
+| 29 | **Kinh Đại Hỷ Kiến** (thường gọi: Thanh Tịnh) | [`29-kinh-dai-hy-kien/Kinh-Dai-Hy-Kien.md`](29-kinh-dai-hy-kien/Kinh-Dai-Hy-Kien.md) | 465 đoạn · 16.835 từ |
+| 30 | **Kinh Ba Mươi Hai Tướng** (thường gọi: Tướng) | [`30-kinh-tuong-lakkhana/Kinh-Tuong-Lakkhana.md`](30-kinh-tuong-lakkhana/Kinh-Tuong-Lakkhana.md) | 721 đoạn · 21.121 từ |
+| 31 | **Kinh Giáo Thọ Siṅgāla** (thường gọi: Giáo Thọ Thi-ca-la-việt) | [`31-kinh-giao-tho/Kinh-Giao-Tho.md`](31-kinh-giao-tho/Kinh-Giao-Tho.md) | 267 đoạn · 7.077 từ |
+| 32 | **Kinh Āṭānāṭiya** (thường gọi: A-sá-nang-chi) | [`32-kinh-a-sat-nang/Kinh-A-Sat-Nang.md`](32-kinh-a-sat-nang/Kinh-A-Sat-Nang.md) | 574 đoạn · 11.040 từ |
+| 33 | **Kinh Đại Chung** (thường gọi: Phúng Tụng) | [`33-kinh-dai-chung/Kinh-Dai-Chung.md`](33-kinh-dai-chung/Kinh-Dai-Chung.md) | 1.167 đoạn · 34.357 từ |
 | 34 | **Kinh Thập Thượng** | [`34-kinh-thap-thuong/Kinh-Thap-Thuong.md`](34-kinh-thap-thuong/Kinh-Thap-Thuong.md) | 894 đoạn · 22.821 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
@@ -365,7 +365,38 @@ Mỗi bài hiện **hai tên**: tiêu đề tiếng Việt, và ngay dưới là
 *Pāyāsi Sutta* — bài kinh với thủ lĩnh Pāyāsi
 ```
 
-Cách đặt tên: **dịch nghĩa** khi tên Pali có nghĩa (Brahmajāla → Phạm Võng, Dasuttara → Thập Thượng); **giữ nguyên Pali** khi là tên riêng (Ambaṭṭha, Pāyāsi, Lohicca, Udumbarika, Siṅgāla, Āṭānāṭiya). Không dùng âm Hán-Việt làm tên chính; ba bài có tên Hán-Việt quen được ghi chú thêm một dòng "Tên quen dùng trong kinh điển Việt": **Ưu-đàm-bà-la** (25), **Giáo Thọ Thi-la-ca** (31), **A-sát-nẵng-chi** (32). Bảng đối chiếu đủ 34 tên ở [`HUONG-DAN-CHUNG.md`](HUONG-DAN-CHUNG.md) §9.
+Cách đặt tên: **dịch nghĩa** khi tên Pali có nghĩa (Brahmajāla → Phạm Võng, Dasuttara → Thập Thượng); **giữ nguyên Pali** khi là tên riêng (Ambaṭṭha, Pāyāsi, Lohicca, Udumbarika, Siṅgāla, Āṭānāṭiya). Không dùng âm Hán-Việt làm tên chính.
+
+### Tên quen gọi: vẫn tra được theo tên cũ
+
+Nhiều bài có tên khác quen thuộc với người Việt — thường là tên Hán-Việt trong bản dịch của Hòa thượng Thích Minh Châu. Những tên đó **không bị bỏ đi**: chúng hiện ngay sau tên chính, trong bảng ở README này, ở README từng bài, và ở đầu mỗi bản dịch.
+
+**20 bài có tên quen gọi:**
+
+| # | Tên trong bản dịch | Quen gọi |
+|---|---|---|
+| 3 | Kinh Ambaṭṭha | A-ma-trú |
+| 4 | Kinh Soṇadaṇḍa | Chủng Đức |
+| 5 | Kinh Kūṭadanta | Cứu-la-đàn-đầu |
+| 8 | Kinh Đại Sư Tử Hống | Ca-diếp Sư Tử Hống |
+| 9 | Kinh Poṭṭhapāda | Bố-sá-bà-lâu |
+| 10 | Kinh Subha | Tu-bà |
+| 11 | Kinh Kevaddha | Kiên Cố |
+| 12 | Kinh Lohicca | Lô-hi-gia |
+| 13 | Kinh Ba Minh | Tam Minh |
+| 18 | Kinh Janavasabha | Xa-ni-sa |
+| 21 | Kinh Sakka hỏi | Đế-thích Sở Vấn |
+| 23 | Kinh Pāyāsi | Tệ-túc |
+| 24 | Kinh Pāṭika | Ba-lê |
+| 25 | Kinh Udumbarika | Ưu-đàm-bà-la |
+| 26 | Kinh Chuyển Luân Vương | Chuyển luân Thánh vương Sư tử hống |
+| 29 | Kinh Đại Hỷ Kiến | Thanh Tịnh |
+| 30 | Kinh Ba Mươi Hai Tướng | Tướng |
+| 31 | Kinh Giáo Thọ Siṅgāla | Giáo Thọ Thi-ca-la-việt |
+| 32 | Kinh Āṭānāṭiya | A-sá-nang-chi |
+| 33 | Kinh Đại Chung | Phúng Tụng |
+
+Bảng đối chiếu đủ 34 tên (kèm nghĩa) ở [`HUONG-DAN-CHUNG.md`](HUONG-DAN-CHUNG.md) §9.
 
 ---
 

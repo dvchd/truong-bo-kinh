@@ -97,5 +97,5 @@ về thiền định.
 | | |
 |---|---|
 | Đoạn văn (segment) | **355** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.794** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.804** |
 | Trang PTS | iii.58–79 |

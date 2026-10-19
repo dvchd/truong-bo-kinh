@@ -1,6 +1,6 @@
 # Kinh Ba Mươi Hai Tướng — *Lakkhaṇa Sutta*
 
-> Bài kinh số 30 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 30 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh Tướng.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Tuong-Lakkhana.md`](Kinh-Tuong-Lakkhana.md)**
 
@@ -66,7 +66,7 @@ vị ấy đã làm** khi còn là người.
 | | |
 |---|---|
 | Đoạn văn (segment) | **721** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **21.117** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **21.121** |
 | Trang PTS | iii.142–179 |
 
 ---

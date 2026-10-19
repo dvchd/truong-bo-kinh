@@ -1,6 +1,6 @@
 # Kinh Janavasabha — *Janavasabha Sutta*
 
-> Bài kinh số 18 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 18 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh Xa-ni-sa.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Janavasabha.md`](Kinh-Janavasabha.md)**
 
@@ -81,7 +81,7 @@ Bài kinh không biện luận gì về chuyện ấy. Nó chỉ kể — bình 
 | | |
 |---|---|
 | Đoạn văn (segment) | **299** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.862** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.866** |
 | Trang PTS | ii.200–215 |
 
 ---

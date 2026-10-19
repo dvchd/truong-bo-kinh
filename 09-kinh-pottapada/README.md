@@ -1,6 +1,6 @@
 # Kinh Poṭṭhapāda — *Poṭṭhapāda Sutta*
 
-> Bài kinh số 9 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 9 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh Bố-sá-bà-lâu.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Pottapada.md`](Kinh-Pottapada.md)**
 
@@ -75,7 +75,7 @@ kinh nghiệm của người đã chứng được loại thân ấy.
 | | |
 |---|---|
 | Đoạn văn (segment) | **474** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **17.049** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **17.053** |
 | Chú thích trong thân bản dịch | **69** (+2 chú thích của người dịch) |
 | Liên kết mục lục | **12** |
 | Tệp bản dịch từng phần | 9 nội dung + lời giới thiệu + thuật ngữ + nguồn |

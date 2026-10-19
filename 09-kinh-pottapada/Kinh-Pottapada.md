@@ -158,7 +158,7 @@ theo hai cách khác nhau — phá bằng kinh nghiệm, và phá bằng lập l
 ## Trường Bộ Kinh — bài kinh số 9: Kinh Poṭṭhapāda
 
 <!-- seg: dn9:0.2 -->
-*Poṭṭhapāda Sutta* — bài kinh với du sĩ Poṭṭhapāda
+*Poṭṭhapāda Sutta* — bài kinh với du sĩ Poṭṭhapāda; quen gọi: **Kinh Bố-sá-bà-lâu**
 
 ---
 

@@ -1,6 +1,6 @@
 # Kinh Ba Minh — *Tevijja Sutta*
 
-> Bài kinh số 13 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 13 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh Tam Minh.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Tam-Minh.md`](Kinh-Tam-Minh.md)**
 
@@ -80,7 +80,7 @@ thúc **phẩm Giới uẩn** (*Sīlakkhandha*).
 | | |
 |---|---|
 | Đoạn văn (segment) | **280** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.372** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.377** |
 | Trang PTS | i.235–252 |
 
 ---

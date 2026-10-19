@@ -1,6 +1,6 @@
 # Kinh Đại Sư Tử Hống — *Mahāsīhanāda Sutta*
 
-> Bài kinh số 8 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 8 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh Ca-diếp Sư Tử Hống.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Dai-Su-Tu-Hong.md`](Kinh-Dai-Su-Tu-Hong.md)**
 
@@ -81,7 +81,7 @@ tiết hành chính nữa. Nó là cùng một bài học, lần thứ hai.
 | | |
 |---|---|
 | Đoạn văn (segment) | **252** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.310** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.317** |
 | Chú thích trong thân bản dịch | **39** |
 | Liên kết mục lục | **12** |
 | Tệp bản dịch từng phần | 9 nội dung + lời giới thiệu + thuật ngữ + nguồn |

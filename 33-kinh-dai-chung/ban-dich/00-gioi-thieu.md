@@ -75,5 +75,5 @@ Và nó cho thấy một điều: **giáo lý Phật giáo không phải một m
 | | |
 |---|---|
 | Đoạn văn (segment) | **1.167** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **34.352** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **34.357** |
 | Trang PTS | iii.207–271 |

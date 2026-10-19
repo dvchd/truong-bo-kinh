@@ -1,6 +1,6 @@
 # Kinh Āṭānāṭiya — *Āṭānāṭiya Sutta*
 
-> Bài kinh số 32 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 32 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh A-sá-nang-chi.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-A-Sat-Nang.md`](Kinh-A-Sat-Nang.md)**
 
@@ -72,7 +72,7 @@ nghĩa nội dung.
 | | |
 |---|---|
 | Đoạn văn (segment) | **574** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.045** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **11.040** |
 | Trang PTS | iii.194–206 |
 
 ---

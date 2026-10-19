@@ -236,10 +236,16 @@ Lý do: dịch tên riêng sẽ làm mất dấu vết tra cứu (không ai tìm
 *Bố-sá-bà-lâu*, *Tệ-túc*, *Phúng Tụng* là tên trong bản dịch của Hòa thượng Thích Minh Châu — đúng với
 truyền thống kinh điển Việt Nam, nhưng chính là kiểu chữ khó đọc mà bộ dịch này muốn tránh.
 
-**Ngoại lệ có ghi chú:** khi một tên Hán-Việt đã quá quen với người Việt (nhất là các bài được tụng
-đọc), ghi thêm một dòng "Tên quen dùng trong kinh điển Việt" ngay dưới tên chính — **không** dùng nó
-làm tiêu đề. Hiện có ba trường hợp: **Kinh Ưu-đàm-bà-la** (bài 25), **Kinh Giáo Thọ Thi-la-ca** (bài
-31), **Kinh A-sát-nẵng-chi** (bài 32).
+**Tên quen gọi — luôn ghi kèm, không bao giờ làm tiêu đề.** Với những bài mà người Việt quen gọi bằng
+tên khác (thường là tên Hán-Việt trong bản dịch của Hòa thượng Thích Minh Châu), ghi thêm **"quen gọi:
+Kinh …"** ngay sau tên chính — ở tệp tiêu đề, ở README từng bài, và ở bảng trong README gốc. Nhờ vậy
+người quen tên cũ vẫn tìm ra bài, mà toàn bộ vẫn giữ một hệ tên thống nhất.
+
+Có **20 bài** thuộc diện này: 3 (A-ma-trú) · 4 (Chủng Đức) · 5 (Cứu-la-đàn-đầu) · 8 (Ca-diếp Sư Tử
+Hống) · 9 (Bố-sá-bà-lâu) · 10 (Tu-bà) · 11 (Kiên Cố) · 12 (Lô-hi-gia) · 13 (Tam Minh) · 18 (Xa-ni-sa)
+· 21 (Đế-thích Sở Vấn) · 23 (Tệ-túc) · 24 (Ba-lê) · 25 (Ưu-đàm-bà-la) · 26 (Chuyển luân Thánh vương
+Sư tử hống) · 29 (Thanh Tịnh) · 30 (Tướng) · 31 (Giáo Thọ Thi-ca-la-việt) · 32 (A-sá-nang-chi) · 33
+(Phúng Tụng).
 
 ### 9.3. Quy tắc trình bày: luôn có cả hai tên
 
@@ -261,35 +267,35 @@ tiếng Anh vẫn có tên gốc để tra. **Không bao giờ để tiêu đề
 |---|---|---|---|
 | 1 | Kinh Phạm Võng | Brahmajāla | tấm lưới của Phạm thiên |
 | 2 | Kinh Sa-môn Quả | Sāmaññaphala | quả của đời sống sa-môn |
-| 3 | Kinh Ambaṭṭha | Ambaṭṭha | tên thanh niên bà-la-môn |
-| 4 | Kinh Soṇadaṇḍa | Soṇadaṇḍa | tên bà-la-môn ở Campā |
-| 5 | Kinh Kūṭadanta | Kūṭadanta | tên bà-la-môn, nghĩa đen "răng nhọn" |
+| 3 | Kinh Ambaṭṭha | Ambaṭṭha | tên thanh niên bà-la-môn; quen gọi: **A-ma-trú** |
+| 4 | Kinh Soṇadaṇḍa | Soṇadaṇḍa | tên bà-la-môn ở Campā; quen gọi: **Chủng Đức** |
+| 5 | Kinh Kūṭadanta | Kūṭadanta | tên bà-la-môn, nghĩa đen "răng nhọn"; quen gọi: **Cứu-la-đàn-đầu** |
 | 6 | Kinh Mahāli | Mahāli | tên thủ lĩnh Licchavi |
 | 7 | Kinh Jāliya | Jāliya | tên du sĩ |
-| 8 | Kinh Đại Sư Tử Hống | Mahāsīhanāda | tiếng rống sư tử lớn |
-| 9 | Kinh Poṭṭhapāda | Poṭṭhapāda | tên du sĩ |
-| 10 | Kinh Subha | Subha | tên thanh niên bà-la-môn |
-| 11 | Kinh Kevaddha | Kevaḍḍha | tên tỳ-kheo |
-| 12 | Kinh Lohicca | Lohicca | tên bà-la-môn |
-| 13 | Kinh Ba Minh | Tevijja | ba minh — ba Vệ-đà |
+| 8 | Kinh Đại Sư Tử Hống | Mahāsīhanāda | tiếng rống sư tử lớn; quen gọi: **Ca-diếp Sư Tử Hống** |
+| 9 | Kinh Poṭṭhapāda | Poṭṭhapāda | tên du sĩ; quen gọi: **Bố-sá-bà-lâu** |
+| 10 | Kinh Subha | Subha | tên thanh niên bà-la-môn; quen gọi: **Tu-bà** |
+| 11 | Kinh Kevaddha | Kevaḍḍha | tên tỳ-kheo; quen gọi: **Kiên Cố** |
+| 12 | Kinh Lohicca | Lohicca | tên bà-la-môn; quen gọi: **Lô-hi-gia** |
+| 13 | Kinh Ba Minh | Tevijja | ba minh — ba Vệ-đà; quen gọi: **Tam Minh** |
 | 14 | Kinh Đại Bổn | Mahāpadāna | đại bổn — nguồn gốc lớn |
 | 15 | Kinh Đại Duyên | Mahānidāna | đại duyên — nhân duyên lớn |
 | 16 | Kinh Đại Bát Niết-bàn | Mahāparinibbāna | đại bát niết-bàn |
 | 17 | Kinh Đại Thiện Kiến Vương | Mahāsudassana | bài kinh về vua Sudassana |
-| 18 | Kinh Janavasabha | Janavasabha | tên Dạ-xoa |
+| 18 | Kinh Janavasabha | Janavasabha | tên Dạ-xoa; quen gọi: **Xa-ni-sa** |
 | 19 | Kinh Đại Điển Tôn | Mahāgovinda | bài kinh về bà-la-môn Govinda |
 | 20 | Kinh Đại Hội | Mahāsamaya | đại hội — cuộc tụ họp lớn |
-| 21 | Kinh Sakka hỏi | Sakkapañha | câu hỏi của Sakka (Đế Thích) |
+| 21 | Kinh Sakka hỏi | Sakkapañha | câu hỏi của Sakka (Đế Thích); quen gọi: **Đế-thích Sở Vấn** |
 | 22 | Kinh Đại Niệm Xứ | Mahāsatipaṭṭhāna | đại niệm xứ |
-| 23 | Kinh Pāyāsi | Pāyāsi | tên thủ lĩnh |
-| 24 | Kinh Pāṭika | Pāṭika | tên du sĩ Pāṭikaputta |
-| 25 | Kinh Udumbarika | Udumbarika | bài kinh với du sĩ ở vườn cây udumbara (sung); quen gọi: Kinh Ưu-đàm-bà-la |
-| 26 | Kinh Chuyển Luân Vương | Cakkavattisīhanāda | tiếng rống sư tử về vua chuyển luân |
+| 23 | Kinh Pāyāsi | Pāyāsi | tên thủ lĩnh; quen gọi: **Tệ-túc** |
+| 24 | Kinh Pāṭika | Pāṭika | tên du sĩ Pāṭikaputta; quen gọi: **Ba-lê** |
+| 25 | Kinh Udumbarika | Udumbarika | bài kinh với du sĩ ở vườn cây udumbara (sung); quen gọi: **Ưu-đàm-bà-la** |
+| 26 | Kinh Chuyển Luân Vương | Cakkavattisīhanāda | tiếng rống sư tử về vua chuyển luân; quen gọi: **Chuyển luân Thánh vương Sư tử hống** |
 | 27 | Kinh Khởi Thế Nhân Bổn | Aggañña | nguồn gốc tối thượng |
 | 28 | Kinh Tự Hoan Hỷ | Sampasādanīya | đưa đến tịnh tín |
-| 29 | Kinh Đại Hỷ Kiến | Pāsādika | khả ý — đưa đến tịnh tín |
-| 30 | Kinh Ba Mươi Hai Tướng | Lakkhaṇa | tướng của bậc đại nhân |
-| 31 | Kinh Giáo Thọ Siṅgāla | Siṅgāla | bài giáo thọ cho thanh niên Siṅgāla; quen gọi: Kinh Giáo Thọ Thi-la-ca |
-| 32 | Kinh Āṭānāṭiya | Āṭānāṭiya | bài hộ trì; quen gọi: Kinh A-sát-nẵng-chi |
-| 33 | Kinh Đại Chung | Saṅgīti | tụng đọc chung |
+| 29 | Kinh Đại Hỷ Kiến | Pāsādika | khả ý — đưa đến tịnh tín; quen gọi: **Thanh Tịnh** |
+| 30 | Kinh Ba Mươi Hai Tướng | Lakkhaṇa | tướng của bậc đại nhân; quen gọi: **Tướng** |
+| 31 | Kinh Giáo Thọ Siṅgāla | Siṅgāla | bài giáo thọ cho thanh niên Siṅgāla; quen gọi: **Giáo Thọ Thi-ca-la-việt** |
+| 32 | Kinh Āṭānāṭiya | Āṭānāṭiya | bài hộ trì; quen gọi: **A-sá-nang-chi** |
+| 33 | Kinh Đại Chung | Saṅgīti | tụng đọc chung; quen gọi: **Phúng Tụng** |
 | 34 | Kinh Thập Thượng | Dasuttara | thập thượng — đi lên mười lần |

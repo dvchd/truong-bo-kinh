@@ -149,7 +149,7 @@ dùng uy quyền; Ngài dùng một khuôn câu có thể kiểm chứng, và đ
 ## Trường Bộ Kinh — bài kinh số 4: Kinh Đại Sư Tử Hống
 
 <!-- seg: dn8:0.2 -->
-*Mahāsīhanāda Sutta* — tiếng rống sư tử lớn
+*Mahāsīhanāda Sutta* — tiếng rống sư tử lớn; quen gọi: **Kinh Ca-diếp Sư Tử Hống**
 
 ---
 

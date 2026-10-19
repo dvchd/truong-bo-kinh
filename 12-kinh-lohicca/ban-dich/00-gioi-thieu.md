@@ -93,5 +93,5 @@ trong.
 | | |
 |---|---|
 | Đoạn văn (segment) | **189** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **15.979** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **15.983** |
 | Trang PTS | i.224–234 |

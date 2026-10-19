@@ -140,7 +140,7 @@ tức mười ba bài đầu của bộ kinh.
 ## Trường Bộ Kinh — bài kinh số 13: Kinh Ba Minh
 
 <!-- seg: dn13:0.2 -->
-*Tevijja Sutta* — ba minh — ba Vệ-đà
+*Tevijja Sutta* — ba minh — ba Vệ-đà; quen gọi: **Kinh Tam Minh**
 
 ---
 

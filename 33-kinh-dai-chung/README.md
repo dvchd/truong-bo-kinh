@@ -1,6 +1,6 @@
 # Kinh Đại Chung — *Saṅgīti Sutta*
 
-> Bài kinh số 33 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 33 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh Phúng Tụng.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Dai-Chung.md`](Kinh-Dai-Chung.md)**
 
@@ -85,7 +85,7 @@ Và nó cho thấy một điều: **giáo lý Phật giáo không phải một m
 | | |
 |---|---|
 | Đoạn văn (segment) | **1.167** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **34.352** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **34.357** |
 | Trang PTS | iii.207–271 |
 
 ---

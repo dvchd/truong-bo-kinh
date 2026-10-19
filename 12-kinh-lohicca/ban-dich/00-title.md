@@ -2,4 +2,4 @@
 ## Trường Bộ Kinh — bài kinh số 12: Kinh Lohicca
 
 <!-- seg: dn12:0.2 -->
-*Lohicca Sutta* — bài kinh với bà-la-môn Lohicca
+*Lohicca Sutta* — bài kinh với bà-la-môn Lohicca; quen gọi: **Kinh Lô-hi-gia**

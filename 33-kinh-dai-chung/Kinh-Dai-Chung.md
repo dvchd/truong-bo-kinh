@@ -106,7 +106,7 @@ Và nó cho thấy một điều: **giáo lý Phật giáo không phải một m
 ## Trường Bộ Kinh — bài kinh số 33: Kinh Đại Chung
 
 <!-- seg: dn33:0.2 -->
-*Saṅgīti Sutta* — tụng đọc chung
+*Saṅgīti Sutta* — tụng đọc chung; quen gọi: **Kinh Phúng Tụng**
 
 ---
 

@@ -1,6 +1,6 @@
 # Kinh Ambaṭṭha — *Ambaṭṭha Sutta*
 
-> Bài kinh số 3 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 3 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh A-ma-trú.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Ambattha.md`](Kinh-Ambattha.md)**
 
@@ -45,7 +45,7 @@ Bà-la-môn thời ấy tin rằng sinh ra trong giai cấp nào thì phẩm gi�
 | | |
 |---|---|
 | Đoạn văn (segment) | **437** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **21.748** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **21.752** |
 | Chú thích `[Chú thích: …]` | **93** |
 | Liên kết mục lục | **18** — đã kiểm tra, không có liên kết hỏng |
 | Tệp bản dịch từng phần | 14 nội dung + lời giới thiệu + thuật ngữ + nguồn |

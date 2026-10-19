@@ -88,5 +88,5 @@ giáo pháp không phải chuyện tự nhiên có, mà là chuyện phải làm
 | | |
 |---|---|
 | Đoạn văn (segment) | **465** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **16.830** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **16.835** |
 | Trang PTS | iii.117–141 |

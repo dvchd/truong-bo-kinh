@@ -2,4 +2,4 @@
 ## Trường Bộ Kinh — bài kinh số 18: Kinh Janavasabha
 
 <!-- seg: dn18:0.2 -->
-*Janavasabha Sutta* — bài kinh với Dạ-xoa Janavasabha
+*Janavasabha Sutta* — bài kinh với Dạ-xoa Janavasabha; quen gọi: **Kinh Xa-ni-sa**

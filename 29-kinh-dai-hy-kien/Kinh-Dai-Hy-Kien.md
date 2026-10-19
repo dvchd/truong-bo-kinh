@@ -125,7 +125,7 @@ giáo pháp không phải chuyện tự nhiên có, mà là chuyện phải làm
 ## Trường Bộ Kinh — bài kinh số 29: Kinh Đại Hỷ Kiến
 
 <!-- seg: dn29:0.2 -->
-*Pāsādika Sutta* — khả ý — đưa đến tịnh tín
+*Pāsādika Sutta* — khả ý — đưa đến tịnh tín; quen gọi: **Kinh Thanh Tịnh**
 
 ---
 

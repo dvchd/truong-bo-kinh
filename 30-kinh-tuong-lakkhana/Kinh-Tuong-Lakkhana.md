@@ -125,7 +125,7 @@ vị ấy đã làm** khi còn là người.
 ## Trường Bộ Kinh — bài kinh số 30: Kinh Ba Mươi Hai Tướng
 
 <!-- seg: dn30:0.2 -->
-*Lakkhaṇa Sutta* — tướng của bậc đại nhân
+*Lakkhaṇa Sutta* — tướng của bậc đại nhân; quen gọi: **Kinh Tướng**
 
 ---
 

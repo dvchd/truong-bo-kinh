@@ -1,6 +1,6 @@
 # Kinh Udumbarika — *Udumbarika Sutta*
 
-> Bài kinh số 25 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 25 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh Ưu-đàm-bà-la.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Udumbarika.md`](Kinh-Udumbarika.md)**
 
@@ -83,7 +83,7 @@ và tưởng mình đã đến đích. Bài kinh này nói: chưa. Còn phải �
 | | |
 |---|---|
 | Đoạn văn (segment) | **383** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.077** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.072** |
 | Trang PTS | iii.36–57 |
 
 ---

@@ -1,6 +1,6 @@
 # Kinh Sakka hỏi — *Sakkapañha Sutta*
 
-> Bài kinh số 21 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 21 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh Đế-thích Sở Vấn.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Sakkapanha.md`](Kinh-Sakkapanha.md)**
 
@@ -75,7 +75,7 @@ nghe một chân lý. Mà vì **ông đã tự lần ra nó**.
 | | |
 |---|---|
 | Đoạn văn (segment) | **515** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.712** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.718** |
 | Trang PTS | ii.263–289 |
 
 ---

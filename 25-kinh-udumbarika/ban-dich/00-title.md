@@ -2,4 +2,4 @@
 ## Trường Bộ Kinh — bài kinh số 25: Kinh Udumbarika
 
 <!-- seg: dn25:0.2 -->
-*Udumbarika Sutta* — bài kinh với du sĩ ở vườn cây udumbara (sung). Tên quen dùng trong kinh điển Việt: Kinh Ưu-đàm-bà-la
+*Udumbarika Sutta* — bài kinh với du sĩ ở vườn cây udumbara (sung); quen gọi: **Kinh Ưu-đàm-bà-la**

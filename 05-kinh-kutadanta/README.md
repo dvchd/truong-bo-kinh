@@ -1,6 +1,6 @@
 # Kinh Kūṭadanta — *Kūṭadanta Sutta*
 
-> Bài kinh số 5 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 5 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh Cứu-la-đàn-đầu.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Kutadanta.md`](Kinh-Kutadanta.md)**
 
@@ -110,7 +110,7 @@ có bị hành hạ hay không**. Một lễ tế mà người ta bị trói, b�
 | | |
 |---|---|
 | Đoạn văn (segment) | **374** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **17.896** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **17.900** |
 | Chú thích trong thân bản dịch | **54** — của Bhikkhu Sujato, cùng vài chú thích của người dịch |
 | Liên kết mục lục | **17** |
 | Tệp bản dịch từng phần | 14 nội dung + lời giới thiệu + thuật ngữ + nguồn |

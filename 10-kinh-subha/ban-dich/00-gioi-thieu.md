@@ -99,7 +99,7 @@ Và vì nó là một trong những bản tóm tắt gọn nhất của toàn b�
 | | |
 |---|---|
 | Đoạn văn (segment) | **285** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **12.724** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **12.728** |
 | Trang PTS | i.204–210 |
 
 ## Cách đọc

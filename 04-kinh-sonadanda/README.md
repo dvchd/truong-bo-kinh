@@ -1,6 +1,6 @@
 # Kinh Soṇadaṇḍa — *Soṇadaṇḍa Sutta*
 
-> Bài kinh số 4 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 4 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh Chủng Đức.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Sonadanda.md`](Kinh-Sonadanda.md)**
 
@@ -83,7 +83,7 @@ Cái im lặng ấy là chỗ người đọc phải tự nghĩ.
 | | |
 |---|---|
 | Đoạn văn (segment) | **297** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.213** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **14.218** |
 | Chú thích trong thân bản dịch | **30** — 28 của Bhikkhu Sujato + 2 của người dịch |
 | Liên kết mục lục | **11** — đã kiểm tra, không có liên kết hỏng |
 | Tệp bản dịch từng phần | 8 nội dung + lời giới thiệu + thuật ngữ + nguồn |

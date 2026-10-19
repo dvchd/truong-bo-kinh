@@ -1,6 +1,6 @@
 # Kinh Kevaddha — *Kevaḍḍha Sutta*
 
-> Bài kinh số 11 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 11 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh Kiên Cố.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Kevaddha.md`](Kinh-Kevaddha.md)**
 
@@ -81,7 +81,7 @@ Câu trả lời cuối cùng không phải một nơi chốn, mà là một ch�
 | | |
 |---|---|
 | Đoạn văn (segment) | **199** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **18.080** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **18.085** |
 | Trang PTS | i.211–223 |
 
 ---

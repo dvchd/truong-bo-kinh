@@ -1,6 +1,6 @@
 # Kinh Pāyāsi — *Pāyāsi Sutta*
 
-> Bài kinh số 23 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 23 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh Tệ-túc.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Payasi.md`](Kinh-Payasi.md)**
 
@@ -70,7 +70,7 @@ trong kinh tạng Pali. Nó không thắng bằng uy quyền. Nó thắng bằng
 | | |
 |---|---|
 | Đoạn văn (segment) | **715** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **20.290** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **20.294** |
 | Trang PTS | ii.316–358 |
 
 ---

@@ -1,6 +1,6 @@
 # Kinh Pāṭika — *Pāṭika Sutta*
 
-> Bài kinh số 24 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 24 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh Ba-lê.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Patika.md`](Kinh-Patika.md)**
 
@@ -73,7 +73,7 @@ Sunakkhatta hiểu sai, và tiếp tục dạy.
 | | |
 |---|---|
 | Đoạn văn (segment) | **581** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **16.942** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **16.946** |
 | Trang PTS | iii.1–35 |
 
 ---

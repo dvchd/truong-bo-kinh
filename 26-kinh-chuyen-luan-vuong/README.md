@@ -1,6 +1,6 @@
 # Kinh Chuyển Luân Vương — *Cakkavattisīhanāda Sutta*
 
-> Bài kinh số 26 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 26 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh Chuyển luân Thánh vương Sư tử hống.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Chuyen-Luan-Vuong.md`](Kinh-Chuyen-Luan-Vuong.md)**
 
@@ -85,7 +85,7 @@ bước rất nhỏ.
 | | |
 |---|---|
 | Đoạn văn (segment) | **355** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.794** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.804** |
 | Trang PTS | iii.58–79 |
 
 ---

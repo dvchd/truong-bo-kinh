@@ -1,6 +1,6 @@
 # Kinh Lohicca — *Lohicca Sutta*
 
-> Bài kinh số 12 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali.
+> Bài kinh số 12 trong Trường Bộ Kinh (*Dīgha Nikāya*), kinh tạng Pali. **Còn gọi là:** Kinh Lô-hi-gia.
 
 **Đọc bản dịch hoàn chỉnh: [`Kinh-Lohicca.md`](Kinh-Lohicca.md)**
 
@@ -57,7 +57,7 @@ trong. Tiêu chí không phải "có nói hay không", mà là **đã chứng ha
 | | |
 |---|---|
 | Đoạn văn (segment) | **189** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **15.979** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **15.983** |
 | Trang PTS | i.224–234 |
 
 ---
