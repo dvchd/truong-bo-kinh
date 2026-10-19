@@ -2,7 +2,7 @@
 ## 24–25. Mỗi lỗ chân lông một sợi lông và chùm lông trắng giữa hai mày
 
 <!-- seg: dn30:2.16.1 -->
-Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
+"Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
 
 <!-- seg: dn30:2.16.2 -->
 Khi còn làm người, vị ấy đã từ bỏ lời nói dối, tránh xa lời nói dối. Vị ấy nói thật, gắn bó với sự thật, kiên định, đáng tin cậy, không lừa dối thế gian.
@@ -37,7 +37,7 @@ Khi là bậc Giác ngộ, Ngài được gì?
 Ngài có đông đảo người thân cận, gồm các tỳ-kheo, các tỳ-kheo-ni, các nam cư sĩ, các nữ cư sĩ, chư thiên, loài người, các a-tu-la, các long vương và các càn-thát-bà.
 
 <!-- seg: dn30:2.17.7 -->
-Khi là bậc Giác ngộ, Ngài được điều đó.
+Khi là bậc Giác ngộ, Ngài được điều đó."
 
 <!-- seg: dn30:2.17.8 -->
 Đức Thế Tôn nói lên ý nghĩa này.
@@ -79,7 +79,7 @@ những người tinh thông điềm tướng đã tuyên bố:
 'Một người với chùm lông và lông mọc rõ ràng như thế,
 
 <!-- seg: dn30:2.18.13 -->
-sẽ có đông đảo người đến gần.
+sẽ được đông đảo người đến gần.
 
 <!-- seg: dn30:2.18.14 -->
 Dù còn là người tại gia, đông đảo người vẫn đi theo Ngài,

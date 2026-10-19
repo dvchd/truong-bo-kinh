@@ -2,7 +2,7 @@
 ## 26–27. Bốn mươi răng và răng không thưa
 
 <!-- seg: dn30:2.19.1 -->
-Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
+"Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
 
 <!-- seg: dn30:2.19.2 -->
 Khi còn làm người, vị ấy đã từ bỏ lời nói chia rẽ, tránh xa lời nói chia rẽ. Nghe điều gì ở đây, vị ấy không đem đến nơi khác để chia rẽ những người này; nghe điều gì ở nơi khác, vị ấy không đem đến đây để chia rẽ những người kia. Như vậy, vị ấy là người hàn gắn những kẻ đã chia rẽ, là người củng cố những người đã hòa hợp, ưa thích sự hòa hợp, say mê sự hòa hợp, vui thích sự hòa hợp, và nói những lời đưa đến hòa hợp.
@@ -37,7 +37,7 @@ Khi là bậc Giác ngộ, Ngài được gì?
 Ngài có hội chúng không thể chia rẽ; các hội chúng của Ngài không thể chia rẽ, gồm các tỳ-kheo, các tỳ-kheo-ni, các nam cư sĩ, các nữ cư sĩ, chư thiên, loài người, các a-tu-la, các long vương và các càn-thát-bà.
 
 <!-- seg: dn30:2.20.7 -->
-Khi là bậc Giác ngộ, Ngài được điều đó.
+Khi là bậc Giác ngộ, Ngài được điều đó."
 
 <!-- seg: dn30:2.20.8 -->
 Đức Thế Tôn nói lên ý nghĩa này.

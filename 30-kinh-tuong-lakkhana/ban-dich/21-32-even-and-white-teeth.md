@@ -2,7 +2,7 @@
 ## 31–32. Răng đều và răng trắng
 
 <!-- seg: dn30:2.28.1 -->
-Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
+"Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
 
 <!-- seg: dn30:2.28.2 -->
 Khi còn làm người, vị ấy đã từ bỏ tà mạng, nuôi sống bằng chánh mạng. Vị ấy tránh xa việc làm sai cân, làm sai trọng lượng kim loại, làm sai đơn vị đo lường; tránh xa gian lận, lừa đảo, gạt gẫm và xảo trá; tránh xa việc chặt xẻo, giết hại, trói buộc, cướp giật, cướp phá và bạo lực.
@@ -52,7 +52,7 @@ Khi là bậc Giác ngộ, Ngài được gì?
 Ngài có hội chúng thanh tịnh; các hội chúng của Ngài thanh tịnh, gồm các tỳ-kheo, các tỳ-kheo-ni, các nam cư sĩ, các nữ cư sĩ, chư thiên, loài người, các a-tu-la, các long vương và các càn-thát-bà.
 
 <!-- seg: dn30:2.30.4 -->
-Khi là bậc Giác ngộ, Ngài được điều đó.
+Khi là bậc Giác ngộ, Ngài được điều đó."
 
 <!-- seg: dn30:2.30.5 -->
 Đức Thế Tôn nói lên ý nghĩa này.
@@ -103,7 +103,7 @@ Nhiều thầy xem tướng đã tụ họp,
 những người được xem là tinh xảo đã tuyên bố:
 
 <!-- seg: dn30:2.31.16 -->
-'Ngài sẽ có hội chúng gồm những người thanh tịnh,
+'Ngài sẽ có hội chúng gồm những người thanh tịnh.
 
 <!-- seg: dn30:2.31.17 -->
 Ngài có hàm răng đều, trắng, thanh tịnh, sáng đẹp như răng của bậc hai lần sinh.

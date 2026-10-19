@@ -2,7 +2,7 @@
 ## 21–22. Mắt xanh đen và lông mi như lông bò
 
 <!-- seg: dn30:2.10.1 -->
-Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
+"Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
 
 <!-- seg: dn30:2.10.2 -->
 Khi còn làm người, vị ấy đã không nhìn trừng trừng, không liếc xéo, cũng không nhìn lảng đi. Vị ấy ngay thẳng, với tâm ngay thẳng hướng đến mọi người, nhìn đông đảo người bằng ánh mắt thân ái.
@@ -37,7 +37,7 @@ Khi là bậc Giác ngộ, Ngài được gì?
 Ngài được đông đảo người nhìn bằng ánh mắt thân ái; Ngài đáng yêu, đáng mến đối với các tỳ-kheo, các tỳ-kheo-ni, các nam cư sĩ, các nữ cư sĩ, chư thiên, loài người, các a-tu-la, các long vương và các càn-thát-bà.
 
 <!-- seg: dn30:2.11.7 -->
-Khi là bậc Giác ngộ, Ngài được điều đó.
+Khi là bậc Giác ngộ, Ngài được điều đó."
 
 <!-- seg: dn30:2.11.8 -->
 Đức Thế Tôn nói lên ý nghĩa này.

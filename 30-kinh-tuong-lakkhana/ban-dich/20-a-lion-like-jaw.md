@@ -2,7 +2,7 @@
 ## 30. Hàm như sư tử
 
 <!-- seg: dn30:2.25.1 -->
-Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
+"Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
 
 <!-- seg: dn30:2.25.2 -->
 Khi còn làm người, vị ấy đã từ bỏ lời nói vô nghĩa, tránh xa lời nói vô nghĩa. Vị ấy nói đúng lúc, nói điều thật, nói điều có ý nghĩa, nói theo Pháp, nói theo luật. Vị ấy nói những lời đáng ghi nhớ, đúng lúc, có căn cứ, có chừng mực, đem lại lợi ích.
@@ -37,7 +37,7 @@ Khi là bậc Giác ngộ, Ngài được gì?
 Ngài không thể bị đánh bại bởi kẻ thù hay đối thủ bên trong hay bên ngoài, bởi tham, sân hay si, bởi sa-môn hay bà-la-môn, bởi chư thiên, Ma vương hay Phạm Thiên, hay bởi bất cứ ai trên thế gian.
 
 <!-- seg: dn30:2.26.7 -->
-Khi là bậc Giác ngộ, Ngài được điều đó.
+Khi là bậc Giác ngộ, Ngài được điều đó."
 
 <!-- seg: dn30:2.26.8 -->
 Đức Thế Tôn nói lên ý nghĩa này.

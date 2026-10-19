@@ -2,7 +2,7 @@
 ## 23. Đầu như có khăn xếp
 
 <!-- seg: dn30:2.13.1 -->
-Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
+"Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
 
 <!-- seg: dn30:2.13.2 -->
 Khi còn làm người, vị ấy đã dẫn đầu và đi trước đông đảo người trong các thiện pháp, là người đứng đầu đông đảo người trong hạnh tốt về thân, hạnh tốt về lời, hạnh tốt về ý, trong bố thí và chia sẻ, trong thọ trì giới, trong giữ ngày trai giới, trong hiếu kính mẹ, hiếu kính cha, kính trọng sa-môn, kính trọng bà-la-môn, tôn kính bậc trưởng thượng trong gia tộc, và trong các thiện pháp khác nữa.
@@ -37,7 +37,7 @@ Khi là bậc Giác ngộ, Ngài được gì?
 Ngài có đông đảo người đi theo, gồm các tỳ-kheo, các tỳ-kheo-ni, các nam cư sĩ, các nữ cư sĩ, chư thiên, loài người, các a-tu-la, các long vương và các càn-thát-bà.
 
 <!-- seg: dn30:2.14.7 -->
-Khi là bậc Giác ngộ, Ngài được điều đó.
+Khi là bậc Giác ngộ, Ngài được điều đó."
 
 <!-- seg: dn30:2.14.8 -->
 Đức Thế Tôn nói lên ý nghĩa này.

@@ -2,7 +2,7 @@
 ## 28–29. Lưỡi dài và giọng như Phạm Thiên
 
 <!-- seg: dn30:2.22.1 -->
-Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
+"Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
 
 <!-- seg: dn30:2.22.2 -->
 Khi còn làm người, vị ấy đã từ bỏ lời nói thô ác, tránh xa lời nói thô ác. Vị ấy nói những lời không lỗi, êm tai, đáng yêu, đi vào lòng người, lịch thiệp, được đông đảo người yêu mến, được đông đảo người vừa lòng.
@@ -35,7 +35,7 @@ Khi là bậc Giác ngộ, Ngài được gì?
 Ngài có lời nói được người ta đón nhận; lời của Ngài được các tỳ-kheo, các tỳ-kheo-ni, các nam cư sĩ, các nữ cư sĩ, chư thiên, loài người, các a-tu-la, các long vương và các càn-thát-bà đón nhận.
 
 <!-- seg: dn30:2.23.7 -->
-Khi là bậc Giác ngộ, Ngài được điều đó.
+Khi là bậc Giác ngộ, Ngài được điều đó."
 
 <!-- seg: dn30:2.23.8 -->
 Đức Thế Tôn nói lên ý nghĩa này.

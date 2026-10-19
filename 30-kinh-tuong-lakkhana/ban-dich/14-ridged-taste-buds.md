@@ -2,7 +2,7 @@
 ## 20. Gai vị giác nổi rõ
 
 <!-- seg: dn30:2.7.1 -->
-Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
+"Này các tỳ-kheo, thuở xưa, trong những đời trước, trong những kiếp trước, trong những cảnh sống trước, Đức Thế Tôn đã từng sinh làm người.
 
 <!-- seg: dn30:2.7.2 -->
 Khi còn làm người, vị ấy đã có bản tính không làm hại chúng sinh, không hề hại ai bằng tay, bằng đá, bằng gậy hay bằng gươm.
@@ -34,7 +34,7 @@ Khi là bậc Giác ngộ, Ngài được gì?
 Ngài ít bệnh, ít ốm đau, có hệ tiêu hóa cân bằng, không quá lạnh cũng không quá nóng, vừa phải và thích hợp cho sự nỗ lực tu tập.
 
 <!-- seg: dn30:2.8.7 -->
-Khi là bậc Giác ngộ, Ngài được điều đó.
+Khi là bậc Giác ngộ, Ngài được điều đó."
 
 <!-- seg: dn30:2.8.8 -->
 Đức Thế Tôn nói lên ý nghĩa này.
