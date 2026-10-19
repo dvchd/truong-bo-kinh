@@ -39,7 +39,7 @@ Mục tiêu không phải là một bản dịch Hán-Việt hàn lâm, mà là 
 | **27** | **Kinh Khởi Thế Nhân Bổn** | *Aggañña Sutta* | ✅ **Hoàn thành** → [`27-kinh-khoi-the-nhan-bon/`](27-kinh-khoi-the-nhan-bon/) |
 | **28** | **Kinh Tự Hoan Hỷ** | *Sampasādanīya Sutta* | ✅ **Hoàn thành** → [`28-kinh-tu-hoan-hy/`](28-kinh-tu-hoan-hy/) |
 | **29** | **Kinh Đại Hỷ Kiến** | *Pāsādika Sutta* | ✅ **Hoàn thành** → [`29-kinh-dai-hy-kien/`](29-kinh-dai-hy-kien/) |
-| 30 | Kinh Tướng | *Lakkhaṇa Sutta* | ⏳ Chưa bắt đầu |
+| **30** | **Kinh Ba Mươi Hai Tướng** | *Lakkhaṇa Sutta* | ✅ **Hoàn thành** → [`30-kinh-tuong-lakkhana/`](30-kinh-tuong-lakkhana/) |
 | **31** | **Kinh Giáo Thọ Thi-la-ca** | *Siṅgāla Sutta* | ✅ **Hoàn thành** → [`31-kinh-giao-tho/`](31-kinh-giao-tho/) |
 | 32 | Kinh Āṭānāṭiya | *Āṭānāṭiya Sutta* | ⏳ Chưa bắt đầu |
 | 33 | Kinh Chúng Tập | *Saṅgīti Sutta* | ⏳ Chưa bắt đầu |
@@ -282,6 +282,8 @@ Cách làm này khiến bản dịch **kiểm chứng được**: người đọ
 ├── 29-kinh-dai-hy-kien/        ← Bài kinh số 29: Kinh Đại Hỷ Kiến  ✅
 ├── 31-kinh-giao-tho/           ← Bài kinh số 31: Kinh Giáo Thọ Thi-la-ca  ✅
 │
+├── 30-kinh-tuong-lakkhana/     ← Bài kinh số 30: Kinh Ba Mươi Hai Tướng  ✅
+│
 ├── HUONG-DAN-CHUNG.md          ← quy chuẩn dịch chung cho cả 34 bài
 │
 ├── cong-cu/
@@ -327,6 +329,7 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 | 27 | **Kinh Khởi Thế Nhân Bổn** | [`27-kinh-khoi-the-nhan-bon/Kinh-Khoi-The-Nhan-Bon.md`](27-kinh-khoi-the-nhan-bon/Kinh-Khoi-The-Nhan-Bon.md) | 323 đoạn · 13.321 từ |
 | 28 | **Kinh Tự Hoan Hỷ** | [`28-kinh-tu-hoan-hy/Kinh-Tu-Hoan-Hy.md`](28-kinh-tu-hoan-hy/Kinh-Tu-Hoan-Hy.md) | 250 đoạn · 10.054 từ |
 | 29 | **Kinh Đại Hỷ Kiến** | [`29-kinh-dai-hy-kien/Kinh-Dai-Hy-Kien.md`](29-kinh-dai-hy-kien/Kinh-Dai-Hy-Kien.md) | 465 đoạn · 16.255 từ |
+| 30 | **Kinh Ba Mươi Hai Tướng** | [`30-kinh-tuong-lakkhana/Kinh-Tuong-Lakkhana.md`](30-kinh-tuong-lakkhana/Kinh-Tuong-Lakkhana.md) | 721 đoạn · 20.696 từ |
 | 31 | **Kinh Giáo Thọ Thi-la-ca** | [`31-kinh-giao-tho/Kinh-Giao-Tho.md`](31-kinh-giao-tho/Kinh-Giao-Tho.md) | 267 đoạn · 7.062 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
