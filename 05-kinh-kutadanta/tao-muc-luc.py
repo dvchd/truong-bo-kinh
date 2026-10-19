@@ -41,6 +41,6 @@ lines += ['', '---', '', '- [Bảng thuật ngữ](#bảng-thuật-ngữ)',
           '- [Nguồn tham khảo](#nguồn-tham-khảo)', '', '---', '']
 toc = '\n'.join(lines) + '\n'
 
-src = src.replace(START, '\n' + toc + '## Trường Bộ Kinh — bài kinh số 5: Kinh Kūṭadanta\n', 1)
+src = src.replace(START, '\n' + toc + START.lstrip('\n'), 1)
 open(DOC, 'w', encoding='utf-8').write(src)
 print('muc luc: %d lien ket' % sum(1 for l in lines if '](' in l))

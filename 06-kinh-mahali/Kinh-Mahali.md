@@ -49,7 +49,7 @@ cảnh trời. Nhưng cái định mà ông ta có chỉ đủ để thấy, kh�
 Thế Tôn không phủ nhận kinh nghiệm của ông ta — nó giải thích giới hạn của kinh nghiệm ấy.
 
 Rồi Ngài lặp lại khuôn ấy cho cả bốn phương, rồi trên, dưới, ngang: đông, nam, tây, bắc, trên,
-dưới, ngang. Mỗi hướng, hai lần: một lần chỉ để thấy, một lần chỉ để nghe, rồi một lần cả hai.
+dưới, ngang. Mỗi hướng, ba lần: một lần chỉ để thấy, một lần chỉ để nghe, rồi một lần cả hai.
 Cả khối ấy lặp đi lặp lại gần như y nguyên — và đó chính là chủ ý: cái gì đã đúng ở phương đông
 thì cũng đúng ở phương nam.
 
@@ -79,7 +79,7 @@ bình thường, ai cũng đi được.
 Tại Kosambī, trong tịnh xá của Ghosita. Hai du sĩ tên Muṇḍiya và Jāliya đến hỏi Đức Thế Tôn một
 câu mà cả Ấn Độ thời ấy đang tranh cãi: *"Thân và hồn là một thứ, hay là hai thứ khác nhau?"*
 
-Đức Thế Tôn không trả lời trực tiếp. Ngài dẫn họ đi qua từng tầng định, và ở mỗi tầng, Ngài hỏi
+Đức Thế Tôn không trả lời trực tiếp. Ngài dẫn họ đi qua từng chặng, và sau mỗi chặng, Ngài hỏi
 lại:
 
 > "Khi một tỳ-kheo biết và thấy như thế, có thích hợp để nói về vị ấy rằng 'thân và hồn là một',
@@ -87,7 +87,7 @@ lại:
 
 Hai du sĩ đáp: **thích hợp** — nghĩa là, đứng ở chỗ ấy thì nói thế cũng được.
 
-Và cứ thế qua bốn tầng thiền-na, rồi qua các tầng định vô sắc, rồi qua từng thắng trí: ba lượt
+Và cứ thế qua bốn tầng thiền-na, rồi qua từng thắng trí: ba lượt
 đầu họ đáp "thích hợp". Đến lượt cuối — khi vị ấy đã đoạn tận lậu hoặc, đã biết "không còn tái
 sinh nữa" — họ đáp: **không thích hợp**.
 
@@ -166,7 +166,7 @@ câu hỏi chỉ được hỏi sau khi mọi thứ đã yên.
 
 ---
 
-## Trường Bộ Kinh — bài kinh số 4: Kinh Mahāli
+## Trường Bộ Kinh — bài kinh số 6: Kinh Mahāli
 
 <!-- seg: dn6:0.2 -->
 *Mahāli Sutta*
@@ -204,7 +204,7 @@ Danh tiếng tốt đẹp về ngài Gotama đã lan truyền như sau:
 'Ngài là bậc A-la-hán, Chánh đẳng giác, đầy đủ minh và hạnh, bậc Thiện thệ, bậc thấu hiểu thế gian, bậc tối thượng dẫn dắt những người cần được điều ngự, bậc thầy của trời và người, bậc Giác ngộ, bậc Thế Tôn.'
 
 <!-- seg: dn6:1.8 -->
-Ngài đã tự mình chứng ngộ bằng trí tuệ trực tiếp thế giới này — thế giới của chư thiên, Ma vương và Phạm Thiên, của dân chúng cùng hàng sa-môn, bà-la-môn, chư thiên và loài người — rồi công bố điều ấy cho người khác.
+Ngài đã tự mình chứng ngộ bằng thắng trí thế giới này — thế giới của chư thiên, Ma vương và Phạm Thiên, của dân chúng cùng hàng sa-môn, bà-la-môn, chư thiên và loài người — rồi công bố điều ấy cho người khác.
 
 <!-- seg: dn6:1.9 -->
 Ngài thuyết Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có ý nghĩa và văn cú; Ngài công bố đời sống phạm hạnh hoàn toàn viên mãn và trong sạch.
@@ -304,7 +304,7 @@ Rồi các sứ giả bà-la-môn xứ Kosala và Magadha đi đến chỗ Đứ
 [Chú thích: Đây là lần cuối cùng ta nghe về các sứ giả này.]
 
 <!-- seg: dn6:5.2 -->
-Sau khi trao đổi những lời chào hỏi và thăm hỏi thân mật, họ ngồi sang một bên.
+Sau khi trao đổi những lời chào hỏi và câu chuyện thân mật, họ ngồi sang một bên.
 
 <!-- seg: dn6:5.3 -->
 Oṭṭhaddha người Licchavi cùng với đại chúng Licchavi đông đảo cũng đi đến chỗ Đức Thế Tôn. Đến nơi, ông đảnh lễ Đức Thế Tôn rồi ngồi sang một bên. Ngồi sang một bên, Oṭṭhaddha người Licchavi thưa với Đức Thế Tôn: "Bạch Thế Tôn, mấy ngày trước đây, Sunakkhatta, người con dòng Licchavi, đã đến chỗ tôi và nói với tôi rằng:
@@ -552,7 +552,7 @@ du sĩ Muṇḍiya và Jāliya, học trò của vị khổ hạnh dùng bát g�
 [Chú thích: Muṇḍiya nghĩa là "người đầu trọc"; tên này được chép thành Mandissa trong một số bản thảo, và nhân vật chỉ xuất hiện ở đoạn này. Jāliya trở lại trong bài 24, nơi kể những chuyện rối ren sau khi Sunakkhatta hoàn tục. Ở đó, ông đứng về phía Đức Thế Tôn chống lại kẻ hoang tưởng Pāṭikaputta mà Sunakkhatta sùng mộ.]
 
 <!-- seg: dn6:15.4 -->
-Sau khi trao đổi những lời chào hỏi thân thiện và những câu chuyện lịch sự, họ đứng sang một bên. Đứng sang một bên rồi, hai người xuất gia ấy nói với ta:
+Sau khi trao đổi những lời chào hỏi và câu chuyện thân mật, họ đứng sang một bên. Đứng sang một bên rồi, hai người xuất gia ấy nói với ta:
 
 <!-- seg: dn6:15.5 -->
 "Thưa ngài Gotama, thân và hồn là một, hay thân và hồn là hai thứ khác nhau?"
@@ -569,15 +569,15 @@ Hai người xuất gia ấy đáp lại ta: "Vâng, thưa ngài."
 Ta nói như thế này:
 
 <!-- seg: dn6:16.4 -->
-Này các ông, ở đây có một Như Lai xuất hiện trong đời, là bậc A-la-hán, bậc Chánh Đẳng Giác, đầy đủ minh và hạnh, bậc đã đi đến nơi tốt đẹp, bậc hiểu rõ thế gian, bậc tối thượng dẫn dắt những người cần được giáo hóa, bậc thầy của chư thiên và loài người, bậc Giác Ngộ, bậc Thế Tôn. Ngài tự mình chứng ngộ bằng thắng trí rồi loan báo cho thế gian này biết; Ngài thuyết Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có ý nghĩa và lời lẽ khéo léo, và chỉ ra đời sống phạm hạnh hoàn toàn viên mãn, hoàn toàn thanh tịnh. Rồi một gia chủ, con trai của một gia chủ, hay một người sinh ra trong một gia đình danh giá, khi nghe Pháp ấy, khởi lòng tin nơi Như Lai, bỏ lại tài sản và thân quyến lớn hay nhỏ, cạo bỏ râu tóc, mặc y màu vàng nghệ, rời bỏ đời sống tại gia mà xuất gia sống đời không nhà. Sau khi xuất gia, vị ấy sống tự chế ngự theo giới bổn Pātimokkha, đầy đủ oai nghi và chỗ đi lại thích hợp, thấy sự nguy hiểm ngay trong những lỗi nhỏ như hạt bụi, thọ nhận và học tập các học giới; thành tựu việc làm thiện nơi thân và lời nói; mưu sinh trong sạch, đầy đủ giới hạnh.
+Này các ông, ở đây có một Như Lai xuất hiện trong đời, là bậc A-la-hán, Chánh đẳng giác, đầy đủ minh và hạnh, bậc Thiện thệ, bậc thấu hiểu thế gian, bậc tối thượng dẫn dắt những người cần được điều ngự, bậc thầy của trời và người, bậc Giác ngộ, bậc Thế Tôn. Ngài tự mình chứng ngộ bằng thắng trí rồi loan báo cho thế gian này biết; Ngài thuyết Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có ý nghĩa và lời lẽ khéo léo, và chỉ ra đời sống phạm hạnh hoàn toàn viên mãn, hoàn toàn thanh tịnh. Rồi một gia chủ, con trai của một gia chủ, hay một người sinh ra trong một gia đình nào đó, khi nghe Pháp ấy, khởi lòng tin nơi Như Lai, bỏ lại tài sản và thân quyến lớn hay nhỏ, cạo bỏ râu tóc, mặc y màu vàng nghệ, rời bỏ đời sống tại gia mà xuất gia sống đời không nhà. Sau khi xuất gia, vị ấy sống tự chế ngự theo giới bổn Pātimokkha, đầy đủ oai nghi và chỗ đi lại thích hợp, thấy sự nguy hiểm ngay trong những lỗi nhỏ như hạt bụi, thọ nhận và học tập các học giới; thành tựu việc làm thiện nơi thân và lời nói; mưu sinh trong sạch, đầy đủ giới hạnh.
 
 [Chú thích: (của người dịch) Bản Pali ở đây dùng peyyāla để chỉ trọn khối văn về con đường tu tập tuần tự, trùng nguyên với bài 2, Kinh Sa-môn Quả; bản dịch giữ đủ mọi chặng nhưng viết gọn lại. Muốn đọc bản đầy đủ xin xem bài 2, mục 4.3.]
 
 <!-- seg: dn6:16.5 -->
-Này các ông, đó là cách một tỳ-kheo thành tựu giới hạnh.
+Này các ông, đó là cách một tỳ-kheo thành tựu giới.
 
 <!-- seg: dn6:16.6 -->
-Thành tựu khối giới hạnh cao thượng ấy, vị ấy cảm nhận niềm vui không lỗi lầm ngay trong lòng mình; vị ấy hộ trì các giác quan, sống với chánh niệm và tỉnh giác, biết đủ, rồi tìm đến một chỗ vắng vẻ, từ bỏ năm triền cái — dục tham, sân hận, hôn trầm và thụy miên, trạo cử và hối quá, hoài nghi — và ly khai các dục lạc, ly khai các pháp bất thiện.
+Thành tựu khối giới cao thượng ấy, vị ấy cảm nhận niềm vui không lỗi lầm ngay trong lòng mình; vị ấy hộ trì các giác quan, sống với chánh niệm và tỉnh giác, biết đủ, rồi tìm đến một chỗ vắng vẻ, từ bỏ năm triền cái — dục tham, sân hận, hôn trầm và thụy miên, trạo cử và hối quá, hoài nghi — và ly khai các dục lạc, ly khai các pháp bất thiện.
 
 <!-- seg: dn6:16.7 -->
 Vị ấy chứng và trú vào sơ thiền — tầng thiền thứ nhất — có tầm, có tứ, với niềm vui và sự dễ chịu sinh ra từ sự ly khai.
@@ -647,9 +647,9 @@ Này các ông, khi một tỳ-kheo biết và thấy như thế, có thích h�
 "thân và hồn là một" hay "thân và hồn là hai thứ khác nhau"?
 
 <!-- seg: dn6:18.4 -->
-Rồi với mỗi thắng trí tiếp theo — thân do tâm tạo, các thần thông, thiên nhĩ, biết tâm người khác, nhớ lại các đời trước, thiên nhãn — vị ấy biết và thấy như thế; câu hỏi ấy lại được nêu lên như vậy.
+Rồi với mỗi thắng trí tiếp theo — các thần thông (kể cả thân do tâm tạo), thiên nhĩ, biết tâm người khác, nhớ lại các đời trước, thiên nhãn — vị ấy biết và thấy như thế; câu hỏi ấy lại được nêu lên như vậy, và mỗi lần hai người xuất gia lại đáp là thích hợp.
 
-[Chú thích: (của người dịch) Các thắng trí còn lại — từ thân do tâm tạo đến thiên nhãn — được kể tên ở đây; bản đầy đủ nằm ở bài 2, mục 4.3.3.]
+[Chú thích: (của người dịch) Các thắng trí còn lại — các thần thông, rồi thiên nhĩ, biết tâm người khác, nhớ đời trước, thiên nhãn — được kể tên ở đây; bản đầy đủ nằm ở bài 2, mục 4.3.3.]
 
 <!-- seg: dn6:18.5 -->
 Thưa ngài, với một tỳ-kheo biết và thấy như thế, thì thích hợp để nói về vị ấy rằng:
@@ -667,7 +667,7 @@ Thế nhưng ta không nói:
 "thân và hồn là một" hay "thân và hồn là hai thứ khác nhau".
 
 <!-- seg: dn6:19.1 -->
-Vị ấy biết rõ: "Không còn trở lại đời này nữa."
+Vị ấy biết rõ: "Không còn tái sinh nữa."
 
 [Chú thích: (của người dịch) Đây là kết luận của tuệ giác đoạn tận các lậu hoặc, tuệ giác đưa đến quả A-la-hán; phần mô tả đầy đủ nằm ở bài 2, mục 4.3.3.8.]
 
@@ -750,7 +750,7 @@ Kinh Mahāli, bài thứ sáu, đến đây là hết.
 
 | Pali | Tiếng Việt | Ghi chú |
 |---|---|---|
-| uttariṁ | **cao hơn nữa** | từ khoá của mục 2.2: "còn có những thứ cao hơn thế" |
+| uttariṁ | **vi diệu hơn và cao quý hơn** | từ khoá của mục 2.2: "còn có những thứ cao hơn thế" |
 | ariyaphala | quả vị thánh | bốn quả |
 | sotāpanna | bậc Nhập lưu | `sotāpatti` = quả Nhập lưu |
 | sakadāgāmī | bậc Nhất lai | |
@@ -758,12 +758,12 @@ Kinh Mahāli, bài thứ sáu, đến đây là hết.
 | arahant | bậc A-la-hán | |
 | saṁyojana | kiết sử | |
 | orambhāgiya saṁyojana | năm kiết sử thấp | thân kiến, hoài nghi, giới cấm thủ, tham dục, sân hận |
-| opapātika | hoá sinh | sinh ra tự nhiên, không qua thai bào |
+| opapātika | hóa sinh | sinh ra tự nhiên, không qua thai bào |
 | avinipātadhamma | không còn khả năng đọa lạc | |
 | niyata | nhất định | chắc chắn hướng đến giác ngộ |
 | sambodhiparāyaṇa | lấy giác ngộ làm đích | |
 | ariyo aṭṭhaṅgiko maggo | Bát chánh đạo | |
-| sammādiṭṭhi … sammāsamādhi | chánh kiến … chánh định | giữ đúng thứ tự tám chi |
+| sammādiṭṭhi → sammāsamādhi | chánh kiến → chánh định | giữ đúng thứ tự tám chi |
 | cetovimutti | tâm giải thoát | |
 | paññāvimutti | tuệ giải thoát | |
 | āsava | lậu hoặc | `āsavānaṁ khayā` = do lậu hoặc được đoạn tận |
@@ -801,10 +801,10 @@ Kinh Mahāli, bài thứ sáu, đến đây là hết.
 | Chỗ | Dịch đúng | Dịch sai thường gặp |
 |---|---|---|
 | `ekaṁsabhāvita` | một phía | "nhất hướng", "chuyên nhất" — mất ý "chỉ một chiều, không toàn vẹn" |
-| `uttariṁ` (12.2) | cao hơn nữa | "thượng thừa", "siêu việt" — nghe như một tông phái |
+| `uttariṁ` (12.2) | vi diệu hơn và cao quý hơn | "thượng thừa", "siêu việt" — nghe như một tông phái |
 | `jīvaṁ taṁ sarīraṁ` | thân và hồn là một | "linh hồn chính là thân xác" — sai sắc thái khẳng định |
 | `avinipātadhamma` | không còn khả năng đọa lạc | "không còn rơi vào ác đạo" — được, nhưng dài |
-| `opapātika` | hoá sinh | "tái sinh tự nhiên" — chưa đủ |
+| `opapātika` | hóa sinh | "tái sinh tự nhiên" — chưa đủ |
 | `dārupattikantevāsī` | học trò của vị khổ hạnh dùng bát gỗ | "học trò bát gỗ" — mất nghĩa |
 | `sandiṭṭhika` / `akālika` (nếu gặp) | thấy ngay / không qua thời gian | đừng dịch "hiện tại" |
 

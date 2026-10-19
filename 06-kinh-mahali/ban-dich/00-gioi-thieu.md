@@ -49,7 +49,7 @@ cảnh trời. Nhưng cái định mà ông ta có chỉ đủ để thấy, kh�
 Thế Tôn không phủ nhận kinh nghiệm của ông ta — nó giải thích giới hạn của kinh nghiệm ấy.
 
 Rồi Ngài lặp lại khuôn ấy cho cả bốn phương, rồi trên, dưới, ngang: đông, nam, tây, bắc, trên,
-dưới, ngang. Mỗi hướng, hai lần: một lần chỉ để thấy, một lần chỉ để nghe, rồi một lần cả hai.
+dưới, ngang. Mỗi hướng, ba lần: một lần chỉ để thấy, một lần chỉ để nghe, rồi một lần cả hai.
 Cả khối ấy lặp đi lặp lại gần như y nguyên — và đó chính là chủ ý: cái gì đã đúng ở phương đông
 thì cũng đúng ở phương nam.
 
@@ -79,7 +79,7 @@ bình thường, ai cũng đi được.
 Tại Kosambī, trong tịnh xá của Ghosita. Hai du sĩ tên Muṇḍiya và Jāliya đến hỏi Đức Thế Tôn một
 câu mà cả Ấn Độ thời ấy đang tranh cãi: *"Thân và hồn là một thứ, hay là hai thứ khác nhau?"*
 
-Đức Thế Tôn không trả lời trực tiếp. Ngài dẫn họ đi qua từng tầng định, và ở mỗi tầng, Ngài hỏi
+Đức Thế Tôn không trả lời trực tiếp. Ngài dẫn họ đi qua từng chặng, và sau mỗi chặng, Ngài hỏi
 lại:
 
 > "Khi một tỳ-kheo biết và thấy như thế, có thích hợp để nói về vị ấy rằng 'thân và hồn là một',
@@ -87,7 +87,7 @@ lại:
 
 Hai du sĩ đáp: **thích hợp** — nghĩa là, đứng ở chỗ ấy thì nói thế cũng được.
 
-Và cứ thế qua bốn tầng thiền-na, rồi qua các tầng định vô sắc, rồi qua từng thắng trí: ba lượt
+Và cứ thế qua bốn tầng thiền-na, rồi qua từng thắng trí: ba lượt
 đầu họ đáp "thích hợp". Đến lượt cuối — khi vị ấy đã đoạn tận lậu hoặc, đã biết "không còn tái
 sinh nữa" — họ đáp: **không thích hợp**.
 

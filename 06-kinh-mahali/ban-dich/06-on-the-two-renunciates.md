@@ -15,7 +15,7 @@ du sĩ Muṇḍiya và Jāliya, học trò của vị khổ hạnh dùng bát g�
 [Chú thích: Muṇḍiya nghĩa là "người đầu trọc"; tên này được chép thành Mandissa trong một số bản thảo, và nhân vật chỉ xuất hiện ở đoạn này. Jāliya trở lại trong bài 24, nơi kể những chuyện rối ren sau khi Sunakkhatta hoàn tục. Ở đó, ông đứng về phía Đức Thế Tôn chống lại kẻ hoang tưởng Pāṭikaputta mà Sunakkhatta sùng mộ.]
 
 <!-- seg: dn6:15.4 -->
-Sau khi trao đổi những lời chào hỏi thân thiện và những câu chuyện lịch sự, họ đứng sang một bên. Đứng sang một bên rồi, hai người xuất gia ấy nói với ta:
+Sau khi trao đổi những lời chào hỏi và câu chuyện thân mật, họ đứng sang một bên. Đứng sang một bên rồi, hai người xuất gia ấy nói với ta:
 
 <!-- seg: dn6:15.5 -->
 "Thưa ngài Gotama, thân và hồn là một, hay thân và hồn là hai thứ khác nhau?"
@@ -32,15 +32,15 @@ Hai người xuất gia ấy đáp lại ta: "Vâng, thưa ngài."
 Ta nói như thế này:
 
 <!-- seg: dn6:16.4 -->
-Này các ông, ở đây có một Như Lai xuất hiện trong đời, là bậc A-la-hán, bậc Chánh Đẳng Giác, đầy đủ minh và hạnh, bậc đã đi đến nơi tốt đẹp, bậc hiểu rõ thế gian, bậc tối thượng dẫn dắt những người cần được giáo hóa, bậc thầy của chư thiên và loài người, bậc Giác Ngộ, bậc Thế Tôn. Ngài tự mình chứng ngộ bằng thắng trí rồi loan báo cho thế gian này biết; Ngài thuyết Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có ý nghĩa và lời lẽ khéo léo, và chỉ ra đời sống phạm hạnh hoàn toàn viên mãn, hoàn toàn thanh tịnh. Rồi một gia chủ, con trai của một gia chủ, hay một người sinh ra trong một gia đình danh giá, khi nghe Pháp ấy, khởi lòng tin nơi Như Lai, bỏ lại tài sản và thân quyến lớn hay nhỏ, cạo bỏ râu tóc, mặc y màu vàng nghệ, rời bỏ đời sống tại gia mà xuất gia sống đời không nhà. Sau khi xuất gia, vị ấy sống tự chế ngự theo giới bổn Pātimokkha, đầy đủ oai nghi và chỗ đi lại thích hợp, thấy sự nguy hiểm ngay trong những lỗi nhỏ như hạt bụi, thọ nhận và học tập các học giới; thành tựu việc làm thiện nơi thân và lời nói; mưu sinh trong sạch, đầy đủ giới hạnh.
+Này các ông, ở đây có một Như Lai xuất hiện trong đời, là bậc A-la-hán, Chánh đẳng giác, đầy đủ minh và hạnh, bậc Thiện thệ, bậc thấu hiểu thế gian, bậc tối thượng dẫn dắt những người cần được điều ngự, bậc thầy của trời và người, bậc Giác ngộ, bậc Thế Tôn. Ngài tự mình chứng ngộ bằng thắng trí rồi loan báo cho thế gian này biết; Ngài thuyết Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có ý nghĩa và lời lẽ khéo léo, và chỉ ra đời sống phạm hạnh hoàn toàn viên mãn, hoàn toàn thanh tịnh. Rồi một gia chủ, con trai của một gia chủ, hay một người sinh ra trong một gia đình nào đó, khi nghe Pháp ấy, khởi lòng tin nơi Như Lai, bỏ lại tài sản và thân quyến lớn hay nhỏ, cạo bỏ râu tóc, mặc y màu vàng nghệ, rời bỏ đời sống tại gia mà xuất gia sống đời không nhà. Sau khi xuất gia, vị ấy sống tự chế ngự theo giới bổn Pātimokkha, đầy đủ oai nghi và chỗ đi lại thích hợp, thấy sự nguy hiểm ngay trong những lỗi nhỏ như hạt bụi, thọ nhận và học tập các học giới; thành tựu việc làm thiện nơi thân và lời nói; mưu sinh trong sạch, đầy đủ giới hạnh.
 
 [Chú thích: (của người dịch) Bản Pali ở đây dùng peyyāla để chỉ trọn khối văn về con đường tu tập tuần tự, trùng nguyên với bài 2, Kinh Sa-môn Quả; bản dịch giữ đủ mọi chặng nhưng viết gọn lại. Muốn đọc bản đầy đủ xin xem bài 2, mục 4.3.]
 
 <!-- seg: dn6:16.5 -->
-Này các ông, đó là cách một tỳ-kheo thành tựu giới hạnh.
+Này các ông, đó là cách một tỳ-kheo thành tựu giới.
 
 <!-- seg: dn6:16.6 -->
-Thành tựu khối giới hạnh cao thượng ấy, vị ấy cảm nhận niềm vui không lỗi lầm ngay trong lòng mình; vị ấy hộ trì các giác quan, sống với chánh niệm và tỉnh giác, biết đủ, rồi tìm đến một chỗ vắng vẻ, từ bỏ năm triền cái — dục tham, sân hận, hôn trầm và thụy miên, trạo cử và hối quá, hoài nghi — và ly khai các dục lạc, ly khai các pháp bất thiện.
+Thành tựu khối giới cao thượng ấy, vị ấy cảm nhận niềm vui không lỗi lầm ngay trong lòng mình; vị ấy hộ trì các giác quan, sống với chánh niệm và tỉnh giác, biết đủ, rồi tìm đến một chỗ vắng vẻ, từ bỏ năm triền cái — dục tham, sân hận, hôn trầm và thụy miên, trạo cử và hối quá, hoài nghi — và ly khai các dục lạc, ly khai các pháp bất thiện.
 
 <!-- seg: dn6:16.7 -->
 Vị ấy chứng và trú vào sơ thiền — tầng thiền thứ nhất — có tầm, có tứ, với niềm vui và sự dễ chịu sinh ra từ sự ly khai.
@@ -110,9 +110,9 @@ Này các ông, khi một tỳ-kheo biết và thấy như thế, có thích h�
 "thân và hồn là một" hay "thân và hồn là hai thứ khác nhau"?
 
 <!-- seg: dn6:18.4 -->
-Rồi với mỗi thắng trí tiếp theo — thân do tâm tạo, các thần thông, thiên nhĩ, biết tâm người khác, nhớ lại các đời trước, thiên nhãn — vị ấy biết và thấy như thế; câu hỏi ấy lại được nêu lên như vậy.
+Rồi với mỗi thắng trí tiếp theo — các thần thông (kể cả thân do tâm tạo), thiên nhĩ, biết tâm người khác, nhớ lại các đời trước, thiên nhãn — vị ấy biết và thấy như thế; câu hỏi ấy lại được nêu lên như vậy, và mỗi lần hai người xuất gia lại đáp là thích hợp.
 
-[Chú thích: (của người dịch) Các thắng trí còn lại — từ thân do tâm tạo đến thiên nhãn — được kể tên ở đây; bản đầy đủ nằm ở bài 2, mục 4.3.3.]
+[Chú thích: (của người dịch) Các thắng trí còn lại — các thần thông, rồi thiên nhĩ, biết tâm người khác, nhớ đời trước, thiên nhãn — được kể tên ở đây; bản đầy đủ nằm ở bài 2, mục 4.3.3.]
 
 <!-- seg: dn6:18.5 -->
 Thưa ngài, với một tỳ-kheo biết và thấy như thế, thì thích hợp để nói về vị ấy rằng:
@@ -130,7 +130,7 @@ Thế nhưng ta không nói:
 "thân và hồn là một" hay "thân và hồn là hai thứ khác nhau".
 
 <!-- seg: dn6:19.1 -->
-Vị ấy biết rõ: "Không còn trở lại đời này nữa."
+Vị ấy biết rõ: "Không còn tái sinh nữa."
 
 [Chú thích: (của người dịch) Đây là kết luận của tuệ giác đoạn tận các lậu hoặc, tuệ giác đưa đến quả A-la-hán; phần mô tả đầy đủ nằm ở bài 2, mục 4.3.3.8.]
 

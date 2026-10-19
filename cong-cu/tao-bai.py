@@ -141,10 +141,18 @@ def main():
         head_idx = []
     first_heading = head_idx[0] if head_idx else 0
     if first_heading and not blocks:
-        blocks.append(('00-title', 'Nhan de', keys[0], keys[first_heading - 1]))
+        # nhan de chi gom cac khoa dnN:0.x; phan con lai truoc tieu de dau la mo dau
+        ttl = [k for k in keys[:first_heading] if k.startswith(tag + ':0.')]
+        rest = [k for k in keys[:first_heading] if k not in ttl]
+        if ttl:
+            blocks.append(('00-title', 'Nhan de', ttl[0], ttl[-1]))
+        if rest:
+            blocks.append(('00b-mo-dau', 'Mo dau', rest[0], rest[-1]))
     for i, k in enumerate(keys):
-        if not k.endswith('.0') or not head_idx:
+        if not head_idx:
             break
+        if not k.endswith('.0'):
+            continue
         nxt = next((x for x in keys[i + 1:] if x.endswith('.0')), None)
         end = keys[keys.index(nxt) - 1] if nxt else keys[-1]
         num = k.split(':')[1][:-2]

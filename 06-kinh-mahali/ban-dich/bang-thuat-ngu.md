@@ -43,7 +43,7 @@
 
 | Pali | Tiếng Việt | Ghi chú |
 |---|---|---|
-| uttariṁ | **cao hơn nữa** | từ khoá của mục 2.2: "còn có những thứ cao hơn thế" |
+| uttariṁ | **vi diệu hơn và cao quý hơn** | từ khoá của mục 2.2: "còn có những thứ cao hơn thế" |
 | ariyaphala | quả vị thánh | bốn quả |
 | sotāpanna | bậc Nhập lưu | `sotāpatti` = quả Nhập lưu |
 | sakadāgāmī | bậc Nhất lai | |
@@ -51,12 +51,12 @@
 | arahant | bậc A-la-hán | |
 | saṁyojana | kiết sử | |
 | orambhāgiya saṁyojana | năm kiết sử thấp | thân kiến, hoài nghi, giới cấm thủ, tham dục, sân hận |
-| opapātika | hoá sinh | sinh ra tự nhiên, không qua thai bào |
+| opapātika | hóa sinh | sinh ra tự nhiên, không qua thai bào |
 | avinipātadhamma | không còn khả năng đọa lạc | |
 | niyata | nhất định | chắc chắn hướng đến giác ngộ |
 | sambodhiparāyaṇa | lấy giác ngộ làm đích | |
 | ariyo aṭṭhaṅgiko maggo | Bát chánh đạo | |
-| sammādiṭṭhi … sammāsamādhi | chánh kiến … chánh định | giữ đúng thứ tự tám chi |
+| sammādiṭṭhi → sammāsamādhi | chánh kiến → chánh định | giữ đúng thứ tự tám chi |
 | cetovimutti | tâm giải thoát | |
 | paññāvimutti | tuệ giải thoát | |
 | āsava | lậu hoặc | `āsavānaṁ khayā` = do lậu hoặc được đoạn tận |
@@ -94,9 +94,9 @@
 | Chỗ | Dịch đúng | Dịch sai thường gặp |
 |---|---|---|
 | `ekaṁsabhāvita` | một phía | "nhất hướng", "chuyên nhất" — mất ý "chỉ một chiều, không toàn vẹn" |
-| `uttariṁ` (12.2) | cao hơn nữa | "thượng thừa", "siêu việt" — nghe như một tông phái |
+| `uttariṁ` (12.2) | vi diệu hơn và cao quý hơn | "thượng thừa", "siêu việt" — nghe như một tông phái |
 | `jīvaṁ taṁ sarīraṁ` | thân và hồn là một | "linh hồn chính là thân xác" — sai sắc thái khẳng định |
 | `avinipātadhamma` | không còn khả năng đọa lạc | "không còn rơi vào ác đạo" — được, nhưng dài |
-| `opapātika` | hoá sinh | "tái sinh tự nhiên" — chưa đủ |
+| `opapātika` | hóa sinh | "tái sinh tự nhiên" — chưa đủ |
 | `dārupattikantevāsī` | học trò của vị khổ hạnh dùng bát gỗ | "học trò bát gỗ" — mất nghĩa |
 | `sandiṭṭhika` / `akālika` (nếu gặp) | thấy ngay / không qua thời gian | đừng dịch "hiện tại" |

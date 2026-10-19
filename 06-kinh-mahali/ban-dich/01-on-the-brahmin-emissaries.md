@@ -29,7 +29,7 @@ Danh tiếng tốt đẹp về ngài Gotama đã lan truyền như sau:
 'Ngài là bậc A-la-hán, Chánh đẳng giác, đầy đủ minh và hạnh, bậc Thiện thệ, bậc thấu hiểu thế gian, bậc tối thượng dẫn dắt những người cần được điều ngự, bậc thầy của trời và người, bậc Giác ngộ, bậc Thế Tôn.'
 
 <!-- seg: dn6:1.8 -->
-Ngài đã tự mình chứng ngộ bằng trí tuệ trực tiếp thế giới này — thế giới của chư thiên, Ma vương và Phạm Thiên, của dân chúng cùng hàng sa-môn, bà-la-môn, chư thiên và loài người — rồi công bố điều ấy cho người khác.
+Ngài đã tự mình chứng ngộ bằng thắng trí thế giới này — thế giới của chư thiên, Ma vương và Phạm Thiên, của dân chúng cùng hàng sa-môn, bà-la-môn, chư thiên và loài người — rồi công bố điều ấy cho người khác.
 
 <!-- seg: dn6:1.9 -->
 Ngài thuyết Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có ý nghĩa và văn cú; Ngài công bố đời sống phạm hạnh hoàn toàn viên mãn và trong sạch.

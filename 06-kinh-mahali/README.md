@@ -70,7 +70,7 @@ nhau?"*
 Hai du sĩ đáp: **thích hợp**. Và Ngài nói: *"Ta biết và thấy như thế. Nhưng ta không nói
 'thân và hồn là một', cũng không nói 'thân và hồn là hai thứ khác nhau'."*
 
-Rồi Ngài đi tiếp qua bốn tầng thiền-na, rồi các tầng định vô sắc, rồi từng thắng trí. Ba lượt
+Rồi Ngài đi tiếp qua bốn tầng thiền-na, rồi từng thắng trí. Ba lượt
 đầu hai du sĩ đáp "thích hợp". Đến lượt cuối — khi vị ấy đã đoạn tận lậu hoặc — họ đáp:
 **không thích hợp**. Đó là chỗ lập luận đóng lại.
 
@@ -99,7 +99,7 @@ Và hai du sĩ kia cũng vậy: họ hỏi một câu tưởng là về thực t
 | | |
 |---|---|
 | Đoạn văn (segment) | **156** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **9.753** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **9.760** |
 | Chú thích trong thân bản dịch | **30** — của Bhikkhu Sujato, cùng vài chú thích của người dịch |
 | Liên kết mục lục | **10** |
 | Tệp bản dịch từng phần | 7 nội dung + lời giới thiệu + thuật ngữ + nguồn |
@@ -150,7 +150,7 @@ Toàn bộ quy ước chung nằm ở [`../HUONG-DAN-CHUNG.md`](../HUONG-DAN-CHU
 - **`jīvaṁ taṁ sarīraṁ` = "thân và hồn là một"**; vế đối `aññaṁ jīvaṁ aññaṁ sarīraṁ` =
   **"thân và hồn là hai thứ khác nhau"**. Hai công thức này lặp hơn 20 lần và phải giống hệt
   nhau ở mọi chỗ.
-- **`uttariṁ` = "cao hơn nữa"** — từ khoá của cú lật ở mục 2.2, không dịch "thượng thừa".
+- **`uttariṁ` = "vi diệu hơn và cao quý hơn"** — từ khoá của cú lật ở mục 2.2, không dịch "thượng thừa".
 - **Mục 2.4 được tóm lược có kiểm soát.** Khối văn mô tả con đường tu tập trùng nguyên văn Kinh
   Sa-môn Quả (bài 2) mục 4.3; ở đây giữ đủ mọi chặng và mọi câu hỏi–đáp, nhưng phần mô tả dài
   thì rút gọn kèm `[Chú thích: …]` chỉ dẫn. Đó là ngoại lệ duy nhất với nguyên tắc "khai triển

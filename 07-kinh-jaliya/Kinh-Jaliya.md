@@ -87,7 +87,7 @@ Bài không chia mục. Bốn mươi chín đoạn theo cách chia của SuttaCe
 | | |
 |---|---|
 | Đoạn văn (segment) | **51** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **4.255** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **3.528** |
 | Lần lặp công thức "thân và hồn là một" | **13** |
 | Lần lặp công thức "thân và hồn là hai thứ khác nhau" | **13** |
 | Trang PTS | i.159–160 |
@@ -114,7 +114,7 @@ mà mọi mô tả hết hiệu lực.
 
 ---
 
-## Trường Bộ Kinh — bài kinh số 4: Kinh Jāliya
+## Trường Bộ Kinh — bài kinh số 7: Kinh Jāliya
 
 <!-- seg: dn7:0.2 -->
 *Jāliya Sutta*
@@ -151,15 +151,15 @@ Hai người xuất gia ấy đáp lại Ngài: "Vâng, thưa ngài."
 Đức Thế Tôn nói như thế này:
 
 <!-- seg: dn7:2.1 -->
-Này các ông, ở đây có một Như Lai xuất hiện trong đời, là bậc A-la-hán, bậc Chánh Đẳng Giác, đầy đủ minh và hạnh, bậc đã đi đến nơi tốt đẹp, bậc hiểu rõ thế gian, bậc tối thượng dẫn dắt những người cần được giáo hóa, bậc thầy của chư thiên và loài người, bậc Giác Ngộ, bậc Thế Tôn. Ngài tự mình chứng ngộ bằng thắng trí rồi loan báo cho thế gian này biết; Ngài thuyết Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có ý nghĩa và lời lẽ khéo léo, và chỉ ra đời sống phạm hạnh hoàn toàn viên mãn, hoàn toàn thanh tịnh. Rồi một gia chủ, con trai của một gia chủ, hay một người sinh ra trong một gia đình danh giá, khi nghe Pháp ấy, khởi lòng tin nơi Như Lai, bỏ lại tài sản và thân quyến lớn hay nhỏ, cạo bỏ râu tóc, mặc y màu vàng nghệ, rời bỏ đời sống tại gia mà xuất gia sống đời không nhà. Sau khi xuất gia, vị ấy sống tự chế ngự theo giới bổn Pātimokkha, đầy đủ oai nghi và chỗ đi lại thích hợp, thấy sự nguy hiểm ngay trong những lỗi nhỏ như hạt bụi, thọ nhận và học tập các học giới. Vị ấy thành tựu việc làm thiện nơi thân và lời nói, mưu sinh trong sạch, đầy đủ giới hạnh.
+Này các ông, ở đây có một Như Lai xuất hiện trong đời, là bậc A-la-hán, Chánh đẳng giác, đầy đủ minh và hạnh, bậc Thiện thệ, bậc thấu hiểu thế gian, bậc tối thượng dẫn dắt những người cần được điều ngự, bậc thầy của trời và người, bậc Giác ngộ, bậc Thế Tôn. Ngài tự mình chứng ngộ bằng thắng trí rồi loan báo cho thế gian này biết; Ngài thuyết Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có ý nghĩa và lời lẽ khéo léo, và chỉ ra đời sống phạm hạnh hoàn toàn viên mãn, hoàn toàn thanh tịnh. Rồi một gia chủ, con trai của một gia chủ, hay một người sinh ra trong một gia đình nào đó, khi nghe Pháp ấy, khởi lòng tin nơi Như Lai, bỏ lại tài sản và thân quyến lớn hay nhỏ, cạo bỏ râu tóc, mặc y màu vàng nghệ, rời bỏ đời sống tại gia mà xuất gia sống đời không nhà. Sau khi xuất gia, vị ấy sống tự chế ngự theo giới bổn Pātimokkha, đầy đủ oai nghi và chỗ đi lại thích hợp, thấy sự nguy hiểm ngay trong những lỗi nhỏ như hạt bụi, thọ nhận và học tập các học giới. Vị ấy thành tựu việc làm thiện nơi thân và lời nói, mưu sinh trong sạch, đầy đủ giới hạnh.
 
 [Chú thích: (của người dịch) Bản Pali dùng peyyāla để chỉ trọn khối văn về con đường tu tập tuần tự, cùng một khối văn với bài 2, Kinh Sa-môn Quả; bản dịch giữ đủ mọi chặng nhưng viết gọn lại. Muốn đọc bản đầy đủ xin xem bài 2, mục 4.3.]
 
 <!-- seg: dn7:2.2 -->
-Này các ông, đó là cách một tỳ-kheo thành tựu giới hạnh.
+Này các ông, đó là cách một tỳ-kheo thành tựu giới.
 
 <!-- seg: dn7:2.3 -->
-Thành tựu khối giới hạnh cao thượng ấy, vị ấy cảm nhận niềm vui không lỗi lầm ngay trong lòng mình. Vị ấy hộ trì các giác quan, sống với chánh niệm và tỉnh giác, biết đủ, rồi tìm đến một chỗ vắng vẻ, từ bỏ năm triền cái — dục tham, sân hận, hôn trầm và thụy miên, trạo cử và hối quá, hoài nghi — và ly khai các dục lạc, ly khai các pháp bất thiện.
+Thành tựu khối giới cao thượng ấy, vị ấy cảm nhận niềm vui không lỗi lầm ngay trong lòng mình. Vị ấy hộ trì các giác quan, sống với chánh niệm và tỉnh giác, biết đủ, rồi tìm đến một chỗ vắng vẻ, từ bỏ năm triền cái — dục tham, sân hận, hôn trầm và thụy miên, trạo cử và hối quá, hoài nghi — và ly khai các dục lạc, ly khai các pháp bất thiện.
 
 [Chú thích: (của người dịch) Bản Pali ở đây lược bằng peyyāla trọn phần từ hộ trì các giác quan qua chánh niệm và tỉnh giác, biết đủ, từ bỏ năm triền cái, cho đến trước sơ thiền; bản dịch giữ đủ các chặng nhưng viết gọn. Bản đầy đủ nằm ở bài 2, mục 4.3.2.]
 
@@ -246,7 +246,7 @@ Thế nhưng ta không nói:
 "thân và hồn là một" hay "thân và hồn là hai thứ khác nhau".
 
 <!-- seg: dn7:5.1 -->
-Vị ấy biết rõ: "Sinh đã diệt tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm xong; không còn trở lại đời này nữa."
+Vị ấy biết rõ: "Sinh đã diệt tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm xong; không còn tái sinh nữa."
 
 [Chú thích: (của người dịch) Bản Pali ở đây lược bằng peyyāla phần đầu của tuệ giác đoạn tận các lậu hoặc; bản dịch khôi phục công thức đầy đủ. Đây là minh thứ ba, cũng là quả A-la-hán; phần mô tả đầy đủ nằm ở bài 2, mục 4.3.3.8.]
 

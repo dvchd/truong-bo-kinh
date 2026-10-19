@@ -62,7 +62,7 @@ Rồi các sứ giả bà-la-môn xứ Kosala và Magadha đi đến chỗ Đứ
 [Chú thích: Đây là lần cuối cùng ta nghe về các sứ giả này.]
 
 <!-- seg: dn6:5.2 -->
-Sau khi trao đổi những lời chào hỏi và thăm hỏi thân mật, họ ngồi sang một bên.
+Sau khi trao đổi những lời chào hỏi và câu chuyện thân mật, họ ngồi sang một bên.
 
 <!-- seg: dn6:5.3 -->
 Oṭṭhaddha người Licchavi cùng với đại chúng Licchavi đông đảo cũng đi đến chỗ Đức Thế Tôn. Đến nơi, ông đảnh lễ Đức Thế Tôn rồi ngồi sang một bên. Ngồi sang một bên, Oṭṭhaddha người Licchavi thưa với Đức Thế Tôn: "Bạch Thế Tôn, mấy ngày trước đây, Sunakkhatta, người con dòng Licchavi, đã đến chỗ tôi và nói với tôi rằng:
