@@ -110,7 +110,7 @@ có bị hành hạ hay không**. Một lễ tế mà người ta bị trói, b�
 | | |
 |---|---|
 | Đoạn văn (segment) | **374** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **17.366** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **17.369** |
 | Chú thích trong thân bản dịch | **54** — của Bhikkhu Sujato, cùng vài chú thích của người dịch |
 | Liên kết mục lục | **17** |
 | Tệp bản dịch từng phần | 14 nội dung + lời giới thiệu + thuật ngữ + nguồn |
@@ -171,7 +171,7 @@ bài ở [`HUONG-DAN-DICH.md`](HUONG-DAN-DICH.md). Vài điểm cốt lõi:
 - **Hai câu điệp khúc khác nhau, đừng lẫn.** Mục 2 dùng khuôn "Chỉ vì lẽ ấy…"; mục 3 dùng khuôn
   ngược — phủ định trước, khẳng định sau (Pali: `na tveva arahati … atha kho mayameva arahāma …`).
 - **`parikkhāra` là "phụ tùng"**, `purohita` là "vị tế sư", `yañña` là "lễ tế".
-- **`dassukhīla` là "nanh vuốt của giặc cướp"**, không phải "thấy khổ" — `dassa` ở đây là kẻ cướp.
+- **`dassukhīla` là "cọc nhọn của giặc cướp"** — `dassa` ở đây là kẻ cướp, `khīla` là cọc nhọn, không phải "thấy khổ".
 - **Đoạn tóm lược ở mục 5 là ngoại lệ duy nhất.** Khối văn con đường tu tập ở 27.4–27.16 trùng
   nguyên với Kinh Sa-môn Quả (DN 2) mục 4.3, nên ở đây tóm lược kèm chú thích chỉ dẫn.
 - **Không ai dùng đại từ thô trong bài này.** Đức Thế Tôn gọi Kūṭadanta là "này bà-la-môn", đại

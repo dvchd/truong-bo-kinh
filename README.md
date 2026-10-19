@@ -154,7 +154,7 @@ Bản dịch hoàn chỉnh nằm trong một tệp Markdown duy nhất, có mụ
 | 2 | **Kinh Sa-môn Quả** | [`02-kinh-sa-mon-qua/Kinh-Sa-Mon-Qua.md`](02-kinh-sa-mon-qua/Kinh-Sa-Mon-Qua.md) | 650 đoạn · 24.531 từ |
 | 3 | **Kinh Ambaṭṭha** | [`03-kinh-ambattha/Kinh-Ambattha.md`](03-kinh-ambattha/Kinh-Ambattha.md) | — |
 | 4 | **Kinh Soṇadaṇḍa** | [`04-kinh-sonadanda/Kinh-Sonadanda.md`](04-kinh-sonadanda/Kinh-Sonadanda.md) | 297 đoạn · 13.751 từ |
-| 5 | **Kinh Kūṭadanta** | [`05-kinh-kutadanta/Kinh-Kutadanta.md`](05-kinh-kutadanta/Kinh-Kutadanta.md) | 374 đoạn · 17.366 từ |
+| 5 | **Kinh Kūṭadanta** | [`05-kinh-kutadanta/Kinh-Kutadanta.md`](05-kinh-kutadanta/Kinh-Kutadanta.md) | 374 đoạn · 17.369 từ |
 
 Nếu chỉ muốn đọc nhanh, phần **Lời giới thiệu** ở đầu mỗi tệp tóm tắt toàn bộ nội dung kinh trong khoảng 10 phút đọc, kèm gợi ý lộ trình đọc cho người mới.
 

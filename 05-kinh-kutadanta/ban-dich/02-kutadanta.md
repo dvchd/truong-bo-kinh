@@ -56,7 +56,7 @@ Ngài Kūṭadanta giàu có, nhiều của cải, nhiều tài sản, có đầ
 Ngài Kūṭadanta là người tụng đọc, thuộc lòng thần chú, thông suốt ba bộ Vệ-đà cùng với từ vựng và nghi lễ tế tự, với ngữ âm và cách phân loại từ, với bộ sử thi là thứ năm; ngài thuộc từng chữ và thông thạo ngữ pháp, không thiếu hiểu biết về khoa luận thuyết về thế giới và tướng của bậc đại nhân. Chỉ vì lẽ ấy, ngài Kūṭadanta cũng không thích hợp để đến thăm sa-môn Gotama; mà chính sa-môn Gotama mới thích hợp để đến thăm ngài Kūṭadanta.
 
 <!-- seg: dn5:6.11 -->
-Ngài Kūṭadanta có dung mạo đẹp đẽ, dễ nhìn, dễ mến, sắc vóc thanh tú tột bậc, nước da như Phạm Thiên, thân hình như Phạm Thiên, đáng để người ta chiêm ngưỡng. Chỉ vì lẽ ấy, ngài Kūṭadanta cũng không thích hợp để đến thăm sa-môn Gotama; mà chính sa-môn Gotama mới thích hợp để đến thăm ngài Kūṭadanta.
+Ngài Kūṭadanta có dung mạo đẹp đẽ, dễ nhìn, dễ mến, sắc vóc thanh tú tột bậc, nước da như Phạm Thiên, hào quang như Phạm Thiên, đáng để người ta chiêm ngưỡng. Chỉ vì lẽ ấy, ngài Kūṭadanta cũng không thích hợp để đến thăm sa-môn Gotama; mà chính sa-môn Gotama mới thích hợp để đến thăm ngài Kūṭadanta.
 
 <!-- seg: dn5:6.12 -->
 Ngài Kūṭadanta có giới, giới đã thuần thục, thành tựu giới đã thuần thục. Chỉ vì lẽ ấy, ngài Kūṭadanta cũng không thích hợp để đến thăm sa-môn Gotama; mà chính sa-môn Gotama mới thích hợp để đến thăm ngài Kūṭadanta.

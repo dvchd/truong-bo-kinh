@@ -81,7 +81,7 @@ trong các bản Hán-Việt.
 | raṭṭha | đất nước | |
 | janapada | dân chúng trong nước / vùng dân cư | theo ngữ cảnh |
 | cora | giặc cướp | mục 4 |
-| dassukhīla | **nanh vuốt của giặc cướp** | hình ảnh Pali: "cái cọc nhọn của kẻ cướp"; dùng "nạn giặc cướp" khi cần rõ nghĩa |
+| dassukhīla | **cọc nhọn của giặc cướp** | `khīla` = cọc, chông; hình ảnh cái cọc nhọn dựng lên như "nanh vuốt" của nạn cướp khi cần rõ nghĩa |
 | dubbhikkha | đói kém | |
 | anayavyasana | tai hoạ | |
 | rājabhogga | đất của vua | chữ "ban cho" là `dinnaṁ` ở vế sau, đừng dịch trùng |
@@ -120,6 +120,6 @@ vai chủ ngữ và lặp lại nhiều lần.
 | `bho gotama` | "thưa ngài Gotama" | Sujato dịch "Worthy Gotama"; đừng bắt chước thành "ngài Gotama đáng kính" |
 | `Yampi …` | "Và vì lẽ ấy…" | mở đầu vế điệp khúc, không phải "cũng như" |
 | `na tveva arahati` | "nhưng … không thích hợp" | `tveva` = `tu eva`, nghĩa tương phản mạnh; đừng dịch "thật vậy" |
-| `dassukhīla` | "nanh vuốt của giặc cướp" | `dassa` = kẻ cướp (`dasu`); không phải "thấy" (`dassa`) |
+| `dassukhīla` | "cọc nhọn của giặc cướp" | `dassa` = kẻ cướp (`dasu`); `khīla` = cọc nhọn; không phải "thấy" (`dassa`) |
 | `anukulayañña` | "lễ tế đúng phép" | `anukula` = thuận hợp, không phải "theo dòng họ" theo nghĩa huyết thống |
 | `sattussadaṁ satiṇakaṭṭhodakaṁ sadhaññaṁ` | "đông đúc sinh vật, đầy cỏ, củi và nước, có thóc lúa" | "khô" không có trong Pali |

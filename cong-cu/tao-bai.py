@@ -59,6 +59,38 @@ SUITAS = {
     34: ('34-kinh-thap-thuong', 'Kinh-Thap-Thuong'),
 }
 
+TITLES = {
+    6: 'Kinh Mahāli',
+    7: 'Kinh Jāliya',
+    8: 'Kinh Đại Sư Tử Hống',
+    9: 'Kinh Poṭṭhapāda',
+    10: 'Kinh Subha',
+    11: 'Kinh Kevaddha',
+    12: 'Kinh Lohicca',
+    13: 'Kinh Tam Minh',
+    14: 'Kinh Đại Bổn',
+    15: 'Kinh Đại Duyên',
+    16: 'Kinh Đại Bát Niết-bàn',
+    17: 'Kinh Đại Thiện Kiến',
+    18: 'Kinh Janavasabha',
+    19: 'Kinh Đại Điển Tôn',
+    20: 'Kinh Đại Hội',
+    21: 'Kinh Sakkapañha',
+    22: 'Kinh Đại Niệm Xứ',
+    23: 'Kinh Pāyāsi',
+    24: 'Kinh Pāṭika',
+    25: 'Kinh Udumbarikā',
+    26: 'Kinh Chuyển Luân Vương',
+    27: 'Kinh Khởi Thế Nhân Bổn',
+    28: 'Kinh Tự Hoan Hỷ',
+    29: 'Kinh Đại Hỷ Kiến',
+    30: 'Kinh Tướng Lakkhana',
+    31: 'Kinh Giáo Thọ',
+    32: 'Kinh A-sát-năng',
+    33: 'Kinh Đại Chúng',
+    34: 'Kinh Thập Thượng',
+}
+
 SHORT = []
 SCRIPTS = ['ghep.py', 'tao-muc-luc.py', 'kiem-tra-marker.py', 'ra-soat.py', 'tien-do.py']
 
@@ -134,6 +166,13 @@ def main():
         if s == 'ghep.py':
             t = re.sub(r'^ORDER = \[.*?^\]', "ORDER = [\n" +
                        ''.join(" %r,\n" % x for x in order) + "]", t, flags=re.S | re.M)
+        if s == 'tao-muc-luc.py':
+            t = re.sub(r'^START = .*$',
+                       'START = "\\n## Trường Bộ Kinh — bài kinh số %d: %s\\n"'
+                       % (n, TITLES.get(n, outname)), t, flags=re.M)
+            t = t.replace('Kinh Soṇadaṇḍa', TITLES.get(n, outname))
+        if s == 'ra-soat.py':
+            t = re.sub(r'^PINNED = \[.*?^\]', 'PINNED = []', t, flags=re.S | re.M)
         open(os.path.join(d, s), 'w', encoding='utf-8').write(t)
 
     subprocess.run([sys.executable, 'nguon/tao-sections.py'], cwd=d, check=True)

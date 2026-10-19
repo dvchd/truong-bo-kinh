@@ -32,7 +32,7 @@ Sa-môn Gotama, thưa quý vị, khi còn trẻ, tóc đen nhánh, đang độ t
 Sa-môn Gotama, thưa quý vị, đã cạo râu tóc, mặc áo cà-sa, từ bỏ đời sống tại gia mà xuất gia sống không nhà, dù cha mẹ không muốn, mặt đầm đìa nước mắt, đang khóc than. Nhưng ngài Gotama không thích hợp để đến thăm chúng tôi; mà chính chúng tôi mới thích hợp để đến thăm ngài Gotama.
 
 <!-- seg: dn5:7.11 -->
-Sa-môn Gotama, thưa quý vị, có dung mạo đẹp đẽ, dễ nhìn, dễ mến, sắc vóc thanh tú tột bậc, nước da như Phạm Thiên, thân hình như Phạm Thiên, đáng để người ta chiêm ngưỡng. Nhưng ngài Gotama không thích hợp để đến thăm chúng tôi; mà chính chúng tôi mới thích hợp để đến thăm ngài Gotama.
+Sa-môn Gotama, thưa quý vị, có dung mạo đẹp đẽ, dễ nhìn, dễ mến, sắc vóc thanh tú tột bậc, nước da như Phạm Thiên, hào quang như Phạm Thiên, đáng để người ta chiêm ngưỡng. Nhưng ngài Gotama không thích hợp để đến thăm chúng tôi; mà chính chúng tôi mới thích hợp để đến thăm ngài Gotama.
 
 <!-- seg: dn5:7.12 -->
 Sa-môn Gotama, thưa quý vị, có giới, giữ giới của bậc thánh, giữ giới thiện lành, và đầy đủ giới thiện lành. Nhưng ngài Gotama không thích hợp để đến thăm chúng tôi; mà chính chúng tôi mới thích hợp để đến thăm ngài Gotama.
@@ -86,7 +86,7 @@ Sa-môn Gotama, thưa quý vị, trú ở làng nào hay thị trấn nào thì 
 Sa-môn Gotama, thưa quý vị, có Tăng chúng, có đồ chúng, là thầy dạy đồ chúng, và được nói là bậc đứng đầu trong số những người sáng lập các giáo phái khác nhau. Danh tiếng của các sa-môn và bà-la-môn khác đến với họ cách nào thì danh tiếng của sa-môn Gotama không đến với ngài theo cách ấy.
 
 <!-- seg: dn5:7.29 -->
-Trái lại, danh tiếng của sa-môn Gotama, thưa quý vị, có được là nhờ sự viên mãn tột bậc về trí tuệ và hạnh tu. Nhưng ngài Gotama không thích hợp để đến thăm chúng tôi; mà chính chúng tôi mới thích hợp để đến thăm ngài Gotama.
+Trái lại, danh tiếng của sa-môn Gotama, thưa quý vị, có được là nhờ sự viên mãn tột bậc về minh và hạnh. Nhưng ngài Gotama không thích hợp để đến thăm chúng tôi; mà chính chúng tôi mới thích hợp để đến thăm ngài Gotama.
 
 <!-- seg: dn5:7.30 -->
 Vua Seniya Bimbisāra nước Magadha, thưa quý vị, cùng vợ con, đoàn tùy tùng và quần thần, đã đến quy y sa-môn Gotama, xin nương tựa trọn đời. Nhưng ngài Gotama không thích hợp để đến thăm chúng tôi; mà chính chúng tôi mới thích hợp để đến thăm ngài Gotama.

@@ -98,7 +98,7 @@ quy mô**, và rằng **của cải không phải là thước đo của phướ
 |---|---|
 | **1** | Đức Thế Tôn đến làng Khāṇumata; Kūṭadanta sửa soạn đại lễ tế |
 | **2** | Mười hai lý lẽ của các bà-la-môn: ngài không nên đi |
-| **3** | Hai mươi tám lý lẽ của Kūṭadanta: tôi phải đi |
+| **3** | Hai mươi chín lý lẽ của Kūṭadanta: tôi phải đi |
 | **4** | Chuyện vua Mahāvijita và vị tế sư Sumedha |
 | **4.1–4.6** | Bốn, tám, bốn thứ phụ tùng; ba cách thức; mười, mười sáu khía cạnh |
 | **5** | Cái bậc thang: bố thí thường xuyên → chỗ ở → quy y → giới → con đường tu tập |

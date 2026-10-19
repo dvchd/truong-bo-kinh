@@ -17,6 +17,6 @@ Tôi xin nương tựa ngài Gotama, nương tựa Pháp và nương tựa Tăng
 Thưa ngài Gotama, xin ngài nhận tôi làm người cư sĩ; từ hôm nay cho đến trọn đời, tôi xin nương tựa ngài.
 
 <!-- seg: dn5:28.6 -->
-Thưa ngài Gotama, tôi xin thả bảy trăm con bò đực, bảy trăm con bò tơ, bảy trăm con bò cái, bảy trăm con dê và bảy trăm con cừu; tôi xin ban sự sống cho chúng. Cứ để chúng ăn cỏ tươi và uống nước mát, và cầu cho gió mát thổi qua chúng!"
+Thưa ngài Gotama, tôi xin thả bảy trăm con bò đực, bảy trăm con bò tơ, bảy trăm con bò cái tơ, bảy trăm con dê và bảy trăm con cừu; tôi xin ban sự sống cho chúng. Cứ để chúng ăn cỏ tươi và uống nước mát, và cầu cho gió mát thổi qua chúng!"
 
 [Chú thích: Việc phóng thả súc vật vẫn còn là một việc thực hành của người theo Phật cho đến ngày nay.]

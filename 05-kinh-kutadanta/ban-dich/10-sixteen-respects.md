@@ -16,7 +16,7 @@ Trong khi đức vua đang làm đại lễ tế, có thể có ai đó sẽ nó
 Vậy mà đức vua lại làm một đại lễ tế như thế."
 
 <!-- seg: dn5:17.5 -->
-Dẫu có nói như vậy, lời ấy về đức vua cũng không có căn cứ trong Pháp.
+Dẫu có nói như vậy, lời ấy về đức vua cũng không đúng lẽ.
 
 <!-- seg: dn5:17.6 -->
 Nhưng đức vua đã cho gọi các vị vua chúa chư hầu ở cả thị trấn lẫn thôn quê.
@@ -31,7 +31,7 @@ Trong khi đức vua đang làm đại lễ tế, có thể có ai đó sẽ nó
 "Vua Mahāvijita đang làm đại lễ tế, nhưng không cho gọi các vị đại thần và cận thần ở cả thị trấn lẫn thôn quê; không cho gọi các bà-la-môn giàu có ở cả thị trấn lẫn thôn quê; không cho gọi các gia chủ giàu có ở cả thị trấn lẫn thôn quê; vậy mà đức vua lại làm một đại lễ tế như thế."
 
 <!-- seg: dn5:17.10 -->
-Dẫu có nói như vậy, lời ấy về đức vua cũng không có căn cứ trong Pháp.
+Dẫu có nói như vậy, lời ấy về đức vua cũng không đúng lẽ.
 
 <!-- seg: dn5:17.11 -->
 Nhưng đức vua đã cho gọi các gia chủ giàu có ở cả thị trấn lẫn thôn quê.
@@ -48,7 +48,7 @@ Trong khi đức vua đang làm đại lễ tế, có thể có ai đó sẽ nó
 "Vua Mahāvijita đang làm đại lễ tế, nhưng không phải là người sinh ra tốt đẹp cả hai phía, từ phía mẹ và từ phía cha, dòng dõi trong sạch cho đến bảy đời tổ tiên, không bị chê bai hay chỉ trích vì vấn đề dòng giống; vậy mà đức vua lại làm một đại lễ tế như thế."
 
 <!-- seg: dn5:17.15 -->
-Dẫu có nói như vậy, lời ấy về đức vua cũng không có căn cứ trong Pháp.
+Dẫu có nói như vậy, lời ấy về đức vua cũng không đúng lẽ.
 
 <!-- seg: dn5:17.16 -->
 Nhưng đức vua sinh ra tốt đẹp cả hai phía, từ phía mẹ và từ phía cha, dòng dõi trong sạch cho đến bảy đời tổ tiên, không bị chê bai hay chỉ trích vì vấn đề dòng giống.
@@ -60,7 +60,7 @@ Xin đức vua biết điều này: hãy tế lễ, hãy buông bỏ, hãy hoan 
 Trong khi đức vua đang làm đại lễ tế, có thể có ai đó sẽ nói rằng:
 
 <!-- seg: dn5:17.19 -->
-"Vua Mahāvijita đang làm đại lễ tế, nhưng không phải là người đẹp trai, dễ nhìn, đáng mến, có làn da đẹp tuyệt vời, nước da như Phạm Thiên, thân hình như Phạm Thiên, khi gặp mặt không ai coi thường;
+"Vua Mahāvijita đang làm đại lễ tế, nhưng không phải là người đẹp trai, dễ nhìn, đáng mến, có làn da đẹp tuyệt vời, nước da như Phạm Thiên, hào quang như Phạm Thiên, khi gặp mặt không ai coi thường;
 
 <!-- seg: dn5:17.20 -->
 không phải là người giàu có, nhiều của cải, nhiều tài sản, có nhiều vàng bạc, nhiều vật dụng, nhiều tiền của và lúa gạo, kho lẫm đầy ắp;
@@ -69,7 +69,7 @@ không phải là người giàu có, nhiều của cải, nhiều tài sản, c
 không phải là người có sức mạnh, có đạo quân bốn thành phần, biết vâng lời và làm theo lời dạy bảo, có thể đè bẹp kẻ thù bằng uy danh;
 
 <!-- seg: dn5:17.22 -->
-không phải là người có lòng tin, hay bố thí, là người ban tặng, cửa mở rộng, như nơi cung cấp nước uống cho sa-môn, bà-la-môn, kẻ nghèo khó, người lữ hành và kẻ ăn xin, và làm các việc phước;
+không phải là người có lòng tin, hay bố thí, là người ban tặng, cửa mở rộng, như nơi cung cấp nước uống cho sa-môn, bà-la-môn, kẻ nghèo khó, người lữ hành, người cầu xin và kẻ ăn xin, và làm các việc phước;
 
 <!-- seg: dn5:17.23 -->
 không phải là người nghe nhiều, biết rộng các loại văn bản;
@@ -84,7 +84,7 @@ không phải là người biết ý nghĩa của từng lời đã nói:
 không phải là người khôn ngoan, từng trải, sáng suốt, có khả năng suy xét những việc đã qua, chưa tới và hiện tại; vậy mà đức vua lại làm một đại lễ tế như thế."
 
 <!-- seg: dn5:17.27 -->
-Dẫu có nói như vậy, lời ấy về đức vua cũng không có căn cứ trong Pháp.
+Dẫu có nói như vậy, lời ấy về đức vua cũng không đúng lẽ.
 
 <!-- seg: dn5:17.28 -->
 Nhưng đức vua là người khôn ngoan, từng trải, sáng suốt, có khả năng suy xét những việc đã qua, chưa tới và hiện tại.
@@ -107,7 +107,7 @@ Nhưng vị tế sư bà-la-môn của vua không phải là người sinh ra t�
 Vậy mà đức vua lại làm một đại lễ tế như thế."
 
 <!-- seg: dn5:17.34 -->
-Dẫu có nói như vậy, lời ấy về đức vua cũng không có căn cứ trong Pháp.
+Dẫu có nói như vậy, lời ấy về đức vua cũng không đúng lẽ.
 
 <!-- seg: dn5:17.35 -->
 Nhưng vị tế sư bà-la-môn của đức vua sinh ra tốt đẹp cả hai phía, từ phía mẹ và từ phía cha, dòng dõi trong sạch cho đến bảy đời tổ tiên, không bị chê bai hay chỉ trích vì vấn đề dòng giống.
@@ -122,7 +122,7 @@ Trong khi đức vua đang làm đại lễ tế, có thể có ai đó sẽ nó
 "Vua Mahāvijita đang làm đại lễ tế.
 
 <!-- seg: dn5:17.39 -->
-Nhưng vị tế sư bà-la-môn của vua không phải là người thông thuộc kinh điển, ghi nhớ chú thuật, đã đến bờ bên kia của ba bộ Veda cùng với các bảng từ vựng, các sách nghi lễ, phần chữ nghĩa và phần phân tích, với sử thi là thứ năm; là người am hiểu từ ngữ, thông thạo ngữ pháp, không thiếu sót về khoa học thế gian và các tướng của bậc đại nhân;
+Nhưng vị tế sư bà-la-môn của vua không phải là người thông thuộc kinh điển, ghi nhớ chú thuật, đã đến bờ bên kia của ba bộ Veda cùng với các bảng từ vựng, các sách nghi lễ, ngữ âm và cách phân loại từ, với sử thi là thứ năm; là người am hiểu từ ngữ, thông thạo ngữ pháp, không thiếu sót về khoa học thế gian và các tướng của bậc đại nhân;
 
 <!-- seg: dn5:17.40 -->
 Nhưng vị tế sư bà-la-môn của vua không phải là người có giới, giới đã thuần thục, thành tựu giới đã thuần thục;
@@ -131,7 +131,7 @@ Nhưng vị tế sư bà-la-môn của vua không phải là người có giới
 Nhưng vị tế sư bà-la-môn của vua không phải là người khôn ngoan, từng trải, sáng suốt, bậc nhất hoặc bậc nhì trong những người đứng ra làm lễ tế; vậy mà đức vua lại làm một đại lễ tế như thế."
 
 <!-- seg: dn5:17.42 -->
-Dẫu có nói như vậy, lời ấy về đức vua cũng không có căn cứ trong Pháp.
+Dẫu có nói như vậy, lời ấy về đức vua cũng không đúng lẽ.
 
 <!-- seg: dn5:17.43 -->
 Nhưng vị tế sư bà-la-môn của đức vua là người khôn ngoan, từng trải, sáng suốt, bậc nhất hoặc bậc nhì trong những người đứng ra làm lễ tế.

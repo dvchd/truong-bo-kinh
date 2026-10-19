@@ -98,7 +98,7 @@ quy mô**, và rằng **của cải không phải là thước đo của phướ
 |---|---|
 | **1** | Đức Thế Tôn đến làng Khāṇumata; Kūṭadanta sửa soạn đại lễ tế |
 | **2** | Mười hai lý lẽ của các bà-la-môn: ngài không nên đi |
-| **3** | Hai mươi tám lý lẽ của Kūṭadanta: tôi phải đi |
+| **3** | Hai mươi chín lý lẽ của Kūṭadanta: tôi phải đi |
 | **4** | Chuyện vua Mahāvijita và vị tế sư Sumedha |
 | **4.1–4.6** | Bốn, tám, bốn thứ phụ tùng; ba cách thức; mười, mười sáu khía cạnh |
 | **5** | Cái bậc thang: bố thí thường xuyên → chỗ ở → quy y → giới → con đường tu tập |
@@ -347,7 +347,7 @@ Ngài Kūṭadanta giàu có, nhiều của cải, nhiều tài sản, có đầ
 Ngài Kūṭadanta là người tụng đọc, thuộc lòng thần chú, thông suốt ba bộ Vệ-đà cùng với từ vựng và nghi lễ tế tự, với ngữ âm và cách phân loại từ, với bộ sử thi là thứ năm; ngài thuộc từng chữ và thông thạo ngữ pháp, không thiếu hiểu biết về khoa luận thuyết về thế giới và tướng của bậc đại nhân. Chỉ vì lẽ ấy, ngài Kūṭadanta cũng không thích hợp để đến thăm sa-môn Gotama; mà chính sa-môn Gotama mới thích hợp để đến thăm ngài Kūṭadanta.
 
 <!-- seg: dn5:6.11 -->
-Ngài Kūṭadanta có dung mạo đẹp đẽ, dễ nhìn, dễ mến, sắc vóc thanh tú tột bậc, nước da như Phạm Thiên, thân hình như Phạm Thiên, đáng để người ta chiêm ngưỡng. Chỉ vì lẽ ấy, ngài Kūṭadanta cũng không thích hợp để đến thăm sa-môn Gotama; mà chính sa-môn Gotama mới thích hợp để đến thăm ngài Kūṭadanta.
+Ngài Kūṭadanta có dung mạo đẹp đẽ, dễ nhìn, dễ mến, sắc vóc thanh tú tột bậc, nước da như Phạm Thiên, hào quang như Phạm Thiên, đáng để người ta chiêm ngưỡng. Chỉ vì lẽ ấy, ngài Kūṭadanta cũng không thích hợp để đến thăm sa-môn Gotama; mà chính sa-môn Gotama mới thích hợp để đến thăm ngài Kūṭadanta.
 
 <!-- seg: dn5:6.12 -->
 Ngài Kūṭadanta có giới, giới đã thuần thục, thành tựu giới đã thuần thục. Chỉ vì lẽ ấy, ngài Kūṭadanta cũng không thích hợp để đến thăm sa-môn Gotama; mà chính sa-môn Gotama mới thích hợp để đến thăm ngài Kūṭadanta.
@@ -415,7 +415,7 @@ Sa-môn Gotama, thưa quý vị, khi còn trẻ, tóc đen nhánh, đang độ t
 Sa-môn Gotama, thưa quý vị, đã cạo râu tóc, mặc áo cà-sa, từ bỏ đời sống tại gia mà xuất gia sống không nhà, dù cha mẹ không muốn, mặt đầm đìa nước mắt, đang khóc than. Nhưng ngài Gotama không thích hợp để đến thăm chúng tôi; mà chính chúng tôi mới thích hợp để đến thăm ngài Gotama.
 
 <!-- seg: dn5:7.11 -->
-Sa-môn Gotama, thưa quý vị, có dung mạo đẹp đẽ, dễ nhìn, dễ mến, sắc vóc thanh tú tột bậc, nước da như Phạm Thiên, thân hình như Phạm Thiên, đáng để người ta chiêm ngưỡng. Nhưng ngài Gotama không thích hợp để đến thăm chúng tôi; mà chính chúng tôi mới thích hợp để đến thăm ngài Gotama.
+Sa-môn Gotama, thưa quý vị, có dung mạo đẹp đẽ, dễ nhìn, dễ mến, sắc vóc thanh tú tột bậc, nước da như Phạm Thiên, hào quang như Phạm Thiên, đáng để người ta chiêm ngưỡng. Nhưng ngài Gotama không thích hợp để đến thăm chúng tôi; mà chính chúng tôi mới thích hợp để đến thăm ngài Gotama.
 
 <!-- seg: dn5:7.12 -->
 Sa-môn Gotama, thưa quý vị, có giới, giữ giới của bậc thánh, giữ giới thiện lành, và đầy đủ giới thiện lành. Nhưng ngài Gotama không thích hợp để đến thăm chúng tôi; mà chính chúng tôi mới thích hợp để đến thăm ngài Gotama.
@@ -469,7 +469,7 @@ Sa-môn Gotama, thưa quý vị, trú ở làng nào hay thị trấn nào thì 
 Sa-môn Gotama, thưa quý vị, có Tăng chúng, có đồ chúng, là thầy dạy đồ chúng, và được nói là bậc đứng đầu trong số những người sáng lập các giáo phái khác nhau. Danh tiếng của các sa-môn và bà-la-môn khác đến với họ cách nào thì danh tiếng của sa-môn Gotama không đến với ngài theo cách ấy.
 
 <!-- seg: dn5:7.29 -->
-Trái lại, danh tiếng của sa-môn Gotama, thưa quý vị, có được là nhờ sự viên mãn tột bậc về trí tuệ và hạnh tu. Nhưng ngài Gotama không thích hợp để đến thăm chúng tôi; mà chính chúng tôi mới thích hợp để đến thăm ngài Gotama.
+Trái lại, danh tiếng của sa-môn Gotama, thưa quý vị, có được là nhờ sự viên mãn tột bậc về minh và hạnh. Nhưng ngài Gotama không thích hợp để đến thăm chúng tôi; mà chính chúng tôi mới thích hợp để đến thăm ngài Gotama.
 
 <!-- seg: dn5:7.30 -->
 Vua Seniya Bimbisāra nước Magadha, thưa quý vị, cùng vợ con, đoàn tùy tùng và quần thần, đã đến quy y sa-môn Gotama, xin nương tựa trọn đời. Nhưng ngài Gotama không thích hợp để đến thăm chúng tôi; mà chính chúng tôi mới thích hợp để đến thăm ngài Gotama.
@@ -739,7 +739,7 @@ Vua Mahāvijita thành tựu tám yếu tố như sau:
 Sinh ra tốt đẹp cả hai phía, từ phía mẹ và từ phía cha, dòng dõi trong sạch cho đến bảy đời tổ tiên, không bị chê bai hay chỉ trích vì vấn đề dòng giống;
 
 <!-- seg: dn5:13.3 -->
-Đẹp trai, dễ nhìn, đáng mến, có làn da đẹp tuyệt vời, nước da như Phạm Thiên, thân hình như Phạm Thiên, khi gặp mặt không ai coi thường;
+Đẹp trai, dễ nhìn, đáng mến, có làn da đẹp tuyệt vời, nước da như Phạm Thiên, hào quang như Phạm Thiên, khi gặp mặt không ai coi thường;
 
 <!-- seg: dn5:13.4 -->
 Giàu có, nhiều của cải, nhiều tài sản, có nhiều vàng bạc, nhiều vật dụng, nhiều tiền của và lúa gạo, kho lẫm đầy ắp;
@@ -750,7 +750,7 @@ Có sức mạnh, có đạo quân bốn thành phần, biết vâng lời và l
 [Chú thích: Chỗ này đọc là sahati ("thắng được"), không theo các dị bản khác.]
 
 <!-- seg: dn5:13.6 -->
-Có lòng tin, hay bố thí, là người ban tặng, cửa mở rộng, như nơi cung cấp nước uống cho sa-môn, bà-la-môn, kẻ nghèo khó, người lữ hành và kẻ ăn xin, và làm các việc phước;
+Có lòng tin, hay bố thí, là người ban tặng, cửa mở rộng, như nơi cung cấp nước uống cho sa-môn, bà-la-môn, kẻ nghèo khó, người lữ hành, người cầu xin và kẻ ăn xin, và làm các việc phước;
 
 <!-- seg: dn5:13.7 -->
 Nghe nhiều, biết rộng các loại văn bản; hiểu được ý nghĩa của từng lời đã nói:
@@ -785,7 +785,7 @@ Vị tế sư bà-la-môn thành tựu bốn yếu tố như sau:
 Sinh ra tốt đẹp cả hai phía, từ phía mẹ và từ phía cha, dòng dõi trong sạch cho đến bảy đời tổ tiên, không bị chê bai hay chỉ trích vì vấn đề dòng giống;
 
 <!-- seg: dn5:14.3 -->
-Thông thuộc kinh điển, ghi nhớ chú thuật, đã đến bờ bên kia của ba bộ Veda cùng với các bảng từ vựng, các sách nghi lễ, phần chữ nghĩa và phần phân tích, với sử thi là thứ năm; am hiểu từ ngữ, thông thạo ngữ pháp, không thiếu sót về khoa học thế gian và các tướng của bậc đại nhân;
+Thông thuộc kinh điển, ghi nhớ chú thuật, đã đến bờ bên kia của ba bộ Veda cùng với các bảng từ vựng, các sách nghi lễ, ngữ âm và cách phân loại từ, với sử thi là thứ năm; am hiểu từ ngữ, thông thạo ngữ pháp, không thiếu sót về khoa học thế gian và các tướng của bậc đại nhân;
 
 <!-- seg: dn5:14.4 -->
 Có giới, giới đã thuần thục, thành tựu giới đã thuần thục;
@@ -907,7 +907,7 @@ Trong khi đức vua đang làm đại lễ tế, có thể có ai đó sẽ nó
 Vậy mà đức vua lại làm một đại lễ tế như thế."
 
 <!-- seg: dn5:17.5 -->
-Dẫu có nói như vậy, lời ấy về đức vua cũng không có căn cứ trong Pháp.
+Dẫu có nói như vậy, lời ấy về đức vua cũng không đúng lẽ.
 
 <!-- seg: dn5:17.6 -->
 Nhưng đức vua đã cho gọi các vị vua chúa chư hầu ở cả thị trấn lẫn thôn quê.
@@ -922,7 +922,7 @@ Trong khi đức vua đang làm đại lễ tế, có thể có ai đó sẽ nó
 "Vua Mahāvijita đang làm đại lễ tế, nhưng không cho gọi các vị đại thần và cận thần ở cả thị trấn lẫn thôn quê; không cho gọi các bà-la-môn giàu có ở cả thị trấn lẫn thôn quê; không cho gọi các gia chủ giàu có ở cả thị trấn lẫn thôn quê; vậy mà đức vua lại làm một đại lễ tế như thế."
 
 <!-- seg: dn5:17.10 -->
-Dẫu có nói như vậy, lời ấy về đức vua cũng không có căn cứ trong Pháp.
+Dẫu có nói như vậy, lời ấy về đức vua cũng không đúng lẽ.
 
 <!-- seg: dn5:17.11 -->
 Nhưng đức vua đã cho gọi các gia chủ giàu có ở cả thị trấn lẫn thôn quê.
@@ -939,7 +939,7 @@ Trong khi đức vua đang làm đại lễ tế, có thể có ai đó sẽ nó
 "Vua Mahāvijita đang làm đại lễ tế, nhưng không phải là người sinh ra tốt đẹp cả hai phía, từ phía mẹ và từ phía cha, dòng dõi trong sạch cho đến bảy đời tổ tiên, không bị chê bai hay chỉ trích vì vấn đề dòng giống; vậy mà đức vua lại làm một đại lễ tế như thế."
 
 <!-- seg: dn5:17.15 -->
-Dẫu có nói như vậy, lời ấy về đức vua cũng không có căn cứ trong Pháp.
+Dẫu có nói như vậy, lời ấy về đức vua cũng không đúng lẽ.
 
 <!-- seg: dn5:17.16 -->
 Nhưng đức vua sinh ra tốt đẹp cả hai phía, từ phía mẹ và từ phía cha, dòng dõi trong sạch cho đến bảy đời tổ tiên, không bị chê bai hay chỉ trích vì vấn đề dòng giống.
@@ -951,7 +951,7 @@ Xin đức vua biết điều này: hãy tế lễ, hãy buông bỏ, hãy hoan 
 Trong khi đức vua đang làm đại lễ tế, có thể có ai đó sẽ nói rằng:
 
 <!-- seg: dn5:17.19 -->
-"Vua Mahāvijita đang làm đại lễ tế, nhưng không phải là người đẹp trai, dễ nhìn, đáng mến, có làn da đẹp tuyệt vời, nước da như Phạm Thiên, thân hình như Phạm Thiên, khi gặp mặt không ai coi thường;
+"Vua Mahāvijita đang làm đại lễ tế, nhưng không phải là người đẹp trai, dễ nhìn, đáng mến, có làn da đẹp tuyệt vời, nước da như Phạm Thiên, hào quang như Phạm Thiên, khi gặp mặt không ai coi thường;
 
 <!-- seg: dn5:17.20 -->
 không phải là người giàu có, nhiều của cải, nhiều tài sản, có nhiều vàng bạc, nhiều vật dụng, nhiều tiền của và lúa gạo, kho lẫm đầy ắp;
@@ -960,7 +960,7 @@ không phải là người giàu có, nhiều của cải, nhiều tài sản, c
 không phải là người có sức mạnh, có đạo quân bốn thành phần, biết vâng lời và làm theo lời dạy bảo, có thể đè bẹp kẻ thù bằng uy danh;
 
 <!-- seg: dn5:17.22 -->
-không phải là người có lòng tin, hay bố thí, là người ban tặng, cửa mở rộng, như nơi cung cấp nước uống cho sa-môn, bà-la-môn, kẻ nghèo khó, người lữ hành và kẻ ăn xin, và làm các việc phước;
+không phải là người có lòng tin, hay bố thí, là người ban tặng, cửa mở rộng, như nơi cung cấp nước uống cho sa-môn, bà-la-môn, kẻ nghèo khó, người lữ hành, người cầu xin và kẻ ăn xin, và làm các việc phước;
 
 <!-- seg: dn5:17.23 -->
 không phải là người nghe nhiều, biết rộng các loại văn bản;
@@ -975,7 +975,7 @@ không phải là người biết ý nghĩa của từng lời đã nói:
 không phải là người khôn ngoan, từng trải, sáng suốt, có khả năng suy xét những việc đã qua, chưa tới và hiện tại; vậy mà đức vua lại làm một đại lễ tế như thế."
 
 <!-- seg: dn5:17.27 -->
-Dẫu có nói như vậy, lời ấy về đức vua cũng không có căn cứ trong Pháp.
+Dẫu có nói như vậy, lời ấy về đức vua cũng không đúng lẽ.
 
 <!-- seg: dn5:17.28 -->
 Nhưng đức vua là người khôn ngoan, từng trải, sáng suốt, có khả năng suy xét những việc đã qua, chưa tới và hiện tại.
@@ -998,7 +998,7 @@ Nhưng vị tế sư bà-la-môn của vua không phải là người sinh ra t�
 Vậy mà đức vua lại làm một đại lễ tế như thế."
 
 <!-- seg: dn5:17.34 -->
-Dẫu có nói như vậy, lời ấy về đức vua cũng không có căn cứ trong Pháp.
+Dẫu có nói như vậy, lời ấy về đức vua cũng không đúng lẽ.
 
 <!-- seg: dn5:17.35 -->
 Nhưng vị tế sư bà-la-môn của đức vua sinh ra tốt đẹp cả hai phía, từ phía mẹ và từ phía cha, dòng dõi trong sạch cho đến bảy đời tổ tiên, không bị chê bai hay chỉ trích vì vấn đề dòng giống.
@@ -1013,7 +1013,7 @@ Trong khi đức vua đang làm đại lễ tế, có thể có ai đó sẽ nó
 "Vua Mahāvijita đang làm đại lễ tế.
 
 <!-- seg: dn5:17.39 -->
-Nhưng vị tế sư bà-la-môn của vua không phải là người thông thuộc kinh điển, ghi nhớ chú thuật, đã đến bờ bên kia của ba bộ Veda cùng với các bảng từ vựng, các sách nghi lễ, phần chữ nghĩa và phần phân tích, với sử thi là thứ năm; là người am hiểu từ ngữ, thông thạo ngữ pháp, không thiếu sót về khoa học thế gian và các tướng của bậc đại nhân;
+Nhưng vị tế sư bà-la-môn của vua không phải là người thông thuộc kinh điển, ghi nhớ chú thuật, đã đến bờ bên kia của ba bộ Veda cùng với các bảng từ vựng, các sách nghi lễ, ngữ âm và cách phân loại từ, với sử thi là thứ năm; là người am hiểu từ ngữ, thông thạo ngữ pháp, không thiếu sót về khoa học thế gian và các tướng của bậc đại nhân;
 
 <!-- seg: dn5:17.40 -->
 Nhưng vị tế sư bà-la-môn của vua không phải là người có giới, giới đã thuần thục, thành tựu giới đã thuần thục;
@@ -1022,7 +1022,7 @@ Nhưng vị tế sư bà-la-môn của vua không phải là người có giới
 Nhưng vị tế sư bà-la-môn của vua không phải là người khôn ngoan, từng trải, sáng suốt, bậc nhất hoặc bậc nhì trong những người đứng ra làm lễ tế; vậy mà đức vua lại làm một đại lễ tế như thế."
 
 <!-- seg: dn5:17.42 -->
-Dẫu có nói như vậy, lời ấy về đức vua cũng không có căn cứ trong Pháp.
+Dẫu có nói như vậy, lời ấy về đức vua cũng không đúng lẽ.
 
 <!-- seg: dn5:17.43 -->
 Nhưng vị tế sư bà-la-môn của đức vua là người khôn ngoan, từng trải, sáng suốt, bậc nhất hoặc bậc nhì trong những người đứng ra làm lễ tế.
@@ -1307,7 +1307,7 @@ Khi đã từ bỏ sự dễ chịu và đã từ bỏ sự đau khổ, và khi 
 Này bà-la-môn, lễ tế này nữa cũng so với các lễ tế trước thì ít đòi hỏi hơn, ít phải sửa soạn hơn, mà quả lớn hơn, lợi ích lớn hơn.
 
 <!-- seg: dn5:27.12 -->
-Vị ấy hướng tâm, dẫn tâm về phía tri kiến và hiểu như thật: 'Đây là thân của ta, có sắc, do bốn đại hợp thành, do cha mẹ sinh ra, được bồi đắp bằng cơm cháo, mang bản chất vô thường, dễ bị bào mòn, rạn nứt và tan hoại; và thức này của ta nương vào đây, gắn chặt vào đây.' Rồi vị ấy tạo ra một thân khác bằng tâm, đủ hình sắc, đủ các chi phần và giác quan. Rồi vị ấy thực hiện các loại thần thông: một thân hóa thành nhiều thân, nhiều thân hóa thành một thân; hiện ra rồi biến mất; đi xuyên qua tường, qua thành, qua núi mà không bị chướng ngại, như đi trong hư không; lặn xuống đất như lặn xuống nước; đi trên mặt nước mà không chìm, như đi trên đất liền; ngồi xếp bằng bay lượn trong hư không như con chim; chạm tay đến mặt trăng và mặt trời, những vật có uy lực lớn như thế; cho đến cõi Phạm Thiên, vị ấy cũng có thể dùng thân mà đến được. Với thiên nhĩ thanh tịnh, vượt xa tai của người thường, vị ấy nghe được cả hai loại âm thanh, của trời và của người, ở xa cũng như ở gần. Vị ấy biết được tâm của chúng sinh khác, của những người khác: tâm có tham hay không tham, có sân hay không sân, có si hay không si, co rút hay tán loạn, rộng lớn hay không rộng lớn, có định hay không định, giải thoát hay không giải thoát, vị ấy đều biết rõ. Rồi vị ấy nhớ lại nhiều đời sống trước: một đời, hai đời, cho đến nhiều trăm nghìn đời, nhiều kiếp thành, nhiều kiếp hoại, nhiều kiếp thành và hoại; nhớ rằng ở đó ta có tên như thế, dòng dõi như thế, màu da như thế, thức ăn như thế, khổ vui như thế, tuổi thọ như thế; từ chỗ ấy chết đi, ta sinh ra ở chỗ kia, và ở chỗ kia ta có tên như thế, dòng dõi như thế, màu da như thế, thức ăn như thế, khổ vui như thế, tuổi thọ như thế; từ chỗ ấy chết đi, ta lại sinh ra ở đây. Với thiên nhãn thanh tịnh, vượt xa mắt của người thường, vị ấy thấy chúng sinh đang chết đi và đang tái sinh, thấp hèn hay cao quý, đẹp đẽ hay xấu xí, sinh vào chỗ lành hay chỗ dữ, và hiểu rằng chúng sinh đi theo nghiệp của mình. Rồi vị ấy hướng tâm đến sự đoạn tận các lậu hoặc. Vị ấy biết như thật: 'Đây là khổ', biết như thật: 'Đây là nguyên nhân sinh khởi của khổ', biết như thật: 'Đây là sự chấm dứt của khổ', biết như thật: 'Đây là con đường dẫn đến sự chấm dứt của khổ'; biết như thật về các lậu hoặc, về nguyên nhân sinh khởi của các lậu hoặc, về sự chấm dứt của các lậu hoặc, về con đường dẫn đến sự chấm dứt của các lậu hoặc. Khi vị ấy biết như vậy, thấy như vậy, tâm được giải thoát khỏi lậu hoặc của dục, khỏi lậu hoặc của hữu và khỏi lậu hoặc của vô minh. Khi đã giải thoát, vị ấy biết rằng mình đã giải thoát.
+Vị ấy hướng tâm, dẫn tâm về phía tri kiến và hiểu như thật: 'Đây là thân của ta, có sắc, do bốn đại hợp thành, do cha mẹ sinh ra, được bồi đắp bằng cơm cháo, mang bản chất vô thường, dễ bị bào mòn, rạn nứt và tan hoại; và thức này của ta nương vào đây, gắn chặt vào đây.' Rồi vị ấy tạo ra một thân khác bằng tâm, đủ hình sắc, đủ các chi phần và giác quan. Rồi vị ấy thực hiện các loại thần thông: một thân hóa thành nhiều thân, nhiều thân hóa thành một thân; hiện ra rồi biến mất; đi xuyên qua tường, qua thành, qua núi mà không bị chướng ngại, như đi trong hư không; lặn xuống đất như lặn xuống nước; đi trên mặt nước mà không chìm, như đi trên đất liền; ngồi xếp bằng bay lượn trong hư không như con chim; chạm tay đến mặt trăng và mặt trời, những vật có uy lực lớn như thế; cho đến cõi Phạm Thiên, vị ấy cũng có thể dùng thân mà đến được. Với thiên nhĩ thanh tịnh, vượt xa tai của người thường, vị ấy nghe được cả hai loại âm thanh, của trời và của người, ở xa cũng như ở gần. Vị ấy biết được tâm của chúng sinh khác, của những người khác: tâm có tham hay không tham, có sân hay không sân, có si hay không si, co rút hay tán loạn, rộng lớn hay không rộng lớn, có bậc trên hay không có bậc trên, có định hay không định, giải thoát hay không giải thoát, vị ấy đều biết rõ. Rồi vị ấy nhớ lại nhiều đời sống trước: một đời, hai đời, cho đến nhiều trăm nghìn đời, nhiều kiếp thành, nhiều kiếp hoại, nhiều kiếp thành và hoại; nhớ rằng ở đó ta có tên như thế, dòng dõi như thế, màu da như thế, thức ăn như thế, khổ vui như thế, tuổi thọ như thế; từ chỗ ấy chết đi, ta sinh ra ở chỗ kia, và ở chỗ kia ta có tên như thế, dòng dõi như thế, màu da như thế, thức ăn như thế, khổ vui như thế, tuổi thọ như thế; từ chỗ ấy chết đi, ta lại sinh ra ở đây. Với thiên nhãn thanh tịnh, vượt xa mắt của người thường, vị ấy thấy chúng sinh đang chết đi và đang tái sinh, thấp hèn hay cao quý, đẹp đẽ hay xấu xí, sinh vào chỗ lành hay chỗ dữ, và hiểu rằng chúng sinh đi theo nghiệp của mình. Rồi vị ấy hướng tâm đến sự đoạn tận các lậu hoặc. Vị ấy biết như thật: 'Đây là khổ', biết như thật: 'Đây là nguyên nhân sinh khởi của khổ', biết như thật: 'Đây là sự chấm dứt của khổ', biết như thật: 'Đây là con đường dẫn đến sự chấm dứt của khổ'; biết như thật về các lậu hoặc, về nguyên nhân sinh khởi của các lậu hoặc, về sự chấm dứt của các lậu hoặc, về con đường dẫn đến sự chấm dứt của các lậu hoặc. Khi vị ấy biết như vậy, thấy như vậy, tâm được giải thoát khỏi lậu hoặc của dục, khỏi lậu hoặc của hữu và khỏi lậu hoặc của vô minh. Khi đã giải thoát, vị ấy biết rằng mình đã giải thoát.
 
 [Chú thích: (của người dịch) Phần này cũng là peyyāla chỉ trọn khối văn về tri kiến và ba minh trong Kinh Sa-môn Quả; bản dịch kể đủ các chặng nhưng gộp những danh sách dài lại cho dễ đọc.]
 
@@ -1346,7 +1346,7 @@ Tôi xin nương tựa ngài Gotama, nương tựa Pháp và nương tựa Tăng
 Thưa ngài Gotama, xin ngài nhận tôi làm người cư sĩ; từ hôm nay cho đến trọn đời, tôi xin nương tựa ngài.
 
 <!-- seg: dn5:28.6 -->
-Thưa ngài Gotama, tôi xin thả bảy trăm con bò đực, bảy trăm con bò tơ, bảy trăm con bò cái, bảy trăm con dê và bảy trăm con cừu; tôi xin ban sự sống cho chúng. Cứ để chúng ăn cỏ tươi và uống nước mát, và cầu cho gió mát thổi qua chúng!"
+Thưa ngài Gotama, tôi xin thả bảy trăm con bò đực, bảy trăm con bò tơ, bảy trăm con bò cái tơ, bảy trăm con dê và bảy trăm con cừu; tôi xin ban sự sống cho chúng. Cứ để chúng ăn cỏ tươi và uống nước mát, và cầu cho gió mát thổi qua chúng!"
 
 [Chú thích: Việc phóng thả súc vật vẫn còn là một việc thực hành của người theo Phật cho đến ngày nay.]
 
@@ -1494,7 +1494,7 @@ trong các bản Hán-Việt.
 | raṭṭha | đất nước | |
 | janapada | dân chúng trong nước / vùng dân cư | theo ngữ cảnh |
 | cora | giặc cướp | mục 4 |
-| dassukhīla | **nanh vuốt của giặc cướp** | hình ảnh Pali: "cái cọc nhọn của kẻ cướp"; dùng "nạn giặc cướp" khi cần rõ nghĩa |
+| dassukhīla | **cọc nhọn của giặc cướp** | `khīla` = cọc, chông; hình ảnh cái cọc nhọn dựng lên như "nanh vuốt" của nạn cướp khi cần rõ nghĩa |
 | dubbhikkha | đói kém | |
 | anayavyasana | tai hoạ | |
 | rājabhogga | đất của vua | chữ "ban cho" là `dinnaṁ` ở vế sau, đừng dịch trùng |
@@ -1533,7 +1533,7 @@ vai chủ ngữ và lặp lại nhiều lần.
 | `bho gotama` | "thưa ngài Gotama" | Sujato dịch "Worthy Gotama"; đừng bắt chước thành "ngài Gotama đáng kính" |
 | `Yampi …` | "Và vì lẽ ấy…" | mở đầu vế điệp khúc, không phải "cũng như" |
 | `na tveva arahati` | "nhưng … không thích hợp" | `tveva` = `tu eva`, nghĩa tương phản mạnh; đừng dịch "thật vậy" |
-| `dassukhīla` | "nanh vuốt của giặc cướp" | `dassa` = kẻ cướp (`dasu`); không phải "thấy" (`dassa`) |
+| `dassukhīla` | "cọc nhọn của giặc cướp" | `dassa` = kẻ cướp (`dasu`); `khīla` = cọc nhọn; không phải "thấy" (`dassa`) |
 | `anukulayañña` | "lễ tế đúng phép" | `anukula` = thuận hợp, không phải "theo dòng họ" theo nghĩa huyết thống |
 | `sattussadaṁ satiṇakaṭṭhodakaṁ sadhaññaṁ` | "đông đúc sinh vật, đầy cỏ, củi và nước, có thóc lúa" | "khô" không có trong Pali |
 
@@ -1586,7 +1586,7 @@ Bản dịch chia bài kinh thành 374 đoạn theo cách đánh số của Sutt
 `<!-- seg: dn5:X.Y -->` ghi số đoạn tương ứng.
 
 Hai mục 2 và 3 trong bản Pali dùng peyyāla (`…pe…`) để lược câu kết luận sau mỗi lý lẽ; bản dịch
-này khai triển đầy đủ từng lần — mười hai lần ở mục 2, hai mươi tám lần ở mục 3.
+này khai triển đầy đủ từng lần — mười hai lần ở mục 2, hai mươi chín lần ở mục 3.
 
 Riêng khối con đường tu tập ở mục 5 (27.4–27.16) lặp lại gần như nguyên văn khối văn của Kinh
 Sa-môn Quả (bài 2, mục 4.3). Ở đó bản dịch tóm lược có kiểm soát, giữ đủ bốn tầng thiền-na và

@@ -10,7 +10,7 @@ Vị tế sư bà-la-môn thành tựu bốn yếu tố như sau:
 Sinh ra tốt đẹp cả hai phía, từ phía mẹ và từ phía cha, dòng dõi trong sạch cho đến bảy đời tổ tiên, không bị chê bai hay chỉ trích vì vấn đề dòng giống;
 
 <!-- seg: dn5:14.3 -->
-Thông thuộc kinh điển, ghi nhớ chú thuật, đã đến bờ bên kia của ba bộ Veda cùng với các bảng từ vựng, các sách nghi lễ, phần chữ nghĩa và phần phân tích, với sử thi là thứ năm; am hiểu từ ngữ, thông thạo ngữ pháp, không thiếu sót về khoa học thế gian và các tướng của bậc đại nhân;
+Thông thuộc kinh điển, ghi nhớ chú thuật, đã đến bờ bên kia của ba bộ Veda cùng với các bảng từ vựng, các sách nghi lễ, ngữ âm và cách phân loại từ, với sử thi là thứ năm; am hiểu từ ngữ, thông thạo ngữ pháp, không thiếu sót về khoa học thế gian và các tướng của bậc đại nhân;
 
 <!-- seg: dn5:14.4 -->
 Có giới, giới đã thuần thục, thành tựu giới đã thuần thục;

@@ -45,7 +45,7 @@ Bản dịch chia bài kinh thành 374 đoạn theo cách đánh số của Sutt
 `<!-- seg: dn5:X.Y -->` ghi số đoạn tương ứng.
 
 Hai mục 2 và 3 trong bản Pali dùng peyyāla (`…pe…`) để lược câu kết luận sau mỗi lý lẽ; bản dịch
-này khai triển đầy đủ từng lần — mười hai lần ở mục 2, hai mươi tám lần ở mục 3.
+này khai triển đầy đủ từng lần — mười hai lần ở mục 2, hai mươi chín lần ở mục 3.
 
 Riêng khối con đường tu tập ở mục 5 (27.4–27.16) lặp lại gần như nguyên văn khối văn của Kinh
 Sa-môn Quả (bài 2, mục 4.3). Ở đó bản dịch tóm lược có kiểm soát, giữ đủ bốn tầng thiền-na và
