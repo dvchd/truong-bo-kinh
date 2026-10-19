@@ -65,9 +65,9 @@ Sau đó, tùy hứng:
 Ngày 1: bài 2 · Ngày 2: bài 31 · Ngày 3: bài 27 · Ngày 4: bài 16 (phần đầu) · Ngày 5: bài 16 (phần
 cuối) · Ngày 6: bài 22 · Ngày 7: bài 1 (chỉ phần mở đầu và kết luận).
 
-### Lộ trình 30 ngày (đọc trọn bộ, có chọn lọc)
+### Lộ trình 34 ngày (mỗi ngày một bài)
 
-Mỗi ngày một bài, nhưng bỏ qua phần danh mục dài. Thứ tự gợi ý: 2, 31, 27, 16, 22, 1, 9, 15, 26, 17,
+Mỗi ngày một bài, trung bình khoảng 18.000 từ; bỏ qua phần danh mục dài khi đọc lần đầu. Thứ tự gợi ý: 2, 31, 27, 16, 22, 1, 9, 15, 26, 17,
 23, 24, 14, 30, 20, 21, 32, 28, 29, 33, 34, rồi 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 18, 19, 25.
 
 ### Lộ trình theo chủ đề
