@@ -2,31 +2,31 @@
 ## 2.1. Những giáo pháp được nói dứt khoát
 
 <!-- seg: dn9:33.20 -->
-"Và này Poṭṭhapāda, những pháp nào đã được ta dạy và chỉ rõ là được nói dứt khoát?
+"Và này Poṭṭhapāda, những pháp được nói dứt khoát nào đã được ta dạy và chỉ rõ?
 
 <!-- seg: dn9:33.21 -->
-Này Poṭṭhapāda, 'đây là khổ' là pháp ta đã dạy và chỉ rõ, được nói dứt khoát.
+Này Poṭṭhapāda, 'đây là khổ' là pháp được nói dứt khoát, đã được ta dạy và chỉ rõ.
 
 <!-- seg: dn9:33.22 -->
-Này Poṭṭhapāda, 'đây là nguồn gốc của khổ' là pháp ta đã dạy và chỉ rõ, được nói dứt khoát.
+Này Poṭṭhapāda, 'đây là nguồn gốc của khổ' là pháp được nói dứt khoát, đã được ta dạy và chỉ rõ.
 
 <!-- seg: dn9:33.23 -->
-Này Poṭṭhapāda, 'đây là sự diệt của khổ' là pháp ta đã dạy và chỉ rõ, được nói dứt khoát.
+Này Poṭṭhapāda, 'đây là sự diệt của khổ' là pháp được nói dứt khoát, đã được ta dạy và chỉ rõ.
 
 <!-- seg: dn9:33.24 -->
-Này Poṭṭhapāda, 'đây là con đường đưa đến sự diệt của khổ' là pháp ta đã dạy và chỉ rõ, được nói dứt khoát.
+Này Poṭṭhapāda, 'đây là con đường đưa đến sự diệt của khổ' là pháp được nói dứt khoát, đã được ta dạy và chỉ rõ.
 
 <!-- seg: dn9:33.25 -->
-Và vì sao, này Poṭṭhapāda, những pháp ta đã dạy và chỉ rõ ấy lại được nói dứt khoát?
+Và vì sao, này Poṭṭhapāda, những pháp được nói dứt khoát ấy đã được ta dạy và chỉ rõ?
 
 <!-- seg: dn9:33.26 -->
-Vì này Poṭṭhapāda, những pháp ấy đem lại lợi ích thiết thực, gắn với Pháp, thuộc nền tảng của đời sống phạm hạnh, đưa đến nhàm chán, ly tham, diệt tận, an tịnh, thắng trí, giác ngộ, Niết-bàn.
+Bởi vì, này Poṭṭhapāda, những pháp ấy đem lại lợi ích thiết thực, gắn với Pháp, thuộc nền tảng của đời sống phạm hạnh, đưa đến nhàm chán, ly tham, diệt tận, an tịnh, thắng trí, giác ngộ, Niết-bàn.
 
 <!-- seg: dn9:33.27 -->
-Vì vậy, này Poṭṭhapāda, những pháp ấy đã được ta dạy và chỉ rõ là được nói dứt khoát."
+Vì vậy, này Poṭṭhapāda, chúng là những pháp được nói dứt khoát, đã được ta dạy và chỉ rõ."
 
 <!-- seg: dn9:34.1 -->
-"Này Poṭṭhapāda, có những sa-môn và bà-la-môn có chủ trương và kiến như vầy:
+"Này Poṭṭhapāda, có những sa-môn và bà-la-môn mang chủ trương và kiến như vầy:
 
 <!-- seg: dn9:34.2 -->
 'Sau khi chết, tự ngã có lạc hoàn toàn và không bệnh.'
@@ -37,7 +37,7 @@ Vì vậy, này Poṭṭhapāda, những pháp ấy đã được ta dạy và c
 Ta đến chỗ họ và nói như vầy:
 
 <!-- seg: dn9:34.4 -->
-Thật vậy chăng, thưa các vị, các vị có chủ trương và kiến như vầy:
+Thật vậy chăng, thưa các vị, các vị mang chủ trương và kiến như vầy:
 
 [Chú thích: Đức Thế Tôn không dựa vào lời đồn, mà trước hết kiểm tra sự thật với chính những người liên quan. Điều này vừa cho thấy Ngài tôn trọng sự thật, vừa tạo được điểm chung để cuộc bàn luận tiếp tục.]
 
@@ -45,13 +45,13 @@ Thật vậy chăng, thưa các vị, các vị có chủ trương và kiến nh
 'Sau khi chết, tự ngã có lạc hoàn toàn và không bệnh'?
 
 <!-- seg: dn9:34.6 -->
-Khi được ta hỏi như vậy, họ nhận: 'Đúng vậy.'
+Khi được ta hỏi như vậy, họ thừa nhận: 'Đúng vậy.'
 
 <!-- seg: dn9:34.7 -->
 Ta nói với họ như vầy:
 
 <!-- seg: dn9:34.8 -->
-Nhưng thưa các vị, các vị có sống biết và thấy một thế giới hoàn toàn lạc chăng?
+Nhưng thưa các vị, các vị có đang sống với sự biết và thấy một thế giới hoàn toàn lạc chăng?
 
 [Chú thích: "An trú" dịch chữ *viharati*, thường dùng như trợ động từ chỉ sự kéo dài; trong ngữ cảnh tu tập, nó chỉ một thời gian hoặc trạng thái thiền định. Câu hỏi này nhằm xem họ có thật sự thấy trạng thái ấy trong thực hành thiền định thường xuyên hay không.]
 
@@ -132,7 +132,7 @@ Người ta sẽ nói với anh ta rằng:
 Người ta sẽ nói với anh ta rằng:
 
 <!-- seg: dn9:35.7 -->
-'Này anh kia, người con gái đẹp nhất xứ mà anh muốn và khao khát ấy — anh có biết nàng tên gì, thuộc dòng nào, cao hay thấp hay vừa, da đen, da ngăm hay da xanh xao, ở làng nào, thị trấn nào hay thành phố nào không?'
+'Này anh kia, người con gái đẹp nhất xứ mà anh muốn và khao khát ấy — anh có biết nàng tên gì, thuộc dòng nào, cao hay thấp hay vừa, nước da đen, ngăm hay xanh xao, ở làng nào, thị trấn nào hay thành phố nào không?'
 
 [Chú thích: Cùng màu da "xanh xao" này cũng được dùng để tả Đức Thế Tôn khi da Ngài bị hủy hoại vì khổ hạnh. Với một người đẹp mà nói, màu ấy có vẻ lạ, nhưng khẩu vị của mỗi người mỗi khác.]
 
@@ -158,7 +158,7 @@ như vậy thì lời nói của người ấy có phải hóa ra là không có
 "Bạch Thế Tôn, đúng là như vậy; nếu vậy thì lời nói của người ấy quả thật không có cơ sở để chứng minh."
 
 <!-- seg: dn9:36.1 -->
-"Cũng vậy, này Poṭṭhapāda, có những sa-môn và bà-la-môn có chủ trương và kiến như vầy:
+"Cũng vậy, này Poṭṭhapāda, có những sa-môn và bà-la-môn mang chủ trương và kiến như vầy:
 
 <!-- seg: dn9:36.2 -->
 'Sau khi chết, tự ngã có lạc hoàn toàn và không bệnh.'
@@ -167,19 +167,19 @@ như vậy thì lời nói của người ấy có phải hóa ra là không có
 Ta đến chỗ họ và nói như vầy:
 
 <!-- seg: dn9:36.4 -->
-Thật vậy chăng, thưa các vị, các vị có chủ trương và kiến như vầy:
+Thật vậy chăng, thưa các vị, các vị mang chủ trương và kiến như vầy:
 
 <!-- seg: dn9:36.5 -->
 'Sau khi chết, tự ngã có lạc hoàn toàn và không bệnh'?
 
 <!-- seg: dn9:36.6 -->
-Khi được ta hỏi như vậy, họ nhận: 'Đúng vậy.'
+Khi được ta hỏi như vậy, họ thừa nhận: 'Đúng vậy.'
 
 <!-- seg: dn9:36.7 -->
 Ta nói với họ như vầy:
 
 <!-- seg: dn9:36.8 -->
-Nhưng thưa các vị, các vị có sống biết và thấy một thế giới hoàn toàn lạc chăng?
+Nhưng thưa các vị, các vị có đang sống với sự biết và thấy một thế giới hoàn toàn lạc chăng?
 
 <!-- seg: dn9:36.9 -->
 Được hỏi vậy, họ nói: 'Không.'
@@ -259,7 +259,7 @@ như vậy thì lời nói của người ấy có phải hóa ra là không có
 "Bạch Thế Tôn, đúng là như vậy; nếu vậy thì lời nói của người ấy quả thật không có cơ sở để chứng minh."
 
 <!-- seg: dn9:38.1 -->
-"Cũng vậy, này Poṭṭhapāda, những sa-môn và bà-la-môn có chủ trương và kiến như vầy:
+"Cũng vậy, này Poṭṭhapāda, những sa-môn và bà-la-môn mang chủ trương và kiến như vầy:
 
 <!-- seg: dn9:38.2 -->
 'Sau khi chết, tự ngã có lạc hoàn toàn và không bệnh.'
@@ -268,19 +268,19 @@ như vậy thì lời nói của người ấy có phải hóa ra là không có
 Ta đến chỗ họ và nói như vầy:
 
 <!-- seg: dn9:38.4 -->
-Thật vậy chăng, thưa các vị, các vị có chủ trương và kiến như vầy:
+Thật vậy chăng, thưa các vị, các vị mang chủ trương và kiến như vầy:
 
 <!-- seg: dn9:38.5 -->
 'Sau khi chết, tự ngã có lạc hoàn toàn và không bệnh'?
 
 <!-- seg: dn9:38.6 -->
-Khi được ta hỏi như vậy, họ nhận: 'Đúng vậy.'
+Khi được ta hỏi như vậy, họ thừa nhận: 'Đúng vậy.'
 
 <!-- seg: dn9:38.7 -->
 Ta nói với họ như vầy:
 
 <!-- seg: dn9:38.8 -->
-Nhưng thưa các vị, các vị có sống biết và thấy một thế giới hoàn toàn lạc chăng?
+Nhưng thưa các vị, các vị có đang sống với sự biết và thấy một thế giới hoàn toàn lạc chăng?
 
 <!-- seg: dn9:38.9 -->
 Được hỏi vậy, họ nói: 'Không.'

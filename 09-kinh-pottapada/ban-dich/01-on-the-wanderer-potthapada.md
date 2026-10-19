@@ -8,12 +8,12 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ viên), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: dn9:1.3 -->
-Lúc bấy giờ, du sĩ Poṭṭhapāda đang cư ngụ tại tịnh xá một gian của bà Mallikā, nơi người ta tụ họp bàn luận các học thuyết, có hàng cây tinduka làm rào, cùng với một hội chúng du sĩ đông đảo, khoảng ba trăm du sĩ.
+Lúc bấy giờ, du sĩ Poṭṭhapāda cùng với một hội chúng du sĩ đông đảo, khoảng ba trăm du sĩ, đang cư ngụ tại tịnh xá một gian của bà Mallikā, nơi người ta tụ họp bàn luận các học thuyết, có hàng cây tinduka làm rào.
 
 [Chú thích: Poṭṭhapāda chỉ xuất hiện trong kinh này; tên ông là tên một tháng trong âm lịch Ấn Độ, rơi vào khoảng tháng Tám và tháng Chín. Mallikā là chánh hậu của vua Pasenadi; khu vườn ấy có chỗ cho nhiều đạo sĩ thuộc các tín ngưỡng khác nhau, nhưng chỉ có một gian nhà để họ tụ họp tranh luận. Chữ -ācīra ở đây hiểu là hàng rào, bờ rào, theo chú giải: nơi ấy được rào bằng một hàng cây timbaru.]
 
 <!-- seg: dn9:1.4 -->
-Rồi Đức Thế Tôn vào buổi sáng đắp y, mang bát và y, đi vào Sāvatthī khất thực.
+Rồi vào buổi sáng, Đức Thế Tôn đắp y, mang bát và y, đi vào Sāvatthī khất thực.
 
 <!-- seg: dn9:2.1 -->
 Rồi Đức Thế Tôn khởi lên ý nghĩ:
@@ -37,7 +37,7 @@ Lúc bấy giờ, du sĩ Poṭṭhapāda đang ngồi với hội chúng du sĩ 
 [Chú thích: Đối lập với sự im lặng của Tăng đoàn Đức Thế Tôn ở DN 2:10.7.]
 
 <!-- seg: dn9:3.2 -->
-Ấy là chuyện vua, chuyện trộm cướp, chuyện quan đại thần, chuyện quân đội, chuyện sợ hãi, chuyện chiến tranh, chuyện cơm ăn, chuyện đồ uống, chuyện áo quần, chuyện giường nằm, chuyện vòng hoa, chuyện hương thơm, chuyện bà con, chuyện xe cộ, chuyện làng, chuyện thị trấn, chuyện thành phố, chuyện xứ sở, chuyện đàn bà, chuyện anh hùng, chuyện ngoài đường phố, chuyện bên chỗ lấy nước, chuyện người đã khuất, chuyện tạp nhạp, chuyện kể về đất liền, chuyện kể về biển cả, chuyện kiếp này kiếp khác.
+Đó là chuyện vua, chuyện trộm cướp, chuyện quan đại thần, chuyện quân đội, chuyện sợ hãi, chuyện chiến tranh, chuyện cơm ăn, chuyện đồ uống, chuyện áo quần, chuyện giường nằm, chuyện vòng hoa, chuyện hương thơm, chuyện bà con, chuyện xe cộ, chuyện làng, chuyện thị trấn, chuyện thành phố, chuyện xứ sở, chuyện đàn bà, chuyện anh hùng, chuyện ngoài đường phố, chuyện bên chỗ lấy nước, chuyện người đã khuất, chuyện tạp nhạp, chuyện kể về đất liền, chuyện kể về biển cả, chuyện kiếp này kiếp khác.
 
 <!-- seg: dn9:4.1 -->
 Du sĩ Poṭṭhapāda thấy Đức Thế Tôn từ xa đi đến,

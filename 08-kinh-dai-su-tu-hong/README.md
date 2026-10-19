@@ -81,7 +81,7 @@ tiết hành chính nữa. Nó là cùng một bài học, lần thứ hai.
 | | |
 |---|---|
 | Đoạn văn (segment) | **252** — khớp 100% với nguồn SuttaCentral |
-| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.814** |
+| Từ (toàn bộ, kể cả chú thích, giới thiệu, phụ lục) | **13.999** |
 | Chú thích trong thân bản dịch | **39** |
 | Liên kết mục lục | **12** |
 | Tệp bản dịch từng phần | 9 nội dung + lời giới thiệu + thuật ngữ + nguồn |

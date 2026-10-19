@@ -2,7 +2,7 @@
 ## 1.1. Sự diệt của tưởng
 
 <!-- seg: dn9:6.1 -->
-Khi ấy nói vậy, du sĩ Poṭṭhapāda bạch Đức Thế Tôn:
+Nghe Ngài nói vậy, du sĩ Poṭṭhapāda bạch Đức Thế Tôn:
 
 <!-- seg: dn9:6.2 -->
 "Bạch Thế Tôn, xin gác lại câu chuyện mà chúng tôi vừa ngồi bàn.

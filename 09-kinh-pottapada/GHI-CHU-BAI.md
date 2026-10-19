@@ -54,8 +54,8 @@ Pali: `Poṭṭhapādasutta` · `Saññānirodhakathā` · `Saññuppādakathā`
 | dibbarūpa | **sắc trời** | |
 | jhāna | thiền-na | |
 | abhisaññānirodha | **diệt tưởng hoàn toàn** | |
-| ekantika / vibhajja | **được nói dứt khoát / được nói có phân biệt** | `ekantikā dhammā` = "những pháp nói dứt khoát" |
-| anekantika | **không dứt khoát** | |
+| ekaṁsika | **được nói dứt khoát** | `ekaṁsikā dhammā` = "những pháp được nói dứt khoát" |
+| anekaṁsika | **không dứt khoát** | |
 | attabhāvapaṭilābha | **sự hóa sinh, sự chứng đắc thân** | |
 
 ## 4. Điệp khúc phải giống hệt từng chữ
@@ -83,13 +83,15 @@ Mục 1.3 có khuôn khác: Poṭṭhapāda hỏi về tự ngã, Đức Thế T
    xứ → thức vô biên xứ → vô sở hữu xứ → phi tưởng phi phi tưởng → diệt tưởng.
 3. **Hỏi–đáp về "có tưởng tiên khởi hay tưởng đi sau"** (7.x): phân biệt rõ **tưởng sinh trước**
    (`pubbe`), **tưởng sinh sau**, và **nhân duyên** của tưởng.
-4. **Mục 2.1 (33.19–38.22)** phân loại giáo pháp của các vị thầy khác: có pháp được nói **dứt
-   khoát** (`ekantika`), có pháp phải **phân biệt** (`vibhajja`), có pháp **không dứt khoát**
-   (`anekantika`). Giữ đúng ba từ ấy xuyên suốt.
+4. **Hai từ khoá, không phải ba**: `ekaṁsika` = **được nói dứt khoát** (mục 2.1, 33.19–38.22) và
+   `anekaṁsika` = **không dứt khoát** (33.3–33.18, thuộc tệp 05). Chữ `vibhajja` **không xuất
+   hiện trong văn bản bài này** — nó chỉ có trong một chú thích của Sujato. Đừng đưa vào bản dịch.
 5. **Mục 2.2 (ba loại hóa sinh)**: ba loại thân — **do vật chất tạo**, **do tâm tạo**, **phi
-   sắc**. Mỗi loại kèm câu giải thích về tưởng tương ứng. Ba khuôn phải song song.
-6. **Mục 2.3** là chuyện Citta Hatthisāriputta xin xuất gia; chú ý các tỳ-kheo khác phàn nàn và
-   Đức Thế Tôn giải thích. Không thêm bớt lý do.
+   sắc**. Chỉ loại thứ ba có `saññāmayo` ("do tưởng tạo"); đừng thêm "tưởng" cho hai loại đầu.
+   Ba khuôn định nghĩa phải song song.
+6. **Mục 2.3** chỉ có: Citta tán thán, xin xuất gia, được thọ giới cụ túc, rồi chứng quả A-la-hán,
+   kết kinh. **Không có cảnh các tỳ-kheo phàn nàn** — chuyện ấy thuộc Tăng Chi Bộ 6.60 và chỉ nằm
+   trong chú thích của Sujato.
 7. **`…pe…`**: khối văn con đường tu tập trùng bài 2 §4.3, được tóm lược có kiểm soát kèm
    `[Chú thích: (của người dịch) …]` trỏ về. Các chỗ `…pe…` khác thì **khai triển đầy đủ**.
 

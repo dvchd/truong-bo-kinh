@@ -4,6 +4,8 @@
 <!-- seg: dn9:21.1 -->
 "Bạch Thế Tôn, tưởng có phải là tự ngã của một người, hay tưởng là một chuyện và tự ngã là chuyện khác?"
 
+[Chú thích: Câu hỏi này nối tiếp phần trình bày ban đầu về các quan điểm khác nhau về con người và tưởng ở DN 9:6.4.]
+
 <!-- seg: dn9:21.2 -->
 "Này Poṭṭhapāda, ông cho tự ngã là gì?"
 
@@ -36,7 +38,7 @@
 [Chú thích: Đây là thân "vi tế", tương ứng với sắc được trải nghiệm trong bốn tầng thiền-na. Các bản thảo đều thiếu chữ *rūpī* (có sắc) ở đoạn này, nhưng chữ ấy có trong đoạn tương ứng ở phần sau.]
 
 <!-- seg: dn9:22.2 -->
-"Này Poṭṭhapāda, nếu tự ngã của ông là thân do tâm tạo, toàn vẹn mọi phần lớn nhỏ, không thiếu một căn nào, thì dù như vậy, này Poṭṭhapāda, tưởng vẫn là một chuyện và tự ngã là chuyện khác."
+"Này Poṭṭhapāda, nếu tự ngã của ông là thân do tâm tạo, toàn vẹn mọi phần lớn nhỏ, không thiếu một căn nào, thì dù như vậy, này Poṭṭhapāda, tưởng sẽ là một chuyện và tự ngã là chuyện khác."
 
 <!-- seg: dn9:22.3 -->
 "Này Poṭṭhapāda, cũng có thể hiểu điều này theo một cách khác rằng tưởng là một chuyện và tự ngã là chuyện khác."
@@ -53,7 +55,7 @@
 [Chú thích: Đây là tự ngã được nhận biết trong các tầng định vô sắc. Poṭṭhapāda chỉ đang xoay vòng qua các quan điểm về tự ngã mà chưa thật sự suy xét hệ quả của chúng.]
 
 <!-- seg: dn9:23.2 -->
-"Này Poṭṭhapāda, nếu tự ngã của ông là thân phi sắc, do tưởng tạo thành, thì dù như vậy, này Poṭṭhapāda, tưởng vẫn là một chuyện và tự ngã là chuyện khác."
+"Này Poṭṭhapāda, nếu tự ngã của ông là thân phi sắc, do tưởng tạo thành, thì dù như vậy, này Poṭṭhapāda, tưởng sẽ là một chuyện và tự ngã là chuyện khác."
 
 <!-- seg: dn9:23.3 -->
 "Này Poṭṭhapāda, cũng có thể hiểu điều này theo một cách khác rằng tưởng là một chuyện và tự ngã là chuyện khác."
@@ -79,7 +81,7 @@
 [Chú thích: Poṭṭhapāda chỉ có thể xác nhận mình tin vào nhiều quan điểm khác nhau, chứ vẫn chưa biết tự mình đánh giá chúng.]
 
 <!-- seg: dn9:25.1 -->
-"Bạch Thế Tôn, nếu điều ấy tôi khó hiểu, vì tôi có kiến khác, chấp nhận khác, ưa thích khác, theo cách tu khác, theo thầy khác:
+"Bạch Thế Tôn, nếu điều ấy khó hiểu đối với tôi, vì tôi có kiến khác, chấp nhận khác, ưa thích khác, theo cách tu khác, theo thầy khác:
 
 <!-- seg: dn9:25.2 -->
 'tưởng là tự ngã của một người', hay 'tưởng là một chuyện và tự ngã là chuyện khác';
@@ -126,13 +128,13 @@ vậy còn điều này thì sao, bạch Thế Tôn: 'thế giới là thường
 'Như Lai vừa tồn tại vừa không tồn tại sau khi chết, chỉ điều này là sự thật, ngoài ra là hư vọng',
 
 <!-- seg: dn9:27.8 -->
-'Như Lai không tồn tại cũng không không tồn tại sau khi chết, chỉ điều này là sự thật, ngoài ra là hư vọng'?"
+'Như Lai không tồn tại mà cũng không phải không tồn tại sau khi chết, chỉ điều này là sự thật, ngoài ra là hư vọng'?"
 
 <!-- seg: dn9:27.9 -->
 "Này Poṭṭhapāda, điều này ta cũng không tuyên bố:
 
 <!-- seg: dn9:27.10 -->
-'Như Lai không tồn tại cũng không không tồn tại sau khi chết, chỉ điều này là sự thật, ngoài ra là hư vọng'."
+'Như Lai không tồn tại mà cũng không phải không tồn tại sau khi chết, chỉ điều này là sự thật, ngoài ra là hư vọng'."
 
 <!-- seg: dn9:28.1 -->
 "Bạch Thế Tôn, vì sao Ngài không tuyên bố điều ấy?"
@@ -162,13 +164,13 @@ vì vậy ta đã tuyên bố điều ấy."
 "Đúng vậy, bạch Thế Tôn, đúng vậy, bạch Thiện Thệ.
 
 <!-- seg: dn9:30.5 -->
-Bạch Thế Tôn, nay Ngài thấy đã đến lúc thì xin cứ đi."
+Bạch Thế Tôn, nay Ngài thấy đã đến lúc thì xin Ngài cứ đi."
 
 <!-- seg: dn9:30.6 -->
 Rồi Đức Thế Tôn đứng dậy khỏi chỗ ngồi và ra đi.
 
 <!-- seg: dn9:31.1 -->
-Rồi không lâu sau khi Đức Thế Tôn rời đi, các du sĩ ấy vây quanh du sĩ Poṭṭhapāda từ mọi phía, dùng lời châm chọc mà mỉa mai, chế giễu:
+Rồi không lâu sau khi Đức Thế Tôn rời đi, các du sĩ ấy vây quanh du sĩ Poṭṭhapāda từ mọi phía, dùng lời lẽ chế giễu và mỉa mai:
 
 [Chú thích: Câu này cũng xuất hiện ở SN 21.9:1.4 và AN 3.64:11.1, với vài dị bản.]
 
@@ -182,7 +184,7 @@ Rồi không lâu sau khi Đức Thế Tôn rời đi, các du sĩ ấy vây qua
 Chúng tôi thì không nhận ra sa-môn Gotama có dạy pháp nào được nói dứt khoát:
 
 <!-- seg: dn9:31.5 -->
-'thế giới là thường hằng' hay 'thế giới là không thường hằng', 'thế giới là hữu hạn' hay 'thế giới là vô hạn', 'linh hồn và thân xác là một' hay 'linh hồn là một chuyện, thân xác là chuyện khác', 'Như Lai có tồn tại sau khi chết' hay 'Như Lai không tồn tại sau khi chết', 'Như Lai vừa tồn tại vừa không tồn tại sau khi chết' hay 'Như Lai không tồn tại cũng không không tồn tại sau khi chết'."
+'thế giới là thường hằng' hay 'thế giới là không thường hằng', 'thế giới là hữu hạn' hay 'thế giới là vô hạn', 'linh hồn và thân xác là một' hay 'linh hồn là một chuyện, thân xác là chuyện khác', 'Như Lai có tồn tại sau khi chết' hay 'Như Lai không tồn tại sau khi chết', 'Như Lai vừa tồn tại vừa không tồn tại sau khi chết' hay 'Như Lai không tồn tại mà cũng không phải không tồn tại sau khi chết'."
 
 <!-- seg: dn9:31.6 -->
 Khi nghe nói vậy, du sĩ Poṭṭhapāda nói với các du sĩ ấy rằng:
@@ -194,7 +196,7 @@ Khi nghe nói vậy, du sĩ Poṭṭhapāda nói với các du sĩ ấy rằng:
 'thế giới là thường hằng' hay 'thế giới là không thường hằng', 'thế giới là hữu hạn' hay 'thế giới là vô hạn', 'linh hồn và thân xác là một' hay 'linh hồn là một chuyện, thân xác là chuyện khác', 'Như Lai có tồn tại sau khi chết' hay 'Như Lai không tồn tại sau khi chết', 'Như Lai vừa tồn tại vừa không tồn tại sau khi chết' hay
 
 <!-- seg: dn9:31.9 -->
-'Như Lai không tồn tại cũng không không tồn tại sau khi chết';
+'Như Lai không tồn tại mà cũng không phải không tồn tại sau khi chết';
 
 <!-- seg: dn9:31.10 -->
 nhưng sa-môn Gotama chỉ rõ một con đường thực hành chân thật, đúng đắn, như thật, là sự vững lập của pháp, sự tất định của pháp.
