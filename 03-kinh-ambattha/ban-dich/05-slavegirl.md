@@ -111,7 +111,7 @@ Khi nghe vậy, các thanh niên ấy nói với Đức Thế Tôn:
 <!-- seg: dn3:1.17.2 -->
 "Thưa ngài Gotama, xin ngài đừng lấy chữ 'con của người nữ tỳ' mà mạt sát Ambaṭṭha quá đáng.
 
-[Chú thích: Dòng dõi quan trọng đối với người bà-la-môn, nhưng văn học Bà-la-môn và Upaniṣad cho thấy nhiều người, như ở đây, quan tâm đến hạnh kiểm và trí tuệ hơn là xuất thân.]
+[Chú thích: Dòng dõi quan trọng đối với người bà-la-môn, nhưng văn học Bà-la-môn và Upaniṣad cho thấy nhiều người, như ở đây, quan tâm đến học vấn và trí tuệ hơn là xuất thân.]
 
 <!-- seg: dn3:1.17.3 -->
 Thưa ngài Gotama, Ambaṭṭha sinh ra trong dòng dõi tốt, Ambaṭṭha là con nhà gia thế, Ambaṭṭha học rộng, Ambaṭṭha nói năng lưu loát, Ambaṭṭha thông minh, và Ambaṭṭha có thể đối đáp với ngài Gotama về vấn đề này."
@@ -178,7 +178,7 @@ Này Ambaṭṭha, ai được Như Lai hỏi một câu hỏi hợp lẽ đến
 <!-- seg: dn3:1.21.1 -->
 Lúc bấy giờ, dạ-xoa Vajirapāṇī cầm một cây chùy sắt lớn, đang cháy đỏ, rực lửa, sáng ngời, đứng trên không trung phía trên thanh niên Ambaṭṭha, nghĩ rằng:
 
-[Chú thích: Vajirapāṇī ("tay cầm tia chớp") xuất hiện ở đây và trong đoạn tương ứng ở MN 35:14.1. Tên gọi đồng nghĩa Vajrahasta (Pali là vajirahattha, DN 20:12.1) là một biệt hiệu thường gặp của thần Indra trong kinh Vệ-đà (chẳng hạn Rig Veda 1.173.10a: indro vajrahastaḥ), điều này xác nhận sự đồng nhất với Sakka (Đế Thích) trong bản chú giải. Về sau, các văn bản Đại thừa mượn tên này để gọi một vị Bồ-tát dữ dằn, là hộ pháp của Pháp.]
+[Chú thích: Vajirapāṇī ("tay cầm tia chớp") xuất hiện ở đây và trong đoạn tương ứng ở MN 35:14.1. Tên gọi đồng nghĩa Vajrahasta (Pali là vajirahattha, DN 20:12.1) là một biệt hiệu thường gặp của thần Indra trong kinh Vệ-đà (chẳng hạn Rig Veda 1.173.10a: indro vajrahastaḥ), điều này xác nhận sự đồng nhất với Sakka (Đế Thích) trong bản chú giải. Về sau, các văn bản Đại thừa mượn tên này để gọi một vị Bồ-tát dữ dằn, bảo vệ Chánh pháp.]
 
 <!-- seg: dn3:1.21.2 -->
 "Nếu thanh niên Ambaṭṭha này được Đức Thế Tôn hỏi một câu hỏi hợp lẽ đến ba lần mà không trả lời, thì ngay tại chỗ này ta sẽ làm đầu hắn vỡ thành bảy mảnh!"

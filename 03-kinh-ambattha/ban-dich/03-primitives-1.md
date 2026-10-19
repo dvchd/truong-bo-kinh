@@ -5,14 +5,14 @@
 "Không phải vậy, thưa ngài Gotama.
 
 <!-- seg: dn3:1.10.2 -->
-Thưa ngài Gotama, khi đang đi thì bà-la-môn mới xứng đáng nói chuyện với bà-la-môn đang đi. Thưa ngài Gotama, khi đang đứng thì bà-la-môn mới xứng đáng nói chuyện với bà-la-môn đang đứng. Thưa ngài Gotama, khi đang ngồi thì bà-la-môn mới xứng đáng nói chuyện với bà-la-môn đang ngồi. Thưa ngài Gotama, khi đang nằm thì bà-la-môn mới xứng đáng nói chuyện với bà-la-môn đang nằm.
+Thưa ngài Gotama, khi đang đi thì bà-la-môn xứng đáng nói chuyện với bà-la-môn đang đi. Thưa ngài Gotama, khi đang đứng thì bà-la-môn xứng đáng nói chuyện với bà-la-môn đang đứng. Thưa ngài Gotama, khi đang ngồi thì bà-la-môn xứng đáng nói chuyện với bà-la-môn đang ngồi. Thưa ngài Gotama, khi đang nằm thì bà-la-môn xứng đáng nói chuyện với bà-la-môn đang nằm.
 
 <!-- seg: dn3:1.10.3 -->
 Còn lũ trọc đầu, lũ sa-môn rởm, lũ tiện dân, lũ đen, giống sinh ra từ gót chân của bà con chúng ta, thì ta nói chuyện với chúng cũng đúng như ta đang nói với ngài Gotama vậy."
 
 [Chú thích: "Sinh ra từ gót chân của bà con chúng ta" là nghĩa đen của bandhupādāpacca. Theo huyền thoại bà-la-môn, bốn giai cấp sinh ra từ bốn phần thân của Phạm Thiên: bà-la-môn từ miệng, sát-đế-lợi từ cánh tay, phệ-xá từ đùi, thủ-đà-la từ bàn chân. "Bà con chúng ta" là Phạm Thiên, vị tổ chung. Vậy đây là lời miệt thị hạng người sinh ra từ chỗ thấp nhất trong thân vị tổ.]
 
-[Chú thích: Chữ kaṇha ("đen") ở đây mang nặng ý miệt thị chủng tộc. Giai cấp bà-la-môn vốn thuộc dòng người Ấn-Âu da sáng tràn vào Ấn Độ từ phương bắc. Kinh điển Vệ-đà cho thấy giới bà-la-môn có thành kiến với cư dân bản địa da ngăm, nhưng cũng cho thấy những người này đã được đồng hóa và có lúc được nâng lên những vị trí danh giá.]
+[Chú thích: Chữ kaṇha ("đen") ở đây mang nặng ý miệt thị chủng tộc. Giai cấp bà-la-môn vốn thuộc dòng người Ấn-Âu da sáng di cư vào Ấn Độ từ phương bắc. Kinh điển Vệ-đà cho thấy giới bà-la-môn có thành kiến với cư dân bản địa da ngăm, nhưng cũng cho thấy những người này đã được đồng hóa và có lúc được nâng lên những vị trí danh giá.]
 
 <!-- seg: dn3:1.11.1 -->
 "Này Ambaṭṭha, chuyến đi tới đây của ông hẳn là có mục đích. Ông hãy chú tâm cho kỹ vào chính mục đích ấy.
