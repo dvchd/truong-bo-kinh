@@ -125,12 +125,13 @@ một bài kinh riêng. Lý do đầy đủ và bảng đối chiếu 34 tên:
 
 ## Nguồn và giấy phép
 
-- **Nguyên bản Pali**: Tam Tạng Pali, bản Miến Điện Sixth Council Edition, hiệu đối với bản PTS.
-- **Bản dịch tiếng Anh tham chiếu**: Bhikkhu Sujato, *Dīgha Nikāya* — [SuttaCentral](https://suttacentral.net/dn1/en/sujato), phạm vi công cộng (CC0).
-- **Bản dịch tiếng Việt**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.vi) — xem [`LICENSE`](LICENSE).
+- **Bản dịch tiếng Việt**: **CC0 1.0** — hiến tặng vào phạm vi công cộng. Dùng thế nào cũng được: in,
+  bán, sửa, cắt ghép, phát hành lại, không cần xin phép, **không bắt buộc ghi công**.
+- **Mã nguồn** (các script Python): **MIT**.
+- **Nguyên bản Pali**: phạm vi công cộng.
+- **Bản dịch tiếng Anh của Bhikkhu Sujato**: CC0 1.0.
 
-Được tự do đọc, in, chia sẻ, dịch tiếp và chỉnh sửa — miễn ghi nguồn và giữ cùng giấy phép cho bản
-phái sinh.
+Chi tiết: [`LICENSE`](LICENSE).
 
 ## Góp ý và báo lỗi
 

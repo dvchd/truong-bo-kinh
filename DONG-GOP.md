@@ -87,10 +87,11 @@ Script tải dữ liệu từ SuttaCentral, dựng thư mục `35-…`, sinh cá
 
 - **Báo lỗi dịch**: mở issue, ghi số hiệu đoạn (`dn4:12.3`) và câu hiện tại.
 - **Đề nghị cách dịch khác**: kèm lý do và, nếu có, chỗ tương ứng trong bản Pali/Anh ở `nguon/`.
-- **Bản dịch phái sinh**: được phép theo CC BY-SA 4.0, miễn ghi nguồn và giữ cùng giấy phép.
+- **Bản dịch phái sinh**: được phép không điều kiện — bản dịch thuộc CC0, không bắt buộc ghi nguồn.
 
 ## 7. Giấy phép
 
-- Bản dịch tiếng Việt: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.vi) — xem [`LICENSE`](LICENSE).
+- Bản dịch tiếng Việt: **CC0 1.0** (phạm vi công cộng) — xem [`LICENSE`](LICENSE).
+- Mã nguồn (các tệp `.py`): **MIT**.
 - Nguyên bản Pali: phạm vi công cộng.
 - Bản dịch tiếng Anh của Bhikkhu Sujato: CC0.

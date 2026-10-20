@@ -163,10 +163,3 @@ Toàn bộ quy ước chung nằm ở [`../HUONG-DAN-CHUNG.md`](../HUONG-DAN-CHU
 Về mặt chủ đề: liên quan tới các bài 2 (hạnh tu khổ hạnh), 25.
 
 Bản đồ đầy đủ 34 bài ở [`../so-tay/02-ban-do-lien-ket.md`](../so-tay/02-ban-do-lien-ket.md); các cặp bài trùng nhau nhiều ở [`../so-tay/08-bien-co-hai-lan.md`](../so-tay/08-bien-co-hai-lan.md).
-
----
-
-## Giấy phép
-
-Bản dịch tiếng Việt: **CC BY-SA 4.0**. Nguyên bản Pali: phạm vi công cộng. Bản dịch tiếng Anh
-của Bhikkhu Sujato: **CC0**. Xem [`../LICENSE`](../LICENSE).
