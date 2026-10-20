@@ -95,3 +95,12 @@ Script tải dữ liệu từ SuttaCentral, dựng thư mục `35-…`, sinh cá
 - Mã nguồn (các tệp `.py`): **MIT**.
 - Nguyên bản Pali: phạm vi công cộng.
 - Bản dịch tiếng Anh của Bhikkhu Sujato: CC0.
+
+## 8. Quy ước viết
+
+- **Commit message viết tiếng Việt có dấu**, ví dụ: `Thêm 13: bảng từ Hán-Việt`, không viết
+  `Them 13: bang tu Han-Viet`. Lịch sử commit trước đây đã được sửa lại cho đúng quy ước này.
+- **Tên tệp và tên thư mục giữ ASCII không dấu** (`01-kinh-pham-vong`, `Kinh-Pham-Vong.md`) để đường
+  dẫn ổn định trên mọi hệ điều hành và mọi trình duyệt. Đây là lựa chọn có chủ ý, không phải lỗi.
+- **Nội dung trong tệp `.md` phải có dấu đầy đủ** — bản dịch, sổ tay, README. Bộ kiểm tra không tự
+  phát hiện được lỗi này, nên người sửa phải tự đọc lại.
