@@ -1,70 +1,59 @@
-# Giấy phép
+GIẤY PHÉP
 
-Kho này có ba loại nội dung, mỗi loại một giấy phép. Nguyên tắc chung: **ai cũng được dùng, không phải
-xin phép, không phải trả tiền, không bắt buộc ghi công.**
+Kho này có ba loại nội dung, mỗi loại một giấy phép. Nguyên tắc chung: ai cũng
+được dùng, không phải xin phép, không phải trả tiền, không bắt buộc ghi công.
 
----
+------------------------------------------------------------------------
 
-## 1. Bản dịch tiếng Việt — CC0 1.0 (phạm vi công cộng)
+1. BẢN DỊCH TIẾNG VIỆT — CC0 1.0 (PHẠM VI CÔNG CỘNG)
 
-Toàn bộ nội dung tiếng Việt do người dịch tạo ra — các tệp `Kinh-*.md`, `ban-dich/`,
-`HUONG-DAN-DICH.md`, `ra-soat/`, `so-tay/`, các tệp README — được hiến tặng vào **phạm vi công cộng**
-theo **Creative Commons Zero 1.0 Universal (CC0 1.0)**.
+Toàn bộ nội dung tiếng Việt do người dịch tạo ra — các tệp Kinh-*.md, ban-dich/,
+HUONG-DAN-DICH.md, ra-soat/, so-tay/, các tệp README — được hiến tặng vào phạm
+vi công cộng theo Creative Commons Zero 1.0 Universal (CC0 1.0).
 
-<https://creativecommons.org/publicdomain/zero/1.0/deed.vi>
+    https://creativecommons.org/publicdomain/zero/1.0/deed.vi
 
 Điều này có nghĩa:
 
-- **Được làm bất cứ điều gì**: sao chép, in, bán, sửa, cắt ghép, dịch sang ngôn ngữ khác, đưa vào sản
-  phẩm thương mại, phát hành lại dưới giấy phép khác — không cần xin phép.
-- **Không bắt buộc ghi công.** Ghi nguồn là việc nên làm, nhưng không phải nghĩa vụ.
-- **Không bắt buộc giữ giấy phép này** cho bản phái sinh.
+  - Được làm bất cứ điều gì: sao chép, in, bán, sửa, cắt ghép, dịch sang ngôn
+    ngữ khác, đưa vào sản phẩm thương mại, phát hành lại dưới giấy phép khác —
+    không cần xin phép.
+  - Không bắt buộc ghi công. Ghi nguồn là việc nên làm, nhưng không phải nghĩa vụ.
+  - Không bắt buộc giữ giấy phép này cho bản phái sinh.
 
-Một lưu ý: theo pháp luật Việt Nam, quyền nhân thân (quyền được đứng tên tác phẩm, quyền bảo vệ sự toàn
-vẹn tác phẩm) không chuyển nhượng được. CC0 có hiệu lực đầy đủ với các quyền kinh tế; còn quyền nhân
-thân thì vẫn thuộc về người dịch theo luật, dù trên thực tế người dịch không đặt điều kiện gì.
+Một lưu ý: theo pháp luật Việt Nam, quyền nhân thân (quyền được đứng tên tác
+phẩm, quyền bảo vệ sự toàn vẹn tác phẩm) không chuyển nhượng được. CC0 có hiệu
+lực đầy đủ với các quyền kinh tế; còn quyền nhân thân thì vẫn thuộc về người
+dịch theo luật, dù trên thực tế người dịch không đặt điều kiện gì.
 
-Tệp gốc: [`LICENSES/CC0-1.0.txt`](LICENSES/CC0-1.0.txt).
+Toàn văn CC0 1.0: LICENSES/CC0-1.0.txt
 
-## 2. Mã nguồn (các tệp Python) — MIT
+------------------------------------------------------------------------
 
-Các script trong `cong-cu/` và trong từng thư mục bài (`ghep.py`, `tao-muc-luc.py`, `kiem-tra-marker.py`,
-`ra-soat.py`, `tien-do.py`) dùng giấy phép **MIT**.
+2. MÃ NGUỒN — MIT
 
-```
-MIT License
+Các script Python trong cong-cu/ và trong từng thư mục bài (ghep.py,
+tao-muc-luc.py, kiem-tra-marker.py, ra-soat.py, tien-do.py) dùng giấy phép MIT.
+Toàn văn: LICENSES/MIT.txt
 
-Copyright (c) 2026 dvchd
+Tóm tắt: được dùng, sao chép, sửa, gộp, phát hành, cấp phép lại và bán — miễn
+giữ nguyên dòng bản quyền và đoạn cho phép này trong bản sao hoặc phần lớn của
+phần mềm. Phần mềm cung cấp nguyên trạng, không kèm bảo hành.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+------------------------------------------------------------------------
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. NỘI DUNG LẤY TỪ NGUỒN KHÁC
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+  - Nguyên bản Pali trong nguon/ (Tipiṭaka, bản Miến Điện Sixth Council, hiệu
+    đối với bản PTS): phạm vi công cộng.
+  - Bản dịch tiếng Anh của Bhikkhu Sujato trong nguon/sections/: CC0 1.0
+    (https://suttacentral.net/licensing).
 
-## 3. Nội dung lấy từ nguồn khác
+Phần chú thích trích lại từ SuttaCentral giữ nguyên trạng và thuộc CC0 như bản
+gốc.
 
-| Nguồn | Giấy phép |
-|---|---|
-| Nguyên bản Pali trong `nguon/` (Tipiṭaka, bản Miến Điện Sixth Council, hiệu đối PTS) | Phạm vi công cộng |
-| Bản dịch tiếng Anh của Bhikkhu Sujato trong `nguon/sections/` | CC0 1.0 — <https://suttacentral.net/licensing> |
+------------------------------------------------------------------------
 
-Phần chú thích trích lại từ SuttaCentral giữ nguyên trạng và thuộc CC0 như bản gốc.
-
----
-
-*Bản dịch dựa trên nguyên bản Pali và bản dịch tiếng Anh của Bhikkhu Sujato (CC0). Mọi sai sót trong
-phần tiếng Việt là trách nhiệm của người dịch, không phải của các nguồn tham khảo.*
+Bản dịch dựa trên nguyên bản Pali và bản dịch tiếng Anh của Bhikkhu Sujato
+(CC0). Mọi sai sót trong phần tiếng Việt là trách nhiệm của người dịch, không
+phải của các nguồn tham khảo.
