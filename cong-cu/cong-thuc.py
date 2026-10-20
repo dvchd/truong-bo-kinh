@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tim CONG THUC lap lai trong ban dich: cum tu chung o >=5 bai, mo rong toi da,
+"""Tìm CÔNG THỨC lặp lại trong bản dịch: cụm từ chung ở ≥5 bài, mở rộng tối đa,
 ghi lai vi tri (segment) o tung bai."""
 import glob, json, os, re
 from collections import defaultdict
@@ -35,7 +35,7 @@ def seg_at(n, pos):
     return list(seg[n])[-1]
 
 def expand(bs, seed):
-    """Mo rong seed thanh khoi dai nhat co mat trong moi sach cua bs."""
+    """Mở rộng seed thành khối dài nhất có mặt trong mọi sách của bs."""
     a = bs[0]; t = text[a]; best = seed
     for m in re.finditer(re.escape(seed), t):
         lo, hi = m.start(), m.end()

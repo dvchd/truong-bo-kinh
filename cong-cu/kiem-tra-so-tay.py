@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Kiem tra so-tay/: (1) moi so hieu doan dnN:x.y co that trong ban dich,
+"""Kiểm tra so-tay/: (1) mỗi số hiệu đoạn dnN:x.y có thật trong bản dịch,
 (2) moi link noi bo ton tai, (3) khong co ngoac kep cong."""
 import glob, os, re, sys
 
-# 1. tap hop segment keys
+# 1. tập hợp segment keys
 keys = set()
 for n in range(1, 35):
     d = glob.glob('%02d-*/' % n)[0]

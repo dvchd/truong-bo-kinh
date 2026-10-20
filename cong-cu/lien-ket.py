@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Phan tich trung lap van ban giua cac bai kinh trong Truong Bo Kinh.
+"""Phân tích trùng lặp văn bản giữa các bài kinh trong Trường Bộ Kinh.
 
 Doc cac tep Kinh-*.md, cat theo marker segment, roi tim cac doan van giong nhau
 giua cac bai. Xuat ra bao cao markdown + du lieu JSON.

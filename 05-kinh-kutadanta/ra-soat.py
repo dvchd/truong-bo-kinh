@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Ra soat toan bo ban dich DN 5.
+"""Rà soát toàn bộ bản dịch DN 5.
 
 Dung:  python3 ra-soat.py [--drift]
 """
@@ -11,7 +11,7 @@ NGUON = os.path.join(BASE, 'nguon', 'sections')
 
 SEG = re.compile(r'<!--\s*seg:\s*(dn5:[\d.\-]+)\s*-->')
 
-# Cau/cong thuc phai xuat hien dung so lan, dung nguyen van
+# Câu/công thức phải xuất hiện đúng số lần, đúng nguyên văn
 PINNED = [
     ('Chỉ vì lẽ ấy, ngài Kūṭadanta cũng không thích hợp để đến thăm sa-môn Gotama', 12,
      'imināpi ... na arahati bhavaṁ kūṭadanto samaṇaṁ gotamaṁ dassanāya upasaṅkamituṁ'),
@@ -66,7 +66,7 @@ def main():
     if not (miss or extra or bad):
         print('    OK — du, dung thu tu, khong lap')
 
-    # 2. dau ngoac kep
+    # 2. dấu ngoặc kép
     print('\n[2] Can bang dau ngoac kep "')
     for f in files:
         body = strip_comments(read(os.path.join(BAN, f)))
@@ -77,7 +77,7 @@ def main():
     if not any('le dau' in p for p in problems):
         print('    OK — moi tep chan')
 
-    # 3. ngoac cong
+    # 3. ngoặc cong
     print('\n[3] Dau ngoac cong (curly quotes)')
     curl = [f for f in files if re.search(r'[\u201c\u201d\u2018\u2019]', read(os.path.join(BAN, f)))]
     if curl:
@@ -85,7 +85,7 @@ def main():
     else:
         print('    OK — khong co')
 
-    # 4. dau ... ngoai chu thich
+    # 4. dấu ... ngoài chú thích
     print('\n[4] Dau … ngoai [Chú thích]')
     hits = []
     for f in files:
@@ -100,7 +100,7 @@ def main():
     else:
         print('    OK — khong co')
 
-    # 5. tu cam
+    # 5. từ cấm
     print('\n[5] Tu ngu can tranh')
     found = False
     for b in BANNED:
@@ -111,7 +111,7 @@ def main():
                 print('    [LOI] "%s" trong %s' % (b, f)); found = True
     if not found: print('    OK — khong co')
 
-    # 6. cong thuc pin
+    # 6. công thức pin
     print('\n[6] Cong thuc lap bat buoc')
     for text, expect, pli in PINNED:
         n = sum(strip_comments(read(os.path.join(BAN, f))).count(text) for f in files)
@@ -138,7 +138,7 @@ def main():
     else:
         print('    OK — khong co')
 
-    # 8. bang markdown
+    # 8. bảng markdown
     print('\n[8] Bang markdown — so cot')
     for f in files:
         lines = read(os.path.join(BAN, f)).split('\n')
@@ -151,7 +151,7 @@ def main():
                     problems.append('%s: bang lech cot' % f); print('    [LOI] %s lech cot' % f)
                 tbl = []
 
-    # 9. drift cong thuc
+    # 9. drift công thức
     if '--drift' in sys.argv:
         print('\n[9] Phat hien lech cong thuc (cau tuong tu nhung khac chu)')
         sents = []

@@ -32,7 +32,7 @@ parts.append(read('ban-dich/bang-thuat-ngu.md'))
 parts.append(read('ban-dich/nguon-tham-khao.md'))
 
 def sep_for(acc):
-    """Khong chen duong ke ngang ngay duoi mot tieu de hoac mot moc seg."""
+    """Không chèn đường kẻ ngang ngay dưới một tiêu đề hoặc một mốc seg."""
     last = [l for l in acc.strip().split('\n') if l.strip()][-1].strip()
     if last.startswith('<!--') or last.startswith('#'):
         return '\n\n'
@@ -43,12 +43,12 @@ for p in parts[1:]:
     out += sep_for(out) + p
 out += '\n'
 
-# --- chuan hoa dau ngoac kep: dung thang (" va ') cho toan bo van ban ---
+# --- chuẩn hóa dấu ngoặc kép: dùng thẳng (" và ') cho toàn bộ văn bản ---
 def normalize_quotes(s):
     return (s.replace('\u201c', '"').replace('\u201d', '"')
              .replace('\u2018', "'").replace('\u2019', "'"))
 
-# chi chuan hoa phan than kinh, giu nguyen phan gioi thieu/bang/nguon
+# chỉ chuẩn hóa phần thân kinh, giữ nguyên phần giới thiệu/bảng/nguồn
 a = out.index('## Trường Bộ Kinh')
 b = out.index('\n## Bảng thuật ngữ')
 out = out[:a] + normalize_quotes(out[a:b]) + out[b:]

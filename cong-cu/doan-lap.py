@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tim cac DOAN VAN LAP LAI giua cac cap bai kinh (>= 40 tu lien tuc)."""
+"""Tìm các ĐOẠN VĂN LẶP LẠI giữa các cặp bài kinh (≥ 40 từ liên tục)."""
 import glob, json, re
 from collections import defaultdict
 

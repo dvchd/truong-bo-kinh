@@ -10,7 +10,7 @@ POS = {x: i for i, x in enumerate(k)}
 
 def norm(s): return re.sub(r'\s+', ' ', (s or '')).strip()
 
-# (ten file, nhan, key dau, key cuoi)
+# (tên file, nhãn, key đầu, key cuối)
 FILES = [
     ('00-title'                                , 'Nhan de'                                                     , 'dn29:0.1', 'dn29:0.2'),
     ('00b-mo-dau'                              , 'Mo dau'                                                      , 'dn29:1.1', 'dn29:3.3'),
@@ -32,8 +32,8 @@ FILES = [
     ('17-views-of-the-final-end'               , 'Muc 37 — Views of the Final End'                             , 'dn29:37.0', 'dn29:41.9'),
 ]
 
-# Doan PLI khong co EN: Sujato gop cau. Neu PLI trung khop tuyet doi voi mot
-# doan phia truoc thi muon lai EN cua doan do.
+# Đoạn PLI không có EN: Sujato gộp câu. Nếu PLI trùng khớp tuyệt đối với một
+# đoạn phía trước thì mượn lại EN của đoạn đó.
 exact = {}
 for x in k:
     if norm(r.get(x)):

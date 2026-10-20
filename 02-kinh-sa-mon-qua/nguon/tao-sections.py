@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Sinh nguon/sections/*.md tu api_dn2.json (SuttaCentral bilara)."""
+"""Sinh nguon/sections/*.md từ api_dn2.json (SuttaCentral bilara)."""
 import json, os, re
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -45,8 +45,8 @@ FILES = [
  ('32-conclusion','Mục 5 — Ajātasattu xin quy y',range(99,103)),
 ]
 
-# Doan PLI khong co EN: Sujato gop cau. Neu PLI trung khop tuyet doi voi mot
-# doan phia truoc thi muon lai EN cua doan do.
+# Đoạn PLI không có EN: Sujato gộp câu. Nếu PLI trùng khớp tuyệt đối với một
+# đoạn phía trước thì mượn lại EN của đoạn đó.
 exact = {}
 for x in k:
     if norm(r.get(x)):

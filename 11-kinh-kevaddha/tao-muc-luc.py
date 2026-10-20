@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Chen / cap nhat '## Muc luc' trong Kinh-Kevaddha.md (anchor kieu GitHub)."""
+"""Chèn / cập nhật \'## Mục lục\' trong Kinh-Kevaddha.md (anchor kiểu GitHub)."""
 import re, os
 
 BASE = os.path.dirname(os.path.abspath(__file__))
@@ -18,7 +18,7 @@ def text_of(h):
 
 src = open(DOC, encoding='utf-8').read()
 
-# 1. bo muc luc cu
+# 1. bỏ mục lục cũ
 i = src.find('\n## Mục lục\n')
 if i >= 0:
     j = src.find(START, i)

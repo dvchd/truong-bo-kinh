@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Ra soat toan bo 34 ban dich (458 tep): tu cam, ngoac kep cong, ba cham ngoai chu thich,
+"""Rà soát toàn bộ 34 bản dịch (458 tệp): từ cấm, ngoặc kép cong, ba chấm ngoài chú thích,
 ky hieu chua dich. Chay tu goc kho."""
 import glob, os, re, sys
 

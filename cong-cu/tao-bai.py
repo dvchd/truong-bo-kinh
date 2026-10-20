@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Dung khung mot bai kinh moi trong truong-bo-kinh.
+"""Dựng khung một bài kinh mới trong trường-bộ-kinh.
 
     python3 cong-cu/tao-bai.py 5
 
@@ -21,7 +21,7 @@ import urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TEMPLATE = os.path.join(ROOT, '04-kinh-sonadanda')
 
-# (so bai, ten thu muc, ten tep ket qua, ten Pali khong dau)
+# (số bài, tên thư mục, tên tệp kết quả, tên Pali không dấu)
 SUITAS = {
     1: ('01-kinh-pham-vong', 'Kinh-Pham-Vong'),
     2: ('02-kinh-sa-mon-qua', 'Kinh-Sa-Mon-Qua'),
@@ -128,11 +128,11 @@ def main():
     starts = [k for k in keys if k.endswith('.0')]
     if not starts or starts[0] != keys[0]:
         starts = [k for k in keys if not k.endswith('.0')][:1] + starts
-    # gom lai: khoi dau bang cac khoa truoc tieu de dau tien (nhan de)
+    # gom lại: khối đầu bằng các khóa trước tiêu đề đầu tiên (nhãn đề)
     head_idx = [i for i, k in enumerate(keys) if k.endswith('.0')]
     blocks = []
     if not head_idx:
-        # bai khong chia muc: nhan de la cac khoa dnN:0.x, phan con lai la mot khoi
+        # bài không chia mục: nhãn đề là các khóa dnN:0.x, phần còn lại là một khối
         ttl = [k for k in keys if k.startswith(tag + ':0.')]
         body = [k for k in keys if k not in ttl]
         if ttl:
@@ -141,7 +141,7 @@ def main():
         head_idx = []
     first_heading = head_idx[0] if head_idx else 0
     if first_heading and not blocks:
-        # nhan de chi gom cac khoa dnN:0.x; phan con lai truoc tieu de dau la mo dau
+        # nhãn đề chỉ gồm các khóa dnN:0.x; phần còn lại trước tiêu đề đầu là mở đầu
         ttl = [k for k in keys[:first_heading] if k.startswith(tag + ':0.')]
         rest = [k for k in keys[:first_heading] if k not in ttl]
         if ttl:
@@ -169,7 +169,7 @@ def main():
     lines.append("]")
     files_block = '\n'.join(lines)
 
-    # tao-sections.py: chep tu bai 4, thay khoi FILES va so bai
+    # tao-sections.py: chép từ bài 4, thay khối FILES và số bài
     src = open(os.path.join(TEMPLATE, 'nguon', 'tao-sections.py'), encoding='utf-8').read()
     src = re.sub(r'^FILES = \[.*?^\]', files_block, src, flags=re.S | re.M)
     src = src.replace('dn4', tag)

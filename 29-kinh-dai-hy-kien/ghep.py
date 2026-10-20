@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Ghep ban-dich/*.md thanh Kinh-Dai-Hy-Kien.md"""
+"""Ghép ban-dich/*.md thành Kinh-Dai-Hy-Kien.md"""
 import os
 
 BASE = os.path.dirname(os.path.abspath(__file__))
@@ -58,7 +58,7 @@ def normalize_quotes(s):
              .replace('\u2018', "'").replace('\u2019', "'"))
 
 def fix_links(s):
-    # ban-dich/*.md dung duong dan tuong doi ../ ; o ban ghep (goc thu muc) phai bo ../
+    # ban-dich/*.md dùng đường dẫn tương đối ../ ; ở bản ghép (gốc thư mục) phải bỏ ../
     for a, b in (('](../HUONG-DAN-DICH.md)', '](HUONG-DAN-DICH.md)'),
                  ('](../nguon/)', '](nguon/)'),
                  ):
