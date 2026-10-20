@@ -1,9 +1,14 @@
 # Trường Bộ Kinh — bản dịch tiếng Việt hiện đại
 
-**34 bài kinh · 626.908 từ · 16.401 đoạn.** Đọc trực tiếp trên GitHub, không cần cài gì.
+**34 bài kinh · 626.908 từ · 16.401 đoạn · đã hoàn thành trọn bộ.** Đọc trực tiếp trên GitHub, không
+cần cài gì.
 
-Bản dịch trọn bộ *Dīgha Nikāya* — tập kinh dài nhất trong Kinh Tạng Pali — sang tiếng Việt đời thường,
-dịch từ nguyên bản Pali và đối chiếu từng đoạn với bản dịch tiếng Anh của Bhikkhu Sujato (SuttaCentral).
+Trường Bộ Kinh (*Dīgha Nikāya*) là tập đầu trong bốn tập kinh của Kinh Tạng Pali — 34 bài giảng dài,
+được truyền lại bằng tiếng Pali và ở đây dịch sang tiếng Việt đời thường: người chưa từng học Phật học
+mở ra vẫn hiểu được Đức Phật đang nói gì, với ai, và vì sao điều đó quan trọng.
+
+Bản dịch làm từ nguyên bản Pali, đối chiếu từng đoạn với bản dịch tiếng Anh của Bhikkhu Sujato
+(SuttaCentral).
 
 ---
 
